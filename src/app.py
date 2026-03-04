@@ -2,734 +2,573 @@
 app.py
 ------
 MoneyMind – Personal Finance Analytics
-NiceGUI application entry point.
+NiceGUI dashboard with static Matplotlib / Seaborn charts.
 
 Run:
     python src/app.py
 Opens at: http://localhost:8080
 
 Architecture:
-    utils.py           – constants, colours, formatters
-    data_processing.py – pipeline wrapper + cache
-    charts.py          – Plotly figure builders
-    layout.py          – reusable NiceGUI components + global CSS
-    app.py             – page assembly, sidebar, tabs, wiring
+    utils.py           – constants, formatters
+    data_processing.py – ETL pipeline + cache
+    charts.py          – Matplotlib figure builders (dark + light theme)
+    layout.py          – reusable NiceGUI components + CSS
+    app.py             – page assembly, header, dialogs, tabs
 """
 
 import sys
 import os
+import io
+import base64
 import asyncio
 import datetime
 
-# ── Path ──────────────────────────────────────────────────────────────────────
+# ── Windows UTF-8 stdout ──────────────────────────────────────────────────────
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
+# ── Path setup ────────────────────────────────────────────────────────────────
 SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.normpath(os.path.join(SRC_DIR, ".."))
 if SRC_DIR not in sys.path:
     sys.path.insert(0, SRC_DIR)
 
-import pandas as pd
+# Use Agg backend so matplotlib never tries to open a display window
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
 from nicegui import ui, events, app as ng_app
 
-# ── Project modules ───────────────────────────────────────────────────────────
 from utils import (
-    C_TEXT, C_TEXT_MUT, C_TEXT_DIM, C_BG, C_SURFACE, C_BORDER,
     C_ACCENT, C_POSITIVE, C_NEGATIVE, C_WARNING, C_NEUTRAL,
-    fmt_inr, fmt_int, fmt_pct,
-)
-from data_processing import (
-    load_df, append_row, replace_data, invalidate_cache, CATEGORIES,
-    spending_summary, monthly_spending_trend, generate_savings_insights,
-    category_spending,
-)
-from charts import (
-    fig_spending_pie, fig_treemap, fig_top_categories, fig_day_of_week,
-    fig_monthly_trend, fig_cumulative_balance, fig_heatmap, fig_savings_gauge,
-    set_dark as _set_chart_dark,
+    fmt_inr, fmt_pct, fmt_int, DATA_PATH,
 )
 from layout import (
-    page_title, page_subtitle, section_heading, card_title, divider,
-    metric_card, chart_card, content_card,
-    recommendation_item, stat_pill,
-    GLOBAL_CSS,
+    GLOBAL_CSS, page_title, page_subtitle, card_title,
+    metric_card, chart_card, content_card, recommendation_item,
+)
+import charts as _charts
+from data_processing import (
+    load_df, invalidate_cache, append_row, replace_data,
+    spending_summary, category_spending,
+    monthly_spending_trend, generate_savings_insights,
+    day_of_week_spending,
+    CATEGORIES,
 )
 
-# ── Plotly chart config  (hide mode-bar for clean look) ───────────────────────
-_CFG = {"displayModeBar": False, "responsive": True}
-# ── Accent colour presets ────────────────────────────────────────────────────
-ACCENT_PRESETS = [
-    ("#2563EB", "Blue"),
-    ("#4F46E5", "Indigo"),
-    ("#7C3AED", "Violet"),
-    ("#0891B2", "Cyan"),
-    ("#0F766E", "Teal"),
-    ("#059669", "Emerald"),
-    ("#D97706", "Amber"),
-    ("#E11D48", "Rose"),
-]
+# ── Serve static assets ───────────────────────────────────────────────────────
+_STATIC_DIR = os.path.join(ROOT_DIR, "static")
+
+# ── Output directory for saved chart PNGs ─────────────────────────────────────
+_OUT_DIR = os.path.join(ROOT_DIR, "output", "charts")
+if os.path.isdir(_STATIC_DIR):
+    ng_app.add_static_files("/static", _STATIC_DIR)
+
+# ── Module-level theme flag ───────────────────────────────────────────────────
+_dark: bool = True
+
 
 # ══════════════════════════════════════════════════════════════════════════════
-# Refreshable dashboard  (re-renders only this subtree on data change)
+# Chart → base64 helper
+# ══════════════════════════════════════════════════════════════════════════════
+
+def _fig_to_html(fig, width: str = "100%") -> str:
+    """Render a matplotlib Figure to an inline <img> HTML tag with fade-in animation."""
+    buf = io.BytesIO()
+    fig.savefig(buf, format="png", dpi=130, bbox_inches="tight",
+                facecolor=fig.get_facecolor())
+    plt.close(fig)
+    buf.seek(0)
+    b64 = base64.b64encode(buf.read()).decode()
+    return (
+        f'<div class="mm-chart-wrap" style="width:{width};">'
+        f'<img src="data:image/png;base64,{b64}" '
+        f'style="width:100%;border-radius:6px;display:block;">'
+        f'</div>'
+    )
+
+
+def _chart(fig) -> None:
+    """Embed a matplotlib figure directly into the current NiceGUI context."""
+    ui.html(_fig_to_html(fig)).classes("w-full")
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Dialogs
+# ══════════════════════════════════════════════════════════════════════════════
+
+def _build_upload_dialog() -> ui.dialog:
+    with ui.dialog() as dlg, ui.card().classes("mm-dialog-card").style(
+        "min-width:420px; max-width:520px;"
+    ):
+        ui.label("Upload CSV").style(
+            "font-size:1.05rem; font-weight:700; color:var(--mm-text);"
+        )
+        ui.label(
+            "Only date + amount are required. "
+            "All other columns are auto-detected."
+        ).style("font-size:0.80rem; color:var(--mm-text-mut); margin-top:4px;")
+
+        ui.separator().style("margin:12px 0; background:var(--mm-border);")
+
+        # Status row: animated spinner + message text
+        with ui.row().classes("items-center").style("gap:8px; min-height:26px;"):
+            spinner_el = (
+                ui.spinner("dots", size="20px", color="primary")
+                .style("display:none;")
+            )
+            status_label = ui.label("").style(
+                "font-size:0.80rem; color:var(--mm-text-mut);"
+            )
+
+        async def _handle_upload(e: events.UploadEventArguments):
+            # Show spinner while parsing CSV
+            spinner_el.style("display:inline-block;")
+            status_label.set_text("Processing file…")
+            status_label.style("color:var(--mm-text-mut);")
+
+            loop = asyncio.get_event_loop()
+            raw  = await e.file.read()
+            ok, msg = await loop.run_in_executor(None, replace_data, raw)
+
+            if ok:
+                spinner_el.style("display:none;")
+                status_label.set_text(f"✓  {msg}")
+                status_label.style(f"color:{C_POSITIVE};")
+
+                # Close dialog right away — no more waiting
+                await asyncio.sleep(0.4)
+                dlg.close()
+
+                # Show persistent spinner toast while charts build
+                notify = ui.notification(
+                    "Building charts — please wait…",
+                    type="ongoing",
+                    spinner=True,
+                    position="top-right",
+                    timeout=None,
+                    close_button=False,
+                )
+
+                def _build_and_save():
+                    df_new   = load_df()
+                    ins_new  = generate_savings_insights(df_new)
+                    _charts.set_theme(dark=_dark)
+                    figs_new = _charts.build_all(df_new, ins_new)
+                    try:
+                        saved = _charts.save_all(figs_new, _OUT_DIR)
+                        print(f"[Charts] Saved {len(saved)} PNGs -> {_OUT_DIR}")
+                    except Exception as exc:
+                        print(f"[Charts] Save error: {exc}")
+
+                await loop.run_in_executor(None, _build_and_save)
+
+                # Now refresh the dashboard with freshly-cached data
+                render_dashboard.refresh()
+                notify.dismiss()
+                ui.notify("Charts updated", type="positive",
+                          position="top-right", timeout=2000)
+            else:
+                spinner_el.style("display:none;")
+                status_label.set_text(f"✗  {msg}")
+                status_label.style(f"color:{C_NEGATIVE};")
+
+        (ui.upload(label="Choose CSV file", on_upload=_handle_upload, auto_upload=True)
+           .props("accept=.csv flat bordered")
+           .classes("w-full")
+           .style("font-size:0.82rem;"))
+
+        ui.separator().style("margin:12px 0; background:var(--mm-border);")
+        (ui.button("Cancel", on_click=dlg.close)
+           .props("flat no-caps dense")
+           .style("color:var(--mm-text-mut); font-size:0.80rem;"))
+    return dlg
+
+
+def _build_add_txn_dialog() -> ui.dialog:
+    with ui.dialog() as dlg, ui.card().classes("mm-dialog-card").style(
+        "min-width:420px; max-width:520px;"
+    ):
+        ui.label("Add Transaction").style(
+            "font-size:1.05rem; font-weight:700; color:var(--mm-text);"
+        )
+        ui.separator().style("margin:10px 0; background:var(--mm-border);")
+
+        today = datetime.date.today().isoformat()
+        f_date  = ui.input("Date (YYYY-MM-DD)", value=today).props("outlined dense").classes("w-full")
+        f_desc  = ui.input("Description").props("outlined dense").classes("w-full")
+        f_amt   = ui.number("Amount (₹)", format="%.2f").props("outlined dense").classes("w-full")
+        f_type  = ui.select(["debit", "credit"], value="debit", label="Type").props("outlined dense").classes("w-full")
+        f_cat   = ui.select(CATEGORIES, label="Category").props("outlined dense").classes("w-full")
+
+        err_label = ui.label("").style("font-size:0.78rem; color:#DC2626;")
+
+        def _save():
+            if not f_date.value or not f_desc.value or not f_amt.value:
+                err_label.set_text("Date, description and amount are required.")
+                return
+            try:
+                datetime.date.fromisoformat(f_date.value)
+            except ValueError:
+                err_label.set_text("Invalid date — use YYYY-MM-DD.")
+                return
+            append_row(
+                date=f_date.value,
+                description=f_desc.value,
+                amount=float(f_amt.value),
+                category=f_cat.value or "Miscellaneous",
+                tx_type=f_type.value,
+            )
+            render_dashboard.refresh()
+            dlg.close()
+
+        ui.separator().style("margin:10px 0; background:var(--mm-border);")
+        with ui.row().classes("gap-2 justify-end w-full"):
+            (ui.button("Cancel", on_click=dlg.close)
+               .props("flat no-caps dense")
+               .style("color:var(--mm-text-mut); font-size:0.80rem;"))
+            (ui.button("Save", on_click=_save)
+               .props("unelevated no-caps dense color=primary")
+               .style("font-size:0.80rem; padding:0 18px; height:32px;"))
+    return dlg
+
+
+def _build_settings_dialog(dark_mode_el) -> ui.dialog:
+    ACCENTS = [
+        ("Blue",    "#2563EB"),
+        ("Indigo",  "#4F46E5"),
+        ("Violet",  "#7C3AED"),
+        ("Cyan",    "#0891B2"),
+        ("Teal",    "#0D9488"),
+        ("Emerald", "#059669"),
+        ("Amber",   "#D97706"),
+        ("Rose",    "#E11D48"),
+    ]
+
+    with ui.dialog() as dlg, ui.card().classes("mm-dialog-card").style(
+        "min-width:360px; max-width:440px;"
+    ):
+        ui.label("Settings").style(
+            "font-size:1.05rem; font-weight:700; color:var(--mm-text);"
+        )
+        ui.separator().style("margin:10px 0; background:var(--mm-border);")
+
+        # Theme toggle
+        with ui.row().classes("items-center justify-between w-full"):
+            ui.label("Dark mode").style("font-size:0.84rem; color:var(--mm-text);")
+
+            def _toggle(e):
+                global _dark
+                _dark = e.value
+                dark_mode_el.enable() if e.value else dark_mode_el.disable()
+                _charts.set_theme(dark=e.value)
+                render_dashboard.refresh()
+
+            ui.switch(value=_dark, on_change=_toggle).props("color=primary")
+
+        ui.separator().style("margin:10px 0; background:var(--mm-border);")
+        ui.label("Accent colour").style(
+            "font-size:0.72rem; font-weight:600; text-transform:uppercase;"
+            "letter-spacing:0.07em; color:var(--mm-text-mut);"
+        )
+        with ui.row().classes("flex-wrap gap-2 mt-1"):
+            for name, hex_val in ACCENTS:
+                (ui.button(name)
+                   .props("unelevated no-caps dense size=sm")
+                   .style(
+                       f"background:{hex_val}; color:#fff;"
+                       "font-size:0.72rem; padding:0 10px; height:26px;"
+                   )
+                   .on("click", lambda _h=hex_val: ui.colors(primary=_h)))
+
+        ui.separator().style("margin:10px 0; background:var(--mm-border);")
+        ui.label("Custom hex").style(
+            "font-size:0.72rem; font-weight:600; text-transform:uppercase;"
+            "letter-spacing:0.07em; color:var(--mm-text-mut);"
+        )
+        with ui.row().classes("gap-2 items-center mt-1 w-full"):
+            hex_input = (ui.input(placeholder="#2563EB")
+                           .props("outlined dense")
+                           .style("flex:1;"))
+            (ui.button("Apply")
+               .props("unelevated no-caps dense color=primary")
+               .style("font-size:0.78rem; height:32px; padding:0 14px;")
+               .on("click", lambda: ui.colors(primary=hex_input.value)
+                   if hex_input.value.startswith("#") else None))
+
+        ui.separator().style("margin:10px 0; background:var(--mm-border);")
+        (ui.button("Close", on_click=dlg.close)
+           .props("flat no-caps dense")
+           .style("color:var(--mm-text-mut); font-size:0.80rem;"))
+    return dlg
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Dashboard
 # ══════════════════════════════════════════════════════════════════════════════
 
 @ui.refreshable
 def render_dashboard() -> None:
     df = load_df()
 
-    # ── Empty / no-data state ─────────────────────────────────────────────────
-    if df is None:
-        with ui.column().classes("w-full items-center").style("padding:6rem 0;"):
-            ui.icon("insert_drive_file", size="3.5rem").style(
-                f"color:{C_BORDER};"
+    if df is None or df.empty:
+        with ui.column().classes("w-full items-center justify-center").style(
+            "padding:80px 20px;"
+        ):
+            ui.html('''
+            <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56"
+                 fill="#475569" viewBox="0 0 16 16" style="margin-bottom:16px;">
+              <path d="M7.964 1.527c-2.977 0-5.571 1.704-6.32 4.125h-.55A1 1 0 0 0
+                .11 6.824l.254 1.46a1.5 1.5 0 0 0 1.478 1.243h.263c.3.513.688.978
+                1.145 1.382l-.729 2.477a.5.5 0 0 0 .48.641h2a.5.5 0 0 0
+                .471-.332l.482-1.351c.635.173 1.31.267 2.011.267.707 0
+                1.388-.095 2.028-.272l.543 1.372a.5.5 0 0 0 .465.316h2a.5.5 0 0 0
+                .478-.645l-.761-2.506C13.81 9.895 14.5 8.559 14.5
+                7.069q0-.218-.02-.431c.261-.11.508-.266.705-.444.315.306.815.306.815-.417
+                0 .223-.5.223-.461-.026a1 1 0 0 0 .09-.255.7.7 0 0
+                0-.202-.645.58.58 0 0 0-.707-.098.74.74 0 0 0-.375.562c-.024.243.082.48.32.654a2
+                2 0 0 1-.259.153c-.534-2.664-3.284-4.595-6.442-4.595m7.173
+                3.876a.6.6 0 0 1-.098.21l-.044-.025c-.146-.09-.157-.175-.152-.223a.24.24
+                0 0 1 .117-.173c.049-.027.08-.021.113.012a.2.2 0 0
+                1 .064.199m-8.999-.65a.5.5 0 1 1-.276-.96A7.6 7.6 0 0 1 7.964
+                3.5c.763 0 1.497.11 2.18.315a.5.5 0 1 1-.287.958A6.6 6.6 0 0
+                0 7.964 4.5c-.64 0-1.255.09-1.826.254ZM5
+                6.25a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0"/>
+            </svg>
+            ''')
+            ui.label("No data loaded").style(
+                "font-size:1.1rem; font-weight:600; color:var(--mm-text);"
             )
-            ui.label("No transaction data").style(
-                f"font-size:1.1rem; font-weight:600; color:{C_TEXT};"
-                "margin-top:1rem;"
+            ui.label("Upload a CSV file to get started.").style(
+                "font-size:0.84rem; color:var(--mm-text-mut); margin-top:4px;"
             )
-            ui.label(
-                "Use the Upload CSV or Add Transaction buttons in the toolbar above."
-            ).style("font-size:0.82rem; color:var(--mm-text-dim); margin-top:4px;")
         return
 
-    # ── Pre-compute summary ───────────────────────────────────────────────────
-    summary = spending_summary(df)
-    net     = summary["net_balance"]
-    d_min   = df["date"].min().strftime("%d %b %Y")
-    d_max   = df["date"].max().strftime("%d %b %Y")
+    summary  = spending_summary(df)
+    insights = generate_savings_insights(df)
+    sr       = insights.get("savings_rate", {})
+    savings_rate_val = sr.get("savings_rate", 0.0)
 
-    # ── Period bar ────────────────────────────────────────────────────────────
-    with ui.row().classes("w-full items-center justify-between mm-border-bottom").style(
-        "padding-bottom:12px; margin-bottom:20px;"
+    # ── Build all charts (respects current theme) ──────────────────────────────
+    _charts.set_theme(dark=_dark)
+    figs = _charts.build_all(df, insights)
+
+    # ── KPI row ────────────────────────────────────────────────────────────────
+    with ui.row().classes("w-full gap-3 no-wrap").style("margin-bottom:20px;"):
+        net = summary["net_balance"]
+        metric_card("Total Income",    fmt_inr(summary["total_income"]),
+                    accent_color=C_POSITIVE)
+        metric_card("Total Expenses",  fmt_inr(summary["total_spending"]),
+                    accent_color=C_NEGATIVE)
+        metric_card("Net Balance",     fmt_inr(net),
+                    delta_positive=(net >= 0),
+                    accent_color=C_POSITIVE if net >= 0 else C_NEGATIVE)
+        metric_card("Transactions",    fmt_int(summary["transaction_count"]),
+                    accent_color=C_ACCENT)
+        metric_card("Savings Rate",    fmt_pct(savings_rate_val),
+                    delta="On track ✓" if sr.get("on_track") else "Below target",
+                    delta_positive=sr.get("on_track"),
+                    accent_color=C_POSITIVE if sr.get("on_track") else C_WARNING)
+
+    # ── Tabs ───────────────────────────────────────────────────────────────────
+    with ui.tabs().props("dense indicator-color=primary align=left").classes(
+        "w-full"
+    ).style("border-bottom:1px solid var(--mm-border);") as tabs:
+        t_overview   = ui.tab("Overview")
+        t_trends     = ui.tab("Trends")
+        t_categories = ui.tab("Categories")
+        t_day        = ui.tab("Day Analysis")
+        t_savings    = ui.tab("Savings Insights")
+
+    with ui.tab_panels(tabs, value=t_overview).classes("w-full").style(
+        "background:transparent; padding:0; margin-top:16px;"
     ):
-        ui.label(f"Period: {d_min} – {d_max}").style(
-            "font-size:0.75rem; color:var(--mm-text-dim);"
-        )
-        ui.label(f"{len(df):,} records").style(
-            "font-size:0.75rem; color:var(--mm-text-dim);"
-        )
-
-    # ── KPI row ───────────────────────────────────────────────────────────────
-    with ui.row().classes("w-full gap-3 no-wrap").style("margin-bottom:24px;"):
-        metric_card(
-            "Total Income",
-            fmt_inr(summary["total_income"]),
-            accent_color=C_POSITIVE,
-        )
-        metric_card(
-            "Total Expenses",
-            fmt_inr(summary["total_spending"]),
-            accent_color=C_NEGATIVE,
-        )
-        metric_card(
-            "Net Balance",
-            fmt_inr(net),
-            delta=("+" if net >= 0 else "") + fmt_inr(net),
-            delta_positive=net >= 0,
-            accent_color=C_POSITIVE if net >= 0 else C_NEGATIVE,
-        )
-        metric_card(
-            "Transactions",
-            fmt_int(summary["transaction_count"]),
-            accent_color=C_ACCENT,
-        )
-        metric_card(
-            "Expense Entries",
-            fmt_int(summary["expense_count"]),
-            accent_color=C_NEUTRAL,
-        )
-
-    # ── Tab navigation ────────────────────────────────────────────────────────
-    with ui.tabs().classes("w-full").props(
-        "align=left dense no-caps indicator-color=primary"
-    ) as tabs:
-        t_ov  = ui.tab("Overview")
-        t_cat = ui.tab("Categories")
-        t_tr  = ui.tab("Trends")
-        t_txn = ui.tab("Transactions")
-        t_ins = ui.tab("Insights")
-
-    with ui.tab_panels(tabs, value=t_ov).classes("w-full").style(
-        "background:transparent; padding-top:20px;"
-    ):
-
         # ── Overview ──────────────────────────────────────────────────────────
-        with ui.tab_panel(t_ov):
-            _render_overview(df)
-
-        # ── Categories ────────────────────────────────────────────────────────
-        with ui.tab_panel(t_cat):
-            _render_categories(df)
+        with ui.tab_panel(t_overview).style("padding:0;"):
+            with ui.row().classes("w-full gap-4"):
+                with chart_card("Category Spending Share"):
+                    _chart(figs["spending_pie"])
+                with chart_card("Top Expense Categories"):
+                    _chart(figs["top_categories"])
 
         # ── Trends ────────────────────────────────────────────────────────────
-        with ui.tab_panel(t_tr):
-            _render_trends(df)
+        with ui.tab_panel(t_trends).style("padding:0;"):
+            with chart_card("Monthly Income vs Expenses"):
+                _chart(figs["monthly_trend"])
+            ui.element("div").style("height:16px;")
+            with chart_card("Cumulative Account Balance"):
+                _chart(figs["cumulative_balance"])
 
-        # ── Transactions ──────────────────────────────────────────────────────
-        with ui.tab_panel(t_txn):
-            _render_transactions(df)
-
-        # ── Insights ──────────────────────────────────────────────────────────
-        with ui.tab_panel(t_ins):
-            _render_insights(df, net)
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# Tab content renderers
-# ══════════════════════════════════════════════════════════════════════════════
-
-def _render_overview(df: pd.DataFrame) -> None:
-    """Overview tab: donut + treemap, then monthly trend."""
-
-    # Row 1: two charts side by side
-    with ui.row().classes("w-full gap-4").style("margin-bottom:16px;"):
-        with chart_card("Spending by Category"):
-            ui.plotly(fig_spending_pie(df)).classes("w-full").style("height:340px;")
-        with chart_card("Category Distribution"):
-            ui.plotly(fig_treemap(df)).classes("w-full").style("height:340px;")
-
-    # Row 2: monthly trend full width
-    with chart_card("Monthly Income vs Expenses"):
-        ui.plotly(fig_monthly_trend(df)).classes("w-full").style("height:300px;")
-
-
-def _render_categories(df: pd.DataFrame) -> None:
-    """Categories tab: bar charts + heatmap."""
-
-    with ui.row().classes("w-full gap-4").style("margin-bottom:16px;"):
-        with chart_card("Top Expense Categories"):
-            ui.plotly(fig_top_categories(df)).classes("w-full").style("height:340px;")
-        with chart_card("Spending by Day of Week"):
-            ui.plotly(fig_day_of_week(df)).classes("w-full").style("height:340px;")
-
-    with chart_card("Monthly Spending Heatmap"):
-        ui.plotly(fig_heatmap(df)).classes("w-full").style("min-height:380px;")
-
-
-def _render_trends(df: pd.DataFrame) -> None:
-    """Trends tab: cumulative balance + monthly summary table."""
-
-    with chart_card("Cumulative Balance Over Time"):
-        ui.plotly(fig_cumulative_balance(df)).classes("w-full").style("height:300px;")
-
-    ui.element("div").style("height:16px;")
-
-    # Monthly summary as a clean table
-    with content_card():
-        card_title("Monthly Summary")
-        ui.element("div").style("height:10px;")
-
-        monthly = monthly_spending_trend(df)
-        rows    = monthly[
-            ["month_label", "total_income", "total_spending", "net_balance"]
-        ].round(2).to_dict("records")
-
-        (ui.table(
-            columns=[
-                {"name": "month_label",    "label": "Month",        "field": "month_label",    "sortable": True},
-                {"name": "total_income",   "label": "Income (₹)",   "field": "total_income",   "sortable": True},
-                {"name": "total_spending", "label": "Expenses (₹)", "field": "total_spending", "sortable": True},
-                {"name": "net_balance",    "label": "Net (₹)",      "field": "net_balance",    "sortable": True},
-            ],
-            rows=rows,
-            row_key="month_label",
-            pagination={"rowsPerPage": 15},
-        )
-        .classes("w-full")
-        .props("dense flat"))
-
-
-def _render_transactions(df: pd.DataFrame) -> None:
-    """Transactions tab: filter bar + sortable paginated table."""
-
-    with content_card():
-        # Filter controls
-        with ui.row().classes("w-full gap-3 items-end flex-wrap mm-border-bottom").style(
-            "padding-bottom:14px; margin-bottom:12px;"
-        ):
-            search_in = (
-                ui.input(placeholder="Search description…")
-                .props("dense outlined clearable")
-                .style("flex:3; min-width:200px;")
-            )
-            cat_opts = ["All categories"] + sorted(
-                df["category"].dropna().unique().tolist()
-            )
-            cat_in = (
-                ui.select(cat_opts, label="Category", value="All categories")
-                .props("dense outlined")
-                .style("flex:2; min-width:160px;")
-            )
-            type_in = (
-                ui.select(
-                    ["All types", "debit", "credit"],
-                    label="Type", value="All types",
-                )
-                .props("dense outlined")
-                .style("min-width:130px;")
-            )
-            max_in = (
-                ui.number(label="Max rows", value=200, min=10, max=5000, step=50)
-                .props("dense outlined")
-                .style("width:110px;")
-            )
-
-        # Table columns definition
-        TXN_COLS = [
-            {"name": "date",             "label": "Date",        "field": "date",             "sortable": True},
-            {"name": "description",      "label": "Description", "field": "description",      "sortable": True, "align": "left"},
-            {"name": "category",         "label": "Category",    "field": "category",         "sortable": True},
-            {"name": "amount",           "label": "Amount (₹)",  "field": "amount",           "sortable": True},
-            {"name": "transaction_type", "label": "Type",        "field": "transaction_type", "sortable": True},
-            {"name": "month_label",      "label": "Month",       "field": "month_label",      "sortable": True},
-        ]
-
-        DISP = ["date", "description", "category", "amount",
-                "transaction_type", "month_label"]
-
-        def _build_rows(n: int = 200) -> list[dict]:
-            filt = df[DISP].copy()
-            filt["date"] = filt["date"].astype(str)
-            s   = (search_in.value or "").strip().lower()
-            cat = cat_in.value  or "All categories"
-            typ = type_in.value or "All types"
-            if s:
-                filt = filt[
-                    filt["description"].str.lower().str.contains(s, na=False)
-                ]
-            if cat != "All categories":
-                filt = filt[filt["category"] == cat]
-            if typ != "All types":
-                filt = filt[filt["transaction_type"] == typ]
-            return (filt.sort_values("date", ascending=False)
-                        .head(n).to_dict("records"))
-
-        txn_table = (
-            ui.table(
-                columns=TXN_COLS,
-                rows=_build_rows(),
-                row_key="description",
-                pagination={"rowsPerPage": 25, "sortBy": "date", "descending": True},
-            )
-            .classes("w-full")
-            .props("dense flat")
-        )
-
-        status_lbl = ui.label(
-            f"Showing {min(len(df), 200):,} of {len(df):,} rows"
-        ).style("font-size:0.72rem; color:var(--mm-text-dim); margin-top:6px;")
-
-        def _apply(_=None) -> None:
-            n    = int(max_in.value or 200)
-            rows = _build_rows(n)
-            txn_table.rows = rows
-            txn_table.update()
-            status_lbl.set_text(
-                f"Showing {len(rows):,} of {len(df):,} rows"
-            )
-
-        search_in.on("update:model-value", _apply)
-        cat_in.on("update:model-value",    _apply)
-        type_in.on("update:model-value",   _apply)
-        max_in.on("update:model-value",    _apply)
-
-
-def _render_insights(df: pd.DataFrame, net: float) -> None:
-    """Insights tab: savings gauge + recommendations + anomalies."""
-
-    insights   = generate_savings_insights(df)
-    sr         = insights.get("savings_rate", {})
-    gauge_val  = float(sr.get("savings_rate", 0))
-    target_pct = float(sr.get("recommended_rate", 20))
-    savings    = float(sr.get("total_savings", net))
-    delta      = gauge_val - target_pct
-    delta_col  = C_POSITIVE if delta >= 0 else C_NEGATIVE
-
-    with ui.row().classes("w-full gap-4 items-start"):
-
-        # Left column – gauge + stats
-        with ui.element("div").style("flex:1; min-width:0;"):
+        # ── Categories ────────────────────────────────────────────────────────
+        with ui.tab_panel(t_categories).style("padding:0;"):
+            cat_df = category_spending(df)
+            with chart_card("Monthly Spending Heatmap"):
+                _chart(figs["heatmap"])
+            ui.element("div").style("height:16px;")
             with content_card():
-                ui.plotly(fig_savings_gauge(gauge_val, target_pct)).classes("w-full")
-
-                divider()
-                ui.element("div").style("height:10px;")
-
-                with ui.row().classes("w-full justify-around"):
-                    stat_pill(
-                        "Net Savings",
-                        fmt_inr(savings),
-                        C_POSITIVE if savings >= 0 else C_NEGATIVE,
-                    )
-                    stat_pill(
-                        "Savings Rate",
-                        fmt_pct(gauge_val),
-                        C_POSITIVE if gauge_val >= target_pct else C_NEGATIVE,
-                    )
-                    stat_pill(
-                        "Target",
-                        fmt_pct(target_pct),
-                        C_TEXT_MUT,
-                    )
-
+                card_title("All Categories")
                 ui.element("div").style("height:8px;")
-                delta_sym = "+" if delta >= 0 else ""
-                ui.label(
-                    f"{delta_sym}{fmt_pct(delta)} vs {fmt_pct(target_pct)} target"
-                ).style(
-                    f"font-size:0.76rem; color:{delta_col};"
-                    "text-align:center; width:100%; display:block;"
-                    "padding-bottom:4px;"
-                )
+                cols = [
+                    {"name": "category",          "label": "Category",      "field": "category",          "align": "left"},
+                    {"name": "total_spent",        "label": "Total Spent",   "field": "total_spent_fmt",   "align": "right"},
+                    {"name": "transaction_count",  "label": "Txns",          "field": "transaction_count", "align": "right"},
+                    {"name": "pct_of_total",       "label": "Share",         "field": "pct_of_total_fmt",  "align": "right"},
+                ]
+                rows = [
+                    {
+                        "category":          r["category"],
+                        "total_spent_fmt":   fmt_inr(r["total_spent"]),
+                        "transaction_count": int(r["transaction_count"]),
+                        "pct_of_total_fmt":  fmt_pct(r["pct_of_total"]),
+                    }
+                    for _, r in cat_df.iterrows()
+                ]
+                ui.table(columns=cols, rows=rows, row_key="category").props(
+                    "flat dense bordered separator=cell"
+                ).classes("w-full")
 
-        # Right column – recommendations
-        with ui.element("div").style("flex:1; min-width:0;"):
-            with content_card():
-                card_title("Recommendations")
-                ui.element("div").style("height:10px;")
-
-                recs = insights.get("recommendations", [])
-                if recs:
-                    for rec in recs:
-                        recommendation_item(rec)
-                else:
-                    with ui.row().classes("items-center gap-2").style("padding:6px 0;"):
-                        ui.icon("check_circle_outline", size="1.3rem").style(
-                            f"color:{C_POSITIVE};"
-                        )
-                        ui.label("No major concerns detected.").style(
-                            f"font-size:0.84rem; color:{C_POSITIVE}; font-weight:600;"
-                        )
-
-    # Flagged purchases
-    impulse_list = insights.get("impulse_purchases", [])
-    if impulse_list:
-        ui.element("div").style("height:16px;")
-        with content_card():
-            with ui.row().classes("items-center gap-2").style("margin-bottom:10px;"):
-                card_title("Flagged Purchases")
-                ui.label(f"  {len(impulse_list)} detected").style(
-                    f"font-size:0.70rem; color:{C_NEGATIVE};"
-                )
-            imp_cols = [
-                {"name": k, "label": k.replace("_", " ").title(),
-                 "field": k, "sortable": True}
-                for k in impulse_list[0].keys()
-            ]
-            (ui.table(columns=imp_cols, rows=impulse_list, row_key="description")
-               .classes("w-full").props("dense flat"))
-
-    # Monthly variance anomalies
-    mv_list = insights.get("monthly_variance", [])
-    if mv_list:
-        ui.element("div").style("height:16px;")
-        with content_card():
-            with ui.row().classes("items-center gap-2").style("margin-bottom:10px;"):
-                card_title("Spending Anomalies")
-                ui.label(f"  {len(mv_list)} above-average months").style(
-                    f"font-size:0.70rem; color:{C_WARNING};"
-                )
-            mv_cols = [
-                {"name": k, "label": k.replace("_", " ").title(),
-                 "field": k, "sortable": True}
-                for k in mv_list[0].keys()
-            ]
-            (ui.table(columns=mv_cols, rows=mv_list, row_key="month")
-               .classes("w-full").props("dense flat"))
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# Modal dialogs  (replace the old sidebar)
-# ══════════════════════════════════════════════════════════════════════════════
-
-def _build_upload_dialog() -> ui.dialog:
-    """Returns a modal dialog containing the CSV upload widget."""
-    with ui.dialog().props("persistent") as dlg:
-        with ui.card().classes("mm-card mm-dialog-card").style(
-            "min-width:420px; max-width:520px; padding:24px;"
-        ):
-            # Header row
-            with ui.row().classes("w-full items-center justify-between mm-border-bottom").style(
-                "margin-bottom:16px; padding-bottom:12px;"
-            ):
-                section_heading("Upload CSV")
-                ui.button(icon="close", on_click=dlg.close).props(
-                    "flat round dense size=sm"
-                ).style("color:var(--mm-text-dim);")
-
-            ui.label(
-                "Select a CSV file to replace the current dataset. "
-                "Required columns: date, description, amount, transaction_type."
-            ).style("font-size:0.78rem; color:var(--mm-text-dim); margin-bottom:16px; line-height:1.5;")
-            async def _on_upload(e: events.UploadEventArguments) -> None:
-                dlg.close()
-                n = ui.notification("Reading file…", type="ongoing", timeout=0)
-                try:
-                    data = await e.file.read()
-                    n.message = "Processing CSV… (this may take a moment for large files)"
-                    loop = asyncio.get_event_loop()
-                    ok, msg = await loop.run_in_executor(None, replace_data, data)
-                    if ok:
-                        render_dashboard.refresh()
-                        ui.notify(msg, type="positive", timeout=4000)
-                    else:
-                        ui.notify(msg, type="negative", timeout=8000)
-                except Exception as exc:
-                    ui.notify(f"Upload error: {exc}", type="negative", timeout=8000)
-                finally:
-                    n.dismiss()
-
-            (ui.upload(on_upload=_on_upload)
-               .props("accept=.csv color=primary label='Choose CSV file' auto-upload")
-               .classes("w-full"))
-
-            ui.element("div").style("height:8px;")
-            ui.label("data/transactions.csv").style(
-                "font-size:0.62rem; color:var(--mm-text-dim);"
-            )
-    return dlg
-
-
-def _build_add_txn_dialog() -> ui.dialog:
-    """Returns a modal dialog containing the add-transaction form."""
-    with ui.dialog().props("persistent") as dlg:
-        with ui.card().classes("mm-card mm-dialog-card").style(
-            "min-width:440px; max-width:540px; padding:24px;"
-        ):
-            # Header row
-            with ui.row().classes("w-full items-center justify-between mm-border-bottom").style(
-                "margin-bottom:16px; padding-bottom:12px;"
-            ):
-                section_heading("Add Transaction")
-                ui.button(icon="close", on_click=dlg.close).props(
-                    "flat round dense size=sm"
-                ).style("color:var(--mm-text-dim);")
-
-            with ui.column().classes("w-full gap-3"):
-                date_in = (
-                    ui.input(
-                        "Date",
-                        value=str(datetime.date.today()),
-                        placeholder="YYYY-MM-DD",
-                    )
-                    .props("dense outlined")
-                    .classes("w-full")
-                )
-                desc_in = (
-                    ui.input("Description", placeholder="e.g. Amazon order")
-                    .props("dense outlined")
-                    .classes("w-full")
-                )
-                amt_in = (
-                    ui.number("Amount (₹)", min=0.01, format="%.2f", step=1)
-                    .props("dense outlined")
-                    .classes("w-full")
-                )
-
-                with ui.row().classes("w-full gap-3"):
-                    type_in = (
-                        ui.select(
-                            ["Debit", "Credit"],
-                            label="Type",
-                            value="Debit",
-                        )
-                        .props("dense outlined")
-                        .style("flex:1;")
-                    )
-                    cat_in = (
-                        ui.select(
-                            ["Auto-detect"] + CATEGORIES,
-                            label="Category",
-                            value="Auto-detect",
-                        )
-                        .props("dense outlined")
-                        .style("flex:2;")
-                    )
-
-            ui.element("div").style("height:6px;")
-
-            def _on_add() -> None:
-                desc = str(desc_in.value or "").strip()
-                if not desc:
-                    ui.notify("Description is required.", type="warning")
-                    return
-                amt = float(amt_in.value or 0)
-                if amt <= 0:
-                    ui.notify("Amount must be greater than zero.", type="warning")
-                    return
-
-                raw_date  = str(date_in.value or datetime.date.today())
-                norm_date = raw_date.replace("/", "-")
-                category  = "" if cat_in.value == "Auto-detect" else str(cat_in.value)
-
-                append_row(
-                    date=norm_date, description=desc,
-                    amount=amt, category=category,
-                    tx_type=str(type_in.value),
-                )
-                render_dashboard.refresh()
-                dlg.close()
-                ui.notify(f"Added ₹{amt:,.2f} — {desc}", type="positive")
-                desc_in.value = ""
-                amt_in.value  = 0
-
-            with ui.row().classes("w-full gap-2 justify-end").style("margin-top:8px;"):
-                (ui.button("Cancel", on_click=dlg.close)
-                   .props("flat no-caps no-shadow")
-                   .style("color:var(--mm-text-dim);"))
-                (ui.button("Add Transaction", on_click=_on_add)
-                   .props("color=primary unelevated no-caps no-shadow")
-                   .style("font-weight:600;"))
-    return dlg
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# Settings dialog
-# ══════════════════════════════════════════════════════════════════════════════
-
-def _build_settings_dialog(dark_mode_el: ui.dark_mode) -> ui.dialog:
-    """Settings modal: theme toggle + accent colour picker."""
-
-    # Track which swatch is currently selected
-    _state = {"accent": C_ACCENT, "dark": True}
-    _swatch_els: dict[str, ui.element] = {}
-
-    def _apply_accent(color: str) -> None:
-        _state["accent"] = color
-        ui.colors(primary=color)
-        # Update swatch borders
-        for c, el in _swatch_els.items():
-            if c == color:
-                el.classes(add="selected")
+        # ── Day Analysis ──────────────────────────────────────────────────────
+        with ui.tab_panel(t_day).style("padding:0;"):
+            # ── Stat cards ────────────────────────────────────────────────────
+            dow_df = day_of_week_spending(df)
+            if not dow_df.empty:
+                peak_day   = dow_df.loc[dow_df["total_spent"].idxmax(),       "day_of_week"]
+                busy_day   = dow_df.loc[dow_df["transaction_count"].idxmax(), "day_of_week"]
+                avg_daily  = dow_df["total_spent"].mean()
+                low_day    = dow_df.loc[dow_df["total_spent"].idxmin(),       "day_of_week"]
             else:
-                el.classes(remove="selected")
-
-    def _toggle_theme(is_dark: bool) -> None:
-        _state["dark"] = is_dark
-        if is_dark:
-            dark_mode_el.enable()
-        else:
-            dark_mode_el.disable()
-        _set_chart_dark(is_dark)
-        render_dashboard.refresh()
-
-    with ui.dialog().props("no-backdrop-dismiss") as dlg:
-        with ui.card().classes("mm-card mm-dialog-card").style(
-            "min-width:380px; max-width:460px; padding:24px;"
-        ):
-            # ─ Header ──────────────────────────────────────────────────
-            with ui.row().classes("w-full items-center justify-between mm-border-bottom").style(
-                "margin-bottom:20px; padding-bottom:14px;"
-            ):
-                with ui.row().classes("items-center gap-2"):
-                    ui.icon("tune", size="1.1rem").style(f"color:{C_ACCENT};")
-                    section_heading("Appearance Settings")
-                ui.button(icon="close", on_click=dlg.close).props(
-                    "flat round dense size=sm"
-                ).style("color:var(--mm-text-dim);")
-
-            # ─ Theme toggle ────────────────────────────────────────────
-            with ui.element("div").style("margin-bottom:22px;"):
-                ui.label("Theme").style(
-                    "font-size:0.70rem; font-weight:700; text-transform:uppercase;"
-                    "letter-spacing:0.09em; color:var(--mm-text-dim); display:block; margin-bottom:10px;"
+                peak_day = busy_day = low_day = "—"
+                avg_daily = 0.0
+            with ui.row().classes("w-full gap-4").style("margin-bottom:16px;"):
+                metric_card(
+                    "Peak Spending Day", str(peak_day),
+                    delta="Highest total outflow",
+                    delta_positive=None, accent_color=C_NEGATIVE,
                 )
-                with ui.row().classes("gap-3"):
-                    for label, is_dark, icon_name in [
-                        ("Dark",  True,  "dark_mode"),
-                        ("Light", False, "light_mode"),
-                    ]:
-                        def _mk_theme_btn(val=is_dark, lbl=label, ico=icon_name):
-                            btn = (
-                                ui.button(lbl, icon=ico,
-                                          on_click=lambda v=val: _toggle_theme(v))
-                                .props("unelevated no-caps no-shadow")
-                                .style(
-                                    "font-size:0.78rem; font-weight:600;"
-                                    "padding:0 14px; height:32px;"
-                                    + ("color:#fff; background:var(--q-primary);" if val == _state["dark"]
-                                       else "color:var(--mm-text-dim); background:var(--mm-bg); border:1px solid var(--mm-border);")
-                                )
-                            )
-                            return btn
-                        _mk_theme_btn()
-
-            # ─ Accent colour ────────────────────────────────────────────
-            with ui.element("div"):
-                ui.label("Accent Colour").style(
-                    "font-size:0.70rem; font-weight:700; text-transform:uppercase;"
-                    "letter-spacing:0.09em; color:var(--mm-text-dim); display:block; margin-bottom:12px;"
+                metric_card(
+                    "Busiest Day", str(busy_day),
+                    delta="Most transactions",
+                    delta_positive=None, accent_color=C_ACCENT,
                 )
-                with ui.row().classes("gap-3 flex-wrap"):
-                    for hex_color, name in ACCENT_PRESETS:
-                        swatch = (
-                            ui.element("div")
-                            .classes("mm-swatch" + (" selected" if hex_color == _state["accent"] else ""))
-                            .style(f"background:{hex_color};")
-                            .on("click", lambda c=hex_color: _apply_accent(c))
+                metric_card(
+                    "Avg Daily Expense", fmt_inr(avg_daily),
+                    delta="Mean across all days",
+                    delta_positive=None, accent_color=C_WARNING,
+                )
+                metric_card(
+                    "Lightest Spending Day", str(low_day),
+                    delta="Lowest total outflow",
+                    delta_positive=True, accent_color=C_POSITIVE,
+                )
+
+            # ── Row 1: Total Spending | Transaction Count ──────────────────
+            with ui.row().classes("w-full gap-4").style("margin-bottom:16px;"):
+                with chart_card("Total Spending by Day"):
+                    _chart(figs["day_of_week"])
+                with chart_card("Transaction Count by Day"):
+                    _chart(figs["day_transaction_count"])
+
+            # ── Row 2: Avg Transaction Value | (full-width category breakdown)
+            with chart_card("Avg Transaction Value by Day"):
+                _chart(figs["day_avg_transaction"])
+
+            ui.element("div").style("height:16px;")
+
+            # ── Row 3: Category × Day stacked bar ─────────────────────────
+            with chart_card("Spending by Category × Day of Week"):
+                _chart(figs["day_category_breakdown"])
+
+        # ── Savings Insights ──────────────────────────────────────────────────
+        with ui.tab_panel(t_savings).style("padding:0;"):
+            with ui.row().classes("w-full no-wrap").style("gap:16px; align-items:stretch;"):
+
+                # Left column – gauge chart (50 %)
+                with ui.card().classes("mm-card").style(
+                    "flex:0 0 calc(50% - 8px); min-width:0; border-radius:6px; padding:16px;"
+                ):
+                    card_title("Savings Rate")
+                    ui.element("div").style("height:10px;")
+                    _chart(figs["savings_gauge"])
+
+                # Right column – recommendations (50 %)
+                with ui.card().classes("mm-card").style(
+                    "flex:1 1 0; min-width:0; border-radius:6px; padding:16px;"
+                ):
+                    card_title("Recommendations")
+                    ui.element("div").style("height:8px;")
+                    recs = insights.get("recommendations", [])
+                    if recs:
+                        for rec in recs:
+                            recommendation_item(rec)
+                    else:
+                        ui.label("No recommendations — great financial health!").style(
+                            "font-size:0.82rem; color:var(--mm-text-mut);"
                         )
-                        swatch.tooltip(name)
-                        _swatch_els[hex_color] = swatch
 
-                ui.element("div").style("height:16px;")
-
-                # Custom hex input
-                with ui.row().classes("w-full items-center gap-2"):
-                    custom_in = (
-                        ui.input("Custom hex", placeholder="#RRGGBB")
-                        .props("dense outlined")
-                        .style("flex:1;")
-                    )
-                    (ui.button("Apply", on_click=lambda: _apply_accent(
-                        custom_in.value.strip() if custom_in.value else _state["accent"]
-                    ))
-                     .props("unelevated no-caps no-shadow dense color=primary")
-                     .style("height:36px; padding:0 14px; font-weight:600;"))
-
-    return dlg
+                    subs = insights.get("subscriptions", {})
+                    if subs.get("alert"):
+                        ui.element("div").style("height:16px;")
+                        card_title("Subscription Alert")
+                        with ui.element("div").style(
+                            f"border-left:3px solid {C_WARNING}; padding:8px 12px; "
+                            "border-radius:4px; background:var(--mm-surface2); margin-top:8px;"
+                        ):
+                            ui.label(
+                                f"Monthly subscriptions: {fmt_inr(subs.get('monthly_total', 0))}"
+                            ).style("font-size:0.82rem; color:var(--mm-text-mut);")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# Page definition
+# Page
 # ══════════════════════════════════════════════════════════════════════════════
 
 @ui.page("/")
 def index() -> None:
-    """Assemble the full page: CSS → header → main content."""
-
-    # Inject global styles
-    ui.add_css(GLOBAL_CSS)
+    global _dark
+    ui.add_head_html(f"<style>{GLOBAL_CSS}</style>")
     dark_mode_el = ui.dark_mode()
-    dark_mode_el.enable()
+    if _dark:
+        dark_mode_el.enable()
+
     ui.colors(primary=C_ACCENT)
 
-    # Build dialogs (must be created inside the page context)
     upload_dlg   = _build_upload_dialog()
     add_txn_dlg  = _build_add_txn_dialog()
     settings_dlg = _build_settings_dialog(dark_mode_el)
 
-    # ── Top navigation bar ────────────────────────────────────────────────────
+    # ── Header ─────────────────────────────────────────────────────────────────
     with ui.header(elevated=False).style("padding:0 20px; height:52px;"):
         with ui.row().classes("h-full w-full items-center justify-between no-wrap"):
 
             # Brand
             with ui.row().classes("items-center gap-4 no-wrap"):
-                ui.html(f"""
-                <svg viewBox="0 0 20 20" width="20" height="20" fill="none"
-                     xmlns="http://www.w3.org/2000/svg">
-                  <path d="M17.5 10V6.25H4.375A1.875 1.875 0 0 1 4.375 2.5H17.5V6.25H4.375"
-                        stroke="{C_ACCENT}" stroke-width="1.6"
-                        stroke-linecap="round" stroke-linejoin="round"/>
-                  <path d="M2.5 4.375v12.5A1.875 1.875 0 0 0 4.375 18.75H17.5V14.375"
-                        stroke="{C_ACCENT}" stroke-width="1.6"
-                        stroke-linecap="round" stroke-linejoin="round"/>
-                  <path d="M15 10a1.875 1.875 0 0 0 0 3.75h4.375V10H15z"
-                        stroke="{C_ACCENT}" stroke-width="1.6"
-                        stroke-linecap="round" stroke-linejoin="round"/>
+                ui.html(f'''
+                <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26"
+                     fill="{C_ACCENT}" viewBox="0 0 16 16">
+                  <path d="M7.964 1.527c-2.977 0-5.571 1.704-6.32 4.125h-.55A1 1 0 0 0
+                    .11 6.824l.254 1.46a1.5 1.5 0 0 0 1.478 1.243h.263c.3.513.688.978
+                    1.145 1.382l-.729 2.477a.5.5 0 0 0 .48.641h2a.5.5 0 0 0
+                    .471-.332l.482-1.351c.635.173 1.31.267 2.011.267.707 0
+                    1.388-.095 2.028-.272l.543 1.372a.5.5 0 0 0 .465.316h2a.5.5 0 0 0
+                    .478-.645l-.761-2.506C13.81 9.895 14.5 8.559 14.5
+                    7.069q0-.218-.02-.431c.261-.11.508-.266.705-.444.315.306.815.306.815-.417
+                    0 .223-.5.223-.461-.026a1 1 0 0 0 .09-.255.7.7 0 0
+                    0-.202-.645.58.58 0 0 0-.707-.098.74.74 0 0
+                    0-.375.562c-.024.243.082.48.32.654a2 2 0 0 1-.259.153c-.534-2.664-3.284-4.595-6.442-4.595m7.173
+                    3.876a.6.6 0 0 1-.098.21l-.044-.025c-.146-.09-.157-.175-.152-.223a.24.24
+                    0 0 1 .117-.173c.049-.027.08-.021.113.012a.2.2 0 0 1
+                    .064.199m-8.999-.65a.5.5 0 1 1-.276-.96A7.6 7.6 0 0 1 7.964
+                    3.5c.763 0 1.497.11 2.18.315a.5.5 0 1 1-.287.958A6.6 6.6 0 0
+                    0 7.964 4.5c-.64 0-1.255.09-1.826.254ZM5 6.25a.75.75 0 1
+                    1-1.5 0 .75.75 0 0 1 1.5 0"/>
                 </svg>
-                """)
+                ''')
                 with ui.column().classes("gap-0"):
                     page_title("MoneyMind")
                     page_subtitle("Personal Finance Analytics")
 
-            # Right side – action buttons + version tag
+            # Right side buttons
             with ui.row().classes("items-center gap-2 no-wrap"):
                 (ui.button("Upload CSV", icon="upload_file",
                            on_click=upload_dlg.open)
@@ -752,14 +591,14 @@ def index() -> None:
                 (ui.button(icon="settings", on_click=settings_dlg.open)
                    .props("flat round dense size=sm")
                    .style("color:var(--mm-text-mut);"))
-                ui.label("v3.0").style(
+                ui.label("v4.0").style(
                     "font-size:0.65rem; color:var(--mm-text-dim);"
                     "background:var(--mm-bg); padding:2px 8px;"
                     "border:1px solid var(--mm-border); border-radius:3px;"
                     "margin-left:2px;"
                 )
 
-    # ── Main content area (full width, no drawer) ─────────────────────────────
+    # ── Main content ───────────────────────────────────────────────────────────
     with ui.column().classes("w-full mm-page").style(
         "padding:28px 36px; min-height:100vh;"
     ):
@@ -771,8 +610,10 @@ def index() -> None:
 # ══════════════════════════════════════════════════════════════════════════════
 
 if __name__ == "__main__":
+    _favicon = os.path.join(_STATIC_DIR, "favicon.svg")
     ui.run(
         title="MoneyMind",
+        favicon=_favicon if os.path.isfile(_favicon) else "🐷",
         port=8080,
         dark=True,
         reload=False,

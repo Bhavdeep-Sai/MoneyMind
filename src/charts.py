@@ -1,404 +1,470 @@
 """
 charts.py
 ---------
-All Plotly figure builders for MoneyMind.
+Static Matplotlib / Seaborn chart builders for MoneyMind.
 
-Each function accepts a processed DataFrame and returns a go.Figure.
-Charts use a muted corporate palette with transparent backgrounds so
-they sit cleanly on top of any dark surface.
+Each function accepts a processed DataFrame, creates a Figure, and returns it.
+
+Theme control:
+    import charts
+    charts.set_theme(dark=True)   # default – dark navy style
+    charts.set_theme(dark=False)  # clean white / light style
+
+    figures = charts.build_all(df, insights)
+    charts.save_all(figures, out_dir="output")
 """
 
+import os
+import sys
+import numpy as np
 import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
+import matplotlib
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+from matplotlib.colors import LinearSegmentedColormap
+import seaborn as sns
+
+_SRC = os.path.dirname(os.path.abspath(__file__))
+if _SRC not in sys.path:
+    sys.path.insert(0, _SRC)
 
 from utils import (
-    CHART_LAYOUT, CHART_PALETTE, GRID_COLOR,
-    C_BG, C_TEXT, C_TEXT_MUT, C_POSITIVE, C_NEGATIVE, C_ACCENT, C_WARNING,
-    C_SURFACE, C_BORDER,
+    CHART_PALETTE, GRID_COLOR,
+    C_BG, C_SURFACE, C_TEXT, C_TEXT_MUT,
+    C_POSITIVE, C_NEGATIVE, C_ACCENT, C_WARNING,
+    L_BG, L_SURFACE, L_BORDER, L_TEXT, L_TEXT_MUT, L_GRID,
 )
-from data_processing import (
+from analysis import (
     category_spending, monthly_spending_trend, top_expense_categories,
     day_of_week_spending, monthly_category_heatmap_data,
-    spending_summary, generate_savings_insights,
 )
 
 
-# ── Theme state (toggled by app.py when the user switches themes) ─────────────
+# ── Theme state ───────────────────────────────────────────────────────────────
 _dark: bool = True
 
 
-def set_dark(dark: bool) -> None:
-    """Update the module-level dark flag. app.py calls this then refreshes the dashboard."""
+def set_theme(dark: bool = True) -> None:
+    """Switch between dark (default) and light chart themes."""
     global _dark
     _dark = dark
 
 
-def _t() -> str:
-    """Primary text colour for the current theme."""
-    return C_TEXT if _dark else "#0F172A"
+# ── Theme-aware colour helpers ────────────────────────────────────────────────
+def _bg()     -> str: return C_BG       if _dark else L_BG
+def _surf()   -> str: return C_SURFACE  if _dark else L_SURFACE
+def _txt()    -> str: return C_TEXT     if _dark else L_TEXT
+def _txtm()   -> str: return C_TEXT_MUT if _dark else L_TEXT_MUT
+def _grd()    -> str: return GRID_COLOR if _dark else L_GRID
+def _border() -> str: return "#334155"  if _dark else L_BORDER
+def _legend_bg() -> str: return C_SURFACE if _dark else "#F1F5F9"
 
 
-def _tm() -> str:
-    """Muted text colour for the current theme."""
-    return C_TEXT_MUT if _dark else "#475569"
+# ── Shared rc / figure helpers ────────────────────────────────────────────────
+def _style_dict() -> dict:
+    return {
+        "figure.facecolor":  _bg(),
+        "axes.facecolor":    _surf(),
+        "axes.edgecolor":    _border(),
+        "axes.labelcolor":   _txtm(),
+        "xtick.color":       _txtm(),
+        "ytick.color":       _txtm(),
+        "text.color":        _txt(),
+        "grid.color":        _grd(),
+        "grid.linestyle":    "--",
+        "grid.linewidth":    0.5,
+        "legend.facecolor":  _legend_bg(),
+        "legend.edgecolor":  _border(),
+        "font.family":       "sans-serif",
+        "font.size":         11,
+    }
 
 
-def _grid() -> str:
-    """Grid / axis line colour for the current theme."""
-    return GRID_COLOR if _dark else "rgba(203,213,225,0.5)"
+def _apply_style() -> None:
+    plt.rcParams.update(_style_dict())
 
 
-# ── Shared helpers ────────────────────────────────────────────────────────────
-
-def _base_layout(**overrides) -> dict:
-    """Merge CHART_LAYOUT with theme-aware hover/font colors and per-chart overrides."""
-    layout = CHART_LAYOUT.copy()
-    # Override hover and font colors based on current theme
-    if _dark:
-        layout["hoverlabel"] = dict(
-            bgcolor=C_SURFACE, bordercolor=C_BORDER,
-            font_color=C_TEXT, font_size=12,
-        )
-    else:
-        layout["hoverlabel"] = dict(
-            bgcolor="#FFFFFF", bordercolor="#CBD5E1",
-            font_color="#0F172A", font_size=12,
-        )
-        layout["font"] = dict(
-            family="Inter, system-ui, sans-serif",
-            color="#475569", size=12,
-        )
-    layout.update(overrides)
-    return layout
+def _new_fig(w: float = 10, h: float = 5):
+    _apply_style()
+    fig, ax = plt.subplots(figsize=(w, h), facecolor=_bg())
+    ax.set_facecolor(_surf())
+    ax.spines[:].set_edgecolor(_border())
+    ax.tick_params(colors=_txtm())
+    return fig, ax
 
 
-def _axis(title: str = "", **kw) -> dict:
-    """Standard axis style — colours adapt to current theme."""
-    defaults = dict(
-        title=dict(text=title, font=dict(size=11, color=_tm())),
-        showgrid=True,
-        gridcolor=_grid(),
-        gridwidth=1,
-        zeroline=False,
-        tickfont=dict(size=11, color=_tm()),
-        linecolor=_grid(),
-    )
-    defaults.update(kw)
-    return defaults
+def _fmt_inr(v: float) -> str:
+    return f"\u20b9{v:,.0f}"
 
 
-def _no_grid_axis(title: str = "") -> dict:
-    return _axis(title=title, showgrid=False)
+# ── Chart functions ────────────────────────────────────────────────────────────
 
-
-# ── Category charts ───────────────────────────────────────────────────────────
-
-def fig_spending_pie(df: pd.DataFrame) -> go.Figure:
-    """
-    Donut chart — spending share by category (top 10).
-    """
+def fig_spending_pie(df: pd.DataFrame) -> plt.Figure:
+    """Donut chart — spending share by category (top 10)."""
     cat_df = category_spending(df).head(10)
+    _apply_style()
+    fig, ax = plt.subplots(figsize=(7, 6), facecolor=_bg())
+    ax.set_facecolor(_bg())
 
-    fig = go.Figure(go.Pie(
+    colors = (CHART_PALETTE * 2)[:len(cat_df)]
+    wedges, texts, autotexts = ax.pie(
+        cat_df["total_spent"],
         labels=cat_df["category"],
-        values=cat_df["total_spent"],
-        hole=0.52,
-        marker=dict(
-            colors=CHART_PALETTE,
-            line=dict(color=C_BG if _dark else "#FFFFFF", width=2),
-        ),
-        textinfo="percent+label",
-        textfont=dict(size=11, color=_t()),
-        hovertemplate="<b>%{label}</b><br>₹%{value:,.2f}<br>%{percent}<extra></extra>",
-        direction="clockwise",
-        sort=True,
-    ))
+        colors=colors,
+        autopct="%1.1f%%",
+        startangle=90,
+        wedgeprops=dict(width=0.52, edgecolor=_bg(), linewidth=2),
+        textprops=dict(color=_txt(), fontsize=9),
+        pctdistance=0.80,
+    )
+    for at in autotexts:
+        at.set_color(_txt())
+        at.set_fontsize(8)
 
-    fig.update_layout(**_base_layout(
-        showlegend=False,
-        margin=dict(t=10, b=10, l=10, r=10),
-        annotations=[dict(
-            text=f"₹{cat_df['total_spent'].sum():,.0f}",
-            x=0.5, y=0.5, font_size=16,
-            font_color=_t(),
-            showarrow=False,
-        )],
-    ))
+    total = cat_df["total_spent"].sum()
+    ax.text(0, 0, _fmt_inr(total), ha="center", va="center",
+            fontsize=14, fontweight="bold", color=_txt())
+    ax.set_title("Category Spending Share", color=_txt(), fontsize=13, pad=12)
+    fig.tight_layout()
     return fig
 
 
-def fig_treemap(df: pd.DataFrame) -> go.Figure:
-    """
-    Treemap — category spending distribution.
-    """
-    cat_df = category_spending(df)
-
-    fig = px.treemap(
-        cat_df,
-        path=["category"],
-        values="total_spent",
-        color="total_spent",
-        color_continuous_scale=[
-            [0.0, "#1E3A5F"],
-            [0.5, "#2563EB"],
-            [1.0, "#60A5FA"],
-        ],
-    )
-    fig.update_traces(
-        hovertemplate="<b>%{label}</b><br>₹%{value:,.2f}<extra></extra>",
-        texttemplate="%{label}<br>₹%{value:,.0f}",
-        textfont=dict(size=11),
-    )
-    fig.update_layout(**_base_layout(
-        coloraxis_showscale=False,
-        margin=dict(t=10, b=10, l=10, r=10),
-    ))
-    return fig
-
-
-def fig_top_categories(df: pd.DataFrame) -> go.Figure:
-    """
-    Horizontal bar — top 10 expense categories.
-    """
+def fig_top_categories(df: pd.DataFrame) -> plt.Figure:
+    """Horizontal bar — top 10 expense categories."""
     top = top_expense_categories(df, top_n=10).sort_values("total_spent")
+    fig, ax = _new_fig(10, 6)
 
-    fig = go.Figure(go.Bar(
-        x=top["total_spent"],
-        y=top["category"],
-        orientation="h",
-        marker=dict(
-            color=top["total_spent"],
-            colorscale=[[0, "#1E3A5F"], [1, "#2563EB"]],
-            showscale=False,
-            line=dict(width=0),
-        ),
-        text=top["total_spent"].apply(lambda v: f"₹{v:,.0f}"),
-        textposition="outside",
-        textfont=dict(size=10, color=_tm()),
-        hovertemplate="<b>%{y}</b><br>₹%{x:,.2f}<extra></extra>",
-    ))
-    fig.update_layout(**_base_layout(
-        xaxis=_axis("Total Spent (₹)", tickprefix="₹"),
-        yaxis=_no_grid_axis(),
-        margin=dict(t=10, b=40, l=10, r=90),
-    ))
+    colors = (CHART_PALETTE * 2)[:len(top)]
+    bars = ax.barh(top["category"], top["total_spent"],
+                   color=colors, edgecolor="none")
+
+    max_val = top["total_spent"].max()
+    for bar, val in zip(bars, top["total_spent"]):
+        ax.text(
+            bar.get_width() + max_val * 0.01,
+            bar.get_y() + bar.get_height() / 2,
+            _fmt_inr(val), va="center", ha="left",
+            fontsize=9, color=_txtm(),
+        )
+
+    ax.set_xlabel("Total Spent (\u20b9)", color=_txtm(), fontsize=10)
+    ax.set_title("Top 10 Expense Categories", color=_txt(), fontsize=13, pad=12)
+    ax.xaxis.grid(True, color=_grd(), linestyle="--", linewidth=0.5)
+    ax.yaxis.grid(False)
+    ax.xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: _fmt_inr(x)))
+    fig.tight_layout()
     return fig
 
 
-def fig_day_of_week(df: pd.DataFrame) -> go.Figure:
-    """
-    Bar chart — average spending per day of week.
-    """
-    dow = day_of_week_spending(df)
-
-    fig = go.Figure(go.Bar(
-        x=dow["day_of_week"],
-        y=dow["total_spent"],
-        marker=dict(color=C_ACCENT, opacity=0.85, line=dict(width=0)),
-        text=dow["total_spent"].apply(lambda v: f"₹{v:,.0f}"),
-        textposition="outside",
-        textfont=dict(size=10, color=_tm()),
-        hovertemplate="<b>%{x}</b><br>₹%{y:,.2f}<extra></extra>",
-    ))
-    fig.update_layout(**_base_layout(
-        xaxis=_no_grid_axis(),
-        yaxis=_axis("Total Spent (₹)", tickprefix="₹"),
-        margin=dict(t=10, b=40, l=10, r=20),
-    ))
-    return fig
-
-
-# ── Trend charts ──────────────────────────────────────────────────────────────
-
-def fig_monthly_trend(df: pd.DataFrame) -> go.Figure:
-    """
-    Combined line + bar chart — monthly income, expenses, net balance.
-    """
+def fig_monthly_trend(df: pd.DataFrame) -> plt.Figure:
+    """Grouped bar + twin-axis line — monthly income vs expenses + net balance."""
     m = monthly_spending_trend(df)
+    x = np.arange(len(m))
+    w = 0.35
 
-    fig = make_subplots(specs=[[{"secondary_y": True}]])
+    fig, ax = _new_fig(max(12, len(m) * 0.55), 5)
 
-    # Net balance bars (secondary axis, behind lines)
-    fig.add_trace(go.Bar(
-        x=m["month_label"], y=m["net_balance"],
-        name="Net Balance",
-        marker_color=[C_POSITIVE if v >= 0 else C_NEGATIVE
-                      for v in m["net_balance"]],
-        opacity=0.30,
-        hovertemplate="<b>%{x}</b><br>Net ₹%{y:,.2f}<extra></extra>",
-    ), secondary_y=False)
+    ax.bar(x - w / 2, m["total_income"],   w, label="Income",
+           color=C_POSITIVE, alpha=0.85, edgecolor="none")
+    ax.bar(x + w / 2, m["total_spending"], w, label="Expenses",
+           color=C_NEGATIVE, alpha=0.85, edgecolor="none")
 
-    # Income line
-    fig.add_trace(go.Scatter(
-        x=m["month_label"], y=m["total_income"],
-        name="Income",
-        mode="lines+markers",
-        line=dict(color=C_POSITIVE, width=2),
-        marker=dict(size=5, color=C_POSITIVE),
-        hovertemplate="Income ₹%{y:,.2f}<extra></extra>",
-    ), secondary_y=False)
+    ax2 = ax.twinx()
+    ax2.set_facecolor(_surf())
+    ax2.spines[:].set_edgecolor(_border())
+    ax2.plot(x, m["net_balance"], color=C_ACCENT, linewidth=2,
+             marker="o", markersize=4, label="Net Balance", zorder=5)
+    ax2.axhline(0, color=_border(), linewidth=0.8, linestyle="--")
+    ax2.tick_params(colors=_txtm())
+    ax2.set_ylabel("Net Balance (\u20b9)", color=_txtm(), fontsize=10)
+    ax2.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: _fmt_inr(x)))
 
-    # Expenses line
-    fig.add_trace(go.Scatter(
-        x=m["month_label"], y=m["total_spending"],
-        name="Expenses",
-        mode="lines+markers",
-        line=dict(color=C_NEGATIVE, width=2),
-        marker=dict(size=5, color=C_NEGATIVE),
-        hovertemplate="Expenses ₹%{y:,.2f}<extra></extra>",
-    ), secondary_y=False)
+    ax.set_xticks(x)
+    ax.set_xticklabels(m["month_label"], rotation=45, ha="right",
+                       fontsize=8, color=_txtm())
+    ax.set_ylabel("Amount (\u20b9)", color=_txtm(), fontsize=10)
+    ax.set_title("Monthly Income vs Expenses", color=_txt(), fontsize=13, pad=12)
+    ax.yaxis.grid(True, color=_grd(), linestyle="--", linewidth=0.5)
+    ax.xaxis.grid(False)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: _fmt_inr(x)))
 
-    fig.update_layout(**_base_layout(
-        barmode="overlay",
-        hovermode="x unified",
-        xaxis=_no_grid_axis(),
-        yaxis=_axis("Amount (₹)", tickprefix="₹"),
-        legend=dict(
-            orientation="h", yanchor="bottom", y=1.02,
-            xanchor="right", x=1,
-            bgcolor="rgba(0,0,0,0)", borderwidth=0,
-            font=dict(size=11, color=_tm()),
-        ),
-        margin=dict(t=30, b=40, l=10, r=10),
-    ))
+    lines1, labels1 = ax.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax.legend(lines1 + lines2, labels1 + labels2,
+              facecolor=_legend_bg(), edgecolor=_border(),
+              labelcolor=_txtm(), fontsize=9, loc="upper left")
+    fig.tight_layout()
     return fig
 
 
-def fig_cumulative_balance(df: pd.DataFrame) -> go.Figure:
-    """
-    Area chart — running cumulative account balance over time.
-    """
+def fig_cumulative_balance(df: pd.DataFrame) -> plt.Figure:
+    """Area chart — cumulative account balance over time."""
     df_s = df.sort_values("date").copy()
     df_s["cumulative"] = df_s["signed_amount"].cumsum()
 
-    fig = go.Figure()
-    fig.add_trace(go.Scatter(
-        x=df_s["date"],
-        y=df_s["cumulative"],
-        mode="lines",
-        line=dict(color=C_ACCENT, width=2),
-        fill="tozeroy",
-        fillcolor="rgba(37,99,235,0.10)",
-        hovertemplate="<b>%{x|%d %b %Y}</b><br>Balance ₹%{y:,.2f}<extra></extra>",
-        name="Balance",
-    ))
-    fig.update_layout(**_base_layout(
-        xaxis=_no_grid_axis(),
-        yaxis=_axis("Balance (₹)", tickprefix="₹"),
-        showlegend=False,
-        margin=dict(t=10, b=40, l=10, r=10),
-    ))
+    fig, ax = _new_fig(12, 4)
+    ax.fill_between(df_s["date"], df_s["cumulative"],
+                    color=C_ACCENT, alpha=0.18)
+    ax.plot(df_s["date"], df_s["cumulative"],
+            color=C_ACCENT, linewidth=1.5)
+    ax.axhline(0, color=_border(), linewidth=0.8, linestyle="--")
+    ax.set_xlabel("Date", color=_txtm(), fontsize=10)
+    ax.set_ylabel("Balance (\u20b9)", color=_txtm(), fontsize=10)
+    ax.set_title("Cumulative Account Balance", color=_txt(), fontsize=13, pad=12)
+    ax.yaxis.grid(True, color=_grd(), linestyle="--", linewidth=0.5)
+    ax.xaxis.grid(False)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: _fmt_inr(x)))
+    fig.tight_layout()
     return fig
 
 
-def fig_heatmap(df: pd.DataFrame) -> go.Figure:
-    """
-    Heatmap — monthly spending by category.
-    Categories on Y (8 rows), months on X (last 24 months).
-    """
+def fig_day_of_week(df: pd.DataFrame) -> plt.Figure:
+    """Bar chart — total spending per day of week."""
+    dow = day_of_week_spending(df)
+    fig, ax = _new_fig(8, 4)
+
+    ax.bar(dow["day_of_week"], dow["total_spent"],
+           color=C_ACCENT, alpha=0.85, edgecolor="none")
+    ax.set_xlabel("Day of Week", color=_txtm(), fontsize=10)
+    ax.set_ylabel("Total Spent (\u20b9)", color=_txtm(), fontsize=10)
+    ax.set_title("Spending by Day of Week", color=_txt(), fontsize=13, pad=12)
+    ax.yaxis.grid(True, color=_grd(), linestyle="--", linewidth=0.5)
+    ax.xaxis.grid(False)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: _fmt_inr(x)))
+    fig.tight_layout()
+    return fig
+
+
+def fig_heatmap(df: pd.DataFrame) -> plt.Figure:
+    """Heatmap — category x month spending (last 24 months)."""
     hm = monthly_category_heatmap_data(df)
     if hm.empty:
-        return go.Figure()
+        _apply_style()
+        fig, ax = plt.subplots(facecolor=_bg())
+        ax.text(0.5, 0.5, "No data", ha="center", va="center",
+                color=_txtm(), transform=ax.transAxes)
+        return fig
 
-    # hm: rows=categories, columns=month_labels
-    # Keep only last 24 months to avoid overcrowding the X axis
     if hm.shape[1] > 24:
         hm = hm.iloc[:, -24:]
 
-    n_cats   = hm.shape[0]
-    n_months = hm.shape[1]
-    cell_h   = max(36, min(60, 400 // max(n_cats, 1)))
-    height   = cell_h * n_cats + 120  # rows + axis labels margin
+    n_cats = hm.shape[0]
+    height = max(5, n_cats * 0.5 + 2)
+    _apply_style()
+    fig, ax = plt.subplots(figsize=(16, height), facecolor=_bg())
+    ax.set_facecolor(_surf())
 
-    fig = px.imshow(
-        hm,                        # categories on Y, months on X
-        aspect="auto",
-        color_continuous_scale=[[0, "#0F172A"], [0.35, "#1E3A5F"], [0.7, "#1D4ED8"], [1, "#60A5FA"]],
-        text_auto=False,           # no per-cell annotations — too cluttered
-    )
-    fig.update_traces(
-        hovertemplate="<b>%{y}</b><br>%{x}<br><b>₹%{z:,.0f}</b><extra></extra>",
-        xgap=2,
-        ygap=2,
-    )
-    fig.update_layout(**_base_layout(
-        height=height,
-        coloraxis_showscale=True,
-        coloraxis_colorbar=dict(
-            tickfont=dict(color=_tm(), size=10),
-            title=dict(text="\u20b9 Spent", font=dict(color=_tm(), size=10)),
-            thickness=12,
-            len=0.8,
-        ),
-        xaxis=dict(
-            showgrid=False,
-            tickangle=-45,
-            tickfont=dict(size=10, color=_tm()),
-            title=None,
-            side="bottom",
-        ),
-        yaxis=dict(
-            showgrid=False,
-            tickfont=dict(size=11, color=_t()),
-            title=None,
-            autorange="reversed",  # top category first
-        ),
-        margin=dict(t=10, b=90, l=120, r=80),
-    ))
-    return fig
-
-
-# ── Insights charts ───────────────────────────────────────────────────────────
-
-def fig_savings_gauge(gauge_val: float, target: float) -> go.Figure:
-    """
-    Gauge indicator — current savings rate vs target.
-    """
-    # Determine bar colour based on performance
-    if gauge_val >= target:
-        bar_color = C_POSITIVE
-    elif gauge_val >= target * 0.7:
-        bar_color = C_WARNING
+    if _dark:
+        cmap = LinearSegmentedColormap.from_list(
+            "mm_blue", ["#0F172A", "#1E3A5F", "#1D4ED8", "#60A5FA"]
+        )
     else:
-        bar_color = C_NEGATIVE
+        cmap = LinearSegmentedColormap.from_list(
+            "mm_blue_light", ["#EFF6FF", "#BFDBFE", "#3B82F6", "#1D4ED8"]
+        )
 
-    fig = go.Figure(go.Indicator(
-        mode="gauge+number+delta",
-        value=gauge_val,
-        delta={
-            "reference":    target,
-            "valueformat":  ".1f",
-            "suffix":       "%",
-            "increasing":   {"color": C_POSITIVE},
-            "decreasing":   {"color": C_NEGATIVE},
-        },
-        number={"suffix": "%", "font": {"size": 38, "color": _t()}},
-        title={"text": "Savings Rate", "font": {"size": 13, "color": _tm()}},
-        gauge={
-            "axis": {
-                "range":      [0, 100],
-                "ticksuffix": "%",
-                "tickfont":   {"size": 10, "color": _tm()},
-            },
-            "bar":   {"color": bar_color, "thickness": 0.65},
-            "bgcolor": "rgba(0,0,0,0)",
-            "borderwidth": 0,
-            "steps": [
-                {"range": [0,  10],  "color": "rgba(220,38,38,0.12)"},
-                {"range": [10, 20],  "color": "rgba(217,119,6,0.12)"},
-                {"range": [20, 100], "color": "rgba(5,150,105,0.12)"},
-            ],
-            "threshold": {
-                "line":      {"color": _tm(), "width": 2},
-                "thickness": 0.75,
-                "value":     target,
-            },
-        },
-    ))
-    fig.update_layout(**_base_layout(
-        height=230,
-        margin=dict(t=30, b=20, l=20, r=20),
-    ))
+    sns.heatmap(
+        hm, ax=ax, cmap=cmap,
+        linewidths=0.5, linecolor=_bg(),
+        cbar_kws={"shrink": 0.6, "label": "\u20b9 Spent"},
+        annot=False,
+    )
+    ax.set_title("Category \u00d7 Month Spending Heatmap",
+                 color=_txt(), fontsize=13, pad=12)
+    ax.set_xlabel("Month", color=_txtm(), fontsize=10)
+    ax.set_ylabel("Category", color=_txtm(), fontsize=10)
+    ax.tick_params(colors=_txtm(), labelsize=9)
+    plt.setp(ax.get_xticklabels(), rotation=45, ha="right")
+    plt.setp(ax.get_yticklabels(), rotation=0)
+
+    cbar = ax.collections[0].colorbar
+    if cbar:
+        cbar.ax.tick_params(colors=_txtm(), labelsize=9)
+        cbar.ax.yaxis.label.set_color(_txtm())
+
+    fig.tight_layout()
     return fig
+
+
+def fig_savings_gauge(gauge_val: float, target: float = 20.0) -> plt.Figure:
+    """Semi-donut savings rate gauge."""
+    _apply_style()
+    fig, ax = plt.subplots(figsize=(6, 4), facecolor=_bg(),
+                           subplot_kw=dict(aspect="equal"))
+    ax.set_facecolor(_bg())
+
+    track_bg = "#1E3A5F" if _dark else "#DBEAFE"
+    theta_bg = np.linspace(np.pi, 0, 300)
+    r = 1.0
+    ax.plot(np.cos(theta_bg) * r, np.sin(theta_bg) * r,
+            color=track_bg, linewidth=22, solid_capstyle="round", zorder=1)
+
+    fill_frac = min(max(gauge_val / 100.0, 0.0), 1.0)
+    theta_val = np.linspace(np.pi, np.pi - fill_frac * np.pi, 300)
+    color = (C_POSITIVE if gauge_val >= target
+             else C_WARNING if gauge_val >= target * 0.7
+             else C_NEGATIVE)
+    ax.plot(np.cos(theta_val) * r, np.sin(theta_val) * r,
+            color=color, linewidth=22, solid_capstyle="round", zorder=2)
+
+    t_ang = np.pi - (target / 100.0) * np.pi
+    ax.plot(
+        [np.cos(t_ang) * 0.78, np.cos(t_ang) * 1.18],
+        [np.sin(t_ang) * 0.78, np.sin(t_ang) * 1.18],
+        color=_txtm(), linewidth=2, zorder=3,
+    )
+    ax.text(np.cos(t_ang) * 1.30, np.sin(t_ang) * 1.30,
+            f"Target\n{target:.0f}%", ha="center", va="center",
+            fontsize=8, color=_txtm())
+
+    ax.text(0, 0.15, f"{gauge_val:.1f}%", ha="center", va="center",
+            fontsize=26, fontweight="bold", color=_txt(), zorder=4)
+    ax.text(0, -0.22, "Savings Rate", ha="center", va="center",
+            fontsize=11, color=_txtm())
+    delta = gauge_val - target
+    delta_color = C_POSITIVE if delta >= 0 else C_NEGATIVE
+    sign = "+" if delta >= 0 else ""
+    ax.text(0, -0.48, f"{sign}{delta:.1f}% vs target",
+            ha="center", va="center", fontsize=9, color=delta_color)
+
+    ax.set_xlim(-1.5, 1.5)
+    ax.set_ylim(-0.7, 1.3)
+    ax.axis("off")
+    fig.tight_layout()
+    return fig
+
+
+def fig_day_transaction_count(df: pd.DataFrame) -> plt.Figure:
+    """Bar chart — number of transactions per day of week."""
+    dow = day_of_week_spending(df)
+    fig, ax = _new_fig(8, 4)
+
+    bars = ax.bar(dow["day_of_week"], dow["transaction_count"],
+                  color=C_POSITIVE, alpha=0.85, edgecolor="none")
+    max_val = dow["transaction_count"].max() if len(dow) else 1
+    for bar, val in zip(bars, dow["transaction_count"]):
+        ax.text(
+            bar.get_x() + bar.get_width() / 2,
+            bar.get_height() + max_val * 0.015,
+            str(int(val)), ha="center", va="bottom",
+            fontsize=9, color=_txtm(),
+        )
+
+    ax.set_xlabel("Day of Week", color=_txtm(), fontsize=10)
+    ax.set_ylabel("Number of Transactions", color=_txtm(), fontsize=10)
+    ax.set_title("Transaction Count by Day", color=_txt(), fontsize=13, pad=12)
+    ax.yaxis.grid(True, color=_grd(), linestyle="--", linewidth=0.5)
+    ax.xaxis.grid(False)
+    fig.tight_layout()
+    return fig
+
+
+def fig_day_avg_transaction(df: pd.DataFrame) -> plt.Figure:
+    """Bar chart — average transaction value per day of week."""
+    dow = day_of_week_spending(df)
+    fig, ax = _new_fig(8, 4)
+
+    bars = ax.bar(dow["day_of_week"], dow["avg_spent"],
+                  color=C_WARNING, alpha=0.85, edgecolor="none")
+    max_val = dow["avg_spent"].max() if len(dow) else 1
+    for bar, val in zip(bars, dow["avg_spent"]):
+        ax.text(
+            bar.get_x() + bar.get_width() / 2,
+            bar.get_height() + max_val * 0.015,
+            _fmt_inr(val), ha="center", va="bottom",
+            fontsize=8, color=_txtm(),
+        )
+
+    ax.set_xlabel("Day of Week", color=_txtm(), fontsize=10)
+    ax.set_ylabel("Avg Transaction (\u20b9)", color=_txtm(), fontsize=10)
+    ax.set_title("Avg Transaction Value by Day", color=_txt(), fontsize=13, pad=12)
+    ax.yaxis.grid(True, color=_grd(), linestyle="--", linewidth=0.5)
+    ax.xaxis.grid(False)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: _fmt_inr(x)))
+    fig.tight_layout()
+    return fig
+
+
+def fig_day_category_breakdown(df: pd.DataFrame) -> plt.Figure:
+    """Stacked bar chart — top 6 expense categories by day of week."""
+    day_order = [
+        "Monday", "Tuesday", "Wednesday", "Thursday",
+        "Friday", "Saturday", "Sunday",
+    ]
+    expense_df = df[df["transaction_type"] == "debit"].copy()
+    if expense_df.empty:
+        _apply_style()
+        fig, ax = plt.subplots(facecolor=_bg())
+        ax.text(0.5, 0.5, "No data", ha="center", va="center",
+                color=_txtm(), transform=ax.transAxes)
+        return fig
+
+    pivot = expense_df.pivot_table(
+        index="day_of_week", columns="category",
+        values="amount", aggfunc="sum", fill_value=0,
+    )
+    top_cats = pivot.sum().nlargest(6).index.tolist()
+    pivot = pivot[top_cats]
+    pivot.index = pd.Categorical(pivot.index, categories=day_order, ordered=True)
+    pivot = pivot.sort_index()
+
+    _apply_style()
+    fig, ax = plt.subplots(figsize=(12, 5), facecolor=_bg())
+    ax.set_facecolor(_surf())
+    ax.spines[:].set_edgecolor(_border())
+    ax.tick_params(colors=_txtm())
+
+    colors = (CHART_PALETTE * 2)[:len(top_cats)]
+    bottom = np.zeros(len(pivot))
+    for cat, color in zip(top_cats, colors):
+        vals = pivot[cat].values
+        ax.bar(pivot.index.astype(str), vals, bottom=bottom,
+               label=cat, color=color, alpha=0.90, edgecolor="none")
+        bottom += vals
+
+    ax.set_xlabel("Day of Week", color=_txtm(), fontsize=10)
+    ax.set_ylabel("Total Spent (\u20b9)", color=_txtm(), fontsize=10)
+    ax.set_title("Spending by Category \u00d7 Day of Week",
+                 color=_txt(), fontsize=13, pad=12)
+    ax.yaxis.grid(True, color=_grd(), linestyle="--", linewidth=0.5)
+    ax.xaxis.grid(False)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: _fmt_inr(x)))
+    ax.legend(facecolor=_legend_bg(), edgecolor=_border(),
+              labelcolor=_txtm(), fontsize=9, loc="upper right")
+    fig.tight_layout()
+    return fig
+
+
+# ── Batch helpers ──────────────────────────────────────────────────────────────
+
+def build_all(df: pd.DataFrame, insights: dict) -> dict:
+    """
+    Build all charts and return a name -> Figure mapping.
+    Call set_theme(dark=True/False) before this to control styling.
+    """
+    savings_rate = insights.get("savings_rate", {}).get("savings_rate", 0.0)
+    return {
+        "spending_pie":            fig_spending_pie(df),
+        "top_categories":          fig_top_categories(df),
+        "monthly_trend":           fig_monthly_trend(df),
+        "cumulative_balance":      fig_cumulative_balance(df),
+        "day_of_week":             fig_day_of_week(df),
+        "day_transaction_count":   fig_day_transaction_count(df),
+        "day_avg_transaction":     fig_day_avg_transaction(df),
+        "day_category_breakdown":  fig_day_category_breakdown(df),
+        "heatmap":                 fig_heatmap(df),
+        "savings_gauge":           fig_savings_gauge(savings_rate),
+    }
+
+
+def save_all(figures: dict, out_dir: str, dpi: int = 150) -> list:
+    """Save all figures to `out_dir` as PNG files. Returns list of saved paths."""
+    os.makedirs(out_dir, exist_ok=True)
+    saved = []
+    for name, fig in figures.items():
+        path = os.path.join(out_dir, f"{name}.png")
+        fig.savefig(path, dpi=dpi, bbox_inches="tight",
+                    facecolor=fig.get_facecolor())
+        plt.close(fig)
+        saved.append(path)
+    return saved

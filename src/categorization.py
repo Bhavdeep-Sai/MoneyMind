@@ -96,9 +96,11 @@ def categorize_transactions(df: pd.DataFrame) -> pd.DataFrame:
     """
     df = df.copy()
 
-    # Ensure category column exists
+    # Ensure category column exists as object dtype (never float64 / ArrowDtype)
     if "category" not in df.columns:
-        df["category"] = np.nan
+        df["category"] = ""
+    # Coerce to plain numpy object so .loc assignment never hits dtype mismatch
+    df["category"] = df["category"].astype(object)
 
     # Track which rows need categorisation
     needs_category_mask = (
@@ -109,14 +111,19 @@ def categorize_transactions(df: pd.DataFrame) -> pd.DataFrame:
     fill_count = needs_category_mask.sum()
     if fill_count > 0:
         print(f"[Categorizer] Auto-categorizing {fill_count} uncategorized transactions...")
-        df.loc[needs_category_mask, "category"] = (
+        # .tolist() converts any ArrowStringArray / ExtensionArray → plain Python list
+        # so pandas never tries to coerce it into the column's dtype
+        categorised_values = (
             df.loc[needs_category_mask, "description"]
+            .astype(str)
             .apply(_keyword_match)
+            .tolist()
         )
+        df.loc[needs_category_mask, "category"] = categorised_values
         filled = (df["category"] != "Miscellaneous").sum()
         print(f"[Categorizer] Successfully categorized {fill_count} rows "
               f"({fill_count - (df.loc[needs_category_mask, 'category'] == 'Miscellaneous').sum()} "
-              f"matched keywords, rest → 'Miscellaneous').")
+              f"matched keywords, rest -> 'Miscellaneous').")
 
     # Normalise category capitalization
     df["category"] = df["category"].astype(str).str.strip().str.title()

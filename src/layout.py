@@ -363,4 +363,29 @@ div[data-baseweb="tab-highlight"],
 .mm-swatch:hover {{ transform: scale(1.15); }}
 .mm-swatch.selected {{ border-color: #FFFFFF !important; box-shadow: 0 0 0 2px rgba(255,255,255,0.6); }}
 .body--light .mm-swatch.selected {{ border-color: #0F172A !important; box-shadow: 0 0 0 2px rgba(0,0,0,0.25); }}
+
+/* ── Chart skeleton shimmer & fade-in ──────────────────────── */
+@keyframes mm-shimmer {{
+  0%   {{ background-position: -600px 0; }}
+  100% {{ background-position:  600px 0; }}
+}}
+@keyframes mm-fadein {{
+  from {{ opacity: 0; transform: translateY(10px); }}
+  to   {{ opacity: 1; transform: translateY(0); }}
+}}
+.mm-skeleton {{
+  background: linear-gradient(90deg,
+    var(--mm-surface) 25%,
+    var(--mm-border)  50%,
+    var(--mm-surface) 75%);
+  background-size: 800px 100%;
+  animation: mm-shimmer 1.4s infinite linear;
+  border-radius: 6px;
+  min-height: 260px;
+  width: 100%;
+  margin-top: 4px;
+}}
+.mm-chart-wrap {{
+  animation: mm-fadein 0.45s ease;
+}}
 """

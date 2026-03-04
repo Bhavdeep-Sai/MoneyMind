@@ -3,8 +3,9 @@
 pandas>=2.0.0
 numpy>=1.24.0
 
-# Interactive charts
-plotly>=5.15.0
+# Static charts
+matplotlib>=3.7.0
+seaborn>=0.12.0
 
-# NiceGUI dashboard
+# Web UI
 nicegui>=2.0.0

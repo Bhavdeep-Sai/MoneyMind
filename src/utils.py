@@ -44,19 +44,16 @@ CHART_PALETTE = [
     "#B45309",  # warm-brown
 ]
 
-# Plotly layout defaults (applied to every chart)
-CHART_LAYOUT = dict(
-    paper_bgcolor = "rgba(0,0,0,0)",
-    plot_bgcolor  = "rgba(0,0,0,0)",
-    font          = dict(family="Inter, system-ui, sans-serif",
-                         color=C_TEXT_MUT, size=12),
-    margin        = dict(t=30, b=40, l=10, r=10),
-    legend        = dict(bgcolor="rgba(0,0,0,0)", borderwidth=0),
-    hoverlabel    = dict(bgcolor=C_SURFACE, bordercolor=C_BORDER,
-                         font_color=C_TEXT, font_size=12),
-)
+# Chart grid colour
+GRID_COLOR  = "#1E3050"
 
-GRID_COLOR  = "#1E3050"   # subtle chart grid lines
+# ── Light theme colours ───────────────────────────────────────────────────────
+L_BG        = "#F8FAFC"   # page background
+L_SURFACE   = "#FFFFFF"   # card / panel surface
+L_BORDER    = "#CBD5E1"   # dividers and borders
+L_TEXT      = "#0F172A"   # primary text
+L_TEXT_MUT  = "#475569"   # muted / secondary text
+L_GRID      = "#E2E8F0"   # chart grid lines
 
 # ── Formatting helpers ─────────────────────────────────────────────────────────
 
