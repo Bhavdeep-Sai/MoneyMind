@@ -29,7 +29,7 @@ recommendations, trend analysis, and a fully themed UI.
 |---|---|
 | **Flexible CSV import** | Only `date` + `amount` are required — description, transaction type, and category are inferred or defaulted |
 | **Auto alias mapping** | Recognises common bank export column names: `Narration`, `Particulars`, `Dr/Cr`, `Transaction Date`, etc. |
-| **Auto-categorization** | Keyword-rule engine + KMeans fallback assigns categories to unlabelled transactions |
+| **Auto-categorization** | Keyword-rule engine assigns categories across 13+ expense types to unlabelled transactions |
 | **Interactive dashboard** | 5 tabs: Overview, Trends, Categories, Day Analysis, Savings Insights |
 | **Live theme switching** | Dark / Light mode toggle + 8 accent colour presets + custom hex input |
 | **Upload CSV** | Upload any bank CSV directly from the browser — large files processed async without UI freeze |
@@ -46,29 +46,37 @@ recommendations, trend analysis, and a fully themed UI.
 MoneyMind/
 │
 ├── data/
-│   ├── transactions.csv              # Default dataset (auto-loaded on startup)
-│   ├── sample_01_standard.csv        # 1 500 rows — standard 5-column format
-│   ├── sample_02_bank_export.csv     # 1 200 rows — Indian bank style (Narration, Dr/Cr, DD/MM/YYYY)
-│   ├── sample_03_minimal.csv         # 1 000 rows — only date + signed amount
-│   ├── sample_04_us_bank.csv         # 1 300 rows — US bank style column names
-│   ├── sample_05_highvolume.csv      # 2 000 rows — Rs 1,234.56 currency formatting
-│   └── generate_samples.py           # Script that created the sample files
+│   ├── transactions.csv                      # Default dataset (auto-loaded on startup)
+│   ├── sample_01_standard.csv                # 1 500 rows — standard 5-column format
+│   ├── sample_02_bank_export.csv             # 1 200 rows — Indian bank style (Narration, Dr/Cr, DD/MM/YYYY)
+│   ├── sample_03_minimal.csv                 # 1 000 rows — only date + signed amount
+│   ├── sample_04_us_bank.csv                 # 1 300 rows — US bank style column names
+│   ├── sample_05_highvolume.csv              # 2 000 rows — Rs 1,234.56 currency formatting
+│   ├── sample_06_startup_employee.csv        # 2 200 rows — standard 5-column, YYYY-MM-DD
+│   ├── sample_07_student_minimal.csv         # 2 000 rows — date + signed amount only
+│   ├── sample_08_retired_couple.csv          # 2 500 rows — Value Date / Narration / Dr/Cr columns
+│   ├── sample_09_freelancer.csv              # 2 300 rows — ₹ currency prefix
+│   ├── sample_10_family_household.csv        # 2 800 rows — INR prefix
+│   ├── sample_11_hdfc_style.csv              # 2 100 rows — split Debit / Credit columns
+│   ├── sample_12_sbi_passbook.csv            # 2 050 rows — Withdrawal Amt(INR) / Deposit Amt(INR)
+│   ├── sample_13_high_income_professional.csv# 2 000 rows — Rs signed amounts, no separate type
+│   ├── sample_14_mixed_locale.csv            # 2 200 rows — Expense / Income type labels
+│   ├── sample_15_five_year_history.csv       # 3 000 rows — YYYY/MM/DD, 5 years of data
+│   ├── generate_samples.py                   # Generates sample_01 – sample_05
+│   └── generate_more_samples.py              # Generates sample_06 – sample_15
 │
 ├── src/
 │   ├── app.py                        # NiceGUI entry point — page, header, dialogs, dashboard
 │   ├── layout.py                     # Reusable UI components + global CSS (theme vars)
-│   ├── charts.py                     # 8 Plotly chart builders
+│   ├── charts.py                     # 8 Plotly chart builders (theme-adaptive)
 │   ├── utils.py                      # Colour constants, number formatters (fmt_inr, fmt_pct)
 │   ├── data_processing.py            # ETL orchestrator + file-mtime cache + replace_data()
-│   ├── data_loader.py                # CSV loading, alias mapping, schema validation
+│   ├── data_loader.py                # CSV loading, alias mapping, split-column merge, validation
 │   ├── data_cleaning.py              # Date parsing, amount coercion, normalisation, dedup
-│   ├── categorization.py             # Keyword-rule categorizer + KMeans clustering
+│   ├── categorization.py             # Keyword-rule categorizer (13+ categories)
 │   ├── analysis.py                   # Spending summaries, trends, pivot tables
-│   ├── savings_insights.py           # Savings rate, subscription audit, recommendations
-│   ├── visualization.py              # Static matplotlib/seaborn chart exports (legacy CLI)
-│   └── main.py                       # CLI pipeline entry point
+│   └── savings_insights.py           # Savings rate, subscription audit, recommendations
 │
-├── output/                           # Auto-created — saved HTML dashboard (legacy CLI)
 ├── requirements.txt
 └── README.md
 ```
@@ -101,9 +109,8 @@ Key uses in MoneyMind:
 
 ### NumPy — Numerical Operations
 **Why:** NumPy underpins pandas' vectorised math. Used directly for:
-- `np.where()` — derives signed amounts (credit → positive, debit → negative)
+- `np.where()` — merges split Debit/Credit columns and derives signed amounts
 - NaN detection and filling
-- KMeans feature matrix construction
 
 ---
 
@@ -119,6 +126,7 @@ Charts in MoneyMind:
 - `px.imshow` — spending heatmap
 - `go.Indicator` — savings rate gauge
 - All charts share a `_base_layout()` helper for consistent colours and fonts
+- `set_dark(bool)` switches every chart's colour scheme at runtime (called by the theme toggle)
 
 ---
 
@@ -143,17 +151,6 @@ Key NiceGUI features used:
 
 ---
 
-### scikit-learn — ML Categorization Fallback
-**Why:** When keyword rules cannot match a transaction description, KMeans
-clustering groups similar descriptions using TF-IDF text features. This means
-even completely unlabelled CSVs receive meaningful category assignments.
-
-Used modules:
-- `sklearn.cluster.KMeans`
-- `sklearn.feature_extraction.text.TfidfVectorizer`
-
----
-
 ### CSS Custom Properties — Theming System
 **Why:** Instead of hardcoding hex colours in Python strings (which would require
 a full Python re-render to change), all component colours are expressed as CSS
@@ -165,13 +162,6 @@ which `ui.dark_mode()` triggers — instantly re-themes every component.
 :root, .body--dark  { --mm-surface: #1E293B; --mm-text: #F1F5F9; ... }
 .body--light        { --mm-surface: #FFFFFF; --mm-text: #0F172A; ... }
 ```
-
----
-
-### matplotlib / seaborn — Static Chart Export (legacy)
-**Why:** The original CLI pipeline (`main.py`) exports static `.png` charts to
-`output/`. Kept for users who want to save charts without running the live
-dashboard. The dashboard itself uses Plotly exclusively.
 
 ---
 
@@ -235,7 +225,22 @@ Only **`date`** and **`amount`** are required. Everything else is synthesised au
 | `amount` | **Yes** | — |
 | `description` | No | `"Unknown"` |
 | `transaction_type` | No | Inferred from amount sign (`+` → credit, `−` → debit); fallback `"debit"` |
-| `category` | No | Filled by keyword engine + KMeans |
+| `category` | No | Filled by keyword-rule engine |
+
+### Split Debit / Credit columns (HDFC, SBI style)
+
+If your CSV has **separate Debit and Credit columns** instead of a single Amount
+column, the loader merges them automatically. Recognised column-name pairs:
+
+| Debit column | Credit column |
+|---|---|
+| `Debit` | `Credit` |
+| `Withdrawal Amt(INR)` | `Deposit Amt(INR)` |
+| `Withdrawal Amount` | `Deposit Amount` |
+| `Withdrawal` | `Deposit` |
+| `Debit Amount` | `Credit Amount` |
+| `Dr Amount` | `Cr Amount` |
+| `Dr` | `Cr` |
 
 ### Accepted column name aliases
 
@@ -269,20 +274,34 @@ conversion: `₹`, `Rs`, `INR`, `$`, `£`, `€`, and commas (`,`).
 
 ## Sample CSV Files
 
-Five ready-to-upload files are included in `data/`:
+Fifteen ready-to-upload files are included in `data/`:
 
-| File | Rows | Format |
+| File | Rows | Format / Persona |
 |---|---|---|
-| `sample_01_standard.csv` | 1 500 | Full 5-column standard format, `YYYY-MM-DD` dates |
-| `sample_02_bank_export.csv` | 1 200 | Indian bank: `Narration`, `Dr/Cr` columns, `DD/MM/YYYY` dates |
-| `sample_03_minimal.csv` | 1 000 | Only `date` + signed amount (+ = credit, − = debit) |
-| `sample_04_us_bank.csv` | 1 300 | US bank aliases: `Transaction Date`, `Particulars`, `Debit/Credit Amount` |
-| `sample_05_highvolume.csv` | 2 000 | `Rs 1,234.56` currency formatting, 3 years of data |
+| `sample_01_standard.csv` | 1 500 | Full 5-column standard, `YYYY-MM-DD` |
+| `sample_02_bank_export.csv` | 1 200 | Indian bank — `Narration`, `Dr/Cr`, `DD/MM/YYYY` |
+| `sample_03_minimal.csv` | 1 000 | Only `date` + signed amount |
+| `sample_04_us_bank.csv` | 1 300 | US bank aliases — `Transaction Date`, `Particulars` |
+| `sample_05_highvolume.csv` | 2 000 | `Rs 1,234.56` formatting, 3-year history |
+| `sample_06_startup_employee.csv` | 2 200 | Startup employee — standard 5-column |
+| `sample_07_student_minimal.csv` | 2 000 | Student — date + signed amount only |
+| `sample_08_retired_couple.csv` | 2 500 | Retired couple — `Value Date` / `Narration` / `Dr/Cr` |
+| `sample_09_freelancer.csv` | 2 300 | Freelancer — `₹` currency prefix |
+| `sample_10_family_household.csv` | 2 800 | Family household — `INR` prefix |
+| `sample_11_hdfc_style.csv` | 2 100 | HDFC-style — separate `Debit` and `Credit` columns |
+| `sample_12_sbi_passbook.csv` | 2 050 | SBI passbook — `Withdrawal Amt(INR)` / `Deposit Amt(INR)` |
+| `sample_13_high_income_professional.csv` | 2 000 | High income — `Rs` signed amounts, no type column |
+| `sample_14_mixed_locale.csv` | 2 200 | Mixed — `Expense` / `Income` type labels |
+| `sample_15_five_year_history.csv` | 3 000 | 5-year history — `YYYY/MM/DD` dates |
 
 Regenerate at any time:
 
 ```powershell
+# Original 5 files
 python data/generate_samples.py
+
+# Additional 10 files (sample_06 – sample_15)
+python data/generate_more_samples.py
 ```
 
 ---
@@ -304,6 +323,8 @@ python data/generate_samples.py
 - `GLOBAL_CSS` — Full CSS custom property theme system + all `mm-*` component classes
 
 ### `src/charts.py` — Plotly Chart Builders
+- `set_dark(bool)` — Switches all charts between dark and light colour scheme; called by the theme toggle
+
 | Function | Chart | Description |
 |---|---|---|
 | `fig_spending_pie` | Donut | Category share of total expenses |
@@ -321,10 +342,12 @@ python data/generate_samples.py
 - `append_row(…)` — Appends one manually entered transaction row to CSV
 
 ### `src/data_loader.py` — CSV Loading & Validation
-- `load_transactions(filepath)` — Load CSV, apply aliases, validate, fill missing optional columns
+- `load_transactions(filepath)` — Load CSV, apply aliases, merge split columns, validate, fill missing optional columns
 - `_apply_aliases(df)` — In-place rename of bank export column names to canonical names
+- `_merge_split_amount_columns(df)` — Detects HDFC/SBI-style separate Debit/Credit columns and merges them into `amount` + `transaction_type`
 - `_fill_missing_optional(df)` — Add `description`, `transaction_type`, `category` defaults when absent
 - `_validate_schema(df)` — Raise `ValueError` only if `date` or `amount` are missing
+- `_SPLIT_AMOUNT_PAIRS` — Recognised debit/credit column-name pairs (7 variants)
 
 ### `src/data_cleaning.py` — Preprocessing Pipeline
 `clean_transactions(df)` runs these steps in order:
@@ -340,7 +363,6 @@ python data/generate_samples.py
 
 ### `src/categorization.py` — Auto-Categorization
 - `categorize_transactions(df)` — Fills blank `category` using keyword rules across 13+ categories
-- `cluster_spending_behavior(df, n_clusters)` — TF-IDF + KMeans for description-based clustering
 - `CATEGORY_KEYWORDS` — Editable dict mapping category names to keyword lists
 
 ### `src/analysis.py` — Analytics
@@ -438,14 +460,6 @@ DINING_ALERT_MULTIPLIER   = 1.5   # flag if dining > 1.5× average
 4. No manual column renaming needed — supported formats include HDFC, SBI,
    ICICI, Axis, and most international bank statement exports
 
-### Run the legacy CLI pipeline
-
-```powershell
-cd src
-python main.py                         # basic run
-python main.py --cluster --dashboard   # with KMeans clustering + HTML export
-```
-
 ---
 
 ## Requirements
@@ -453,9 +467,6 @@ python main.py --cluster --dashboard   # with KMeans clustering + HTML export
 ```
 pandas>=2.0.0
 numpy>=1.24.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-scikit-learn>=1.3.0
 plotly>=5.15.0
 nicegui>=2.0.0
 ```
