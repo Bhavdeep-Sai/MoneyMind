@@ -1,0 +1,2201 @@
+Transaction Date,Description,Net Amount,Type,Spending Category
+01-01-2023,Myntra Fashion,1246.65,Expense,Shopping
+01-01-2023,Freelance Payment,23132.6,Income,Income
+01-01-2023,Book Purchase,283.06,Expense,Education
+01-02-2023,Book Purchase,1277.0,Expense,Education
+01-02-2023,Apollo Pharmacy,1699.11,Expense,Healthcare
+01-03-2023,Gaming Recharge,1512.87,Expense,Entertainment
+01-03-2023,UPI Received,12727.31,Income,Income
+01-03-2023,Newspaper Subscription,163.25,Expense,Subscriptions
+01-03-2023,Flipkart Order,2736.99,Expense,Shopping
+01-04-2023,YouTube Premium,139.0,Expense,Subscriptions
+01-04-2023,Water Bill,411.03,Expense,Utilities
+01-04-2023,Doctor Consultation,1468.91,Expense,Healthcare
+01-04-2023,Reliance Fresh,257.91,Expense,Groceries
+01-05-2023,Maintenance Charges,626.48,Expense,Housing
+01-05-2023,House Rent,19961.11,Expense,Housing
+01-05-2023,More Supermarket,810.06,Expense,Groceries
+01-06-2023,Hotel Stay,4383.22,Expense,Travel
+01-06-2023,Online Course,2605.76,Expense,Education
+01-07-2023,Newspaper Subscription,140.51,Expense,Subscriptions
+01-08-2023,Flipkart Order,5717.08,Expense,Shopping
+01-08-2023,Water Bill,511.39,Expense,Utilities
+01-09-2023,Ola Cab,256.02,Expense,Transportation
+01-11-2023,Water Bill,269.85,Expense,Utilities
+01-12-2023,Hair Salon,1177.04,Expense,Personal Care
+01-13-2023,Jio Recharge,513.51,Expense,Utilities
+01-13-2023,Myntra Fashion,2536.71,Expense,Shopping
+01-13-2023,Zomato Food Delivery,706.02,Expense,Food & Dining
+01-13-2023,PVR Cinemas,385.89,Expense,Entertainment
+01-13-2023,Coffee Shop,198.36,Expense,Food & Dining
+01-14-2023,Ajio Clothing,1047.24,Expense,Shopping
+01-14-2023,Reliance Fresh,803.14,Expense,Groceries
+01-14-2023,Rapido Bike Taxi,163.59,Expense,Transportation
+01-15-2023,Airtel Mobile Bill,919.68,Expense,Utilities
+01-15-2023,Transfer Received,49789.24,Income,Income
+01-16-2023,Swiggy Order,666.24,Expense,Food & Dining
+01-17-2023,School Fees,9003.91,Expense,Education
+01-19-2023,Swiggy Order,896.27,Expense,Food & Dining
+01-20-2023,Rental Income,21992.75,Income,Income
+01-20-2023,Hotstar Subscription,861.2,Expense,Subscriptions
+01-21-2023,Hotstar Subscription,198.28,Expense,Subscriptions
+01-21-2023,Meesho Order,869.42,Expense,Shopping
+01-21-2023,House Rent,28867.32,Expense,Housing
+01-22-2023,Hotstar Subscription,704.95,Expense,Subscriptions
+01-22-2023,BigBasket Groceries,3546.5,Expense,Groceries
+01-25-2023,ATM Withdrawal,1401.65,Expense,Miscellaneous
+01-25-2023,DMart Purchase,1553.23,Expense,Groceries
+01-26-2023,1mg Medicine Order,1247.7,Expense,Healthcare
+01-26-2023,BookMyShow Tickets,640.89,Expense,Entertainment
+01-27-2023,Reliance Fresh,1730.38,Expense,Groceries
+01-27-2023,Spotify Premium,119.0,Expense,Subscriptions
+01-27-2023,Gaming Recharge,1956.96,Expense,Entertainment
+01-28-2023,Metro Card Recharge,212.62,Expense,Transportation
+01-28-2023,Hotel Stay,7384.04,Expense,Travel
+01-28-2023,School Fees,10695.89,Expense,Education
+01-29-2023,School Fees,3929.93,Expense,Education
+01-29-2023,UPI Received,4705.84,Income,Income
+01-30-2023,Maintenance Charges,2009.76,Expense,Housing
+01-30-2023,More Supermarket,707.4,Expense,Groceries
+01-30-2023,Bonus Credit,22516.09,Income,Income
+01-31-2023,Apollo Pharmacy,1703.17,Expense,Healthcare
+02-01-2023,Gaming Recharge,1780.47,Expense,Entertainment
+02-01-2023,DMart Purchase,1365.2,Expense,Groceries
+02-01-2023,Cashback Credit,86.84,Income,Income
+02-01-2023,1mg Medicine Order,153.49,Expense,Healthcare
+02-01-2023,DMart Purchase,1854.54,Expense,Groceries
+02-02-2023,PVR Cinemas,734.01,Expense,Entertainment
+02-02-2023,Amazon Prime,877.72,Expense,Subscriptions
+02-02-2023,Hair Salon,947.8,Expense,Personal Care
+02-03-2023,Zomato Food Delivery,280.74,Expense,Food & Dining
+02-03-2023,Gym Membership,1784.74,Expense,Healthcare
+02-03-2023,Rental Income,16138.84,Income,Income
+02-03-2023,Book Purchase,1312.48,Expense,Education
+02-05-2023,Jio Recharge,498.0,Expense,Utilities
+02-05-2023,Hotel Stay,4883.47,Expense,Travel
+02-06-2023,Freelance Payment,7396.44,Income,Income
+02-07-2023,Maintenance Charges,1034.44,Expense,Housing
+02-08-2023,Airtel Mobile Bill,586.19,Expense,Utilities
+02-08-2023,Travel Booking,8529.8,Expense,Travel
+02-08-2023,Amazon Purchase,4880.89,Expense,Shopping
+02-09-2023,Transfer Received,46702.3,Income,Income
+02-10-2023,Jio Recharge,244.83,Expense,Utilities
+02-11-2023,Ajio Clothing,966.96,Expense,Shopping
+02-11-2023,Rapido Bike Taxi,149.2,Expense,Transportation
+02-11-2023,Ajio Clothing,2409.0,Expense,Shopping
+02-12-2023,House Rent,10053.66,Expense,Housing
+02-13-2023,Meesho Order,210.09,Expense,Shopping
+02-13-2023,Insurance Premium,2411.7,Expense,Insurance
+02-14-2023,Ola Cab,217.13,Expense,Transportation
+02-14-2023,Hair Salon,405.18,Expense,Personal Care
+02-14-2023,Metro Card Recharge,623.07,Expense,Transportation
+02-14-2023,Zomato Food Delivery,244.99,Expense,Food & Dining
+02-15-2023,Hair Salon,1383.29,Expense,Personal Care
+02-16-2023,Hotel Stay,3456.0,Expense,Travel
+02-16-2023,Doctor Consultation,1990.82,Expense,Healthcare
+02-17-2023,Swiggy Order,182.1,Expense,Food & Dining
+02-17-2023,Transfer Received,42446.38,Income,Income
+02-18-2023,Parking Charges,76.07,Expense,Transportation
+02-18-2023,Maintenance Charges,511.05,Expense,Housing
+02-19-2023,Ola Cab,395.77,Expense,Transportation
+02-20-2023,Travel Booking,10180.97,Expense,Travel
+02-20-2023,Freelance Payment,19059.89,Income,Income
+02-21-2023,Bonus Credit,6497.2,Income,Income
+02-23-2023,UPI Received,786.8,Income,Income
+02-23-2023,Swiggy Order,296.37,Expense,Food & Dining
+02-23-2023,1mg Medicine Order,1370.9,Expense,Healthcare
+02-23-2023,More Supermarket,618.16,Expense,Groceries
+02-23-2023,Cashback Credit,157.57,Income,Income
+02-24-2023,Uber Ride,343.5,Expense,Transportation
+02-24-2023,Spotify Premium,119.0,Expense,Subscriptions
+02-25-2023,Rapido Bike Taxi,38.02,Expense,Transportation
+02-25-2023,Netflix Subscription,533.0,Expense,Subscriptions
+02-26-2023,Amazon Prime,337.0,Expense,Subscriptions
+02-26-2023,Coffee Shop,405.81,Expense,Food & Dining
+02-27-2023,School Fees,4733.66,Expense,Education
+02-27-2023,Petrol / Diesel,1137.82,Expense,Transportation
+02-28-2023,Electricity Bill,3216.5,Expense,Utilities
+03-02-2023,Bonus Credit,44036.8,Income,Income
+03-02-2023,Maintenance Charges,518.75,Expense,Housing
+03-03-2023,Gym Membership,1633.61,Expense,Healthcare
+03-03-2023,Hotel Stay,8925.95,Expense,Travel
+03-04-2023,More Supermarket,1581.16,Expense,Groceries
+03-05-2023,Hotel Stay,4057.26,Expense,Travel
+03-06-2023,House Rent,14324.96,Expense,Housing
+03-06-2023,Ola Cab,336.93,Expense,Transportation
+03-07-2023,Gym Membership,764.29,Expense,Healthcare
+03-08-2023,PVR Cinemas,740.3,Expense,Entertainment
+03-08-2023,Transfer Received,25453.87,Income,Income
+03-08-2023,Petrol / Diesel,3405.85,Expense,Transportation
+03-08-2023,Transfer Received,23172.96,Income,Income
+03-08-2023,Cashback Credit,993.72,Income,Income
+03-09-2023,Rapido Bike Taxi,115.13,Expense,Transportation
+03-09-2023,Hotel Stay,3018.66,Expense,Travel
+03-09-2023,Book Purchase,1210.68,Expense,Education
+03-09-2023,Apollo Pharmacy,373.54,Expense,Healthcare
+03-11-2023,Freelance Payment,6618.12,Income,Income
+03-12-2023,House Rent,25424.67,Expense,Housing
+03-12-2023,Gym Membership,1110.97,Expense,Healthcare
+03-13-2023,Amazon Purchase,2566.26,Expense,Shopping
+03-14-2023,Hotstar Subscription,247.59,Expense,Subscriptions
+03-14-2023,Online Course,2937.38,Expense,Education
+03-15-2023,Hotstar Subscription,441.38,Expense,Subscriptions
+03-15-2023,Uber Ride,477.0,Expense,Transportation
+03-15-2023,Amazon Purchase,7085.88,Expense,Shopping
+03-15-2023,House Rent,16552.07,Expense,Housing
+03-16-2023,Gaming Recharge,196.6,Expense,Entertainment
+03-17-2023,Newspaper Subscription,154.91,Expense,Subscriptions
+03-18-2023,Apollo Pharmacy,1314.44,Expense,Healthcare
+03-18-2023,Freelance Payment,23951.45,Income,Income
+03-18-2023,Travel Booking,7080.06,Expense,Travel
+03-18-2023,ATM Withdrawal,1154.01,Expense,Miscellaneous
+03-19-2023,PVR Cinemas,597.9,Expense,Entertainment
+03-19-2023,Swiggy Order,151.42,Expense,Food & Dining
+03-20-2023,Newspaper Subscription,270.42,Expense,Subscriptions
+03-21-2023,Freelance Payment,19957.71,Income,Income
+03-21-2023,Meesho Order,1029.5,Expense,Shopping
+03-22-2023,Flipkart Order,3944.09,Expense,Shopping
+03-22-2023,Myntra Fashion,849.89,Expense,Shopping
+03-22-2023,Amazon Prime,944.09,Expense,Subscriptions
+03-23-2023,Zomato Food Delivery,492.69,Expense,Food & Dining
+03-24-2023,Zomato Food Delivery,203.52,Expense,Food & Dining
+03-24-2023,Newspaper Subscription,151.63,Expense,Subscriptions
+03-25-2023,Zomato Food Delivery,844.0,Expense,Food & Dining
+03-27-2023,BookMyShow Tickets,1327.6,Expense,Entertainment
+03-27-2023,Hair Salon,337.9,Expense,Personal Care
+03-27-2023,Myntra Fashion,2558.22,Expense,Shopping
+03-28-2023,Parking Charges,160.76,Expense,Transportation
+03-28-2023,DMart Purchase,2013.26,Expense,Groceries
+03-28-2023,Freelance Payment,10942.8,Income,Income
+03-28-2023,Coffee Shop,267.93,Expense,Food & Dining
+03-29-2023,Cashback Credit,935.45,Income,Income
+03-30-2023,Spotify Premium,119.0,Expense,Subscriptions
+04-01-2023,1mg Medicine Order,1290.87,Expense,Healthcare
+04-01-2023,Restaurant Dinner,2550.56,Expense,Food & Dining
+04-02-2023,Metro Card Recharge,536.98,Expense,Transportation
+04-03-2023,Interest Credit,2969.71,Income,Income
+04-03-2023,Zomato Food Delivery,282.06,Expense,Food & Dining
+04-04-2023,Ajio Clothing,589.77,Expense,Shopping
+04-04-2023,Jio Recharge,239.56,Expense,Utilities
+04-05-2023,BookMyShow Tickets,1373.24,Expense,Entertainment
+04-05-2023,More Supermarket,1369.34,Expense,Groceries
+04-06-2023,Water Bill,759.13,Expense,Utilities
+04-07-2023,Uber Ride,230.86,Expense,Transportation
+04-07-2023,Meesho Order,744.01,Expense,Shopping
+04-07-2023,Metro Card Recharge,207.46,Expense,Transportation
+04-08-2023,UPI Received,4829.4,Income,Income
+04-10-2023,UPI Received,14186.37,Income,Income
+04-10-2023,Metro Card Recharge,309.52,Expense,Transportation
+04-10-2023,Travel Booking,14144.56,Expense,Travel
+04-11-2023,Cashback Credit,589.47,Income,Income
+04-12-2023,Ajio Clothing,2076.86,Expense,Shopping
+04-12-2023,BookMyShow Tickets,572.9,Expense,Entertainment
+04-13-2023,Ajio Clothing,1242.65,Expense,Shopping
+04-14-2023,Water Bill,536.19,Expense,Utilities
+04-14-2023,Jio Recharge,374.11,Expense,Utilities
+04-15-2023,YouTube Premium,139.0,Expense,Subscriptions
+04-15-2023,Spotify Premium,119.0,Expense,Subscriptions
+04-16-2023,Maintenance Charges,2003.65,Expense,Housing
+04-16-2023,Dividend Credit,12857.07,Income,Income
+04-17-2023,Airtel Mobile Bill,740.07,Expense,Utilities
+04-18-2023,ATM Withdrawal,4950.83,Expense,Miscellaneous
+04-19-2023,Water Bill,396.45,Expense,Utilities
+04-21-2023,More Supermarket,777.84,Expense,Groceries
+04-21-2023,Spa Treatment,987.55,Expense,Personal Care
+04-21-2023,Rapido Bike Taxi,44.11,Expense,Transportation
+04-21-2023,Travel Booking,7225.39,Expense,Travel
+04-22-2023,Gaming Recharge,1919.68,Expense,Entertainment
+04-22-2023,Hair Salon,1274.44,Expense,Personal Care
+04-23-2023,Apollo Pharmacy,1719.15,Expense,Healthcare
+04-23-2023,School Fees,8613.76,Expense,Education
+04-23-2023,Interest Credit,1573.12,Income,Income
+04-23-2023,Airtel Mobile Bill,529.84,Expense,Utilities
+04-23-2023,House Rent,19532.25,Expense,Housing
+04-23-2023,Parking Charges,93.63,Expense,Transportation
+04-24-2023,Swiggy Order,744.32,Expense,Food & Dining
+04-25-2023,Rental Income,8158.28,Income,Income
+04-27-2023,BookMyShow Tickets,327.47,Expense,Entertainment
+04-27-2023,Newspaper Subscription,205.69,Expense,Subscriptions
+04-28-2023,School Fees,6922.17,Expense,Education
+04-28-2023,Maintenance Charges,1198.28,Expense,Housing
+04-29-2023,Apollo Pharmacy,341.28,Expense,Healthcare
+04-30-2023,PVR Cinemas,748.5,Expense,Entertainment
+04-30-2023,PVR Cinemas,327.53,Expense,Entertainment
+05-01-2023,Zomato Food Delivery,271.76,Expense,Food & Dining
+05-02-2023,Transfer Received,10606.12,Income,Income
+05-02-2023,Doctor Consultation,347.23,Expense,Healthcare
+05-02-2023,Hotstar Subscription,269.05,Expense,Subscriptions
+05-02-2023,Amazon Prime,433.34,Expense,Subscriptions
+05-03-2023,BigBasket Groceries,1598.25,Expense,Groceries
+05-03-2023,Hair Salon,542.03,Expense,Personal Care
+05-03-2023,Ajio Clothing,627.84,Expense,Shopping
+05-04-2023,Maintenance Charges,1780.83,Expense,Housing
+05-04-2023,Transfer Received,41622.99,Income,Income
+05-04-2023,Online Course,856.69,Expense,Education
+05-05-2023,Water Bill,673.89,Expense,Utilities
+05-05-2023,Myntra Fashion,1894.42,Expense,Shopping
+05-05-2023,Petrol / Diesel,3372.76,Expense,Transportation
+05-05-2023,Online Course,3815.06,Expense,Education
+05-05-2023,Book Purchase,495.52,Expense,Education
+05-05-2023,Hair Salon,326.17,Expense,Personal Care
+05-05-2023,YouTube Premium,139.0,Expense,Subscriptions
+05-05-2023,Airtel Mobile Bill,317.89,Expense,Utilities
+05-06-2023,Metro Card Recharge,618.1,Expense,Transportation
+05-07-2023,Uber Ride,327.44,Expense,Transportation
+05-08-2023,BookMyShow Tickets,722.9,Expense,Entertainment
+05-08-2023,Coffee Shop,136.81,Expense,Food & Dining
+05-08-2023,DMart Purchase,2744.17,Expense,Groceries
+05-09-2023,Rapido Bike Taxi,90.35,Expense,Transportation
+05-09-2023,Uber Ride,225.06,Expense,Transportation
+05-10-2023,Swiggy Order,303.57,Expense,Food & Dining
+05-10-2023,Electricity Bill,3309.23,Expense,Utilities
+05-10-2023,Jio Recharge,534.98,Expense,Utilities
+05-11-2023,Zomato Food Delivery,406.87,Expense,Food & Dining
+05-12-2023,Rental Income,23176.11,Income,Income
+05-12-2023,Refund Credit,4583.51,Income,Income
+05-13-2023,Restaurant Dinner,1536.24,Expense,Food & Dining
+05-13-2023,Jio Recharge,533.87,Expense,Utilities
+05-13-2023,Hair Salon,1465.53,Expense,Personal Care
+05-14-2023,School Fees,12668.59,Expense,Education
+05-14-2023,Myntra Fashion,1433.38,Expense,Shopping
+05-15-2023,Online Course,2071.5,Expense,Education
+05-15-2023,Refund Credit,4484.28,Income,Income
+05-15-2023,Insurance Premium,4267.65,Expense,Insurance
+05-16-2023,Metro Card Recharge,886.27,Expense,Transportation
+05-17-2023,Electricity Bill,965.39,Expense,Utilities
+05-17-2023,BigBasket Groceries,2866.24,Expense,Groceries
+05-17-2023,Ola Cab,287.71,Expense,Transportation
+05-18-2023,Online Course,2264.61,Expense,Education
+05-18-2023,Book Purchase,752.67,Expense,Education
+05-19-2023,Newspaper Subscription,273.11,Expense,Subscriptions
+05-20-2023,Spa Treatment,1081.65,Expense,Personal Care
+05-20-2023,Newspaper Subscription,206.68,Expense,Subscriptions
+05-21-2023,Online Course,3515.62,Expense,Education
+05-21-2023,Online Course,3993.69,Expense,Education
+05-22-2023,Jio Recharge,252.51,Expense,Utilities
+05-23-2023,Book Purchase,896.93,Expense,Education
+05-24-2023,Jio Recharge,265.67,Expense,Utilities
+05-24-2023,Interest Credit,2718.49,Income,Income
+05-24-2023,Travel Booking,13660.72,Expense,Travel
+05-24-2023,Refund Credit,1662.05,Income,Income
+05-25-2023,Swiggy Order,246.24,Expense,Food & Dining
+05-26-2023,BigBasket Groceries,1593.8,Expense,Groceries
+05-26-2023,School Fees,12082.36,Expense,Education
+05-26-2023,Doctor Consultation,1525.69,Expense,Healthcare
+05-27-2023,Gym Membership,2038.1,Expense,Healthcare
+05-27-2023,Doctor Consultation,1069.55,Expense,Healthcare
+05-27-2023,Insurance Premium,3470.64,Expense,Insurance
+05-27-2023,Dividend Credit,5370.48,Income,Income
+05-27-2023,YouTube Premium,139.0,Expense,Subscriptions
+05-29-2023,Spa Treatment,2994.86,Expense,Personal Care
+05-30-2023,Spotify Premium,119.0,Expense,Subscriptions
+05-30-2023,Book Purchase,1350.75,Expense,Education
+05-31-2023,Electricity Bill,4969.42,Expense,Utilities
+05-31-2023,Book Purchase,528.45,Expense,Education
+06-01-2023,BigBasket Groceries,1832.45,Expense,Groceries
+06-01-2023,Book Purchase,602.02,Expense,Education
+06-01-2023,ATM Withdrawal,4743.73,Expense,Miscellaneous
+06-02-2023,UPI Received,6438.91,Income,Income
+06-04-2023,Doctor Consultation,495.91,Expense,Healthcare
+06-04-2023,BookMyShow Tickets,1252.75,Expense,Entertainment
+06-04-2023,Zomato Food Delivery,683.6,Expense,Food & Dining
+06-04-2023,Hotel Stay,7359.96,Expense,Travel
+06-04-2023,Rapido Bike Taxi,53.17,Expense,Transportation
+06-06-2023,Petrol / Diesel,544.86,Expense,Transportation
+06-07-2023,ATM Withdrawal,3837.81,Expense,Miscellaneous
+06-07-2023,BookMyShow Tickets,855.05,Expense,Entertainment
+06-07-2023,Restaurant Dinner,441.3,Expense,Food & Dining
+06-08-2023,House Rent,27485.37,Expense,Housing
+06-08-2023,Petrol / Diesel,3097.36,Expense,Transportation
+06-08-2023,Metro Card Recharge,304.74,Expense,Transportation
+06-09-2023,1mg Medicine Order,259.39,Expense,Healthcare
+06-09-2023,Coffee Shop,370.63,Expense,Food & Dining
+06-14-2023,Transfer Received,21407.86,Income,Income
+06-14-2023,Amazon Prime,734.75,Expense,Subscriptions
+06-14-2023,Refund Credit,4180.4,Income,Income
+06-14-2023,Amazon Purchase,4988.4,Expense,Shopping
+06-16-2023,Travel Booking,5202.81,Expense,Travel
+06-16-2023,PVR Cinemas,503.7,Expense,Entertainment
+06-16-2023,BigBasket Groceries,3620.91,Expense,Groceries
+06-17-2023,Spa Treatment,1541.02,Expense,Personal Care
+06-18-2023,Amazon Purchase,6513.93,Expense,Shopping
+06-19-2023,Spa Treatment,2040.27,Expense,Personal Care
+06-19-2023,Amazon Prime,670.16,Expense,Subscriptions
+06-20-2023,Parking Charges,256.44,Expense,Transportation
+06-22-2023,Spa Treatment,2546.6,Expense,Personal Care
+06-22-2023,1mg Medicine Order,778.37,Expense,Healthcare
+06-22-2023,Interest Credit,1435.07,Income,Income
+06-22-2023,Hotstar Subscription,176.82,Expense,Subscriptions
+06-23-2023,House Rent,19885.0,Expense,Housing
+06-23-2023,School Fees,14090.83,Expense,Education
+06-24-2023,Metro Card Recharge,766.77,Expense,Transportation
+06-25-2023,Spa Treatment,585.27,Expense,Personal Care
+06-25-2023,Salary Credit,76815.71,Income,Income
+06-26-2023,House Rent,20083.21,Expense,Housing
+06-26-2023,Book Purchase,618.02,Expense,Education
+06-27-2023,1mg Medicine Order,683.19,Expense,Healthcare
+06-27-2023,Flipkart Order,5915.9,Expense,Shopping
+06-27-2023,Bonus Credit,18574.36,Income,Income
+06-28-2023,Freelance Payment,14752.02,Income,Income
+06-29-2023,Refund Credit,4822.99,Income,Income
+06-29-2023,Freelance Payment,15447.4,Income,Income
+06-29-2023,YouTube Premium,139.0,Expense,Subscriptions
+06-30-2023,Jio Recharge,361.48,Expense,Utilities
+06-30-2023,Bonus Credit,43256.47,Income,Income
+06-30-2023,1mg Medicine Order,301.89,Expense,Healthcare
+06-30-2023,School Fees,10515.03,Expense,Education
+07-01-2023,Online Course,1102.98,Expense,Education
+07-01-2023,Apollo Pharmacy,1239.91,Expense,Healthcare
+07-02-2023,Gym Membership,1182.54,Expense,Healthcare
+07-02-2023,Parking Charges,82.76,Expense,Transportation
+07-02-2023,Apollo Pharmacy,1223.77,Expense,Healthcare
+07-03-2023,Water Bill,301.89,Expense,Utilities
+07-04-2023,BigBasket Groceries,2691.09,Expense,Groceries
+07-05-2023,Refund Credit,1859.18,Income,Income
+07-05-2023,Reliance Fresh,278.81,Expense,Groceries
+07-05-2023,Metro Card Recharge,375.82,Expense,Transportation
+07-07-2023,Flipkart Order,1931.77,Expense,Shopping
+07-07-2023,Gaming Recharge,659.85,Expense,Entertainment
+07-07-2023,Hotstar Subscription,666.94,Expense,Subscriptions
+07-08-2023,Hotel Stay,6185.0,Expense,Travel
+07-08-2023,Airtel Mobile Bill,341.9,Expense,Utilities
+07-09-2023,Interest Credit,2096.85,Income,Income
+07-09-2023,Book Purchase,771.02,Expense,Education
+07-10-2023,Bonus Credit,34240.29,Income,Income
+07-11-2023,Apollo Pharmacy,1738.12,Expense,Healthcare
+07-11-2023,Cashback Credit,986.37,Income,Income
+07-11-2023,YouTube Premium,139.0,Expense,Subscriptions
+07-13-2023,Interest Credit,1578.3,Income,Income
+07-13-2023,Hotstar Subscription,379.99,Expense,Subscriptions
+07-14-2023,Swiggy Order,327.42,Expense,Food & Dining
+07-14-2023,UPI Received,6980.06,Income,Income
+07-14-2023,Cashback Credit,443.84,Income,Income
+07-14-2023,Water Bill,369.98,Expense,Utilities
+07-15-2023,Doctor Consultation,978.6,Expense,Healthcare
+07-15-2023,Travel Booking,12085.43,Expense,Travel
+07-16-2023,Newspaper Subscription,247.09,Expense,Subscriptions
+07-16-2023,Insurance Premium,2399.08,Expense,Insurance
+07-17-2023,Rental Income,10929.3,Income,Income
+07-17-2023,Meesho Order,422.94,Expense,Shopping
+07-17-2023,Apollo Pharmacy,765.47,Expense,Healthcare
+07-19-2023,Airtel Mobile Bill,584.48,Expense,Utilities
+07-19-2023,Gym Membership,1575.32,Expense,Healthcare
+07-19-2023,Electricity Bill,883.16,Expense,Utilities
+07-19-2023,Dividend Credit,3135.09,Income,Income
+07-19-2023,ATM Withdrawal,4598.89,Expense,Miscellaneous
+07-19-2023,More Supermarket,661.34,Expense,Groceries
+07-20-2023,Gaming Recharge,396.39,Expense,Entertainment
+07-20-2023,Airtel Mobile Bill,881.01,Expense,Utilities
+07-21-2023,Maintenance Charges,2475.27,Expense,Housing
+07-23-2023,Dividend Credit,6196.26,Income,Income
+07-23-2023,ATM Withdrawal,4566.81,Expense,Miscellaneous
+07-24-2023,Gym Membership,1738.52,Expense,Healthcare
+07-24-2023,Hotstar Subscription,297.76,Expense,Subscriptions
+07-24-2023,ATM Withdrawal,878.97,Expense,Miscellaneous
+07-24-2023,Salary Credit,77755.67,Income,Income
+07-24-2023,Jio Recharge,382.08,Expense,Utilities
+07-25-2023,Book Purchase,366.25,Expense,Education
+07-25-2023,Water Bill,319.73,Expense,Utilities
+07-25-2023,UPI Received,4583.24,Income,Income
+07-26-2023,Meesho Order,404.79,Expense,Shopping
+07-27-2023,ATM Withdrawal,1452.85,Expense,Miscellaneous
+07-27-2023,BigBasket Groceries,3320.84,Expense,Groceries
+07-27-2023,Ajio Clothing,547.43,Expense,Shopping
+07-28-2023,Insurance Premium,2461.67,Expense,Insurance
+07-29-2023,1mg Medicine Order,1054.42,Expense,Healthcare
+07-31-2023,Flipkart Order,747.52,Expense,Shopping
+08-01-2023,Uber Ride,221.93,Expense,Transportation
+08-02-2023,More Supermarket,876.43,Expense,Groceries
+08-02-2023,Spa Treatment,2232.62,Expense,Personal Care
+08-02-2023,Insurance Premium,1543.93,Expense,Insurance
+08-03-2023,Online Course,1697.69,Expense,Education
+08-03-2023,ATM Withdrawal,2892.1,Expense,Miscellaneous
+08-04-2023,ATM Withdrawal,4406.6,Expense,Miscellaneous
+08-04-2023,Hair Salon,562.67,Expense,Personal Care
+08-04-2023,BookMyShow Tickets,666.3,Expense,Entertainment
+08-04-2023,Electricity Bill,4752.38,Expense,Utilities
+08-04-2023,Hotel Stay,3042.72,Expense,Travel
+08-05-2023,Doctor Consultation,1836.28,Expense,Healthcare
+08-05-2023,ATM Withdrawal,1058.44,Expense,Miscellaneous
+08-06-2023,Online Course,2852.75,Expense,Education
+08-06-2023,Spotify Premium,119.0,Expense,Subscriptions
+08-06-2023,Apollo Pharmacy,450.52,Expense,Healthcare
+08-07-2023,Insurance Premium,9044.8,Expense,Insurance
+08-07-2023,Swiggy Order,595.05,Expense,Food & Dining
+08-07-2023,1mg Medicine Order,294.43,Expense,Healthcare
+08-08-2023,Book Purchase,1012.83,Expense,Education
+08-08-2023,Interest Credit,1927.54,Income,Income
+08-10-2023,Salary Credit,78086.87,Income,Income
+08-11-2023,Interest Credit,1142.74,Income,Income
+08-11-2023,School Fees,13299.33,Expense,Education
+08-12-2023,Metro Card Recharge,381.13,Expense,Transportation
+08-12-2023,Hair Salon,513.59,Expense,Personal Care
+08-12-2023,Meesho Order,1482.12,Expense,Shopping
+08-13-2023,Spa Treatment,2375.99,Expense,Personal Care
+08-13-2023,Meesho Order,1043.58,Expense,Shopping
+08-14-2023,Netflix Subscription,424.05,Expense,Subscriptions
+08-14-2023,Meesho Order,456.81,Expense,Shopping
+08-15-2023,Dividend Credit,5623.78,Income,Income
+08-15-2023,Flipkart Order,1140.9,Expense,Shopping
+08-15-2023,Freelance Payment,13951.33,Income,Income
+08-15-2023,Spotify Premium,119.0,Expense,Subscriptions
+08-15-2023,Parking Charges,104.2,Expense,Transportation
+08-15-2023,Gym Membership,1247.83,Expense,Healthcare
+08-16-2023,Hotel Stay,5052.56,Expense,Travel
+08-17-2023,YouTube Premium,139.0,Expense,Subscriptions
+08-17-2023,Salary Credit,94798.9,Income,Income
+08-17-2023,Metro Card Recharge,717.96,Expense,Transportation
+08-17-2023,Apollo Pharmacy,1901.01,Expense,Healthcare
+08-18-2023,Dividend Credit,13156.49,Income,Income
+08-18-2023,Myntra Fashion,1788.78,Expense,Shopping
+08-19-2023,Netflix Subscription,399.7,Expense,Subscriptions
+08-19-2023,Gym Membership,1918.65,Expense,Healthcare
+08-19-2023,Rapido Bike Taxi,122.73,Expense,Transportation
+08-19-2023,House Rent,14808.08,Expense,Housing
+08-19-2023,Jio Recharge,240.77,Expense,Utilities
+08-20-2023,Amazon Prime,824.63,Expense,Subscriptions
+08-20-2023,YouTube Premium,139.0,Expense,Subscriptions
+08-21-2023,Transfer Received,49888.62,Income,Income
+08-22-2023,Refund Credit,2404.2,Income,Income
+08-22-2023,1mg Medicine Order,176.83,Expense,Healthcare
+08-22-2023,Netflix Subscription,401.9,Expense,Subscriptions
+08-24-2023,Ola Cab,326.61,Expense,Transportation
+08-24-2023,BigBasket Groceries,2637.25,Expense,Groceries
+08-24-2023,Interest Credit,2140.32,Income,Income
+08-25-2023,Newspaper Subscription,101.16,Expense,Subscriptions
+08-25-2023,Meesho Order,1002.06,Expense,Shopping
+08-25-2023,Insurance Premium,6374.56,Expense,Insurance
+08-26-2023,More Supermarket,249.2,Expense,Groceries
+08-27-2023,Hotel Stay,8628.17,Expense,Travel
+08-28-2023,Gaming Recharge,369.35,Expense,Entertainment
+08-31-2023,Uber Ride,344.45,Expense,Transportation
+08-31-2023,Netflix Subscription,367.14,Expense,Subscriptions
+09-01-2023,Dividend Credit,13560.92,Income,Income
+09-01-2023,Airtel Mobile Bill,758.6,Expense,Utilities
+09-02-2023,Airtel Mobile Bill,610.86,Expense,Utilities
+09-02-2023,Ajio Clothing,1705.1,Expense,Shopping
+09-04-2023,Interest Credit,1632.51,Income,Income
+09-06-2023,Spotify Premium,119.0,Expense,Subscriptions
+09-06-2023,Amazon Prime,745.79,Expense,Subscriptions
+09-06-2023,Dividend Credit,1109.84,Income,Income
+09-07-2023,Refund Credit,3593.62,Income,Income
+09-07-2023,Rapido Bike Taxi,98.61,Expense,Transportation
+09-07-2023,YouTube Premium,139.0,Expense,Subscriptions
+09-08-2023,YouTube Premium,139.0,Expense,Subscriptions
+09-09-2023,Petrol / Diesel,1321.39,Expense,Transportation
+09-09-2023,Doctor Consultation,1003.67,Expense,Healthcare
+09-09-2023,Uber Ride,430.41,Expense,Transportation
+09-12-2023,Doctor Consultation,809.81,Expense,Healthcare
+09-12-2023,Uber Ride,138.54,Expense,Transportation
+09-13-2023,BookMyShow Tickets,1271.64,Expense,Entertainment
+09-14-2023,PVR Cinemas,297.71,Expense,Entertainment
+09-15-2023,BookMyShow Tickets,1166.26,Expense,Entertainment
+09-15-2023,Apollo Pharmacy,1255.34,Expense,Healthcare
+09-16-2023,Salary Credit,70032.04,Income,Income
+09-17-2023,Hotstar Subscription,536.05,Expense,Subscriptions
+09-19-2023,UPI Received,8971.57,Income,Income
+09-19-2023,Airtel Mobile Bill,337.01,Expense,Utilities
+09-19-2023,Amazon Prime,411.8,Expense,Subscriptions
+09-20-2023,Hair Salon,1423.32,Expense,Personal Care
+09-20-2023,Online Course,2483.79,Expense,Education
+09-20-2023,Hotel Stay,6395.67,Expense,Travel
+09-21-2023,Interest Credit,2616.91,Income,Income
+09-21-2023,Netflix Subscription,516.6,Expense,Subscriptions
+09-21-2023,Ajio Clothing,2942.68,Expense,Shopping
+09-22-2023,Amazon Purchase,743.86,Expense,Shopping
+09-22-2023,Book Purchase,766.63,Expense,Education
+09-23-2023,BigBasket Groceries,3197.32,Expense,Groceries
+09-23-2023,Meesho Order,1731.54,Expense,Shopping
+09-24-2023,Zomato Food Delivery,200.83,Expense,Food & Dining
+09-24-2023,BookMyShow Tickets,640.52,Expense,Entertainment
+09-25-2023,Hotel Stay,9043.06,Expense,Travel
+09-25-2023,Amazon Prime,480.46,Expense,Subscriptions
+09-25-2023,Book Purchase,1175.15,Expense,Education
+09-25-2023,Apollo Pharmacy,1516.46,Expense,Healthcare
+09-26-2023,Zomato Food Delivery,300.52,Expense,Food & Dining
+09-26-2023,Gaming Recharge,1805.43,Expense,Entertainment
+09-26-2023,Petrol / Diesel,2295.04,Expense,Transportation
+09-26-2023,Hotstar Subscription,168.43,Expense,Subscriptions
+09-27-2023,Hotel Stay,2467.09,Expense,Travel
+09-27-2023,Netflix Subscription,487.8,Expense,Subscriptions
+09-27-2023,Freelance Payment,7487.77,Income,Income
+09-27-2023,Flipkart Order,2639.22,Expense,Shopping
+09-28-2023,Zomato Food Delivery,641.63,Expense,Food & Dining
+09-29-2023,Metro Card Recharge,853.53,Expense,Transportation
+09-29-2023,Electricity Bill,4111.18,Expense,Utilities
+09-30-2023,Amazon Prime,459.72,Expense,Subscriptions
+09-30-2023,Gaming Recharge,1903.86,Expense,Entertainment
+10-01-2023,Maintenance Charges,982.86,Expense,Housing
+10-01-2023,Flipkart Order,3959.43,Expense,Shopping
+10-02-2023,PVR Cinemas,597.76,Expense,Entertainment
+10-03-2023,School Fees,3519.4,Expense,Education
+10-03-2023,Myntra Fashion,3344.56,Expense,Shopping
+10-03-2023,Cashback Credit,925.13,Income,Income
+10-04-2023,Spotify Premium,119.0,Expense,Subscriptions
+10-04-2023,More Supermarket,1635.45,Expense,Groceries
+10-04-2023,Meesho Order,280.38,Expense,Shopping
+10-05-2023,Spotify Premium,119.0,Expense,Subscriptions
+10-05-2023,Ola Cab,464.01,Expense,Transportation
+10-05-2023,Bonus Credit,26319.49,Income,Income
+10-06-2023,BigBasket Groceries,2071.66,Expense,Groceries
+10-06-2023,Petrol / Diesel,1950.69,Expense,Transportation
+10-06-2023,Salary Credit,70633.34,Income,Income
+10-06-2023,Newspaper Subscription,163.83,Expense,Subscriptions
+10-07-2023,Doctor Consultation,1037.63,Expense,Healthcare
+10-07-2023,Metro Card Recharge,679.09,Expense,Transportation
+10-07-2023,Newspaper Subscription,261.25,Expense,Subscriptions
+10-07-2023,Insurance Premium,9438.43,Expense,Insurance
+10-08-2023,Flipkart Order,2026.34,Expense,Shopping
+10-10-2023,Doctor Consultation,635.63,Expense,Healthcare
+10-11-2023,Metro Card Recharge,645.38,Expense,Transportation
+10-11-2023,School Fees,8776.27,Expense,Education
+10-11-2023,Rental Income,19085.15,Income,Income
+10-12-2023,Swiggy Order,109.56,Expense,Food & Dining
+10-12-2023,BigBasket Groceries,2006.8,Expense,Groceries
+10-15-2023,Zomato Food Delivery,613.4,Expense,Food & Dining
+10-15-2023,DMart Purchase,2449.41,Expense,Groceries
+10-16-2023,Ola Cab,256.32,Expense,Transportation
+10-17-2023,Electricity Bill,2767.23,Expense,Utilities
+10-17-2023,Flipkart Order,2773.59,Expense,Shopping
+10-17-2023,Airtel Mobile Bill,411.8,Expense,Utilities
+10-18-2023,Newspaper Subscription,184.29,Expense,Subscriptions
+10-19-2023,YouTube Premium,139.0,Expense,Subscriptions
+10-21-2023,PVR Cinemas,446.52,Expense,Entertainment
+10-21-2023,YouTube Premium,139.0,Expense,Subscriptions
+10-21-2023,Airtel Mobile Bill,619.8,Expense,Utilities
+10-21-2023,UPI Received,2877.17,Income,Income
+10-22-2023,Rapido Bike Taxi,56.45,Expense,Transportation
+10-22-2023,Interest Credit,1586.69,Income,Income
+10-22-2023,School Fees,6424.53,Expense,Education
+10-22-2023,Interest Credit,2110.42,Income,Income
+10-23-2023,Spotify Premium,119.0,Expense,Subscriptions
+10-23-2023,Transfer Received,24874.27,Income,Income
+10-23-2023,Gaming Recharge,484.08,Expense,Entertainment
+10-24-2023,Water Bill,746.22,Expense,Utilities
+10-24-2023,PVR Cinemas,430.09,Expense,Entertainment
+10-25-2023,YouTube Premium,139.0,Expense,Subscriptions
+10-25-2023,Maintenance Charges,2331.61,Expense,Housing
+10-26-2023,Gym Membership,1539.89,Expense,Healthcare
+10-26-2023,Cashback Credit,771.5,Income,Income
+10-26-2023,Swiggy Order,676.08,Expense,Food & Dining
+10-26-2023,YouTube Premium,139.0,Expense,Subscriptions
+10-28-2023,Gym Membership,773.39,Expense,Healthcare
+10-28-2023,Electricity Bill,2321.82,Expense,Utilities
+10-30-2023,Amazon Purchase,4848.61,Expense,Shopping
+10-30-2023,Flipkart Order,2570.35,Expense,Shopping
+11-01-2023,Doctor Consultation,1645.59,Expense,Healthcare
+11-01-2023,Airtel Mobile Bill,327.86,Expense,Utilities
+11-02-2023,Uber Ride,353.06,Expense,Transportation
+11-02-2023,Water Bill,661.36,Expense,Utilities
+11-02-2023,Apollo Pharmacy,1536.35,Expense,Healthcare
+11-03-2023,Insurance Premium,1639.11,Expense,Insurance
+11-03-2023,School Fees,9278.62,Expense,Education
+11-04-2023,BigBasket Groceries,885.59,Expense,Groceries
+11-04-2023,Hair Salon,1379.46,Expense,Personal Care
+11-04-2023,DMart Purchase,1964.3,Expense,Groceries
+11-05-2023,Freelance Payment,9565.88,Income,Income
+11-06-2023,Dividend Credit,5337.83,Income,Income
+11-07-2023,Spa Treatment,689.15,Expense,Personal Care
+11-08-2023,Flipkart Order,2420.69,Expense,Shopping
+11-08-2023,BookMyShow Tickets,1345.97,Expense,Entertainment
+11-08-2023,Ajio Clothing,3189.26,Expense,Shopping
+11-09-2023,YouTube Premium,139.0,Expense,Subscriptions
+11-09-2023,Spa Treatment,2864.79,Expense,Personal Care
+11-09-2023,Restaurant Dinner,1719.31,Expense,Food & Dining
+11-09-2023,DMart Purchase,1424.98,Expense,Groceries
+11-09-2023,Jio Recharge,347.83,Expense,Utilities
+11-09-2023,Book Purchase,652.38,Expense,Education
+11-11-2023,Airtel Mobile Bill,496.58,Expense,Utilities
+11-12-2023,Restaurant Dinner,425.89,Expense,Food & Dining
+11-13-2023,Doctor Consultation,977.46,Expense,Healthcare
+11-13-2023,Netflix Subscription,365.11,Expense,Subscriptions
+11-13-2023,Restaurant Dinner,451.5,Expense,Food & Dining
+11-14-2023,Hair Salon,787.57,Expense,Personal Care
+11-14-2023,Zomato Food Delivery,519.06,Expense,Food & Dining
+11-15-2023,Parking Charges,244.12,Expense,Transportation
+11-15-2023,UPI Received,7256.27,Income,Income
+11-15-2023,Gaming Recharge,145.48,Expense,Entertainment
+11-16-2023,Petrol / Diesel,1629.7,Expense,Transportation
+11-16-2023,Rapido Bike Taxi,161.71,Expense,Transportation
+11-17-2023,Swiggy Order,391.18,Expense,Food & Dining
+11-17-2023,Hotel Stay,5722.76,Expense,Travel
+11-18-2023,Travel Booking,13606.11,Expense,Travel
+11-19-2023,Rental Income,14663.19,Income,Income
+11-20-2023,Zomato Food Delivery,519.61,Expense,Food & Dining
+11-21-2023,Hair Salon,1014.94,Expense,Personal Care
+11-22-2023,PVR Cinemas,311.69,Expense,Entertainment
+11-22-2023,BookMyShow Tickets,567.59,Expense,Entertainment
+11-22-2023,House Rent,8474.36,Expense,Housing
+11-22-2023,ATM Withdrawal,1668.71,Expense,Miscellaneous
+11-23-2023,Metro Card Recharge,657.04,Expense,Transportation
+11-23-2023,Insurance Premium,4154.8,Expense,Insurance
+11-23-2023,Uber Ride,310.04,Expense,Transportation
+11-23-2023,Salary Credit,101663.14,Income,Income
+11-23-2023,Book Purchase,1210.96,Expense,Education
+11-24-2023,Online Course,3895.71,Expense,Education
+11-25-2023,Water Bill,628.88,Expense,Utilities
+11-25-2023,Hotstar Subscription,631.98,Expense,Subscriptions
+11-25-2023,Rental Income,13203.31,Income,Income
+11-25-2023,Insurance Premium,9520.45,Expense,Insurance
+11-26-2023,Transfer Received,30657.57,Income,Income
+11-27-2023,Jio Recharge,521.3,Expense,Utilities
+11-27-2023,Rental Income,22711.51,Income,Income
+11-28-2023,Swiggy Order,878.95,Expense,Food & Dining
+11-30-2023,Parking Charges,114.76,Expense,Transportation
+12-01-2023,Rapido Bike Taxi,108.72,Expense,Transportation
+12-01-2023,Rental Income,15268.04,Income,Income
+12-02-2023,Ola Cab,262.15,Expense,Transportation
+12-02-2023,Hotel Stay,5748.11,Expense,Travel
+12-02-2023,Airtel Mobile Bill,798.18,Expense,Utilities
+12-02-2023,Newspaper Subscription,266.6,Expense,Subscriptions
+12-02-2023,Apollo Pharmacy,1385.78,Expense,Healthcare
+12-03-2023,Hotstar Subscription,547.45,Expense,Subscriptions
+12-03-2023,Uber Ride,415.89,Expense,Transportation
+12-04-2023,YouTube Premium,139.0,Expense,Subscriptions
+12-05-2023,UPI Received,5610.54,Income,Income
+12-05-2023,Salary Credit,72894.34,Income,Income
+12-05-2023,Gaming Recharge,1132.93,Expense,Entertainment
+12-07-2023,Ola Cab,438.35,Expense,Transportation
+12-07-2023,House Rent,19947.82,Expense,Housing
+12-07-2023,Cashback Credit,825.91,Income,Income
+12-07-2023,Ajio Clothing,3035.52,Expense,Shopping
+12-08-2023,1mg Medicine Order,1297.88,Expense,Healthcare
+12-10-2023,Hotstar Subscription,249.14,Expense,Subscriptions
+12-11-2023,YouTube Premium,139.0,Expense,Subscriptions
+12-11-2023,Cashback Credit,210.72,Income,Income
+12-11-2023,Petrol / Diesel,3192.85,Expense,Transportation
+12-13-2023,More Supermarket,660.9,Expense,Groceries
+12-14-2023,Hair Salon,247.45,Expense,Personal Care
+12-14-2023,Gym Membership,890.42,Expense,Healthcare
+12-15-2023,Ajio Clothing,1603.94,Expense,Shopping
+12-15-2023,Meesho Order,1946.62,Expense,Shopping
+12-15-2023,Uber Ride,141.99,Expense,Transportation
+12-16-2023,Ajio Clothing,2548.83,Expense,Shopping
+12-16-2023,Gaming Recharge,1549.77,Expense,Entertainment
+12-16-2023,Salary Credit,77836.75,Income,Income
+12-17-2023,Bonus Credit,20183.51,Income,Income
+12-18-2023,DMart Purchase,3432.9,Expense,Groceries
+12-20-2023,BigBasket Groceries,1213.84,Expense,Groceries
+12-20-2023,Bonus Credit,45204.56,Income,Income
+12-21-2023,Jio Recharge,583.46,Expense,Utilities
+12-22-2023,Meesho Order,1363.56,Expense,Shopping
+12-22-2023,UPI Received,3761.5,Income,Income
+12-22-2023,More Supermarket,1573.87,Expense,Groceries
+12-22-2023,Spa Treatment,2032.44,Expense,Personal Care
+12-22-2023,Reliance Fresh,861.63,Expense,Groceries
+12-22-2023,Spotify Premium,119.0,Expense,Subscriptions
+12-23-2023,Flipkart Order,554.29,Expense,Shopping
+12-23-2023,Flipkart Order,4847.11,Expense,Shopping
+12-23-2023,Book Purchase,1082.1,Expense,Education
+12-25-2023,DMart Purchase,3439.36,Expense,Groceries
+12-25-2023,Flipkart Order,4769.57,Expense,Shopping
+12-27-2023,PVR Cinemas,509.03,Expense,Entertainment
+12-28-2023,Parking Charges,146.84,Expense,Transportation
+12-28-2023,Myntra Fashion,2290.75,Expense,Shopping
+12-28-2023,Flipkart Order,5492.38,Expense,Shopping
+12-29-2023,Gaming Recharge,1450.75,Expense,Entertainment
+12-29-2023,Refund Credit,4815.45,Income,Income
+12-29-2023,Rental Income,10717.08,Income,Income
+12-29-2023,Electricity Bill,3408.13,Expense,Utilities
+12-30-2023,Online Course,1930.5,Expense,Education
+12-30-2023,Amazon Purchase,5392.09,Expense,Shopping
+12-30-2023,BookMyShow Tickets,1049.18,Expense,Entertainment
+12-31-2023,Flipkart Order,3303.65,Expense,Shopping
+12-31-2023,Airtel Mobile Bill,757.29,Expense,Utilities
+12-31-2023,Hotel Stay,1754.1,Expense,Travel
+12-31-2023,Freelance Payment,9103.61,Income,Income
+12-31-2023,Zomato Food Delivery,636.12,Expense,Food & Dining
+12-31-2023,Uber Ride,400.87,Expense,Transportation
+01-01-2024,Doctor Consultation,852.05,Expense,Healthcare
+01-01-2024,BigBasket Groceries,2895.86,Expense,Groceries
+01-01-2024,Meesho Order,1744.46,Expense,Shopping
+01-02-2024,Amazon Purchase,5257.61,Expense,Shopping
+01-02-2024,Flipkart Order,1555.51,Expense,Shopping
+01-02-2024,BigBasket Groceries,3545.89,Expense,Groceries
+01-03-2024,Ola Cab,395.17,Expense,Transportation
+01-03-2024,Dividend Credit,2839.88,Income,Income
+01-04-2024,Salary Credit,72777.48,Income,Income
+01-05-2024,Hair Salon,426.28,Expense,Personal Care
+01-05-2024,Uber Ride,239.71,Expense,Transportation
+01-05-2024,BookMyShow Tickets,1006.13,Expense,Entertainment
+01-05-2024,YouTube Premium,139.0,Expense,Subscriptions
+01-05-2024,Swiggy Order,759.45,Expense,Food & Dining
+01-06-2024,Freelance Payment,23860.69,Income,Income
+01-07-2024,House Rent,29769.42,Expense,Housing
+01-07-2024,Hotstar Subscription,343.05,Expense,Subscriptions
+01-07-2024,PVR Cinemas,481.14,Expense,Entertainment
+01-08-2024,Myntra Fashion,1256.39,Expense,Shopping
+01-08-2024,BigBasket Groceries,1182.73,Expense,Groceries
+01-08-2024,Petrol / Diesel,768.64,Expense,Transportation
+01-09-2024,ATM Withdrawal,1849.6,Expense,Miscellaneous
+01-09-2024,Apollo Pharmacy,1490.89,Expense,Healthcare
+01-09-2024,Hotel Stay,3454.88,Expense,Travel
+01-10-2024,Online Course,4174.89,Expense,Education
+01-10-2024,Doctor Consultation,1964.53,Expense,Healthcare
+01-10-2024,BookMyShow Tickets,251.59,Expense,Entertainment
+01-10-2024,Rental Income,8024.97,Income,Income
+01-11-2024,Refund Credit,3048.44,Income,Income
+01-11-2024,Maintenance Charges,1452.13,Expense,Housing
+01-11-2024,Spa Treatment,2238.08,Expense,Personal Care
+01-11-2024,Hair Salon,204.98,Expense,Personal Care
+01-12-2024,Book Purchase,924.75,Expense,Education
+01-13-2024,1mg Medicine Order,1236.61,Expense,Healthcare
+01-15-2024,Uber Ride,422.5,Expense,Transportation
+01-15-2024,Spa Treatment,2053.16,Expense,Personal Care
+01-16-2024,Spa Treatment,2361.88,Expense,Personal Care
+01-16-2024,Reliance Fresh,1416.19,Expense,Groceries
+01-17-2024,Jio Recharge,410.47,Expense,Utilities
+01-18-2024,Salary Credit,71269.7,Income,Income
+01-18-2024,Hotstar Subscription,257.39,Expense,Subscriptions
+01-19-2024,Swiggy Order,578.65,Expense,Food & Dining
+01-19-2024,Metro Card Recharge,261.84,Expense,Transportation
+01-19-2024,Apollo Pharmacy,1404.21,Expense,Healthcare
+01-21-2024,Coffee Shop,245.39,Expense,Food & Dining
+01-22-2024,Spotify Premium,119.0,Expense,Subscriptions
+01-22-2024,House Rent,18736.35,Expense,Housing
+01-24-2024,Amazon Purchase,5703.99,Expense,Shopping
+01-25-2024,Gaming Recharge,1328.39,Expense,Entertainment
+01-25-2024,Online Course,2019.59,Expense,Education
+01-25-2024,Apollo Pharmacy,307.59,Expense,Healthcare
+01-25-2024,Newspaper Subscription,128.3,Expense,Subscriptions
+01-25-2024,YouTube Premium,139.0,Expense,Subscriptions
+01-26-2024,House Rent,24585.66,Expense,Housing
+01-27-2024,Netflix Subscription,211.7,Expense,Subscriptions
+01-27-2024,DMart Purchase,714.59,Expense,Groceries
+01-27-2024,Interest Credit,1543.97,Income,Income
+01-27-2024,Spotify Premium,119.0,Expense,Subscriptions
+01-28-2024,Book Purchase,613.25,Expense,Education
+01-28-2024,Cashback Credit,289.49,Income,Income
+01-29-2024,Gaming Recharge,1074.67,Expense,Entertainment
+01-29-2024,Petrol / Diesel,1208.11,Expense,Transportation
+01-30-2024,Doctor Consultation,1191.61,Expense,Healthcare
+01-30-2024,Interest Credit,2866.74,Income,Income
+01-31-2024,Hotstar Subscription,651.35,Expense,Subscriptions
+01-31-2024,Rapido Bike Taxi,50.43,Expense,Transportation
+01-31-2024,Gaming Recharge,1580.95,Expense,Entertainment
+01-31-2024,Parking Charges,88.87,Expense,Transportation
+01-31-2024,Online Course,3551.45,Expense,Education
+02-01-2024,1mg Medicine Order,427.61,Expense,Healthcare
+02-02-2024,PVR Cinemas,466.95,Expense,Entertainment
+02-03-2024,Cashback Credit,502.01,Income,Income
+02-03-2024,Petrol / Diesel,590.09,Expense,Transportation
+02-03-2024,Online Course,754.95,Expense,Education
+02-03-2024,Dividend Credit,2451.81,Income,Income
+02-05-2024,Salary Credit,69059.55,Income,Income
+02-05-2024,Apollo Pharmacy,1478.42,Expense,Healthcare
+02-06-2024,Electricity Bill,2507.77,Expense,Utilities
+02-07-2024,Water Bill,357.47,Expense,Utilities
+02-07-2024,Salary Credit,84114.03,Income,Income
+02-07-2024,Spa Treatment,2657.28,Expense,Personal Care
+02-08-2024,Netflix Subscription,361.58,Expense,Subscriptions
+02-08-2024,BigBasket Groceries,3196.33,Expense,Groceries
+02-08-2024,Newspaper Subscription,125.78,Expense,Subscriptions
+02-08-2024,Petrol / Diesel,1797.65,Expense,Transportation
+02-08-2024,Meesho Order,1498.61,Expense,Shopping
+02-09-2024,Spotify Premium,119.0,Expense,Subscriptions
+02-09-2024,Refund Credit,983.28,Income,Income
+02-10-2024,YouTube Premium,139.0,Expense,Subscriptions
+02-11-2024,Interest Credit,1859.03,Income,Income
+02-11-2024,More Supermarket,1307.06,Expense,Groceries
+02-11-2024,Coffee Shop,114.86,Expense,Food & Dining
+02-11-2024,Rental Income,13851.3,Income,Income
+02-11-2024,Petrol / Diesel,2416.92,Expense,Transportation
+02-12-2024,Water Bill,688.13,Expense,Utilities
+02-13-2024,ATM Withdrawal,2129.86,Expense,Miscellaneous
+02-13-2024,Freelance Payment,6607.22,Income,Income
+02-14-2024,Freelance Payment,6157.63,Income,Income
+02-14-2024,Ola Cab,286.78,Expense,Transportation
+02-14-2024,Spotify Premium,119.0,Expense,Subscriptions
+02-14-2024,Doctor Consultation,554.8,Expense,Healthcare
+02-15-2024,Cashback Credit,65.85,Income,Income
+02-16-2024,Uber Ride,532.92,Expense,Transportation
+02-16-2024,Swiggy Order,335.03,Expense,Food & Dining
+02-16-2024,House Rent,28471.55,Expense,Housing
+02-17-2024,YouTube Premium,139.0,Expense,Subscriptions
+02-17-2024,Ajio Clothing,2544.35,Expense,Shopping
+02-18-2024,Amazon Purchase,6513.69,Expense,Shopping
+02-18-2024,Parking Charges,211.8,Expense,Transportation
+02-19-2024,Amazon Purchase,6759.48,Expense,Shopping
+02-19-2024,Petrol / Diesel,2853.62,Expense,Transportation
+02-19-2024,BigBasket Groceries,1260.0,Expense,Groceries
+02-19-2024,Apollo Pharmacy,583.08,Expense,Healthcare
+02-19-2024,ATM Withdrawal,1225.79,Expense,Miscellaneous
+02-19-2024,Apollo Pharmacy,1654.07,Expense,Healthcare
+02-20-2024,Hotel Stay,4619.78,Expense,Travel
+02-20-2024,Freelance Payment,7826.68,Income,Income
+02-21-2024,Cashback Credit,712.34,Income,Income
+02-21-2024,Insurance Premium,1730.48,Expense,Insurance
+02-21-2024,PVR Cinemas,307.19,Expense,Entertainment
+02-22-2024,Ajio Clothing,624.51,Expense,Shopping
+02-22-2024,Water Bill,466.6,Expense,Utilities
+02-23-2024,Ajio Clothing,2787.56,Expense,Shopping
+02-23-2024,UPI Received,17293.76,Income,Income
+02-24-2024,Hair Salon,491.34,Expense,Personal Care
+02-25-2024,Airtel Mobile Bill,644.46,Expense,Utilities
+02-26-2024,Gaming Recharge,723.83,Expense,Entertainment
+02-26-2024,1mg Medicine Order,702.23,Expense,Healthcare
+02-26-2024,Online Course,4588.35,Expense,Education
+02-26-2024,Restaurant Dinner,1019.25,Expense,Food & Dining
+02-26-2024,Water Bill,273.69,Expense,Utilities
+02-26-2024,Insurance Premium,2938.07,Expense,Insurance
+02-26-2024,Reliance Fresh,833.8,Expense,Groceries
+02-27-2024,Hotstar Subscription,481.45,Expense,Subscriptions
+02-27-2024,Book Purchase,486.4,Expense,Education
+02-29-2024,Freelance Payment,7361.9,Income,Income
+02-29-2024,Reliance Fresh,503.7,Expense,Groceries
+03-01-2024,Rapido Bike Taxi,163.57,Expense,Transportation
+03-02-2024,Rental Income,5938.56,Income,Income
+03-03-2024,Gaming Recharge,975.91,Expense,Entertainment
+03-03-2024,1mg Medicine Order,114.35,Expense,Healthcare
+03-04-2024,House Rent,17031.03,Expense,Housing
+03-04-2024,DMart Purchase,372.15,Expense,Groceries
+03-05-2024,Jio Recharge,433.73,Expense,Utilities
+03-05-2024,More Supermarket,1340.44,Expense,Groceries
+03-06-2024,PVR Cinemas,613.65,Expense,Entertainment
+03-06-2024,Ola Cab,284.15,Expense,Transportation
+03-07-2024,Coffee Shop,432.39,Expense,Food & Dining
+03-07-2024,Bonus Credit,5284.84,Income,Income
+03-08-2024,Hair Salon,1430.49,Expense,Personal Care
+03-08-2024,BookMyShow Tickets,1403.78,Expense,Entertainment
+03-09-2024,Hotel Stay,2655.79,Expense,Travel
+03-10-2024,School Fees,10936.94,Expense,Education
+03-12-2024,Online Course,749.85,Expense,Education
+03-13-2024,Coffee Shop,329.76,Expense,Food & Dining
+03-13-2024,Newspaper Subscription,229.07,Expense,Subscriptions
+03-13-2024,Swiggy Order,616.05,Expense,Food & Dining
+03-15-2024,Ola Cab,231.46,Expense,Transportation
+03-15-2024,House Rent,15971.72,Expense,Housing
+03-15-2024,Meesho Order,1553.51,Expense,Shopping
+03-16-2024,PVR Cinemas,754.43,Expense,Entertainment
+03-16-2024,PVR Cinemas,758.04,Expense,Entertainment
+03-16-2024,Book Purchase,983.94,Expense,Education
+03-17-2024,Interest Credit,1024.64,Income,Income
+03-17-2024,Book Purchase,1207.39,Expense,Education
+03-18-2024,DMart Purchase,2297.17,Expense,Groceries
+03-18-2024,Transfer Received,44345.61,Income,Income
+03-19-2024,Spa Treatment,2047.34,Expense,Personal Care
+03-19-2024,Freelance Payment,7124.31,Income,Income
+03-19-2024,Gaming Recharge,860.66,Expense,Entertainment
+03-19-2024,Transfer Received,30285.98,Income,Income
+03-20-2024,Interest Credit,1450.16,Income,Income
+03-21-2024,Insurance Premium,8294.61,Expense,Insurance
+03-22-2024,Insurance Premium,5652.58,Expense,Insurance
+03-22-2024,Gym Membership,1720.33,Expense,Healthcare
+03-23-2024,Myntra Fashion,2300.55,Expense,Shopping
+03-23-2024,ATM Withdrawal,2868.74,Expense,Miscellaneous
+03-23-2024,Restaurant Dinner,1275.61,Expense,Food & Dining
+03-24-2024,Uber Ride,158.93,Expense,Transportation
+03-24-2024,Travel Booking,16061.37,Expense,Travel
+03-26-2024,Myntra Fashion,3134.05,Expense,Shopping
+03-26-2024,Coffee Shop,295.74,Expense,Food & Dining
+03-27-2024,Metro Card Recharge,674.58,Expense,Transportation
+03-27-2024,Online Course,3538.73,Expense,Education
+03-28-2024,Hotel Stay,8667.03,Expense,Travel
+03-28-2024,ATM Withdrawal,2608.66,Expense,Miscellaneous
+03-29-2024,Swiggy Order,507.43,Expense,Food & Dining
+03-29-2024,Restaurant Dinner,2713.19,Expense,Food & Dining
+03-30-2024,Spa Treatment,1748.01,Expense,Personal Care
+03-31-2024,Hair Salon,1031.1,Expense,Personal Care
+03-31-2024,Apollo Pharmacy,646.38,Expense,Healthcare
+04-01-2024,Gaming Recharge,454.51,Expense,Entertainment
+04-01-2024,Salary Credit,59822.34,Income,Income
+04-01-2024,Jio Recharge,566.46,Expense,Utilities
+04-01-2024,Travel Booking,11991.01,Expense,Travel
+04-01-2024,Doctor Consultation,588.77,Expense,Healthcare
+04-02-2024,Meesho Order,525.83,Expense,Shopping
+04-02-2024,Maintenance Charges,1724.56,Expense,Housing
+04-03-2024,Dividend Credit,13166.73,Income,Income
+04-03-2024,Doctor Consultation,900.78,Expense,Healthcare
+04-03-2024,Jio Recharge,571.49,Expense,Utilities
+04-03-2024,Spa Treatment,2372.52,Expense,Personal Care
+04-04-2024,Spa Treatment,2637.16,Expense,Personal Care
+04-05-2024,Ola Cab,356.7,Expense,Transportation
+04-05-2024,Dividend Credit,4389.51,Income,Income
+04-06-2024,More Supermarket,356.4,Expense,Groceries
+04-06-2024,Dividend Credit,6250.47,Income,Income
+04-06-2024,Parking Charges,210.07,Expense,Transportation
+04-08-2024,BookMyShow Tickets,680.97,Expense,Entertainment
+04-08-2024,Petrol / Diesel,3224.55,Expense,Transportation
+04-10-2024,Meesho Order,1124.19,Expense,Shopping
+04-11-2024,Salary Credit,41928.04,Income,Income
+04-11-2024,BigBasket Groceries,1624.6,Expense,Groceries
+04-12-2024,Interest Credit,1627.82,Income,Income
+04-12-2024,UPI Received,5287.96,Income,Income
+04-14-2024,Jio Recharge,289.96,Expense,Utilities
+04-14-2024,ATM Withdrawal,3562.02,Expense,Miscellaneous
+04-14-2024,Hair Salon,578.03,Expense,Personal Care
+04-14-2024,Reliance Fresh,477.87,Expense,Groceries
+04-16-2024,Amazon Prime,402.18,Expense,Subscriptions
+04-16-2024,More Supermarket,913.12,Expense,Groceries
+04-17-2024,Zomato Food Delivery,731.87,Expense,Food & Dining
+04-17-2024,Travel Booking,9082.68,Expense,Travel
+04-17-2024,Ajio Clothing,1302.57,Expense,Shopping
+04-18-2024,Dividend Credit,1489.75,Income,Income
+04-19-2024,DMart Purchase,664.18,Expense,Groceries
+04-19-2024,Travel Booking,18479.26,Expense,Travel
+04-19-2024,Metro Card Recharge,465.44,Expense,Transportation
+04-20-2024,Gym Membership,1987.28,Expense,Healthcare
+04-21-2024,1mg Medicine Order,394.72,Expense,Healthcare
+04-22-2024,Coffee Shop,419.6,Expense,Food & Dining
+04-22-2024,Meesho Order,939.97,Expense,Shopping
+04-23-2024,School Fees,11545.93,Expense,Education
+04-24-2024,Airtel Mobile Bill,468.62,Expense,Utilities
+04-25-2024,Bonus Credit,41826.22,Income,Income
+04-25-2024,Ajio Clothing,989.53,Expense,Shopping
+04-25-2024,Amazon Purchase,3243.71,Expense,Shopping
+04-25-2024,Transfer Received,38188.19,Income,Income
+04-25-2024,1mg Medicine Order,1105.31,Expense,Healthcare
+04-26-2024,Amazon Purchase,4825.41,Expense,Shopping
+04-27-2024,Ajio Clothing,1179.74,Expense,Shopping
+04-27-2024,Interest Credit,1092.88,Income,Income
+04-27-2024,Parking Charges,194.47,Expense,Transportation
+04-27-2024,Online Course,3382.93,Expense,Education
+04-28-2024,Spa Treatment,1953.01,Expense,Personal Care
+04-28-2024,Petrol / Diesel,3594.86,Expense,Transportation
+04-28-2024,Refund Credit,3216.21,Income,Income
+04-29-2024,Myntra Fashion,1430.74,Expense,Shopping
+04-29-2024,Metro Card Recharge,914.9,Expense,Transportation
+04-30-2024,Electricity Bill,879.96,Expense,Utilities
+04-30-2024,Bonus Credit,9117.85,Income,Income
+04-30-2024,Ola Cab,324.55,Expense,Transportation
+04-30-2024,PVR Cinemas,665.05,Expense,Entertainment
+05-01-2024,Amazon Prime,338.53,Expense,Subscriptions
+05-01-2024,Electricity Bill,2164.65,Expense,Utilities
+05-01-2024,Newspaper Subscription,137.43,Expense,Subscriptions
+05-02-2024,More Supermarket,1317.11,Expense,Groceries
+05-02-2024,Zomato Food Delivery,720.76,Expense,Food & Dining
+05-03-2024,Electricity Bill,2439.89,Expense,Utilities
+05-03-2024,Ola Cab,178.07,Expense,Transportation
+05-03-2024,DMart Purchase,372.72,Expense,Groceries
+05-03-2024,Amazon Purchase,1253.43,Expense,Shopping
+05-04-2024,Travel Booking,11243.29,Expense,Travel
+05-04-2024,Zomato Food Delivery,807.1,Expense,Food & Dining
+05-05-2024,Bonus Credit,7929.16,Income,Income
+05-05-2024,Transfer Received,20838.41,Income,Income
+05-05-2024,Hotstar Subscription,419.98,Expense,Subscriptions
+05-06-2024,1mg Medicine Order,1091.94,Expense,Healthcare
+05-07-2024,Apollo Pharmacy,1292.45,Expense,Healthcare
+05-07-2024,Amazon Prime,828.01,Expense,Subscriptions
+05-08-2024,Hotstar Subscription,384.22,Expense,Subscriptions
+05-08-2024,ATM Withdrawal,3902.27,Expense,Miscellaneous
+05-09-2024,Dividend Credit,12103.26,Income,Income
+05-09-2024,Zomato Food Delivery,374.57,Expense,Food & Dining
+05-10-2024,Rapido Bike Taxi,146.0,Expense,Transportation
+05-10-2024,Netflix Subscription,192.16,Expense,Subscriptions
+05-11-2024,1mg Medicine Order,615.1,Expense,Healthcare
+05-11-2024,Water Bill,771.05,Expense,Utilities
+05-11-2024,More Supermarket,922.58,Expense,Groceries
+05-13-2024,Parking Charges,158.87,Expense,Transportation
+05-13-2024,Hotstar Subscription,208.27,Expense,Subscriptions
+05-13-2024,Netflix Subscription,198.87,Expense,Subscriptions
+05-14-2024,School Fees,8450.17,Expense,Education
+05-14-2024,Uber Ride,281.57,Expense,Transportation
+05-14-2024,Book Purchase,950.46,Expense,Education
+05-14-2024,Uber Ride,313.68,Expense,Transportation
+05-15-2024,Hotstar Subscription,418.79,Expense,Subscriptions
+05-15-2024,Hair Salon,1378.92,Expense,Personal Care
+05-16-2024,Ajio Clothing,919.42,Expense,Shopping
+05-17-2024,Insurance Premium,6160.3,Expense,Insurance
+05-18-2024,Maintenance Charges,2051.69,Expense,Housing
+05-19-2024,Gaming Recharge,1076.18,Expense,Entertainment
+05-20-2024,Gaming Recharge,1338.77,Expense,Entertainment
+05-20-2024,1mg Medicine Order,827.13,Expense,Healthcare
+05-23-2024,More Supermarket,756.31,Expense,Groceries
+05-23-2024,Dividend Credit,4926.67,Income,Income
+05-23-2024,Metro Card Recharge,747.97,Expense,Transportation
+05-24-2024,Apollo Pharmacy,1070.15,Expense,Healthcare
+05-24-2024,Netflix Subscription,444.42,Expense,Subscriptions
+05-24-2024,Rental Income,14787.32,Income,Income
+05-24-2024,Hotstar Subscription,619.37,Expense,Subscriptions
+05-24-2024,Spotify Premium,119.0,Expense,Subscriptions
+05-25-2024,Bonus Credit,35605.88,Income,Income
+05-26-2024,Reliance Fresh,1613.33,Expense,Groceries
+05-26-2024,Spa Treatment,643.48,Expense,Personal Care
+05-26-2024,Online Course,3680.0,Expense,Education
+05-27-2024,Petrol / Diesel,2450.28,Expense,Transportation
+05-27-2024,Book Purchase,935.37,Expense,Education
+05-27-2024,BigBasket Groceries,1544.43,Expense,Groceries
+05-27-2024,Water Bill,486.09,Expense,Utilities
+05-28-2024,House Rent,8525.81,Expense,Housing
+05-28-2024,Zomato Food Delivery,791.52,Expense,Food & Dining
+05-30-2024,BookMyShow Tickets,1302.88,Expense,Entertainment
+05-30-2024,DMart Purchase,1821.16,Expense,Groceries
+05-30-2024,Online Course,3481.26,Expense,Education
+05-31-2024,Interest Credit,1615.01,Income,Income
+05-31-2024,Coffee Shop,412.15,Expense,Food & Dining
+06-01-2024,Jio Recharge,371.69,Expense,Utilities
+06-03-2024,Insurance Premium,4371.51,Expense,Insurance
+06-03-2024,Electricity Bill,4372.66,Expense,Utilities
+06-05-2024,DMart Purchase,1457.73,Expense,Groceries
+06-06-2024,Travel Booking,6869.81,Expense,Travel
+06-07-2024,BigBasket Groceries,2081.77,Expense,Groceries
+06-07-2024,Maintenance Charges,1757.58,Expense,Housing
+06-08-2024,Newspaper Subscription,104.05,Expense,Subscriptions
+06-09-2024,Interest Credit,1224.81,Income,Income
+06-09-2024,Coffee Shop,135.94,Expense,Food & Dining
+06-09-2024,Water Bill,270.93,Expense,Utilities
+06-10-2024,House Rent,19251.22,Expense,Housing
+06-10-2024,PVR Cinemas,267.6,Expense,Entertainment
+06-11-2024,Ola Cab,344.78,Expense,Transportation
+06-13-2024,Parking Charges,233.94,Expense,Transportation
+06-13-2024,Interest Credit,1155.34,Income,Income
+06-13-2024,Transfer Received,24875.91,Income,Income
+06-13-2024,Restaurant Dinner,969.32,Expense,Food & Dining
+06-15-2024,Rapido Bike Taxi,178.27,Expense,Transportation
+06-15-2024,Parking Charges,207.98,Expense,Transportation
+06-15-2024,PVR Cinemas,774.02,Expense,Entertainment
+06-17-2024,Parking Charges,73.43,Expense,Transportation
+06-17-2024,BookMyShow Tickets,244.1,Expense,Entertainment
+06-17-2024,Uber Ride,416.56,Expense,Transportation
+06-17-2024,Ajio Clothing,819.66,Expense,Shopping
+06-17-2024,Amazon Purchase,7225.63,Expense,Shopping
+06-18-2024,Parking Charges,143.99,Expense,Transportation
+06-18-2024,Gym Membership,1334.75,Expense,Healthcare
+06-19-2024,BigBasket Groceries,2716.26,Expense,Groceries
+06-19-2024,Ola Cab,453.97,Expense,Transportation
+06-19-2024,Parking Charges,132.73,Expense,Transportation
+06-20-2024,BigBasket Groceries,3344.81,Expense,Groceries
+06-20-2024,House Rent,16495.98,Expense,Housing
+06-20-2024,Jio Recharge,227.89,Expense,Utilities
+06-22-2024,Maintenance Charges,852.5,Expense,Housing
+06-23-2024,UPI Received,16488.63,Income,Income
+06-23-2024,YouTube Premium,139.0,Expense,Subscriptions
+06-24-2024,BookMyShow Tickets,1018.86,Expense,Entertainment
+06-24-2024,Swiggy Order,247.58,Expense,Food & Dining
+06-26-2024,Myntra Fashion,670.59,Expense,Shopping
+06-26-2024,Rapido Bike Taxi,176.76,Expense,Transportation
+06-28-2024,Ola Cab,190.1,Expense,Transportation
+06-29-2024,Insurance Premium,8665.44,Expense,Insurance
+06-30-2024,PVR Cinemas,445.82,Expense,Entertainment
+07-01-2024,Uber Ride,575.84,Expense,Transportation
+07-01-2024,Insurance Premium,9827.33,Expense,Insurance
+07-01-2024,Reliance Fresh,295.03,Expense,Groceries
+07-02-2024,Online Course,3792.2,Expense,Education
+07-02-2024,BigBasket Groceries,2628.95,Expense,Groceries
+07-02-2024,Reliance Fresh,1422.8,Expense,Groceries
+07-03-2024,Freelance Payment,19126.48,Income,Income
+07-03-2024,Spa Treatment,2174.71,Expense,Personal Care
+07-04-2024,Water Bill,534.46,Expense,Utilities
+07-04-2024,Spa Treatment,1461.68,Expense,Personal Care
+07-04-2024,Hotel Stay,7458.38,Expense,Travel
+07-05-2024,YouTube Premium,139.0,Expense,Subscriptions
+07-05-2024,Ajio Clothing,2421.82,Expense,Shopping
+07-05-2024,Spotify Premium,119.0,Expense,Subscriptions
+07-06-2024,PVR Cinemas,750.84,Expense,Entertainment
+07-07-2024,Meesho Order,1906.05,Expense,Shopping
+07-07-2024,Ola Cab,79.9,Expense,Transportation
+07-07-2024,Jio Recharge,551.65,Expense,Utilities
+07-08-2024,Apollo Pharmacy,1636.37,Expense,Healthcare
+07-09-2024,DMart Purchase,2405.61,Expense,Groceries
+07-09-2024,Ola Cab,112.32,Expense,Transportation
+07-10-2024,Spotify Premium,119.0,Expense,Subscriptions
+07-11-2024,Zomato Food Delivery,583.35,Expense,Food & Dining
+07-13-2024,School Fees,8086.47,Expense,Education
+07-13-2024,Book Purchase,490.92,Expense,Education
+07-13-2024,Bonus Credit,44566.24,Income,Income
+07-13-2024,Interest Credit,1335.12,Income,Income
+07-14-2024,Parking Charges,293.96,Expense,Transportation
+07-14-2024,Transfer Received,21920.99,Income,Income
+07-14-2024,Ajio Clothing,1552.6,Expense,Shopping
+07-15-2024,Restaurant Dinner,1121.6,Expense,Food & Dining
+07-15-2024,Bonus Credit,27315.34,Income,Income
+07-16-2024,Ajio Clothing,442.7,Expense,Shopping
+07-16-2024,Travel Booking,19693.66,Expense,Travel
+07-16-2024,Coffee Shop,150.67,Expense,Food & Dining
+07-17-2024,Rental Income,6117.37,Income,Income
+07-17-2024,Gym Membership,1176.91,Expense,Healthcare
+07-17-2024,Zomato Food Delivery,743.94,Expense,Food & Dining
+07-17-2024,Gym Membership,1103.8,Expense,Healthcare
+07-17-2024,Maintenance Charges,2833.63,Expense,Housing
+07-18-2024,Coffee Shop,108.13,Expense,Food & Dining
+07-19-2024,Insurance Premium,4483.44,Expense,Insurance
+07-19-2024,Netflix Subscription,262.94,Expense,Subscriptions
+07-20-2024,Uber Ride,438.15,Expense,Transportation
+07-21-2024,Flipkart Order,4999.6,Expense,Shopping
+07-21-2024,Rental Income,14012.64,Income,Income
+07-21-2024,Flipkart Order,784.75,Expense,Shopping
+07-21-2024,Travel Booking,18514.64,Expense,Travel
+07-21-2024,Spotify Premium,119.0,Expense,Subscriptions
+07-23-2024,Online Course,2149.93,Expense,Education
+07-23-2024,Coffee Shop,299.39,Expense,Food & Dining
+07-23-2024,Rapido Bike Taxi,187.22,Expense,Transportation
+07-23-2024,Amazon Purchase,7004.91,Expense,Shopping
+07-23-2024,Amazon Purchase,1627.68,Expense,Shopping
+07-24-2024,BigBasket Groceries,2828.15,Expense,Groceries
+07-25-2024,Petrol / Diesel,1568.89,Expense,Transportation
+07-25-2024,Ajio Clothing,2221.81,Expense,Shopping
+07-25-2024,1mg Medicine Order,315.94,Expense,Healthcare
+07-25-2024,Reliance Fresh,228.51,Expense,Groceries
+07-25-2024,Dividend Credit,13813.6,Income,Income
+07-26-2024,Water Bill,337.9,Expense,Utilities
+07-27-2024,Transfer Received,11768.42,Income,Income
+07-27-2024,Cashback Credit,965.16,Income,Income
+07-27-2024,Restaurant Dinner,2394.97,Expense,Food & Dining
+07-28-2024,Cashback Credit,359.58,Income,Income
+07-28-2024,Doctor Consultation,1000.53,Expense,Healthcare
+07-28-2024,Meesho Order,1902.08,Expense,Shopping
+07-28-2024,Parking Charges,244.31,Expense,Transportation
+07-29-2024,House Rent,17561.74,Expense,Housing
+07-29-2024,DMart Purchase,2557.36,Expense,Groceries
+07-30-2024,Coffee Shop,138.08,Expense,Food & Dining
+07-31-2024,UPI Received,13715.88,Income,Income
+07-31-2024,Refund Credit,1030.98,Income,Income
+08-01-2024,Apollo Pharmacy,949.24,Expense,Healthcare
+08-02-2024,Meesho Order,738.5,Expense,Shopping
+08-02-2024,Coffee Shop,248.52,Expense,Food & Dining
+08-03-2024,Uber Ride,290.39,Expense,Transportation
+08-04-2024,Uber Ride,395.87,Expense,Transportation
+08-04-2024,Gaming Recharge,1373.15,Expense,Entertainment
+08-04-2024,Meesho Order,445.79,Expense,Shopping
+08-04-2024,School Fees,14521.75,Expense,Education
+08-04-2024,Freelance Payment,12136.1,Income,Income
+08-05-2024,More Supermarket,1065.25,Expense,Groceries
+08-05-2024,Apollo Pharmacy,593.08,Expense,Healthcare
+08-06-2024,Travel Booking,5942.53,Expense,Travel
+08-08-2024,Spa Treatment,1728.8,Expense,Personal Care
+08-08-2024,Hotel Stay,6697.82,Expense,Travel
+08-10-2024,Airtel Mobile Bill,545.61,Expense,Utilities
+08-10-2024,Salary Credit,100620.12,Income,Income
+08-10-2024,Petrol / Diesel,2914.38,Expense,Transportation
+08-11-2024,House Rent,13830.24,Expense,Housing
+08-11-2024,Reliance Fresh,1080.55,Expense,Groceries
+08-12-2024,Freelance Payment,14722.34,Income,Income
+08-12-2024,Coffee Shop,191.27,Expense,Food & Dining
+08-12-2024,Dividend Credit,1662.06,Income,Income
+08-13-2024,Dividend Credit,2331.25,Income,Income
+08-13-2024,ATM Withdrawal,3448.21,Expense,Miscellaneous
+08-13-2024,Gym Membership,615.35,Expense,Healthcare
+08-14-2024,Spotify Premium,119.0,Expense,Subscriptions
+08-14-2024,Myntra Fashion,2125.8,Expense,Shopping
+08-15-2024,Parking Charges,52.71,Expense,Transportation
+08-15-2024,Water Bill,338.12,Expense,Utilities
+08-15-2024,Rental Income,20242.87,Income,Income
+08-16-2024,Hotstar Subscription,784.02,Expense,Subscriptions
+08-18-2024,BigBasket Groceries,2838.72,Expense,Groceries
+08-18-2024,Myntra Fashion,974.2,Expense,Shopping
+08-18-2024,Refund Credit,690.95,Income,Income
+08-19-2024,DMart Purchase,3473.56,Expense,Groceries
+08-19-2024,Travel Booking,17351.11,Expense,Travel
+08-19-2024,UPI Received,962.8,Income,Income
+08-20-2024,Cashback Credit,654.42,Income,Income
+08-20-2024,Hotel Stay,8991.09,Expense,Travel
+08-21-2024,Interest Credit,2273.23,Income,Income
+08-22-2024,Insurance Premium,6527.36,Expense,Insurance
+08-22-2024,Bonus Credit,16168.44,Income,Income
+08-22-2024,Meesho Order,1694.61,Expense,Shopping
+08-22-2024,Transfer Received,5519.46,Income,Income
+08-22-2024,YouTube Premium,139.0,Expense,Subscriptions
+08-23-2024,Refund Credit,3597.28,Income,Income
+08-24-2024,DMart Purchase,2737.78,Expense,Groceries
+08-25-2024,Ajio Clothing,3188.74,Expense,Shopping
+08-25-2024,ATM Withdrawal,2931.71,Expense,Miscellaneous
+08-25-2024,Gym Membership,2460.19,Expense,Healthcare
+08-26-2024,House Rent,9328.37,Expense,Housing
+08-26-2024,More Supermarket,254.25,Expense,Groceries
+08-26-2024,Spa Treatment,1539.42,Expense,Personal Care
+08-27-2024,Metro Card Recharge,405.03,Expense,Transportation
+08-27-2024,Cashback Credit,151.64,Income,Income
+08-28-2024,Petrol / Diesel,1274.5,Expense,Transportation
+08-28-2024,Cashback Credit,871.39,Income,Income
+08-29-2024,Swiggy Order,847.23,Expense,Food & Dining
+08-29-2024,Rapido Bike Taxi,65.65,Expense,Transportation
+08-29-2024,Freelance Payment,21760.61,Income,Income
+08-30-2024,Ajio Clothing,2225.49,Expense,Shopping
+08-30-2024,BigBasket Groceries,1795.89,Expense,Groceries
+08-31-2024,Hotstar Subscription,525.75,Expense,Subscriptions
+08-31-2024,Amazon Prime,577.87,Expense,Subscriptions
+09-01-2024,Flipkart Order,1194.04,Expense,Shopping
+09-02-2024,Maintenance Charges,1476.49,Expense,Housing
+09-02-2024,Doctor Consultation,384.07,Expense,Healthcare
+09-03-2024,Petrol / Diesel,916.99,Expense,Transportation
+09-03-2024,More Supermarket,1046.48,Expense,Groceries
+09-04-2024,Uber Ride,401.77,Expense,Transportation
+09-05-2024,Salary Credit,109733.34,Income,Income
+09-07-2024,Swiggy Order,213.34,Expense,Food & Dining
+09-07-2024,Airtel Mobile Bill,792.21,Expense,Utilities
+09-08-2024,Hair Salon,339.89,Expense,Personal Care
+09-08-2024,Jio Recharge,498.4,Expense,Utilities
+09-08-2024,1mg Medicine Order,823.08,Expense,Healthcare
+09-08-2024,Electricity Bill,2400.14,Expense,Utilities
+09-08-2024,Hotel Stay,5535.32,Expense,Travel
+09-09-2024,Insurance Premium,4240.94,Expense,Insurance
+09-09-2024,Gym Membership,1872.69,Expense,Healthcare
+09-09-2024,Spa Treatment,532.16,Expense,Personal Care
+09-09-2024,Online Course,4879.2,Expense,Education
+09-09-2024,PVR Cinemas,789.17,Expense,Entertainment
+09-09-2024,Apollo Pharmacy,734.33,Expense,Healthcare
+09-10-2024,BigBasket Groceries,1148.34,Expense,Groceries
+09-11-2024,1mg Medicine Order,486.39,Expense,Healthcare
+09-11-2024,Ajio Clothing,449.56,Expense,Shopping
+09-11-2024,Hotstar Subscription,356.13,Expense,Subscriptions
+09-12-2024,Book Purchase,445.47,Expense,Education
+09-14-2024,BookMyShow Tickets,894.85,Expense,Entertainment
+09-15-2024,Hair Salon,318.37,Expense,Personal Care
+09-15-2024,Bonus Credit,7311.87,Income,Income
+09-16-2024,Insurance Premium,1642.43,Expense,Insurance
+09-16-2024,Uber Ride,146.47,Expense,Transportation
+09-16-2024,Uber Ride,442.24,Expense,Transportation
+09-17-2024,Restaurant Dinner,1618.74,Expense,Food & Dining
+09-17-2024,Hotel Stay,2855.12,Expense,Travel
+09-17-2024,Cashback Credit,531.82,Income,Income
+09-17-2024,Flipkart Order,3594.56,Expense,Shopping
+09-17-2024,Myntra Fashion,2869.67,Expense,Shopping
+09-17-2024,Petrol / Diesel,3643.42,Expense,Transportation
+09-18-2024,Book Purchase,1052.08,Expense,Education
+09-18-2024,Water Bill,499.72,Expense,Utilities
+09-18-2024,Online Course,3949.38,Expense,Education
+09-19-2024,Rental Income,9588.02,Income,Income
+09-19-2024,Zomato Food Delivery,827.13,Expense,Food & Dining
+09-20-2024,Jio Recharge,519.96,Expense,Utilities
+09-20-2024,Jio Recharge,248.4,Expense,Utilities
+09-20-2024,Reliance Fresh,1914.47,Expense,Groceries
+09-21-2024,1mg Medicine Order,547.39,Expense,Healthcare
+09-21-2024,UPI Received,6865.14,Income,Income
+09-21-2024,Hotstar Subscription,655.3,Expense,Subscriptions
+09-21-2024,Metro Card Recharge,959.72,Expense,Transportation
+09-21-2024,Insurance Premium,9185.76,Expense,Insurance
+09-22-2024,Rapido Bike Taxi,80.04,Expense,Transportation
+09-23-2024,School Fees,14429.28,Expense,Education
+09-23-2024,Uber Ride,384.18,Expense,Transportation
+09-23-2024,Travel Booking,5707.0,Expense,Travel
+09-23-2024,Cashback Credit,591.53,Income,Income
+09-23-2024,PVR Cinemas,748.08,Expense,Entertainment
+09-23-2024,More Supermarket,396.3,Expense,Groceries
+09-24-2024,Bonus Credit,49123.41,Income,Income
+09-25-2024,Gym Membership,1266.31,Expense,Healthcare
+09-25-2024,PVR Cinemas,357.78,Expense,Entertainment
+09-25-2024,Apollo Pharmacy,1888.33,Expense,Healthcare
+09-26-2024,DMart Purchase,677.9,Expense,Groceries
+09-26-2024,Gaming Recharge,425.15,Expense,Entertainment
+09-26-2024,UPI Received,10344.17,Income,Income
+09-29-2024,Water Bill,328.06,Expense,Utilities
+09-29-2024,Ajio Clothing,2670.01,Expense,Shopping
+09-30-2024,Ola Cab,380.12,Expense,Transportation
+10-01-2024,Netflix Subscription,401.32,Expense,Subscriptions
+10-01-2024,Rental Income,7570.16,Income,Income
+10-01-2024,Book Purchase,757.01,Expense,Education
+10-02-2024,Hotstar Subscription,734.92,Expense,Subscriptions
+10-02-2024,ATM Withdrawal,1676.96,Expense,Miscellaneous
+10-02-2024,Jio Recharge,536.55,Expense,Utilities
+10-03-2024,Gym Membership,1276.72,Expense,Healthcare
+10-03-2024,Amazon Prime,518.65,Expense,Subscriptions
+10-03-2024,Transfer Received,29413.84,Income,Income
+10-03-2024,Netflix Subscription,490.61,Expense,Subscriptions
+10-04-2024,Petrol / Diesel,1264.45,Expense,Transportation
+10-04-2024,Zomato Food Delivery,312.71,Expense,Food & Dining
+10-04-2024,House Rent,22445.7,Expense,Housing
+10-04-2024,Online Course,1007.89,Expense,Education
+10-05-2024,Apollo Pharmacy,1117.99,Expense,Healthcare
+10-05-2024,Dividend Credit,4824.47,Income,Income
+10-06-2024,Flipkart Order,1176.4,Expense,Shopping
+10-07-2024,More Supermarket,151.52,Expense,Groceries
+10-07-2024,Amazon Purchase,6141.42,Expense,Shopping
+10-08-2024,Zomato Food Delivery,369.81,Expense,Food & Dining
+10-09-2024,YouTube Premium,139.0,Expense,Subscriptions
+10-10-2024,YouTube Premium,139.0,Expense,Subscriptions
+10-10-2024,Travel Booking,8063.23,Expense,Travel
+10-10-2024,Transfer Received,30107.34,Income,Income
+10-11-2024,1mg Medicine Order,1080.03,Expense,Healthcare
+10-12-2024,Hotstar Subscription,230.82,Expense,Subscriptions
+10-12-2024,Uber Ride,286.9,Expense,Transportation
+10-12-2024,Hotstar Subscription,232.1,Expense,Subscriptions
+10-13-2024,Freelance Payment,26940.94,Income,Income
+10-13-2024,Gym Membership,1131.99,Expense,Healthcare
+10-14-2024,Gym Membership,1699.16,Expense,Healthcare
+10-15-2024,Meesho Order,1162.89,Expense,Shopping
+10-15-2024,Ajio Clothing,885.3,Expense,Shopping
+10-15-2024,PVR Cinemas,755.58,Expense,Entertainment
+10-16-2024,House Rent,27801.13,Expense,Housing
+10-16-2024,Spa Treatment,754.88,Expense,Personal Care
+10-17-2024,Hotel Stay,6262.91,Expense,Travel
+10-18-2024,Salary Credit,79595.72,Income,Income
+10-18-2024,Petrol / Diesel,1794.84,Expense,Transportation
+10-19-2024,Apollo Pharmacy,879.3,Expense,Healthcare
+10-19-2024,Electricity Bill,2304.58,Expense,Utilities
+10-19-2024,Electricity Bill,3405.51,Expense,Utilities
+10-20-2024,Spa Treatment,2922.26,Expense,Personal Care
+10-20-2024,Ajio Clothing,665.11,Expense,Shopping
+10-20-2024,More Supermarket,586.5,Expense,Groceries
+10-20-2024,YouTube Premium,139.0,Expense,Subscriptions
+10-21-2024,Doctor Consultation,1051.28,Expense,Healthcare
+10-21-2024,Hotstar Subscription,687.65,Expense,Subscriptions
+10-21-2024,Petrol / Diesel,1570.94,Expense,Transportation
+10-22-2024,Insurance Premium,5229.33,Expense,Insurance
+10-23-2024,Transfer Received,24362.54,Income,Income
+10-23-2024,BigBasket Groceries,355.47,Expense,Groceries
+10-23-2024,Hotstar Subscription,418.86,Expense,Subscriptions
+10-23-2024,Refund Credit,1026.16,Income,Income
+10-23-2024,Online Course,2218.67,Expense,Education
+10-24-2024,1mg Medicine Order,559.97,Expense,Healthcare
+10-25-2024,Jio Recharge,406.18,Expense,Utilities
+10-27-2024,Insurance Premium,7381.74,Expense,Insurance
+10-28-2024,DMart Purchase,274.81,Expense,Groceries
+10-29-2024,Amazon Prime,836.13,Expense,Subscriptions
+10-29-2024,Zomato Food Delivery,179.59,Expense,Food & Dining
+10-30-2024,BookMyShow Tickets,1123.88,Expense,Entertainment
+10-30-2024,Ajio Clothing,618.66,Expense,Shopping
+10-31-2024,Amazon Prime,695.33,Expense,Subscriptions
+10-31-2024,Salary Credit,78478.47,Income,Income
+10-31-2024,Insurance Premium,9878.74,Expense,Insurance
+11-01-2024,Online Course,2428.01,Expense,Education
+11-02-2024,Transfer Received,17918.39,Income,Income
+11-02-2024,Doctor Consultation,1146.53,Expense,Healthcare
+11-02-2024,Spa Treatment,1659.87,Expense,Personal Care
+11-02-2024,Gym Membership,2149.28,Expense,Healthcare
+11-02-2024,Swiggy Order,269.73,Expense,Food & Dining
+11-02-2024,Travel Booking,2599.0,Expense,Travel
+11-03-2024,Apollo Pharmacy,1488.26,Expense,Healthcare
+11-03-2024,Netflix Subscription,520.37,Expense,Subscriptions
+11-03-2024,Doctor Consultation,652.57,Expense,Healthcare
+11-04-2024,Petrol / Diesel,3451.33,Expense,Transportation
+11-05-2024,Dividend Credit,6628.9,Income,Income
+11-05-2024,Cashback Credit,506.08,Income,Income
+11-06-2024,Interest Credit,2003.63,Income,Income
+11-07-2024,Hotel Stay,5243.28,Expense,Travel
+11-07-2024,Gaming Recharge,1842.19,Expense,Entertainment
+11-07-2024,Coffee Shop,200.63,Expense,Food & Dining
+11-08-2024,Travel Booking,19139.49,Expense,Travel
+11-08-2024,Hair Salon,391.32,Expense,Personal Care
+11-08-2024,Online Course,1523.57,Expense,Education
+11-09-2024,Hotel Stay,8079.74,Expense,Travel
+11-10-2024,Netflix Subscription,527.42,Expense,Subscriptions
+11-10-2024,BigBasket Groceries,1536.94,Expense,Groceries
+11-10-2024,House Rent,20555.8,Expense,Housing
+11-11-2024,Doctor Consultation,1333.77,Expense,Healthcare
+11-11-2024,Travel Booking,7138.82,Expense,Travel
+11-11-2024,Reliance Fresh,976.6,Expense,Groceries
+11-12-2024,Ola Cab,151.57,Expense,Transportation
+11-12-2024,Swiggy Order,465.67,Expense,Food & Dining
+11-13-2024,Insurance Premium,5196.16,Expense,Insurance
+11-13-2024,Jio Recharge,568.86,Expense,Utilities
+11-13-2024,BigBasket Groceries,888.67,Expense,Groceries
+11-13-2024,Amazon Purchase,7497.22,Expense,Shopping
+11-14-2024,Airtel Mobile Bill,494.27,Expense,Utilities
+11-14-2024,Water Bill,680.18,Expense,Utilities
+11-14-2024,Uber Ride,402.63,Expense,Transportation
+11-16-2024,Online Course,2577.89,Expense,Education
+11-16-2024,Maintenance Charges,1892.19,Expense,Housing
+11-17-2024,Freelance Payment,22441.81,Income,Income
+11-18-2024,Electricity Bill,4482.55,Expense,Utilities
+11-18-2024,Meesho Order,836.43,Expense,Shopping
+11-19-2024,Parking Charges,59.02,Expense,Transportation
+11-19-2024,YouTube Premium,139.0,Expense,Subscriptions
+11-20-2024,Bonus Credit,19133.46,Income,Income
+11-20-2024,1mg Medicine Order,1265.82,Expense,Healthcare
+11-21-2024,More Supermarket,1020.4,Expense,Groceries
+11-22-2024,BookMyShow Tickets,710.59,Expense,Entertainment
+11-23-2024,Uber Ride,378.54,Expense,Transportation
+11-24-2024,Water Bill,451.52,Expense,Utilities
+11-25-2024,Online Course,2960.99,Expense,Education
+11-25-2024,Insurance Premium,5569.26,Expense,Insurance
+11-25-2024,Doctor Consultation,962.43,Expense,Healthcare
+11-25-2024,Doctor Consultation,1509.26,Expense,Healthcare
+11-25-2024,Ola Cab,456.4,Expense,Transportation
+11-25-2024,Insurance Premium,2114.33,Expense,Insurance
+11-26-2024,ATM Withdrawal,4137.36,Expense,Miscellaneous
+11-28-2024,Reliance Fresh,653.82,Expense,Groceries
+11-30-2024,Cashback Credit,621.15,Income,Income
+11-30-2024,Petrol / Diesel,1965.17,Expense,Transportation
+11-30-2024,BookMyShow Tickets,792.68,Expense,Entertainment
+12-01-2024,Amazon Purchase,595.8,Expense,Shopping
+12-01-2024,Online Course,4392.54,Expense,Education
+12-02-2024,Doctor Consultation,555.68,Expense,Healthcare
+12-03-2024,Salary Credit,72811.55,Income,Income
+12-04-2024,Airtel Mobile Bill,358.97,Expense,Utilities
+12-05-2024,Jio Recharge,454.59,Expense,Utilities
+12-05-2024,Ajio Clothing,596.19,Expense,Shopping
+12-06-2024,Doctor Consultation,1590.51,Expense,Healthcare
+12-07-2024,1mg Medicine Order,846.16,Expense,Healthcare
+12-07-2024,Travel Booking,5693.39,Expense,Travel
+12-07-2024,Insurance Premium,7468.9,Expense,Insurance
+12-08-2024,Amazon Prime,655.38,Expense,Subscriptions
+12-08-2024,Cashback Credit,634.74,Income,Income
+12-09-2024,Apollo Pharmacy,560.78,Expense,Healthcare
+12-10-2024,Book Purchase,1407.49,Expense,Education
+12-10-2024,Interest Credit,881.0,Income,Income
+12-10-2024,Cashback Credit,873.68,Income,Income
+12-11-2024,Airtel Mobile Bill,304.4,Expense,Utilities
+12-12-2024,Uber Ride,182.21,Expense,Transportation
+12-12-2024,YouTube Premium,139.0,Expense,Subscriptions
+12-12-2024,Doctor Consultation,1614.9,Expense,Healthcare
+12-12-2024,Zomato Food Delivery,531.32,Expense,Food & Dining
+12-14-2024,Netflix Subscription,537.55,Expense,Subscriptions
+12-14-2024,Refund Credit,1557.24,Income,Income
+12-14-2024,Reliance Fresh,1641.97,Expense,Groceries
+12-14-2024,ATM Withdrawal,1118.79,Expense,Miscellaneous
+12-15-2024,More Supermarket,1359.05,Expense,Groceries
+12-15-2024,Online Course,567.23,Expense,Education
+12-15-2024,Uber Ride,242.77,Expense,Transportation
+12-15-2024,BigBasket Groceries,1682.78,Expense,Groceries
+12-16-2024,Salary Credit,68596.03,Income,Income
+12-16-2024,Online Course,2661.96,Expense,Education
+12-17-2024,Flipkart Order,1036.95,Expense,Shopping
+12-18-2024,BookMyShow Tickets,589.35,Expense,Entertainment
+12-19-2024,Gaming Recharge,1014.42,Expense,Entertainment
+12-19-2024,Restaurant Dinner,561.53,Expense,Food & Dining
+12-19-2024,BigBasket Groceries,945.34,Expense,Groceries
+12-20-2024,Meesho Order,1307.4,Expense,Shopping
+12-20-2024,Salary Credit,96735.24,Income,Income
+12-20-2024,Newspaper Subscription,243.33,Expense,Subscriptions
+12-20-2024,Hotstar Subscription,484.95,Expense,Subscriptions
+12-21-2024,Coffee Shop,95.62,Expense,Food & Dining
+12-22-2024,Freelance Payment,25124.81,Income,Income
+12-22-2024,PVR Cinemas,522.23,Expense,Entertainment
+12-22-2024,Cashback Credit,934.33,Income,Income
+12-22-2024,Parking Charges,158.24,Expense,Transportation
+12-23-2024,Hotstar Subscription,380.36,Expense,Subscriptions
+12-23-2024,Gaming Recharge,1700.1,Expense,Entertainment
+12-23-2024,Gaming Recharge,1160.81,Expense,Entertainment
+12-24-2024,Apollo Pharmacy,1890.57,Expense,Healthcare
+12-24-2024,Insurance Premium,8006.04,Expense,Insurance
+12-25-2024,Doctor Consultation,921.08,Expense,Healthcare
+12-25-2024,Doctor Consultation,1344.3,Expense,Healthcare
+12-26-2024,Ola Cab,188.83,Expense,Transportation
+12-28-2024,Restaurant Dinner,2744.65,Expense,Food & Dining
+12-28-2024,YouTube Premium,139.0,Expense,Subscriptions
+12-28-2024,Ajio Clothing,1148.16,Expense,Shopping
+12-28-2024,Water Bill,743.95,Expense,Utilities
+12-29-2024,Cashback Credit,572.95,Income,Income
+12-29-2024,Zomato Food Delivery,704.27,Expense,Food & Dining
+01-02-2025,Hotel Stay,8466.2,Expense,Travel
+01-02-2025,Gaming Recharge,1214.96,Expense,Entertainment
+01-02-2025,Online Course,1318.08,Expense,Education
+01-03-2025,Coffee Shop,93.16,Expense,Food & Dining
+01-03-2025,YouTube Premium,139.0,Expense,Subscriptions
+01-04-2025,Amazon Purchase,1805.42,Expense,Shopping
+01-04-2025,Uber Ride,239.45,Expense,Transportation
+01-05-2025,Amazon Prime,716.83,Expense,Subscriptions
+01-05-2025,Myntra Fashion,1947.91,Expense,Shopping
+01-05-2025,Jio Recharge,291.36,Expense,Utilities
+01-06-2025,Ola Cab,465.91,Expense,Transportation
+01-08-2025,Petrol / Diesel,1191.44,Expense,Transportation
+01-08-2025,Petrol / Diesel,3311.4,Expense,Transportation
+01-09-2025,Doctor Consultation,937.69,Expense,Healthcare
+01-09-2025,Jio Recharge,226.16,Expense,Utilities
+01-10-2025,Metro Card Recharge,318.61,Expense,Transportation
+01-12-2025,BigBasket Groceries,1784.25,Expense,Groceries
+01-12-2025,Online Course,1239.18,Expense,Education
+01-13-2025,Spotify Premium,119.0,Expense,Subscriptions
+01-14-2025,Hotel Stay,9381.95,Expense,Travel
+01-14-2025,Online Course,2626.12,Expense,Education
+01-15-2025,Book Purchase,210.71,Expense,Education
+01-15-2025,DMart Purchase,1439.11,Expense,Groceries
+01-16-2025,Apollo Pharmacy,1725.82,Expense,Healthcare
+01-17-2025,Ajio Clothing,1519.25,Expense,Shopping
+01-17-2025,Coffee Shop,271.51,Expense,Food & Dining
+01-20-2025,Airtel Mobile Bill,769.44,Expense,Utilities
+01-20-2025,Water Bill,340.55,Expense,Utilities
+01-20-2025,House Rent,17646.07,Expense,Housing
+01-21-2025,Amazon Purchase,3706.51,Expense,Shopping
+01-21-2025,Hotel Stay,8244.88,Expense,Travel
+01-21-2025,Hotel Stay,3393.78,Expense,Travel
+01-21-2025,Myntra Fashion,1526.48,Expense,Shopping
+01-22-2025,Cashback Credit,125.62,Income,Income
+01-22-2025,Hotstar Subscription,160.17,Expense,Subscriptions
+01-22-2025,Newspaper Subscription,254.58,Expense,Subscriptions
+01-22-2025,Bonus Credit,40344.58,Income,Income
+01-23-2025,Petrol / Diesel,925.77,Expense,Transportation
+01-23-2025,Gaming Recharge,1009.1,Expense,Entertainment
+01-24-2025,House Rent,10169.61,Expense,Housing
+01-24-2025,BigBasket Groceries,2582.24,Expense,Groceries
+01-24-2025,BigBasket Groceries,369.55,Expense,Groceries
+01-25-2025,Hotstar Subscription,699.34,Expense,Subscriptions
+01-25-2025,Petrol / Diesel,701.36,Expense,Transportation
+01-26-2025,Uber Ride,179.43,Expense,Transportation
+01-26-2025,PVR Cinemas,480.14,Expense,Entertainment
+01-26-2025,Travel Booking,8432.58,Expense,Travel
+01-27-2025,Water Bill,685.5,Expense,Utilities
+01-28-2025,Airtel Mobile Bill,567.5,Expense,Utilities
+01-28-2025,Maintenance Charges,2824.44,Expense,Housing
+01-28-2025,Restaurant Dinner,1547.39,Expense,Food & Dining
+01-28-2025,Water Bill,248.88,Expense,Utilities
+01-29-2025,Electricity Bill,2744.08,Expense,Utilities
+01-30-2025,House Rent,11105.84,Expense,Housing
+01-30-2025,Maintenance Charges,1129.14,Expense,Housing
+01-31-2025,Jio Recharge,472.09,Expense,Utilities
+02-01-2025,Rapido Bike Taxi,53.44,Expense,Transportation
+02-01-2025,Doctor Consultation,1130.57,Expense,Healthcare
+02-02-2025,Parking Charges,262.43,Expense,Transportation
+02-02-2025,Petrol / Diesel,1687.81,Expense,Transportation
+02-02-2025,Spa Treatment,2307.84,Expense,Personal Care
+02-02-2025,Amazon Purchase,7254.65,Expense,Shopping
+02-02-2025,DMart Purchase,1575.05,Expense,Groceries
+02-04-2025,Water Bill,345.89,Expense,Utilities
+02-04-2025,Doctor Consultation,904.2,Expense,Healthcare
+02-04-2025,Online Course,2435.05,Expense,Education
+02-05-2025,Insurance Premium,1032.97,Expense,Insurance
+02-05-2025,Uber Ride,501.38,Expense,Transportation
+02-05-2025,Zomato Food Delivery,259.16,Expense,Food & Dining
+02-07-2025,DMart Purchase,1955.38,Expense,Groceries
+02-08-2025,Airtel Mobile Bill,982.74,Expense,Utilities
+02-08-2025,Refund Credit,1444.47,Income,Income
+02-08-2025,Metro Card Recharge,225.54,Expense,Transportation
+02-08-2025,Apollo Pharmacy,1899.67,Expense,Healthcare
+02-09-2025,Travel Booking,9768.04,Expense,Travel
+02-10-2025,Rapido Bike Taxi,76.22,Expense,Transportation
+02-10-2025,Netflix Subscription,218.04,Expense,Subscriptions
+02-10-2025,Maintenance Charges,1651.97,Expense,Housing
+02-12-2025,Myntra Fashion,1713.83,Expense,Shopping
+02-12-2025,Rental Income,14980.73,Income,Income
+02-12-2025,Water Bill,280.54,Expense,Utilities
+02-14-2025,YouTube Premium,139.0,Expense,Subscriptions
+02-14-2025,1mg Medicine Order,714.0,Expense,Healthcare
+02-14-2025,Uber Ride,159.28,Expense,Transportation
+02-14-2025,School Fees,7246.44,Expense,Education
+02-14-2025,BigBasket Groceries,1893.8,Expense,Groceries
+02-14-2025,Freelance Payment,10692.86,Income,Income
+02-15-2025,Ola Cab,253.31,Expense,Transportation
+02-16-2025,Flipkart Order,1983.09,Expense,Shopping
+02-16-2025,Spa Treatment,647.66,Expense,Personal Care
+02-17-2025,Coffee Shop,315.79,Expense,Food & Dining
+02-17-2025,Parking Charges,201.39,Expense,Transportation
+02-17-2025,Maintenance Charges,528.34,Expense,Housing
+02-17-2025,Swiggy Order,371.29,Expense,Food & Dining
+02-19-2025,UPI Received,9331.23,Income,Income
+02-19-2025,BigBasket Groceries,1065.33,Expense,Groceries
+02-20-2025,Doctor Consultation,617.87,Expense,Healthcare
+02-20-2025,Flipkart Order,5841.49,Expense,Shopping
+02-21-2025,Parking Charges,159.04,Expense,Transportation
+02-21-2025,Flipkart Order,2006.1,Expense,Shopping
+02-21-2025,Rapido Bike Taxi,50.32,Expense,Transportation
+02-25-2025,Water Bill,516.83,Expense,Utilities
+02-26-2025,Hotstar Subscription,735.65,Expense,Subscriptions
+02-26-2025,ATM Withdrawal,895.98,Expense,Miscellaneous
+02-26-2025,YouTube Premium,139.0,Expense,Subscriptions
+02-27-2025,Apollo Pharmacy,1740.15,Expense,Healthcare
+02-27-2025,Petrol / Diesel,2876.08,Expense,Transportation
+02-27-2025,Coffee Shop,461.87,Expense,Food & Dining
+02-28-2025,Amazon Prime,544.95,Expense,Subscriptions
+02-28-2025,Meesho Order,1627.17,Expense,Shopping
+03-02-2025,Rental Income,8407.62,Income,Income
+03-02-2025,Bonus Credit,15193.41,Income,Income
+03-02-2025,Petrol / Diesel,2007.88,Expense,Transportation
+03-02-2025,Restaurant Dinner,1362.27,Expense,Food & Dining
+03-03-2025,Maintenance Charges,2515.8,Expense,Housing
+03-03-2025,Airtel Mobile Bill,413.03,Expense,Utilities
+03-03-2025,YouTube Premium,139.0,Expense,Subscriptions
+03-04-2025,Spotify Premium,119.0,Expense,Subscriptions
+03-04-2025,PVR Cinemas,307.59,Expense,Entertainment
+03-05-2025,Hotstar Subscription,731.96,Expense,Subscriptions
+03-05-2025,BookMyShow Tickets,826.45,Expense,Entertainment
+03-06-2025,Gaming Recharge,430.88,Expense,Entertainment
+03-06-2025,Bonus Credit,45114.94,Income,Income
+03-06-2025,Flipkart Order,2820.13,Expense,Shopping
+03-07-2025,Swiggy Order,854.55,Expense,Food & Dining
+03-07-2025,Restaurant Dinner,926.56,Expense,Food & Dining
+03-07-2025,Bonus Credit,7363.04,Income,Income
+03-07-2025,PVR Cinemas,778.78,Expense,Entertainment
+03-08-2025,Ajio Clothing,2122.83,Expense,Shopping
+03-08-2025,Rental Income,11645.87,Income,Income
+03-08-2025,Amazon Purchase,4329.39,Expense,Shopping
+03-09-2025,Apollo Pharmacy,240.02,Expense,Healthcare
+03-09-2025,Zomato Food Delivery,454.06,Expense,Food & Dining
+03-09-2025,Apollo Pharmacy,1913.62,Expense,Healthcare
+03-10-2025,Petrol / Diesel,1665.22,Expense,Transportation
+03-10-2025,Flipkart Order,4765.24,Expense,Shopping
+03-10-2025,Maintenance Charges,2966.9,Expense,Housing
+03-10-2025,Salary Credit,62553.25,Income,Income
+03-11-2025,House Rent,9666.59,Expense,Housing
+03-12-2025,Metro Card Recharge,576.47,Expense,Transportation
+03-13-2025,BigBasket Groceries,2109.85,Expense,Groceries
+03-14-2025,Restaurant Dinner,431.46,Expense,Food & Dining
+03-14-2025,Interest Credit,1460.41,Income,Income
+03-14-2025,Hotstar Subscription,404.62,Expense,Subscriptions
+03-16-2025,Gaming Recharge,1473.29,Expense,Entertainment
+03-16-2025,Apollo Pharmacy,820.28,Expense,Healthcare
+03-16-2025,Doctor Consultation,520.22,Expense,Healthcare
+03-17-2025,Flipkart Order,1331.47,Expense,Shopping
+03-17-2025,Rapido Bike Taxi,35.72,Expense,Transportation
+03-17-2025,House Rent,10388.94,Expense,Housing
+03-19-2025,Restaurant Dinner,1427.75,Expense,Food & Dining
+03-19-2025,Water Bill,625.35,Expense,Utilities
+03-19-2025,Hotel Stay,2329.76,Expense,Travel
+03-19-2025,Ola Cab,156.43,Expense,Transportation
+03-20-2025,Apollo Pharmacy,928.62,Expense,Healthcare
+03-20-2025,Doctor Consultation,1093.0,Expense,Healthcare
+03-21-2025,DMart Purchase,2763.43,Expense,Groceries
+03-21-2025,Interest Credit,750.21,Income,Income
+03-22-2025,House Rent,19112.2,Expense,Housing
+03-22-2025,Amazon Prime,250.74,Expense,Subscriptions
+03-23-2025,Travel Booking,7107.84,Expense,Travel
+03-24-2025,Gaming Recharge,770.94,Expense,Entertainment
+03-24-2025,BookMyShow Tickets,313.85,Expense,Entertainment
+03-24-2025,Newspaper Subscription,218.43,Expense,Subscriptions
+03-24-2025,Ola Cab,285.32,Expense,Transportation
+03-25-2025,Doctor Consultation,886.52,Expense,Healthcare
+03-25-2025,Rapido Bike Taxi,193.89,Expense,Transportation
+03-25-2025,Book Purchase,1263.15,Expense,Education
+03-26-2025,House Rent,13556.01,Expense,Housing
+03-26-2025,Gym Membership,961.63,Expense,Healthcare
+03-26-2025,Bonus Credit,42980.07,Income,Income
+03-26-2025,Rapido Bike Taxi,85.8,Expense,Transportation
+03-27-2025,House Rent,24962.49,Expense,Housing
+03-27-2025,Online Course,4656.44,Expense,Education
+03-30-2025,Rapido Bike Taxi,117.44,Expense,Transportation
+03-31-2025,Doctor Consultation,490.6,Expense,Healthcare
+04-01-2025,Doctor Consultation,1622.0,Expense,Healthcare
+04-02-2025,Maintenance Charges,2903.57,Expense,Housing
+04-03-2025,Zomato Food Delivery,337.74,Expense,Food & Dining
+04-03-2025,Amazon Prime,881.83,Expense,Subscriptions
+04-04-2025,Online Course,747.73,Expense,Education
+04-04-2025,Doctor Consultation,452.59,Expense,Healthcare
+04-05-2025,DMart Purchase,503.99,Expense,Groceries
+04-05-2025,Gaming Recharge,586.6,Expense,Entertainment
+04-05-2025,DMart Purchase,1726.58,Expense,Groceries
+04-06-2025,Jio Recharge,514.61,Expense,Utilities
+04-07-2025,UPI Received,8842.5,Income,Income
+04-07-2025,Apollo Pharmacy,1653.65,Expense,Healthcare
+04-07-2025,Amazon Prime,303.67,Expense,Subscriptions
+04-07-2025,Amazon Prime,384.29,Expense,Subscriptions
+04-08-2025,Freelance Payment,19939.84,Income,Income
+04-09-2025,Gaming Recharge,287.65,Expense,Entertainment
+04-09-2025,DMart Purchase,1522.19,Expense,Groceries
+04-10-2025,Myntra Fashion,3425.98,Expense,Shopping
+04-10-2025,Online Course,1595.99,Expense,Education
+04-10-2025,Hotstar Subscription,750.4,Expense,Subscriptions
+04-10-2025,Freelance Payment,25540.33,Income,Income
+04-11-2025,Cashback Credit,627.56,Income,Income
+04-11-2025,Dividend Credit,3073.08,Income,Income
+04-12-2025,1mg Medicine Order,1126.46,Expense,Healthcare
+04-12-2025,Maintenance Charges,2139.29,Expense,Housing
+04-13-2025,Salary Credit,91471.96,Income,Income
+04-13-2025,Hair Salon,1144.87,Expense,Personal Care
+04-14-2025,Salary Credit,49994.83,Income,Income
+04-14-2025,Parking Charges,247.71,Expense,Transportation
+04-15-2025,Amazon Prime,436.25,Expense,Subscriptions
+04-16-2025,Insurance Premium,9510.22,Expense,Insurance
+04-16-2025,Hotstar Subscription,806.54,Expense,Subscriptions
+04-17-2025,Spotify Premium,119.0,Expense,Subscriptions
+04-17-2025,Hair Salon,558.16,Expense,Personal Care
+04-18-2025,Amazon Purchase,2510.83,Expense,Shopping
+04-18-2025,Parking Charges,273.84,Expense,Transportation
+04-19-2025,Spa Treatment,1728.29,Expense,Personal Care
+04-20-2025,Metro Card Recharge,276.22,Expense,Transportation
+04-20-2025,Swiggy Order,134.8,Expense,Food & Dining
+04-20-2025,Swiggy Order,346.37,Expense,Food & Dining
+04-20-2025,Newspaper Subscription,166.64,Expense,Subscriptions
+04-20-2025,UPI Received,6121.24,Income,Income
+04-21-2025,Swiggy Order,363.47,Expense,Food & Dining
+04-22-2025,Spotify Premium,119.0,Expense,Subscriptions
+04-23-2025,Zomato Food Delivery,345.29,Expense,Food & Dining
+04-23-2025,Travel Booking,12094.35,Expense,Travel
+04-23-2025,Zomato Food Delivery,169.99,Expense,Food & Dining
+04-24-2025,Transfer Received,22271.87,Income,Income
+04-25-2025,1mg Medicine Order,729.55,Expense,Healthcare
+04-25-2025,Bonus Credit,49301.64,Income,Income
+04-28-2025,Metro Card Recharge,497.75,Expense,Transportation
+04-29-2025,Travel Booking,19761.54,Expense,Travel
+04-29-2025,Bonus Credit,39680.95,Income,Income
+04-30-2025,Spa Treatment,2282.99,Expense,Personal Care
+05-02-2025,BigBasket Groceries,2618.49,Expense,Groceries
+05-03-2025,Parking Charges,232.18,Expense,Transportation
+05-04-2025,YouTube Premium,139.0,Expense,Subscriptions
+05-04-2025,YouTube Premium,139.0,Expense,Subscriptions
+05-05-2025,Jio Recharge,574.17,Expense,Utilities
+05-06-2025,Apollo Pharmacy,366.57,Expense,Healthcare
+05-06-2025,UPI Received,3588.34,Income,Income
+05-06-2025,Parking Charges,254.56,Expense,Transportation
+05-06-2025,Gym Membership,1264.61,Expense,Healthcare
+05-06-2025,Freelance Payment,7659.53,Income,Income
+05-06-2025,Dividend Credit,14221.13,Income,Income
+05-07-2025,Bonus Credit,27314.32,Income,Income
+05-08-2025,Netflix Subscription,300.73,Expense,Subscriptions
+05-08-2025,ATM Withdrawal,1443.49,Expense,Miscellaneous
+05-09-2025,School Fees,9100.49,Expense,Education
+05-11-2025,Maintenance Charges,1905.21,Expense,Housing
+05-11-2025,Hotel Stay,2224.71,Expense,Travel
+05-12-2025,ATM Withdrawal,2216.3,Expense,Miscellaneous
+05-12-2025,More Supermarket,1740.34,Expense,Groceries
+05-12-2025,Online Course,678.71,Expense,Education
+05-13-2025,Water Bill,739.34,Expense,Utilities
+05-13-2025,Refund Credit,4608.48,Income,Income
+05-13-2025,House Rent,24650.31,Expense,Housing
+05-14-2025,Zomato Food Delivery,416.32,Expense,Food & Dining
+05-14-2025,Swiggy Order,479.28,Expense,Food & Dining
+05-14-2025,Flipkart Order,4493.78,Expense,Shopping
+05-17-2025,Jio Recharge,469.62,Expense,Utilities
+05-18-2025,House Rent,16172.76,Expense,Housing
+05-18-2025,YouTube Premium,139.0,Expense,Subscriptions
+05-18-2025,Ola Cab,230.36,Expense,Transportation
+05-18-2025,Metro Card Recharge,786.26,Expense,Transportation
+05-18-2025,Online Course,4359.07,Expense,Education
+05-19-2025,Bonus Credit,5667.62,Income,Income
+05-19-2025,Airtel Mobile Bill,998.47,Expense,Utilities
+05-20-2025,UPI Received,4062.42,Income,Income
+05-20-2025,Refund Credit,3832.43,Income,Income
+05-21-2025,Uber Ride,317.07,Expense,Transportation
+05-21-2025,Amazon Prime,448.37,Expense,Subscriptions
+05-22-2025,Water Bill,479.56,Expense,Utilities
+05-23-2025,Newspaper Subscription,206.48,Expense,Subscriptions
+05-23-2025,Dividend Credit,10771.28,Income,Income
+05-23-2025,Meesho Order,908.75,Expense,Shopping
+05-24-2025,Water Bill,326.44,Expense,Utilities
+05-24-2025,Online Course,4496.77,Expense,Education
+05-24-2025,Flipkart Order,2729.69,Expense,Shopping
+05-25-2025,Uber Ride,481.85,Expense,Transportation
+05-26-2025,Water Bill,373.29,Expense,Utilities
+05-26-2025,Reliance Fresh,1571.44,Expense,Groceries
+05-26-2025,Petrol / Diesel,3570.26,Expense,Transportation
+05-26-2025,Flipkart Order,1542.21,Expense,Shopping
+05-27-2025,Newspaper Subscription,156.78,Expense,Subscriptions
+05-27-2025,Ola Cab,75.47,Expense,Transportation
+05-27-2025,Transfer Received,11794.04,Income,Income
+05-27-2025,Uber Ride,433.62,Expense,Transportation
+05-28-2025,Coffee Shop,135.53,Expense,Food & Dining
+05-28-2025,Gaming Recharge,1120.97,Expense,Entertainment
+05-29-2025,Newspaper Subscription,197.96,Expense,Subscriptions
+05-29-2025,Ola Cab,179.47,Expense,Transportation
+05-31-2025,Salary Credit,83489.09,Income,Income
+06-01-2025,Refund Credit,236.93,Income,Income
+06-01-2025,Freelance Payment,19735.45,Income,Income
+06-01-2025,PVR Cinemas,490.42,Expense,Entertainment
+06-01-2025,Coffee Shop,381.35,Expense,Food & Dining
+06-01-2025,More Supermarket,165.98,Expense,Groceries
+06-01-2025,BigBasket Groceries,1022.85,Expense,Groceries
+06-02-2025,Insurance Premium,8235.38,Expense,Insurance
+06-02-2025,Travel Booking,6663.27,Expense,Travel
+06-02-2025,BigBasket Groceries,2602.61,Expense,Groceries
+06-03-2025,Newspaper Subscription,289.43,Expense,Subscriptions
+06-04-2025,Cashback Credit,656.3,Income,Income
+06-06-2025,UPI Received,13440.34,Income,Income
+06-06-2025,Hotstar Subscription,870.9,Expense,Subscriptions
+06-07-2025,Book Purchase,1236.61,Expense,Education
+06-07-2025,Hotstar Subscription,251.7,Expense,Subscriptions
+06-09-2025,Online Course,2143.5,Expense,Education
+06-10-2025,House Rent,12198.48,Expense,Housing
+06-10-2025,ATM Withdrawal,760.66,Expense,Miscellaneous
+06-10-2025,School Fees,6123.76,Expense,Education
+06-10-2025,Amazon Prime,983.31,Expense,Subscriptions
+06-11-2025,Amazon Purchase,7225.57,Expense,Shopping
+06-11-2025,Jio Recharge,321.42,Expense,Utilities
+06-12-2025,UPI Received,11807.98,Income,Income
+06-12-2025,School Fees,3270.56,Expense,Education
+06-13-2025,House Rent,29903.45,Expense,Housing
+06-13-2025,Netflix Subscription,340.2,Expense,Subscriptions
+06-13-2025,Online Course,1893.56,Expense,Education
+06-13-2025,More Supermarket,701.74,Expense,Groceries
+06-13-2025,Rental Income,12434.65,Income,Income
+06-14-2025,Swiggy Order,443.28,Expense,Food & Dining
+06-14-2025,Hotel Stay,7779.89,Expense,Travel
+06-15-2025,BigBasket Groceries,1725.61,Expense,Groceries
+06-16-2025,Newspaper Subscription,105.59,Expense,Subscriptions
+06-17-2025,House Rent,24419.61,Expense,Housing
+06-17-2025,1mg Medicine Order,917.98,Expense,Healthcare
+06-18-2025,PVR Cinemas,316.4,Expense,Entertainment
+06-18-2025,Petrol / Diesel,934.53,Expense,Transportation
+06-18-2025,PVR Cinemas,406.56,Expense,Entertainment
+06-18-2025,Coffee Shop,474.09,Expense,Food & Dining
+06-19-2025,Swiggy Order,462.55,Expense,Food & Dining
+06-20-2025,Metro Card Recharge,712.8,Expense,Transportation
+06-20-2025,Apollo Pharmacy,203.09,Expense,Healthcare
+06-20-2025,ATM Withdrawal,1279.82,Expense,Miscellaneous
+06-20-2025,Spotify Premium,119.0,Expense,Subscriptions
+06-23-2025,BigBasket Groceries,1416.99,Expense,Groceries
+06-23-2025,Hair Salon,611.88,Expense,Personal Care
+06-23-2025,BigBasket Groceries,3590.59,Expense,Groceries
+06-24-2025,Rapido Bike Taxi,171.95,Expense,Transportation
+06-24-2025,Jio Recharge,519.14,Expense,Utilities
+06-24-2025,Uber Ride,434.34,Expense,Transportation
+06-24-2025,BookMyShow Tickets,400.65,Expense,Entertainment
+06-25-2025,Zomato Food Delivery,842.89,Expense,Food & Dining
+06-25-2025,Insurance Premium,5805.76,Expense,Insurance
+06-26-2025,Zomato Food Delivery,466.53,Expense,Food & Dining
+06-26-2025,Uber Ride,151.6,Expense,Transportation
+06-26-2025,Rapido Bike Taxi,118.12,Expense,Transportation
+06-26-2025,Myntra Fashion,3261.65,Expense,Shopping
+06-27-2025,Newspaper Subscription,203.9,Expense,Subscriptions
+06-27-2025,Meesho Order,1197.37,Expense,Shopping
+06-27-2025,Parking Charges,155.08,Expense,Transportation
+06-28-2025,Spotify Premium,119.0,Expense,Subscriptions
+06-28-2025,Interest Credit,1746.06,Income,Income
+06-29-2025,Myntra Fashion,3853.15,Expense,Shopping
+06-29-2025,Doctor Consultation,1242.01,Expense,Healthcare
+06-30-2025,Flipkart Order,5055.22,Expense,Shopping
+06-30-2025,YouTube Premium,139.0,Expense,Subscriptions
+06-30-2025,School Fees,13636.26,Expense,Education
+07-01-2025,Ola Cab,393.57,Expense,Transportation
+07-02-2025,Spa Treatment,1494.18,Expense,Personal Care
+07-02-2025,Dividend Credit,1374.17,Income,Income
+07-03-2025,Doctor Consultation,1569.08,Expense,Healthcare
+07-04-2025,Uber Ride,338.7,Expense,Transportation
+07-04-2025,Water Bill,721.28,Expense,Utilities
+07-06-2025,Restaurant Dinner,1999.91,Expense,Food & Dining
+07-06-2025,Spa Treatment,2457.77,Expense,Personal Care
+07-07-2025,Refund Credit,3190.33,Income,Income
+07-07-2025,Spotify Premium,119.0,Expense,Subscriptions
+07-07-2025,Rapido Bike Taxi,197.89,Expense,Transportation
+07-08-2025,Hair Salon,1047.69,Expense,Personal Care
+07-08-2025,Reliance Fresh,1860.62,Expense,Groceries
+07-08-2025,Spa Treatment,2769.79,Expense,Personal Care
+07-08-2025,Meesho Order,1150.52,Expense,Shopping
+07-09-2025,Flipkart Order,5098.21,Expense,Shopping
+07-09-2025,Metro Card Recharge,324.37,Expense,Transportation
+07-10-2025,1mg Medicine Order,784.44,Expense,Healthcare
+07-10-2025,Hotstar Subscription,455.87,Expense,Subscriptions
+07-10-2025,UPI Received,6353.91,Income,Income
+07-10-2025,Cashback Credit,905.14,Income,Income
+07-11-2025,Coffee Shop,373.56,Expense,Food & Dining
+07-11-2025,Doctor Consultation,1998.12,Expense,Healthcare
+07-12-2025,Gym Membership,606.78,Expense,Healthcare
+07-13-2025,School Fees,4524.8,Expense,Education
+07-13-2025,Meesho Order,1390.66,Expense,Shopping
+07-13-2025,Coffee Shop,486.32,Expense,Food & Dining
+07-13-2025,Dividend Credit,3074.81,Income,Income
+07-13-2025,Airtel Mobile Bill,403.02,Expense,Utilities
+07-14-2025,Rental Income,14802.49,Income,Income
+07-14-2025,Spotify Premium,119.0,Expense,Subscriptions
+07-14-2025,BigBasket Groceries,1969.0,Expense,Groceries
+07-15-2025,Travel Booking,17706.28,Expense,Travel
+07-15-2025,BookMyShow Tickets,364.36,Expense,Entertainment
+07-16-2025,Meesho Order,1095.87,Expense,Shopping
+07-16-2025,Bonus Credit,33953.07,Income,Income
+07-16-2025,Insurance Premium,2556.21,Expense,Insurance
+07-16-2025,Ajio Clothing,2874.58,Expense,Shopping
+07-16-2025,Newspaper Subscription,226.1,Expense,Subscriptions
+07-17-2025,Freelance Payment,16385.88,Income,Income
+07-19-2025,Apollo Pharmacy,569.51,Expense,Healthcare
+07-20-2025,Rental Income,5133.01,Income,Income
+07-20-2025,Amazon Prime,698.67,Expense,Subscriptions
+07-20-2025,Online Course,3831.81,Expense,Education
+07-20-2025,More Supermarket,1235.59,Expense,Groceries
+07-21-2025,Uber Ride,124.5,Expense,Transportation
+07-21-2025,UPI Received,4124.11,Income,Income
+07-21-2025,Airtel Mobile Bill,584.31,Expense,Utilities
+07-22-2025,Water Bill,226.29,Expense,Utilities
+07-22-2025,Flipkart Order,3215.94,Expense,Shopping
+07-22-2025,School Fees,9400.45,Expense,Education
+07-23-2025,Rental Income,22752.38,Income,Income
+07-24-2025,Hotel Stay,6769.29,Expense,Travel
+07-25-2025,Restaurant Dinner,2326.1,Expense,Food & Dining
+07-25-2025,Netflix Subscription,255.34,Expense,Subscriptions
+07-25-2025,House Rent,12818.72,Expense,Housing
+07-25-2025,Hair Salon,1261.0,Expense,Personal Care
+07-26-2025,Interest Credit,1356.6,Income,Income
+07-26-2025,Restaurant Dinner,2835.01,Expense,Food & Dining
+07-27-2025,Uber Ride,286.35,Expense,Transportation
+07-28-2025,Ajio Clothing,2396.43,Expense,Shopping
+07-28-2025,DMart Purchase,1230.67,Expense,Groceries
+07-29-2025,Book Purchase,1158.55,Expense,Education
+07-29-2025,House Rent,18036.88,Expense,Housing
+07-29-2025,Rapido Bike Taxi,173.28,Expense,Transportation
+07-30-2025,Interest Credit,1584.15,Income,Income
+07-30-2025,Bonus Credit,49404.69,Income,Income
+07-31-2025,YouTube Premium,139.0,Expense,Subscriptions
+07-31-2025,Petrol / Diesel,3714.42,Expense,Transportation
+07-31-2025,Uber Ride,481.94,Expense,Transportation
+07-31-2025,Reliance Fresh,232.63,Expense,Groceries
+07-31-2025,Amazon Prime,628.59,Expense,Subscriptions
+08-02-2025,1mg Medicine Order,661.82,Expense,Healthcare
+08-02-2025,Metro Card Recharge,590.81,Expense,Transportation
+08-03-2025,Online Course,2651.25,Expense,Education
+08-04-2025,Myntra Fashion,843.32,Expense,Shopping
+08-05-2025,Restaurant Dinner,1816.47,Expense,Food & Dining
+08-06-2025,Insurance Premium,8246.62,Expense,Insurance
+08-06-2025,PVR Cinemas,648.79,Expense,Entertainment
+08-07-2025,BigBasket Groceries,2837.02,Expense,Groceries
+08-07-2025,Hotel Stay,9806.66,Expense,Travel
+08-09-2025,Jio Recharge,295.55,Expense,Utilities
+08-09-2025,Restaurant Dinner,2889.49,Expense,Food & Dining
+08-10-2025,YouTube Premium,139.0,Expense,Subscriptions
+08-10-2025,UPI Received,8621.26,Income,Income
+08-11-2025,Hotstar Subscription,295.64,Expense,Subscriptions
+08-11-2025,Petrol / Diesel,3857.19,Expense,Transportation
+08-12-2025,DMart Purchase,2342.19,Expense,Groceries
+08-13-2025,Spa Treatment,2802.79,Expense,Personal Care
+08-13-2025,Netflix Subscription,217.8,Expense,Subscriptions
+08-13-2025,BookMyShow Tickets,1078.13,Expense,Entertainment
+08-14-2025,DMart Purchase,1371.7,Expense,Groceries
+08-14-2025,Newspaper Subscription,250.63,Expense,Subscriptions
+08-14-2025,Hair Salon,537.31,Expense,Personal Care
+08-14-2025,Apollo Pharmacy,1840.29,Expense,Healthcare
+08-15-2025,Ola Cab,233.8,Expense,Transportation
+08-15-2025,Uber Ride,581.01,Expense,Transportation
+08-16-2025,Uber Ride,276.02,Expense,Transportation
+08-17-2025,Swiggy Order,181.79,Expense,Food & Dining
+08-17-2025,Ola Cab,154.81,Expense,Transportation
+08-18-2025,Insurance Premium,6641.38,Expense,Insurance
+08-19-2025,Doctor Consultation,539.72,Expense,Healthcare
+08-20-2025,DMart Purchase,3144.41,Expense,Groceries
+08-20-2025,Gaming Recharge,487.9,Expense,Entertainment
+08-21-2025,Meesho Order,1204.18,Expense,Shopping
+08-21-2025,Apollo Pharmacy,337.46,Expense,Healthcare
+08-21-2025,Electricity Bill,2368.8,Expense,Utilities
+08-22-2025,Flipkart Order,2690.33,Expense,Shopping
+08-22-2025,Transfer Received,10927.29,Income,Income
+08-22-2025,Apollo Pharmacy,1574.0,Expense,Healthcare
+08-23-2025,Flipkart Order,929.59,Expense,Shopping
+08-23-2025,Spotify Premium,119.0,Expense,Subscriptions
+08-23-2025,Insurance Premium,6649.86,Expense,Insurance
+08-23-2025,Transfer Received,25370.64,Income,Income
+08-23-2025,Cashback Credit,357.28,Income,Income
+08-24-2025,Interest Credit,636.76,Income,Income
+08-24-2025,Jio Recharge,439.27,Expense,Utilities
+08-25-2025,Rapido Bike Taxi,183.33,Expense,Transportation
+08-25-2025,Coffee Shop,400.13,Expense,Food & Dining
+08-25-2025,Bonus Credit,39378.97,Income,Income
+08-26-2025,Reliance Fresh,182.65,Expense,Groceries
+08-26-2025,Metro Card Recharge,231.12,Expense,Transportation
+08-27-2025,Parking Charges,140.52,Expense,Transportation
+08-27-2025,Interest Credit,573.75,Income,Income
+08-28-2025,BigBasket Groceries,1927.51,Expense,Groceries
+08-29-2025,Dividend Credit,11570.6,Income,Income
+08-29-2025,Gaming Recharge,357.34,Expense,Entertainment
+08-29-2025,Coffee Shop,480.73,Expense,Food & Dining
+08-29-2025,Dividend Credit,6073.43,Income,Income
+08-30-2025,PVR Cinemas,465.83,Expense,Entertainment
+08-30-2025,Netflix Subscription,170.79,Expense,Subscriptions
+08-31-2025,Amazon Prime,664.93,Expense,Subscriptions
+08-31-2025,1mg Medicine Order,117.23,Expense,Healthcare
+08-31-2025,Doctor Consultation,1086.79,Expense,Healthcare
+08-31-2025,Spotify Premium,119.0,Expense,Subscriptions
+09-01-2025,Zomato Food Delivery,363.07,Expense,Food & Dining
+09-01-2025,Freelance Payment,11422.2,Income,Income
+09-01-2025,Airtel Mobile Bill,530.09,Expense,Utilities
+09-01-2025,Book Purchase,237.32,Expense,Education
+09-02-2025,Dividend Credit,7920.96,Income,Income
+09-02-2025,Hair Salon,924.67,Expense,Personal Care
+09-02-2025,Metro Card Recharge,618.93,Expense,Transportation
+09-03-2025,House Rent,10890.98,Expense,Housing
+09-03-2025,Meesho Order,1703.01,Expense,Shopping
+09-04-2025,Metro Card Recharge,722.33,Expense,Transportation
+09-04-2025,Amazon Prime,226.55,Expense,Subscriptions
+09-05-2025,Refund Credit,1091.72,Income,Income
+09-05-2025,Petrol / Diesel,1673.38,Expense,Transportation
+09-05-2025,Uber Ride,403.41,Expense,Transportation
+09-05-2025,Parking Charges,247.97,Expense,Transportation
+09-06-2025,ATM Withdrawal,4555.54,Expense,Miscellaneous
+09-07-2025,Spa Treatment,2854.29,Expense,Personal Care
+09-07-2025,Hotel Stay,5977.44,Expense,Travel
+09-07-2025,Ola Cab,105.73,Expense,Transportation
+09-07-2025,Hotstar Subscription,182.63,Expense,Subscriptions
+09-07-2025,Zomato Food Delivery,258.34,Expense,Food & Dining
+09-08-2025,Electricity Bill,4406.86,Expense,Utilities
+09-08-2025,Amazon Purchase,5173.84,Expense,Shopping
+09-08-2025,YouTube Premium,139.0,Expense,Subscriptions
+09-10-2025,BigBasket Groceries,1755.8,Expense,Groceries
+09-11-2025,Hotstar Subscription,606.38,Expense,Subscriptions
+09-11-2025,Parking Charges,86.18,Expense,Transportation
+09-13-2025,Apollo Pharmacy,1013.89,Expense,Healthcare
+09-14-2025,BookMyShow Tickets,862.2,Expense,Entertainment
+09-14-2025,Airtel Mobile Bill,366.18,Expense,Utilities
+09-14-2025,Metro Card Recharge,440.1,Expense,Transportation
+09-14-2025,Meesho Order,386.09,Expense,Shopping
+09-16-2025,Bonus Credit,37133.44,Income,Income
+09-17-2025,Freelance Payment,22089.65,Income,Income
+09-17-2025,Spotify Premium,119.0,Expense,Subscriptions
+09-17-2025,Metro Card Recharge,487.14,Expense,Transportation
+09-17-2025,Doctor Consultation,1119.78,Expense,Healthcare
+09-18-2025,Amazon Prime,856.6,Expense,Subscriptions
+09-18-2025,Cashback Credit,791.19,Income,Income
+09-19-2025,Spa Treatment,860.23,Expense,Personal Care
+09-19-2025,Refund Credit,3584.86,Income,Income
+09-19-2025,House Rent,23543.71,Expense,Housing
+09-20-2025,Metro Card Recharge,970.08,Expense,Transportation
+09-20-2025,Restaurant Dinner,852.18,Expense,Food & Dining
+09-20-2025,Gaming Recharge,927.87,Expense,Entertainment
+09-21-2025,Salary Credit,83602.88,Income,Income
+09-22-2025,Amazon Purchase,1548.88,Expense,Shopping
+09-22-2025,Metro Card Recharge,752.91,Expense,Transportation
+09-23-2025,Dividend Credit,11110.57,Income,Income
+09-24-2025,Ajio Clothing,1648.36,Expense,Shopping
+09-25-2025,PVR Cinemas,765.64,Expense,Entertainment
+09-25-2025,Zomato Food Delivery,626.69,Expense,Food & Dining
+09-27-2025,DMart Purchase,836.83,Expense,Groceries
+09-27-2025,Airtel Mobile Bill,313.41,Expense,Utilities
+09-28-2025,Ola Cab,207.51,Expense,Transportation
+09-28-2025,Swiggy Order,302.19,Expense,Food & Dining
+09-28-2025,Gaming Recharge,893.95,Expense,Entertainment
+09-29-2025,Hotstar Subscription,191.57,Expense,Subscriptions
+09-29-2025,Airtel Mobile Bill,964.89,Expense,Utilities
+09-30-2025,Amazon Prime,574.05,Expense,Subscriptions
+10-01-2025,Hotel Stay,8051.71,Expense,Travel
+10-01-2025,Insurance Premium,8974.36,Expense,Insurance
+10-02-2025,Parking Charges,174.62,Expense,Transportation
+10-03-2025,Salary Credit,92784.75,Income,Income
+10-03-2025,Rental Income,16052.19,Income,Income
+10-03-2025,Hotstar Subscription,695.28,Expense,Subscriptions
+10-04-2025,Refund Credit,4372.03,Income,Income
+10-04-2025,Ola Cab,228.52,Expense,Transportation
+10-04-2025,Travel Booking,3281.74,Expense,Travel
+10-05-2025,Airtel Mobile Bill,531.7,Expense,Utilities
+10-05-2025,Cashback Credit,503.52,Income,Income
+10-05-2025,Online Course,4394.89,Expense,Education
+10-07-2025,School Fees,6270.26,Expense,Education
+10-07-2025,Cashback Credit,184.96,Income,Income
+10-07-2025,Maintenance Charges,2362.81,Expense,Housing
+10-08-2025,Doctor Consultation,1154.22,Expense,Healthcare
+10-08-2025,DMart Purchase,692.11,Expense,Groceries
+10-09-2025,Refund Credit,3500.23,Income,Income
+10-09-2025,Uber Ride,342.32,Expense,Transportation
+10-10-2025,Spotify Premium,119.0,Expense,Subscriptions
+10-11-2025,1mg Medicine Order,175.35,Expense,Healthcare
+10-12-2025,Netflix Subscription,403.18,Expense,Subscriptions
+10-12-2025,Restaurant Dinner,1455.59,Expense,Food & Dining
+10-12-2025,Metro Card Recharge,902.62,Expense,Transportation
+10-13-2025,Ajio Clothing,2276.0,Expense,Shopping
+10-13-2025,Travel Booking,10799.72,Expense,Travel
+10-13-2025,Bonus Credit,45401.81,Income,Income
+10-13-2025,Salary Credit,59031.32,Income,Income
+10-14-2025,Jio Recharge,303.93,Expense,Utilities
+10-14-2025,Amazon Prime,213.34,Expense,Subscriptions
+10-15-2025,Water Bill,203.0,Expense,Utilities
+10-16-2025,PVR Cinemas,442.22,Expense,Entertainment
+10-16-2025,Travel Booking,17626.51,Expense,Travel
+10-16-2025,UPI Received,5981.69,Income,Income
+10-17-2025,Apollo Pharmacy,697.24,Expense,Healthcare
+10-18-2025,Meesho Order,1762.77,Expense,Shopping
+10-19-2025,Uber Ride,279.88,Expense,Transportation
+10-19-2025,YouTube Premium,139.0,Expense,Subscriptions
+10-19-2025,Airtel Mobile Bill,387.82,Expense,Utilities
+10-19-2025,Jio Recharge,400.18,Expense,Utilities
+10-21-2025,Petrol / Diesel,879.18,Expense,Transportation
+10-21-2025,1mg Medicine Order,1102.28,Expense,Healthcare
+10-22-2025,Amazon Purchase,1180.0,Expense,Shopping
+10-22-2025,Ola Cab,102.37,Expense,Transportation
+10-23-2025,Reliance Fresh,1177.52,Expense,Groceries
+10-23-2025,Gaming Recharge,233.5,Expense,Entertainment
+10-23-2025,Spa Treatment,1335.09,Expense,Personal Care
+10-23-2025,Salary Credit,44965.65,Income,Income
+10-24-2025,School Fees,13239.65,Expense,Education
+10-24-2025,Ola Cab,292.16,Expense,Transportation
+10-25-2025,Gym Membership,2439.23,Expense,Healthcare
+10-25-2025,Rapido Bike Taxi,198.53,Expense,Transportation
+10-26-2025,BigBasket Groceries,2740.6,Expense,Groceries
+10-26-2025,Gaming Recharge,1757.74,Expense,Entertainment
+10-26-2025,Uber Ride,386.6,Expense,Transportation
+10-27-2025,Flipkart Order,5137.81,Expense,Shopping
+10-27-2025,Spotify Premium,119.0,Expense,Subscriptions
+10-27-2025,Apollo Pharmacy,1904.07,Expense,Healthcare
+10-28-2025,Hair Salon,1107.1,Expense,Personal Care
+10-28-2025,PVR Cinemas,731.53,Expense,Entertainment
+10-28-2025,Coffee Shop,256.15,Expense,Food & Dining
+10-28-2025,Ola Cab,242.25,Expense,Transportation
+10-30-2025,DMart Purchase,2990.87,Expense,Groceries
+10-30-2025,Interest Credit,2795.75,Income,Income
+10-31-2025,Netflix Subscription,205.28,Expense,Subscriptions
+11-01-2025,Gaming Recharge,957.11,Expense,Entertainment
+11-02-2025,Myntra Fashion,3663.63,Expense,Shopping
+11-02-2025,Gaming Recharge,1840.65,Expense,Entertainment
+11-03-2025,Restaurant Dinner,798.5,Expense,Food & Dining
+11-03-2025,Airtel Mobile Bill,482.39,Expense,Utilities
+11-03-2025,Ajio Clothing,2336.72,Expense,Shopping
+11-03-2025,Interest Credit,1577.12,Income,Income
+11-04-2025,Zomato Food Delivery,244.75,Expense,Food & Dining
+11-04-2025,More Supermarket,436.91,Expense,Groceries
+11-05-2025,Hotel Stay,3447.19,Expense,Travel
+11-05-2025,Freelance Payment,21115.3,Income,Income
+11-07-2025,DMart Purchase,652.37,Expense,Groceries
+11-07-2025,Swiggy Order,751.64,Expense,Food & Dining
+11-07-2025,Spotify Premium,119.0,Expense,Subscriptions
+11-08-2025,Salary Credit,43838.38,Income,Income
+11-08-2025,Parking Charges,283.77,Expense,Transportation
+11-08-2025,1mg Medicine Order,1125.3,Expense,Healthcare
+11-08-2025,Parking Charges,190.22,Expense,Transportation
+11-09-2025,Book Purchase,1395.52,Expense,Education
+11-10-2025,Maintenance Charges,921.91,Expense,Housing
+11-11-2025,Netflix Subscription,227.69,Expense,Subscriptions
+11-11-2025,Dividend Credit,8222.19,Income,Income
+11-11-2025,Insurance Premium,5882.56,Expense,Insurance
+11-12-2025,Insurance Premium,4884.38,Expense,Insurance
+11-12-2025,DMart Purchase,3292.89,Expense,Groceries
+11-12-2025,Zomato Food Delivery,538.75,Expense,Food & Dining
+11-13-2025,Salary Credit,53521.57,Income,Income
+11-13-2025,Coffee Shop,385.92,Expense,Food & Dining
+11-14-2025,YouTube Premium,139.0,Expense,Subscriptions
+11-14-2025,Newspaper Subscription,238.6,Expense,Subscriptions
+11-15-2025,School Fees,9438.34,Expense,Education
+11-15-2025,Apollo Pharmacy,815.62,Expense,Healthcare
+11-16-2025,Netflix Subscription,208.62,Expense,Subscriptions
+11-17-2025,Myntra Fashion,3444.89,Expense,Shopping
+11-17-2025,Airtel Mobile Bill,906.06,Expense,Utilities
+11-18-2025,Bonus Credit,13589.01,Income,Income
+11-18-2025,Uber Ride,245.31,Expense,Transportation
+11-19-2025,Zomato Food Delivery,592.35,Expense,Food & Dining
+11-19-2025,Gaming Recharge,757.58,Expense,Entertainment
+11-20-2025,Refund Credit,3479.44,Income,Income
+11-20-2025,Insurance Premium,2522.21,Expense,Insurance
+11-21-2025,Hotel Stay,5561.79,Expense,Travel
+11-21-2025,Apollo Pharmacy,1187.81,Expense,Healthcare
+11-21-2025,Gaming Recharge,621.58,Expense,Entertainment
+11-22-2025,Transfer Received,7575.35,Income,Income
+11-22-2025,Jio Recharge,532.16,Expense,Utilities
+11-23-2025,Spotify Premium,119.0,Expense,Subscriptions
+11-23-2025,Doctor Consultation,1249.73,Expense,Healthcare
+11-23-2025,Maintenance Charges,580.09,Expense,Housing
+11-24-2025,Book Purchase,879.39,Expense,Education
+11-24-2025,Bonus Credit,15167.81,Income,Income
+11-25-2025,School Fees,5232.7,Expense,Education
+11-25-2025,Book Purchase,525.84,Expense,Education
+11-26-2025,Spa Treatment,1566.78,Expense,Personal Care
+11-26-2025,Jio Recharge,461.5,Expense,Utilities
+11-27-2025,Meesho Order,1660.95,Expense,Shopping
+11-27-2025,Newspaper Subscription,195.2,Expense,Subscriptions
+11-29-2025,Myntra Fashion,638.73,Expense,Shopping
+11-30-2025,DMart Purchase,385.86,Expense,Groceries
+11-30-2025,PVR Cinemas,795.17,Expense,Entertainment
+11-30-2025,UPI Received,1292.98,Income,Income
+12-01-2025,Parking Charges,177.38,Expense,Transportation
+12-01-2025,Travel Booking,13778.15,Expense,Travel
+12-01-2025,Water Bill,384.48,Expense,Utilities
+12-01-2025,Spotify Premium,119.0,Expense,Subscriptions
+12-02-2025,Rapido Bike Taxi,128.22,Expense,Transportation
+12-03-2025,Petrol / Diesel,789.4,Expense,Transportation
+12-03-2025,School Fees,8695.36,Expense,Education
+12-03-2025,ATM Withdrawal,2062.95,Expense,Miscellaneous
+12-04-2025,Restaurant Dinner,1306.66,Expense,Food & Dining
+12-04-2025,Spa Treatment,2870.65,Expense,Personal Care
+12-04-2025,BookMyShow Tickets,1475.87,Expense,Entertainment
+12-04-2025,Freelance Payment,24859.66,Income,Income
+12-05-2025,Jio Recharge,333.53,Expense,Utilities
+12-05-2025,Parking Charges,253.36,Expense,Transportation
+12-05-2025,Metro Card Recharge,368.93,Expense,Transportation
+12-06-2025,BookMyShow Tickets,230.59,Expense,Entertainment
+12-06-2025,PVR Cinemas,428.04,Expense,Entertainment
+12-07-2025,Doctor Consultation,1807.54,Expense,Healthcare
+12-07-2025,Bonus Credit,27680.84,Income,Income
+12-07-2025,YouTube Premium,139.0,Expense,Subscriptions
+12-08-2025,Travel Booking,9082.27,Expense,Travel
+12-08-2025,Ajio Clothing,2532.94,Expense,Shopping
+12-10-2025,Electricity Bill,4676.47,Expense,Utilities
+12-10-2025,Swiggy Order,703.38,Expense,Food & Dining
+12-10-2025,Interest Credit,2640.55,Income,Income
+12-10-2025,Flipkart Order,2946.78,Expense,Shopping
+12-11-2025,Amazon Purchase,5344.38,Expense,Shopping
+12-11-2025,BookMyShow Tickets,745.1,Expense,Entertainment
+12-11-2025,Cashback Credit,104.1,Income,Income
+12-13-2025,Metro Card Recharge,781.54,Expense,Transportation
+12-14-2025,Electricity Bill,3260.5,Expense,Utilities
+12-16-2025,Uber Ride,243.86,Expense,Transportation
+12-16-2025,Insurance Premium,7259.45,Expense,Insurance
+12-17-2025,Petrol / Diesel,1176.91,Expense,Transportation
+12-18-2025,Water Bill,205.3,Expense,Utilities
+12-18-2025,Ola Cab,484.78,Expense,Transportation
+12-18-2025,Hair Salon,601.96,Expense,Personal Care
+12-18-2025,Doctor Consultation,1190.34,Expense,Healthcare
+12-19-2025,1mg Medicine Order,408.92,Expense,Healthcare
+12-19-2025,Water Bill,667.92,Expense,Utilities
+12-19-2025,Amazon Purchase,2810.51,Expense,Shopping
+12-20-2025,Electricity Bill,1049.18,Expense,Utilities
+12-20-2025,Amazon Prime,979.5,Expense,Subscriptions
+12-20-2025,Online Course,3745.64,Expense,Education
+12-21-2025,Airtel Mobile Bill,594.64,Expense,Utilities
+12-22-2025,Refund Credit,1365.75,Income,Income
+12-22-2025,Rental Income,12692.98,Income,Income
+12-22-2025,DMart Purchase,3052.35,Expense,Groceries
+12-23-2025,Ajio Clothing,3252.76,Expense,Shopping
+12-25-2025,Metro Card Recharge,544.22,Expense,Transportation
+12-25-2025,BookMyShow Tickets,313.08,Expense,Entertainment
+12-27-2025,Gaming Recharge,300.21,Expense,Entertainment
+12-28-2025,Online Course,4888.36,Expense,Education
+12-29-2025,UPI Received,7543.64,Income,Income
+12-29-2025,YouTube Premium,139.0,Expense,Subscriptions
+12-29-2025,ATM Withdrawal,1406.22,Expense,Miscellaneous
+12-30-2025,Spotify Premium,119.0,Expense,Subscriptions
+12-30-2025,Ajio Clothing,2349.71,Expense,Shopping
+12-30-2025,School Fees,10658.6,Expense,Education
+12-31-2025,Gaming Recharge,1435.86,Expense,Entertainment
+12-31-2025,Dividend Credit,5839.07,Income,Income
+12-31-2025,Hotstar Subscription,672.07,Expense,Subscriptions
+12-31-2025,Flipkart Order,2168.1,Expense,Shopping
+12-31-2025,PVR Cinemas,287.56,Expense,Entertainment
+12-31-2025,House Rent,10837.9,Expense,Housing

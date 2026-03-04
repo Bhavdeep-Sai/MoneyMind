@@ -1,0 +1,2201 @@
+date,description,amount,transaction_type,category
+2022-04-01,DigitalOcean,2272.45,debit,Utilities
+2022-04-02,WeWork Cafe,599.44,debit,Food & Dining
+2022-04-02,Ajio Clothing,790.59,debit,Shopping
+2022-04-04,MacBook Accessories,3943.56,debit,Shopping
+2022-04-04,Myntra Fashion,2800.72,debit,Shopping
+2022-04-05,DMart Purchase,1497.6,debit,Groceries
+2022-04-05,Figma Subscription,1250.0,debit,Subscriptions
+2022-04-05,Transfer Received,18138.0,credit,Income
+2022-04-06,Zomato Food Delivery,283.66,debit,Food & Dining
+2022-04-07,Amazon Prime,653.25,debit,Subscriptions
+2022-04-07,Meesho Order,977.88,debit,Shopping
+2022-04-07,MacBook Accessories,4355.71,debit,Shopping
+2022-04-07,Swiggy Order,817.96,debit,Food & Dining
+2022-04-08,More Supermarket,721.15,debit,Groceries
+2022-04-08,AWS Bill,13529.42,debit,Utilities
+2022-04-08,YouTube Premium,139.0,debit,Subscriptions
+2022-04-09,Ola Cab,342.41,debit,Transportation
+2022-04-10,DMart Purchase,2158.31,debit,Groceries
+2022-04-10,BigBasket Groceries,784.22,debit,Groceries
+2022-04-12,Bonus Credit,40898.05,credit,Income
+2022-04-14,Flipkart Order,3648.89,debit,Shopping
+2022-04-15,DMart Purchase,829.2,debit,Groceries
+2022-04-15,Swiggy Instamart,793.4,debit,Groceries
+2022-04-15,DigitalOcean,524.88,debit,Utilities
+2022-04-15,Slack Pro,875.0,debit,Subscriptions
+2022-04-17,Uber Ride,270.27,debit,Transportation
+2022-04-17,Zomato Food Delivery,336.26,debit,Food & Dining
+2022-04-17,Blinkit Grocery Delivery,619.49,debit,Groceries
+2022-04-17,Swiggy Instamart,1205.88,debit,Groceries
+2022-04-18,Meesho Order,1597.75,debit,Shopping
+2022-04-18,DigitalOcean,3468.27,debit,Utilities
+2022-04-18,Transfer Received,1846.33,credit,Income
+2022-04-19,GitHub Copilot,837.0,debit,Subscriptions
+2022-04-19,Uber Ride,273.37,debit,Transportation
+2022-04-19,Cashback Credit,850.38,credit,Income
+2022-04-20,Ola Cab,124.77,debit,Transportation
+2022-04-21,Swiggy Instamart,1216.04,debit,Groceries
+2022-04-22,Swiggy Order,891.49,debit,Food & Dining
+2022-04-22,Dunzo Quick Commerce,915.6,debit,Groceries
+2022-04-22,Amazon Purchase,5060.64,debit,Shopping
+2022-04-22,Myntra Fashion,2990.12,debit,Shopping
+2022-04-23,WeWork Cafe,425.55,debit,Food & Dining
+2022-04-23,YouTube Premium,139.0,debit,Subscriptions
+2022-04-24,Rapido Bike Taxi,79.32,debit,Transportation
+2022-04-24,Blinkit Grocery Delivery,2600.89,debit,Groceries
+2022-04-24,Cult.fit Membership,776.32,debit,Healthcare
+2022-04-25,Amazon Purchase,2549.08,debit,Shopping
+2022-04-26,Figma Subscription,1250.0,debit,Subscriptions
+2022-04-27,Stock Vesting Credit,45038.1,credit,Income
+2022-04-27,Rapido Bike Taxi,120.44,debit,Transportation
+2022-04-28,Dunzo Quick Commerce,770.26,debit,Groceries
+2022-04-29,Figma Subscription,1250.0,debit,Subscriptions
+2022-05-01,BigBasket Groceries,3635.28,debit,Groceries
+2022-05-02,BookMyShow Tickets,1190.61,debit,Entertainment
+2022-05-02,Freelance Consulting,41969.59,credit,Income
+2022-05-02,YouTube Premium,139.0,debit,Subscriptions
+2022-05-04,Swiggy Order,377.26,debit,Food & Dining
+2022-05-04,Blinkit Grocery Delivery,1940.61,debit,Groceries
+2022-05-05,UPI Received,3193.92,credit,Income
+2022-05-06,Amazon Prime,204.46,debit,Subscriptions
+2022-05-07,Bonus Credit,14813.05,credit,Income
+2022-05-07,Swiggy Order,339.8,debit,Food & Dining
+2022-05-07,Blinkit Grocery Delivery,2380.86,debit,Groceries
+2022-05-07,Amazon Purchase,5452.34,debit,Shopping
+2022-05-07,Hotstar Subscription,346.15,debit,Subscriptions
+2022-05-07,BigBasket Groceries,3258.26,debit,Groceries
+2022-05-08,Rapido Bike Taxi,155.62,debit,Transportation
+2022-05-09,BookMyShow Tickets,844.37,debit,Entertainment
+2022-05-09,Transfer Received,35209.74,credit,Income
+2022-05-09,Ajio Clothing,1336.63,debit,Shopping
+2022-05-10,Meesho Order,507.39,debit,Shopping
+2022-05-11,Myntra Fashion,2194.83,debit,Shopping
+2022-05-12,Tech Gadget Purchase,5716.9,debit,Shopping
+2022-05-12,Blinkit Grocery Delivery,1596.5,debit,Groceries
+2022-05-13,BigBasket Groceries,579.61,debit,Groceries
+2022-05-13,Dividend Credit,6477.51,credit,Income
+2022-05-13,Uber Ride,495.9,debit,Transportation
+2022-05-14,More Supermarket,897.62,debit,Groceries
+2022-05-14,BookMyShow Tickets,319.41,debit,Entertainment
+2022-05-15,Zomato Food Delivery,410.47,debit,Food & Dining
+2022-05-15,Swiggy Instamart,1081.67,debit,Groceries
+2022-05-15,Dividend Credit,7419.53,credit,Income
+2022-05-15,Uber Ride,191.6,debit,Transportation
+2022-05-16,Netflix Subscription,236.82,debit,Subscriptions
+2022-05-16,Ajio Clothing,3006.89,debit,Shopping
+2022-05-17,MacBook Accessories,1461.18,debit,Shopping
+2022-05-17,Stock Vesting Credit,21059.23,credit,Income
+2022-05-17,Standing Desk,10772.71,debit,Shopping
+2022-05-17,More Supermarket,1126.54,debit,Groceries
+2022-05-18,BookMyShow Tickets,1037.75,debit,Entertainment
+2022-05-18,GitHub Copilot,837.0,debit,Subscriptions
+2022-05-19,Starbucks Coffee,432.01,debit,Food & Dining
+2022-05-20,Figma Subscription,1250.0,debit,Subscriptions
+2022-05-20,Dunzo Quick Commerce,2201.23,debit,Groceries
+2022-05-20,Zomato Food Delivery,813.44,debit,Food & Dining
+2022-05-21,AWS Bill,11957.83,debit,Utilities
+2022-05-21,Bonus Credit,42631.9,credit,Income
+2022-05-21,Zomato Food Delivery,318.01,debit,Food & Dining
+2022-05-22,Amazon Purchase,5710.7,debit,Shopping
+2022-05-22,AWS Bill,1020.18,debit,Utilities
+2022-05-22,Figma Subscription,1250.0,debit,Subscriptions
+2022-05-22,BigBasket Groceries,916.56,debit,Groceries
+2022-05-22,Rapido Bike Taxi,150.91,debit,Transportation
+2022-05-23,Uber Ride,139.74,debit,Transportation
+2022-05-24,Cult.fit Membership,2748.48,debit,Healthcare
+2022-05-24,Figma Subscription,1250.0,debit,Subscriptions
+2022-05-25,AWS Bill,8734.77,debit,Utilities
+2022-05-25,BookMyShow Tickets,988.35,debit,Entertainment
+2022-05-25,Netflix Subscription,460.12,debit,Subscriptions
+2022-05-26,Rapido Bike Taxi,62.42,debit,Transportation
+2022-05-27,DigitalOcean,3982.43,debit,Utilities
+2022-05-27,Rental Income,6389.93,credit,Income
+2022-05-28,Amazon Purchase,5582.0,debit,Shopping
+2022-05-29,DigitalOcean,4522.74,debit,Utilities
+2022-05-29,YouTube Premium,139.0,debit,Subscriptions
+2022-05-29,Swiggy Order,307.75,debit,Food & Dining
+2022-05-29,Ajio Clothing,2377.8,debit,Shopping
+2022-05-30,Meesho Order,872.31,debit,Shopping
+2022-05-31,Salary Credit ESOP,146029.38,credit,Income
+2022-05-31,Figma Subscription,1250.0,debit,Subscriptions
+2022-06-01,DigitalOcean,1112.65,debit,Utilities
+2022-06-02,Swiggy Order,238.32,debit,Food & Dining
+2022-06-02,Slack Pro,875.0,debit,Subscriptions
+2022-06-05,Ajio Clothing,1329.13,debit,Shopping
+2022-06-05,Amazon Purchase,4382.91,debit,Shopping
+2022-06-05,BookMyShow Tickets,368.05,debit,Entertainment
+2022-06-06,WeWork Cafe,458.94,debit,Food & Dining
+2022-06-06,Flipkart Order,5134.49,debit,Shopping
+2022-06-07,YouTube Premium,139.0,debit,Subscriptions
+2022-06-07,Zomato Food Delivery,463.61,debit,Food & Dining
+2022-06-09,Figma Subscription,1250.0,debit,Subscriptions
+2022-06-10,More Supermarket,1263.77,debit,Groceries
+2022-06-10,BigBasket Groceries,1551.24,debit,Groceries
+2022-06-11,Ola Cab,457.87,debit,Transportation
+2022-06-11,Myntra Fashion,1190.82,debit,Shopping
+2022-06-11,More Supermarket,1368.11,debit,Groceries
+2022-06-11,DMart Purchase,848.96,debit,Groceries
+2022-06-12,Netflix Subscription,186.01,debit,Subscriptions
+2022-06-12,Interest Credit,2089.91,credit,Income
+2022-06-12,WeWork Cafe,422.94,debit,Food & Dining
+2022-06-13,Spotify Premium,119.0,debit,Subscriptions
+2022-06-13,MacBook Accessories,4580.68,debit,Shopping
+2022-06-14,Rapido Bike Taxi,67.92,debit,Transportation
+2022-06-14,Blinkit Grocery Delivery,898.99,debit,Groceries
+2022-06-14,GitHub Copilot,837.0,debit,Subscriptions
+2022-06-16,Cashback Credit,764.06,credit,Income
+2022-06-16,Meesho Order,653.16,debit,Shopping
+2022-06-17,Swiggy Order,562.57,debit,Food & Dining
+2022-06-18,Ola Cab,353.9,debit,Transportation
+2022-06-20,Myntra Fashion,3168.66,debit,Shopping
+2022-06-21,MacBook Accessories,2951.07,debit,Shopping
+2022-06-21,Spotify Premium,119.0,debit,Subscriptions
+2022-06-21,Flipkart Order,5579.01,debit,Shopping
+2022-06-21,Tech Gadget Purchase,23333.26,debit,Shopping
+2022-06-22,Interest Credit,2310.78,credit,Income
+2022-06-22,Spotify Premium,119.0,debit,Subscriptions
+2022-06-22,WeWork Cafe,547.29,debit,Food & Dining
+2022-06-23,Salary Credit ESOP,92057.74,credit,Income
+2022-06-23,Blinkit Grocery Delivery,380.26,debit,Groceries
+2022-06-24,AWS Bill,4516.61,debit,Utilities
+2022-06-24,Cult.fit Membership,2434.16,debit,Healthcare
+2022-06-25,BigBasket Groceries,987.03,debit,Groceries
+2022-06-26,Amazon Prime,801.09,debit,Subscriptions
+2022-06-26,WeWork Cafe,233.91,debit,Food & Dining
+2022-06-26,Figma Subscription,1250.0,debit,Subscriptions
+2022-06-26,Netflix Subscription,414.84,debit,Subscriptions
+2022-06-26,GitHub Copilot,837.0,debit,Subscriptions
+2022-06-27,YouTube Premium,139.0,debit,Subscriptions
+2022-06-27,Amazon Purchase,3948.66,debit,Shopping
+2022-06-27,Blinkit Grocery Delivery,418.35,debit,Groceries
+2022-06-27,Standing Desk,9773.21,debit,Shopping
+2022-06-30,Amazon Prime,772.11,debit,Subscriptions
+2022-06-30,Blinkit Grocery Delivery,2797.63,debit,Groceries
+2022-07-01,MacBook Accessories,14793.91,debit,Shopping
+2022-07-01,DMart Purchase,2671.06,debit,Groceries
+2022-07-01,UPI Received,1911.52,credit,Income
+2022-07-01,Figma Subscription,1250.0,debit,Subscriptions
+2022-07-03,Swiggy Instamart,775.88,debit,Groceries
+2022-07-03,Figma Subscription,1250.0,debit,Subscriptions
+2022-07-04,Tech Gadget Purchase,21707.68,debit,Shopping
+2022-07-05,Myntra Fashion,1407.68,debit,Shopping
+2022-07-05,Swiggy Order,808.06,debit,Food & Dining
+2022-07-06,Dunzo Quick Commerce,2103.83,debit,Groceries
+2022-07-06,Swiggy Order,585.77,debit,Food & Dining
+2022-07-07,Flipkart Order,2574.87,debit,Shopping
+2022-07-07,Starbucks Coffee,436.96,debit,Food & Dining
+2022-07-07,Uber Ride,539.98,debit,Transportation
+2022-07-07,Blinkit Grocery Delivery,2045.29,debit,Groceries
+2022-07-08,MacBook Accessories,12137.92,debit,Shopping
+2022-07-08,Myntra Fashion,1137.91,debit,Shopping
+2022-07-08,Swiggy Instamart,1332.9,debit,Groceries
+2022-07-09,WeWork Cafe,329.45,debit,Food & Dining
+2022-07-09,Cult.fit Membership,1972.85,debit,Healthcare
+2022-07-09,Cult.fit Membership,954.54,debit,Healthcare
+2022-07-10,Hotstar Subscription,885.77,debit,Subscriptions
+2022-07-10,Starbucks Coffee,335.18,debit,Food & Dining
+2022-07-11,Hotstar Subscription,271.77,debit,Subscriptions
+2022-07-11,Netflix Subscription,542.37,debit,Subscriptions
+2022-07-11,Cult.fit Membership,2208.63,debit,Healthcare
+2022-07-12,DigitalOcean,1230.39,debit,Utilities
+2022-07-13,DigitalOcean,2004.11,debit,Utilities
+2022-07-14,Ajio Clothing,2627.2,debit,Shopping
+2022-07-14,Transfer Received,32726.89,credit,Income
+2022-07-15,Transfer Received,17625.36,credit,Income
+2022-07-15,YouTube Premium,139.0,debit,Subscriptions
+2022-07-16,Blinkit Grocery Delivery,2108.62,debit,Groceries
+2022-07-16,Cult.fit Membership,1813.02,debit,Healthcare
+2022-07-17,Interest Credit,2383.92,credit,Income
+2022-07-20,Stock Vesting Credit,13009.4,credit,Income
+2022-07-20,More Supermarket,499.26,debit,Groceries
+2022-07-20,Slack Pro,875.0,debit,Subscriptions
+2022-07-21,Amazon Purchase,4182.23,debit,Shopping
+2022-07-22,Swiggy Instamart,757.75,debit,Groceries
+2022-07-22,Blinkit Grocery Delivery,976.21,debit,Groceries
+2022-07-23,Netflix Subscription,277.79,debit,Subscriptions
+2022-07-23,AWS Bill,7471.53,debit,Utilities
+2022-07-24,Ola Cab,298.64,debit,Transportation
+2022-07-27,AWS Bill,12729.04,debit,Utilities
+2022-07-27,BookMyShow Tickets,596.35,debit,Entertainment
+2022-07-28,Standing Desk,10233.11,debit,Shopping
+2022-07-30,Zomato Food Delivery,848.42,debit,Food & Dining
+2022-08-01,BookMyShow Tickets,654.14,debit,Entertainment
+2022-08-01,AWS Bill,12791.15,debit,Utilities
+2022-08-02,Swiggy Instamart,601.69,debit,Groceries
+2022-08-02,Hotstar Subscription,532.97,debit,Subscriptions
+2022-08-02,Amazon Purchase,831.92,debit,Shopping
+2022-08-02,Spotify Premium,119.0,debit,Subscriptions
+2022-08-02,Interest Credit,1170.42,credit,Income
+2022-08-03,Myntra Fashion,2769.11,debit,Shopping
+2022-08-03,Zomato Food Delivery,833.17,debit,Food & Dining
+2022-08-03,DigitalOcean,1496.58,debit,Utilities
+2022-08-05,Hotstar Subscription,688.96,debit,Subscriptions
+2022-08-06,Flipkart Order,3846.45,debit,Shopping
+2022-08-06,Swiggy Instamart,817.71,debit,Groceries
+2022-08-07,Transfer Received,49166.94,credit,Income
+2022-08-08,Flipkart Order,3173.19,debit,Shopping
+2022-08-08,Amazon Purchase,2962.55,debit,Shopping
+2022-08-08,Bonus Credit,19363.42,credit,Income
+2022-08-09,Zomato Food Delivery,258.37,debit,Food & Dining
+2022-08-11,Hotstar Subscription,548.37,debit,Subscriptions
+2022-08-11,Uber Ride,244.95,debit,Transportation
+2022-08-12,Ola Cab,131.81,debit,Transportation
+2022-08-13,Swiggy Order,613.13,debit,Food & Dining
+2022-08-13,Flipkart Order,1888.74,debit,Shopping
+2022-08-13,MacBook Accessories,10077.75,debit,Shopping
+2022-08-13,Ola Cab,470.64,debit,Transportation
+2022-08-13,BookMyShow Tickets,1216.92,debit,Entertainment
+2022-08-14,More Supermarket,704.58,debit,Groceries
+2022-08-15,Netflix Subscription,262.85,debit,Subscriptions
+2022-08-16,Tech Gadget Purchase,19273.43,debit,Shopping
+2022-08-16,More Supermarket,969.63,debit,Groceries
+2022-08-16,Starbucks Coffee,470.14,debit,Food & Dining
+2022-08-17,Myntra Fashion,2638.93,debit,Shopping
+2022-08-17,Spotify Premium,119.0,debit,Subscriptions
+2022-08-17,Ola Cab,380.62,debit,Transportation
+2022-08-18,Slack Pro,875.0,debit,Subscriptions
+2022-08-20,YouTube Premium,139.0,debit,Subscriptions
+2022-08-20,Slack Pro,875.0,debit,Subscriptions
+2022-08-20,DigitalOcean,2897.4,debit,Utilities
+2022-08-20,Cashback Credit,412.8,credit,Income
+2022-08-20,DigitalOcean,1290.8,debit,Utilities
+2022-08-20,Amazon Purchase,451.53,debit,Shopping
+2022-08-22,Myntra Fashion,949.51,debit,Shopping
+2022-08-22,Standing Desk,16298.99,debit,Shopping
+2022-08-22,WeWork Cafe,570.13,debit,Food & Dining
+2022-08-23,Flipkart Order,5551.06,debit,Shopping
+2022-08-23,DigitalOcean,1717.59,debit,Utilities
+2022-08-23,Reliance Fresh,360.43,debit,Groceries
+2022-08-24,Meesho Order,657.61,debit,Shopping
+2022-08-24,BigBasket Groceries,1806.75,debit,Groceries
+2022-08-25,Swiggy Order,657.05,debit,Food & Dining
+2022-08-25,UPI Received,11097.46,credit,Income
+2022-08-25,AWS Bill,1371.23,debit,Utilities
+2022-08-26,MacBook Accessories,12686.52,debit,Shopping
+2022-08-26,UPI Received,8800.05,credit,Income
+2022-08-27,Blinkit Grocery Delivery,1881.37,debit,Groceries
+2022-08-28,BigBasket Groceries,1228.37,debit,Groceries
+2022-08-28,BookMyShow Tickets,229.99,debit,Entertainment
+2022-08-28,Zomato Food Delivery,288.22,debit,Food & Dining
+2022-08-28,Amazon Prime,361.19,debit,Subscriptions
+2022-08-28,Spotify Premium,119.0,debit,Subscriptions
+2022-08-29,Refund Credit,3389.1,credit,Income
+2022-08-29,Refund Credit,3334.92,credit,Income
+2022-08-30,Freelance Consulting,24831.45,credit,Income
+2022-08-31,Salary Credit ESOP,166791.04,credit,Income
+2022-08-31,Dividend Credit,12809.65,credit,Income
+2022-08-31,Blinkit Grocery Delivery,1499.18,debit,Groceries
+2022-09-01,Amazon Prime,608.0,debit,Subscriptions
+2022-09-02,Myntra Fashion,1857.79,debit,Shopping
+2022-09-02,Rapido Bike Taxi,152.48,debit,Transportation
+2022-09-03,YouTube Premium,139.0,debit,Subscriptions
+2022-09-04,BigBasket Groceries,2739.66,debit,Groceries
+2022-09-04,DMart Purchase,3174.01,debit,Groceries
+2022-09-04,Spotify Premium,119.0,debit,Subscriptions
+2022-09-05,Amazon Prime,500.22,debit,Subscriptions
+2022-09-06,BookMyShow Tickets,494.81,debit,Entertainment
+2022-09-06,More Supermarket,1610.47,debit,Groceries
+2022-09-06,Uber Ride,144.84,debit,Transportation
+2022-09-06,Hotstar Subscription,244.78,debit,Subscriptions
+2022-09-07,BookMyShow Tickets,595.06,debit,Entertainment
+2022-09-09,Refund Credit,545.9,credit,Income
+2022-09-09,Bonus Credit,32514.49,credit,Income
+2022-09-10,Hotstar Subscription,675.24,debit,Subscriptions
+2022-09-10,Blinkit Grocery Delivery,1184.62,debit,Groceries
+2022-09-10,AWS Bill,6508.43,debit,Utilities
+2022-09-10,WeWork Cafe,230.34,debit,Food & Dining
+2022-09-12,More Supermarket,1647.56,debit,Groceries
+2022-09-14,Amazon Prime,725.45,debit,Subscriptions
+2022-09-15,AWS Bill,5488.93,debit,Utilities
+2022-09-15,BookMyShow Tickets,560.0,debit,Entertainment
+2022-09-15,WeWork Cafe,282.56,debit,Food & Dining
+2022-09-15,Dunzo Quick Commerce,2299.99,debit,Groceries
+2022-09-15,Ola Cab,234.43,debit,Transportation
+2022-09-16,Cult.fit Membership,1944.14,debit,Healthcare
+2022-09-16,Amazon Prime,632.11,debit,Subscriptions
+2022-09-17,DigitalOcean,3421.22,debit,Utilities
+2022-09-18,WeWork Cafe,451.3,debit,Food & Dining
+2022-09-18,Zomato Food Delivery,565.81,debit,Food & Dining
+2022-09-19,Swiggy Instamart,281.87,debit,Groceries
+2022-09-20,Spotify Premium,119.0,debit,Subscriptions
+2022-09-21,Ola Cab,83.66,debit,Transportation
+2022-09-22,Starbucks Coffee,525.24,debit,Food & Dining
+2022-09-22,Ajio Clothing,964.18,debit,Shopping
+2022-09-23,YouTube Premium,139.0,debit,Subscriptions
+2022-09-24,GitHub Copilot,837.0,debit,Subscriptions
+2022-09-24,Flipkart Order,5572.92,debit,Shopping
+2022-09-25,Cashback Credit,664.28,credit,Income
+2022-09-25,Freelance Consulting,47300.58,credit,Income
+2022-09-25,Ajio Clothing,3395.89,debit,Shopping
+2022-09-25,Myntra Fashion,1911.85,debit,Shopping
+2022-09-25,Reliance Fresh,1850.71,debit,Groceries
+2022-09-26,Zomato Food Delivery,183.96,debit,Food & Dining
+2022-09-26,Amazon Purchase,6599.85,debit,Shopping
+2022-09-26,Swiggy Instamart,730.09,debit,Groceries
+2022-09-27,Zomato Food Delivery,374.92,debit,Food & Dining
+2022-09-27,Hotstar Subscription,622.01,debit,Subscriptions
+2022-09-27,Rental Income,19446.68,credit,Income
+2022-09-28,Hotstar Subscription,857.64,debit,Subscriptions
+2022-09-28,Zomato Food Delivery,179.0,debit,Food & Dining
+2022-09-29,Figma Subscription,1250.0,debit,Subscriptions
+2022-09-29,Uber Ride,214.51,debit,Transportation
+2022-09-30,Slack Pro,875.0,debit,Subscriptions
+2022-10-01,Swiggy Order,513.22,debit,Food & Dining
+2022-10-01,Freelance Consulting,23995.53,credit,Income
+2022-10-01,Hotstar Subscription,765.29,debit,Subscriptions
+2022-10-02,UPI Received,15209.82,credit,Income
+2022-10-02,Reliance Fresh,1936.21,debit,Groceries
+2022-10-02,Rapido Bike Taxi,184.9,debit,Transportation
+2022-10-03,Flipkart Order,2988.29,debit,Shopping
+2022-10-04,Tech Gadget Purchase,8513.38,debit,Shopping
+2022-10-05,Meesho Order,1740.09,debit,Shopping
+2022-10-06,WeWork Cafe,192.9,debit,Food & Dining
+2022-10-06,Amazon Prime,393.48,debit,Subscriptions
+2022-10-06,Ajio Clothing,2898.52,debit,Shopping
+2022-10-07,More Supermarket,149.95,debit,Groceries
+2022-10-08,AWS Bill,5464.27,debit,Utilities
+2022-10-08,Rental Income,5733.7,credit,Income
+2022-10-08,Cult.fit Membership,1119.75,debit,Healthcare
+2022-10-09,Myntra Fashion,1311.45,debit,Shopping
+2022-10-11,Spotify Premium,119.0,debit,Subscriptions
+2022-10-11,WeWork Cafe,509.67,debit,Food & Dining
+2022-10-12,Ola Cab,144.02,debit,Transportation
+2022-10-13,Starbucks Coffee,362.7,debit,Food & Dining
+2022-10-13,Spotify Premium,119.0,debit,Subscriptions
+2022-10-13,Rental Income,18010.06,credit,Income
+2022-10-14,Dunzo Quick Commerce,648.95,debit,Groceries
+2022-10-15,Rapido Bike Taxi,192.51,debit,Transportation
+2022-10-15,Amazon Prime,533.68,debit,Subscriptions
+2022-10-15,YouTube Premium,139.0,debit,Subscriptions
+2022-10-16,Dunzo Quick Commerce,2369.6,debit,Groceries
+2022-10-16,Cult.fit Membership,1047.61,debit,Healthcare
+2022-10-18,Stock Vesting Credit,11707.56,credit,Income
+2022-10-18,GitHub Copilot,837.0,debit,Subscriptions
+2022-10-19,Cashback Credit,739.91,credit,Income
+2022-10-19,Blinkit Grocery Delivery,1815.98,debit,Groceries
+2022-10-21,YouTube Premium,139.0,debit,Subscriptions
+2022-10-23,Hotstar Subscription,151.87,debit,Subscriptions
+2022-10-23,Netflix Subscription,271.85,debit,Subscriptions
+2022-10-24,Myntra Fashion,3522.5,debit,Shopping
+2022-10-24,DigitalOcean,1771.75,debit,Utilities
+2022-10-24,Ola Cab,132.54,debit,Transportation
+2022-10-26,Standing Desk,16811.61,debit,Shopping
+2022-10-27,DMart Purchase,203.24,debit,Groceries
+2022-10-27,More Supermarket,915.3,debit,Groceries
+2022-10-27,Standing Desk,16817.56,debit,Shopping
+2022-10-28,Myntra Fashion,697.68,debit,Shopping
+2022-10-28,Dunzo Quick Commerce,1911.78,debit,Groceries
+2022-10-29,Figma Subscription,1250.0,debit,Subscriptions
+2022-10-29,Uber Ride,265.78,debit,Transportation
+2022-10-29,Slack Pro,875.0,debit,Subscriptions
+2022-10-31,Amazon Purchase,1189.21,debit,Shopping
+2022-10-31,Dunzo Quick Commerce,2306.66,debit,Groceries
+2022-11-01,WeWork Cafe,519.91,debit,Food & Dining
+2022-11-01,DigitalOcean,1086.45,debit,Utilities
+2022-11-01,Salary Credit ESOP,121034.51,credit,Income
+2022-11-02,Transfer Received,41996.96,credit,Income
+2022-11-03,Ola Cab,212.11,debit,Transportation
+2022-11-04,Stock Vesting Credit,43129.71,credit,Income
+2022-11-04,Standing Desk,6916.54,debit,Shopping
+2022-11-05,Rental Income,21607.11,credit,Income
+2022-11-05,Rapido Bike Taxi,54.87,debit,Transportation
+2022-11-05,Dividend Credit,7293.85,credit,Income
+2022-11-05,Amazon Purchase,3107.12,debit,Shopping
+2022-11-05,Zomato Food Delivery,838.02,debit,Food & Dining
+2022-11-06,Zomato Food Delivery,478.95,debit,Food & Dining
+2022-11-06,Ajio Clothing,2584.1,debit,Shopping
+2022-11-06,Stock Vesting Credit,35622.8,credit,Income
+2022-11-06,Amazon Prime,183.25,debit,Subscriptions
+2022-11-07,Swiggy Instamart,1020.87,debit,Groceries
+2022-11-10,Flipkart Order,925.54,debit,Shopping
+2022-11-11,Meesho Order,1753.06,debit,Shopping
+2022-11-11,Rapido Bike Taxi,99.18,debit,Transportation
+2022-11-12,UPI Received,10687.65,credit,Income
+2022-11-13,Swiggy Order,326.8,debit,Food & Dining
+2022-11-13,Myntra Fashion,2604.57,debit,Shopping
+2022-11-14,More Supermarket,135.91,debit,Groceries
+2022-11-14,MacBook Accessories,10488.02,debit,Shopping
+2022-11-15,Standing Desk,10955.43,debit,Shopping
+2022-11-15,Dividend Credit,12270.47,credit,Income
+2022-11-15,Swiggy Order,352.7,debit,Food & Dining
+2022-11-16,Netflix Subscription,418.89,debit,Subscriptions
+2022-11-16,Tech Gadget Purchase,28765.59,debit,Shopping
+2022-11-17,Slack Pro,875.0,debit,Subscriptions
+2022-11-17,DMart Purchase,812.01,debit,Groceries
+2022-11-18,GitHub Copilot,837.0,debit,Subscriptions
+2022-11-18,Swiggy Order,382.53,debit,Food & Dining
+2022-11-19,DigitalOcean,920.95,debit,Utilities
+2022-11-20,Bonus Credit,25283.28,credit,Income
+2022-11-20,BookMyShow Tickets,971.85,debit,Entertainment
+2022-11-21,Meesho Order,1125.73,debit,Shopping
+2022-11-21,Starbucks Coffee,582.62,debit,Food & Dining
+2022-11-22,Hotstar Subscription,203.11,debit,Subscriptions
+2022-11-22,DigitalOcean,1461.6,debit,Utilities
+2022-11-23,Uber Ride,395.7,debit,Transportation
+2022-11-24,Amazon Purchase,5882.63,debit,Shopping
+2022-11-24,Swiggy Instamart,995.9,debit,Groceries
+2022-11-26,Figma Subscription,1250.0,debit,Subscriptions
+2022-11-27,Amazon Purchase,1650.43,debit,Shopping
+2022-11-27,Dividend Credit,1575.66,credit,Income
+2022-11-27,Swiggy Order,722.56,debit,Food & Dining
+2022-11-27,Blinkit Grocery Delivery,2159.53,debit,Groceries
+2022-11-27,DMart Purchase,811.63,debit,Groceries
+2022-11-27,Uber Ride,517.27,debit,Transportation
+2022-11-28,Cult.fit Membership,2322.94,debit,Healthcare
+2022-11-29,Uber Ride,115.99,debit,Transportation
+2022-11-29,Stock Vesting Credit,42855.4,credit,Income
+2022-11-29,Standing Desk,22277.87,debit,Shopping
+2022-11-29,Swiggy Instamart,799.25,debit,Groceries
+2022-11-30,Swiggy Instamart,1488.46,debit,Groceries
+2022-11-30,DMart Purchase,2454.06,debit,Groceries
+2022-12-02,Amazon Purchase,2360.43,debit,Shopping
+2022-12-03,MacBook Accessories,7903.36,debit,Shopping
+2022-12-04,Amazon Purchase,3671.3,debit,Shopping
+2022-12-04,DigitalOcean,4844.75,debit,Utilities
+2022-12-04,AWS Bill,4410.92,debit,Utilities
+2022-12-05,Tech Gadget Purchase,18969.9,debit,Shopping
+2022-12-05,Reliance Fresh,569.99,debit,Groceries
+2022-12-05,Swiggy Instamart,886.12,debit,Groceries
+2022-12-06,Cashback Credit,176.99,credit,Income
+2022-12-06,DigitalOcean,2974.76,debit,Utilities
+2022-12-06,Standing Desk,12720.34,debit,Shopping
+2022-12-07,Amazon Purchase,874.16,debit,Shopping
+2022-12-08,Dividend Credit,5995.03,credit,Income
+2022-12-09,Rental Income,14117.83,credit,Income
+2022-12-10,Salary Credit ESOP,193954.03,credit,Income
+2022-12-11,Rapido Bike Taxi,198.98,debit,Transportation
+2022-12-12,Amazon Prime,923.07,debit,Subscriptions
+2022-12-15,Spotify Premium,119.0,debit,Subscriptions
+2022-12-15,Freelance Consulting,33494.87,credit,Income
+2022-12-16,Slack Pro,875.0,debit,Subscriptions
+2022-12-16,Meesho Order,917.78,debit,Shopping
+2022-12-16,BigBasket Groceries,1284.75,debit,Groceries
+2022-12-18,Flipkart Order,5224.2,debit,Shopping
+2022-12-18,Reliance Fresh,772.4,debit,Groceries
+2022-12-18,DigitalOcean,342.09,debit,Utilities
+2022-12-19,Meesho Order,1523.89,debit,Shopping
+2022-12-19,Uber Ride,152.54,debit,Transportation
+2022-12-19,Meesho Order,432.73,debit,Shopping
+2022-12-19,GitHub Copilot,837.0,debit,Subscriptions
+2022-12-20,BigBasket Groceries,2961.37,debit,Groceries
+2022-12-21,More Supermarket,1418.82,debit,Groceries
+2022-12-22,Cult.fit Membership,1702.15,debit,Healthcare
+2022-12-22,Dunzo Quick Commerce,1460.66,debit,Groceries
+2022-12-22,Reliance Fresh,312.55,debit,Groceries
+2022-12-22,Uber Ride,436.11,debit,Transportation
+2022-12-23,Spotify Premium,119.0,debit,Subscriptions
+2022-12-23,Tech Gadget Purchase,21006.11,debit,Shopping
+2022-12-24,Bonus Credit,36309.19,credit,Income
+2022-12-24,Salary Credit ESOP,171640.3,credit,Income
+2022-12-24,Zomato Food Delivery,483.62,debit,Food & Dining
+2022-12-25,Figma Subscription,1250.0,debit,Subscriptions
+2022-12-25,Refund Credit,3057.43,credit,Income
+2022-12-25,Standing Desk,20612.04,debit,Shopping
+2022-12-25,Spotify Premium,119.0,debit,Subscriptions
+2022-12-25,Uber Ride,572.24,debit,Transportation
+2022-12-26,Zomato Food Delivery,270.78,debit,Food & Dining
+2022-12-26,Swiggy Instamart,271.59,debit,Groceries
+2022-12-26,Starbucks Coffee,620.78,debit,Food & Dining
+2022-12-28,Myntra Fashion,1087.59,debit,Shopping
+2022-12-28,Slack Pro,875.0,debit,Subscriptions
+2022-12-28,Figma Subscription,1250.0,debit,Subscriptions
+2022-12-28,Cashback Credit,560.72,credit,Income
+2022-12-28,Uber Ride,531.84,debit,Transportation
+2022-12-28,More Supermarket,200.88,debit,Groceries
+2022-12-29,Uber Ride,459.1,debit,Transportation
+2022-12-31,Bonus Credit,29151.26,credit,Income
+2022-12-31,Rapido Bike Taxi,113.22,debit,Transportation
+2022-12-31,Swiggy Instamart,475.85,debit,Groceries
+2023-01-01,Blinkit Grocery Delivery,1767.73,debit,Groceries
+2023-01-03,More Supermarket,1729.56,debit,Groceries
+2023-01-04,Cult.fit Membership,2774.03,debit,Healthcare
+2023-01-04,MacBook Accessories,12506.05,debit,Shopping
+2023-01-05,Ola Cab,192.54,debit,Transportation
+2023-01-06,Myntra Fashion,3117.65,debit,Shopping
+2023-01-06,DMart Purchase,3262.54,debit,Groceries
+2023-01-06,Ola Cab,200.34,debit,Transportation
+2023-01-07,Starbucks Coffee,590.63,debit,Food & Dining
+2023-01-07,Flipkart Order,5482.34,debit,Shopping
+2023-01-08,Uber Ride,550.25,debit,Transportation
+2023-01-09,BookMyShow Tickets,1099.78,debit,Entertainment
+2023-01-09,Ajio Clothing,898.66,debit,Shopping
+2023-01-09,Netflix Subscription,196.94,debit,Subscriptions
+2023-01-10,YouTube Premium,139.0,debit,Subscriptions
+2023-01-10,Ajio Clothing,3090.1,debit,Shopping
+2023-01-10,DMart Purchase,1413.77,debit,Groceries
+2023-01-12,Standing Desk,17160.15,debit,Shopping
+2023-01-13,Starbucks Coffee,306.17,debit,Food & Dining
+2023-01-13,WeWork Cafe,270.42,debit,Food & Dining
+2023-01-14,DMart Purchase,2219.5,debit,Groceries
+2023-01-14,Freelance Consulting,56365.64,credit,Income
+2023-01-15,Flipkart Order,402.94,debit,Shopping
+2023-01-15,WeWork Cafe,395.5,debit,Food & Dining
+2023-01-15,BookMyShow Tickets,972.81,debit,Entertainment
+2023-01-15,AWS Bill,12385.09,debit,Utilities
+2023-01-15,Cult.fit Membership,2967.93,debit,Healthcare
+2023-01-15,BookMyShow Tickets,276.33,debit,Entertainment
+2023-01-15,Amazon Purchase,3227.93,debit,Shopping
+2023-01-16,Spotify Premium,119.0,debit,Subscriptions
+2023-01-18,Blinkit Grocery Delivery,1328.87,debit,Groceries
+2023-01-19,BigBasket Groceries,2296.64,debit,Groceries
+2023-01-20,MacBook Accessories,14029.17,debit,Shopping
+2023-01-20,AWS Bill,14880.79,debit,Utilities
+2023-01-20,Starbucks Coffee,482.49,debit,Food & Dining
+2023-01-21,Cashback Credit,825.83,credit,Income
+2023-01-21,Dunzo Quick Commerce,1914.43,debit,Groceries
+2023-01-22,WeWork Cafe,245.57,debit,Food & Dining
+2023-01-22,Spotify Premium,119.0,debit,Subscriptions
+2023-01-22,Flipkart Order,1808.57,debit,Shopping
+2023-01-22,Amazon Purchase,7898.33,debit,Shopping
+2023-01-23,AWS Bill,6722.28,debit,Utilities
+2023-01-23,Uber Ride,489.8,debit,Transportation
+2023-01-23,MacBook Accessories,4932.48,debit,Shopping
+2023-01-23,WeWork Cafe,451.55,debit,Food & Dining
+2023-01-23,Cashback Credit,754.34,credit,Income
+2023-01-23,WeWork Cafe,435.85,debit,Food & Dining
+2023-01-24,BookMyShow Tickets,938.17,debit,Entertainment
+2023-01-24,BigBasket Groceries,2010.64,debit,Groceries
+2023-01-24,Spotify Premium,119.0,debit,Subscriptions
+2023-01-25,Tech Gadget Purchase,23613.6,debit,Shopping
+2023-01-26,BookMyShow Tickets,1149.9,debit,Entertainment
+2023-01-26,Meesho Order,1800.1,debit,Shopping
+2023-01-27,Amazon Prime,831.15,debit,Subscriptions
+2023-01-28,Hotstar Subscription,345.82,debit,Subscriptions
+2023-01-29,Zomato Food Delivery,599.24,debit,Food & Dining
+2023-01-29,Uber Ride,353.85,debit,Transportation
+2023-01-29,Dunzo Quick Commerce,1316.03,debit,Groceries
+2023-01-29,BookMyShow Tickets,495.06,debit,Entertainment
+2023-01-29,MacBook Accessories,11093.88,debit,Shopping
+2023-01-31,Ola Cab,313.82,debit,Transportation
+2023-01-31,Figma Subscription,1250.0,debit,Subscriptions
+2023-01-31,Transfer Received,26546.61,credit,Income
+2023-01-31,Netflix Subscription,393.07,debit,Subscriptions
+2023-02-01,Blinkit Grocery Delivery,763.72,debit,Groceries
+2023-02-01,Swiggy Order,655.92,debit,Food & Dining
+2023-02-01,Dunzo Quick Commerce,2421.5,debit,Groceries
+2023-02-01,BookMyShow Tickets,737.76,debit,Entertainment
+2023-02-02,MacBook Accessories,8682.69,debit,Shopping
+2023-02-02,Hotstar Subscription,341.46,debit,Subscriptions
+2023-02-02,YouTube Premium,139.0,debit,Subscriptions
+2023-02-03,Ajio Clothing,785.54,debit,Shopping
+2023-02-03,Spotify Premium,119.0,debit,Subscriptions
+2023-02-03,MacBook Accessories,10163.41,debit,Shopping
+2023-02-04,Uber Ride,498.42,debit,Transportation
+2023-02-04,Spotify Premium,119.0,debit,Subscriptions
+2023-02-05,Uber Ride,473.58,debit,Transportation
+2023-02-08,Rapido Bike Taxi,59.48,debit,Transportation
+2023-02-09,Flipkart Order,1853.02,debit,Shopping
+2023-02-10,Zomato Food Delivery,128.63,debit,Food & Dining
+2023-02-10,Tech Gadget Purchase,11318.77,debit,Shopping
+2023-02-11,Ola Cab,218.89,debit,Transportation
+2023-02-11,Figma Subscription,1250.0,debit,Subscriptions
+2023-02-12,Meesho Order,751.12,debit,Shopping
+2023-02-12,BigBasket Groceries,3282.84,debit,Groceries
+2023-02-12,Slack Pro,875.0,debit,Subscriptions
+2023-02-14,Flipkart Order,4434.59,debit,Shopping
+2023-02-14,Stock Vesting Credit,29172.3,credit,Income
+2023-02-14,Slack Pro,875.0,debit,Subscriptions
+2023-02-15,Flipkart Order,2172.75,debit,Shopping
+2023-02-15,Ola Cab,452.2,debit,Transportation
+2023-02-15,Meesho Order,503.67,debit,Shopping
+2023-02-16,DMart Purchase,768.78,debit,Groceries
+2023-02-16,Ola Cab,159.67,debit,Transportation
+2023-02-16,Reliance Fresh,667.51,debit,Groceries
+2023-02-17,UPI Received,2303.23,credit,Income
+2023-02-17,Dunzo Quick Commerce,369.65,debit,Groceries
+2023-02-17,WeWork Cafe,420.87,debit,Food & Dining
+2023-02-17,Tech Gadget Purchase,18379.47,debit,Shopping
+2023-02-19,AWS Bill,1009.33,debit,Utilities
+2023-02-20,Tech Gadget Purchase,21164.23,debit,Shopping
+2023-02-22,Netflix Subscription,544.23,debit,Subscriptions
+2023-02-22,Swiggy Order,454.75,debit,Food & Dining
+2023-02-22,MacBook Accessories,12753.22,debit,Shopping
+2023-02-23,Figma Subscription,1250.0,debit,Subscriptions
+2023-02-23,Hotstar Subscription,639.29,debit,Subscriptions
+2023-02-24,Starbucks Coffee,657.23,debit,Food & Dining
+2023-02-24,Rental Income,11690.95,credit,Income
+2023-02-24,Hotstar Subscription,517.5,debit,Subscriptions
+2023-02-25,Tech Gadget Purchase,23673.26,debit,Shopping
+2023-02-25,Amazon Purchase,5321.89,debit,Shopping
+2023-02-25,AWS Bill,10531.39,debit,Utilities
+2023-02-27,Rapido Bike Taxi,132.58,debit,Transportation
+2023-02-28,Myntra Fashion,3353.71,debit,Shopping
+2023-03-01,Rental Income,17236.21,credit,Income
+2023-03-02,DMart Purchase,2993.72,debit,Groceries
+2023-03-02,Tech Gadget Purchase,18818.05,debit,Shopping
+2023-03-04,Stock Vesting Credit,39995.95,credit,Income
+2023-03-04,Standing Desk,21504.9,debit,Shopping
+2023-03-04,DigitalOcean,3874.36,debit,Utilities
+2023-03-05,Uber Ride,526.34,debit,Transportation
+2023-03-05,Myntra Fashion,3231.45,debit,Shopping
+2023-03-06,Uber Ride,104.35,debit,Transportation
+2023-03-08,Swiggy Order,591.99,debit,Food & Dining
+2023-03-08,GitHub Copilot,837.0,debit,Subscriptions
+2023-03-09,Netflix Subscription,615.55,debit,Subscriptions
+2023-03-09,WeWork Cafe,304.21,debit,Food & Dining
+2023-03-09,MacBook Accessories,12988.38,debit,Shopping
+2023-03-09,Zomato Food Delivery,271.95,debit,Food & Dining
+2023-03-11,BigBasket Groceries,2376.18,debit,Groceries
+2023-03-12,MacBook Accessories,7737.0,debit,Shopping
+2023-03-12,Spotify Premium,119.0,debit,Subscriptions
+2023-03-12,BigBasket Groceries,1829.76,debit,Groceries
+2023-03-13,Ola Cab,198.32,debit,Transportation
+2023-03-13,MacBook Accessories,10450.37,debit,Shopping
+2023-03-13,Cult.fit Membership,2904.74,debit,Healthcare
+2023-03-13,Spotify Premium,119.0,debit,Subscriptions
+2023-03-14,Swiggy Instamart,646.32,debit,Groceries
+2023-03-14,Bonus Credit,30409.16,credit,Income
+2023-03-15,WeWork Cafe,584.47,debit,Food & Dining
+2023-03-15,Stock Vesting Credit,40662.48,credit,Income
+2023-03-15,Standing Desk,22810.37,debit,Shopping
+2023-03-15,Tech Gadget Purchase,12428.13,debit,Shopping
+2023-03-15,Slack Pro,875.0,debit,Subscriptions
+2023-03-15,Reliance Fresh,1906.84,debit,Groceries
+2023-03-16,Dividend Credit,4948.51,credit,Income
+2023-03-16,UPI Received,13254.26,credit,Income
+2023-03-17,Slack Pro,875.0,debit,Subscriptions
+2023-03-17,Hotstar Subscription,462.53,debit,Subscriptions
+2023-03-17,Amazon Purchase,3656.52,debit,Shopping
+2023-03-17,YouTube Premium,139.0,debit,Subscriptions
+2023-03-18,YouTube Premium,139.0,debit,Subscriptions
+2023-03-19,Myntra Fashion,1861.32,debit,Shopping
+2023-03-19,Amazon Purchase,7149.17,debit,Shopping
+2023-03-19,Swiggy Order,714.67,debit,Food & Dining
+2023-03-19,AWS Bill,512.67,debit,Utilities
+2023-03-19,Spotify Premium,119.0,debit,Subscriptions
+2023-03-20,Swiggy Order,253.95,debit,Food & Dining
+2023-03-21,Figma Subscription,1250.0,debit,Subscriptions
+2023-03-21,Rapido Bike Taxi,48.24,debit,Transportation
+2023-03-21,WeWork Cafe,345.93,debit,Food & Dining
+2023-03-22,GitHub Copilot,837.0,debit,Subscriptions
+2023-03-23,Starbucks Coffee,471.34,debit,Food & Dining
+2023-03-24,DMart Purchase,686.95,debit,Groceries
+2023-03-25,MacBook Accessories,5573.52,debit,Shopping
+2023-03-25,BookMyShow Tickets,968.8,debit,Entertainment
+2023-03-26,Transfer Received,37391.54,credit,Income
+2023-03-26,GitHub Copilot,837.0,debit,Subscriptions
+2023-03-27,Salary Credit ESOP,100542.47,credit,Income
+2023-03-27,Transfer Received,34605.62,credit,Income
+2023-03-27,Reliance Fresh,720.93,debit,Groceries
+2023-03-27,BookMyShow Tickets,555.42,debit,Entertainment
+2023-03-28,Standing Desk,10827.99,debit,Shopping
+2023-03-28,Blinkit Grocery Delivery,1357.31,debit,Groceries
+2023-03-28,Salary Credit ESOP,157573.79,credit,Income
+2023-03-28,BookMyShow Tickets,1269.31,debit,Entertainment
+2023-03-29,Slack Pro,875.0,debit,Subscriptions
+2023-03-29,Ola Cab,134.23,debit,Transportation
+2023-03-30,MacBook Accessories,10670.38,debit,Shopping
+2023-03-30,Freelance Consulting,65034.16,credit,Income
+2023-03-31,Meesho Order,1023.12,debit,Shopping
+2023-03-31,Freelance Consulting,75941.44,credit,Income
+2023-03-31,Bonus Credit,15649.59,credit,Income
+2023-03-31,BookMyShow Tickets,365.94,debit,Entertainment
+2023-04-01,Amazon Purchase,5356.29,debit,Shopping
+2023-04-01,Myntra Fashion,2050.93,debit,Shopping
+2023-04-01,Slack Pro,875.0,debit,Subscriptions
+2023-04-02,Reliance Fresh,303.49,debit,Groceries
+2023-04-02,Swiggy Order,433.77,debit,Food & Dining
+2023-04-02,Meesho Order,1752.49,debit,Shopping
+2023-04-03,Zomato Food Delivery,610.99,debit,Food & Dining
+2023-04-04,Starbucks Coffee,695.68,debit,Food & Dining
+2023-04-04,Ola Cab,108.22,debit,Transportation
+2023-04-04,Tech Gadget Purchase,22682.57,debit,Shopping
+2023-04-05,Amazon Purchase,7954.85,debit,Shopping
+2023-04-06,Netflix Subscription,187.26,debit,Subscriptions
+2023-04-06,Tech Gadget Purchase,7075.14,debit,Shopping
+2023-04-07,Amazon Purchase,5828.95,debit,Shopping
+2023-04-07,Dunzo Quick Commerce,1143.55,debit,Groceries
+2023-04-07,YouTube Premium,139.0,debit,Subscriptions
+2023-04-07,Standing Desk,12920.0,debit,Shopping
+2023-04-08,Cult.fit Membership,1101.02,debit,Healthcare
+2023-04-08,Blinkit Grocery Delivery,2705.9,debit,Groceries
+2023-04-09,Bonus Credit,5353.43,credit,Income
+2023-04-09,BigBasket Groceries,1236.14,debit,Groceries
+2023-04-09,DMart Purchase,290.23,debit,Groceries
+2023-04-09,Hotstar Subscription,877.26,debit,Subscriptions
+2023-04-10,AWS Bill,6105.12,debit,Utilities
+2023-04-10,Spotify Premium,119.0,debit,Subscriptions
+2023-04-12,Dunzo Quick Commerce,1209.82,debit,Groceries
+2023-04-12,Myntra Fashion,3313.17,debit,Shopping
+2023-04-13,Salary Credit ESOP,90338.85,credit,Income
+2023-04-14,Flipkart Order,3901.32,debit,Shopping
+2023-04-14,Amazon Purchase,4962.75,debit,Shopping
+2023-04-16,Starbucks Coffee,586.81,debit,Food & Dining
+2023-04-17,MacBook Accessories,1469.98,debit,Shopping
+2023-04-19,More Supermarket,696.19,debit,Groceries
+2023-04-20,Zomato Food Delivery,508.94,debit,Food & Dining
+2023-04-20,Zomato Food Delivery,588.91,debit,Food & Dining
+2023-04-21,DMart Purchase,2700.28,debit,Groceries
+2023-04-22,Freelance Consulting,29096.1,credit,Income
+2023-04-22,Swiggy Order,717.12,debit,Food & Dining
+2023-04-22,Meesho Order,465.88,debit,Shopping
+2023-04-22,BookMyShow Tickets,603.21,debit,Entertainment
+2023-04-22,Ola Cab,122.16,debit,Transportation
+2023-04-23,Flipkart Order,1837.26,debit,Shopping
+2023-04-24,Standing Desk,10423.36,debit,Shopping
+2023-04-24,Dunzo Quick Commerce,1967.65,debit,Groceries
+2023-04-24,Swiggy Order,297.37,debit,Food & Dining
+2023-04-25,DigitalOcean,4049.48,debit,Utilities
+2023-04-26,Myntra Fashion,1200.09,debit,Shopping
+2023-04-27,Spotify Premium,119.0,debit,Subscriptions
+2023-04-27,MacBook Accessories,10931.17,debit,Shopping
+2023-04-29,Hotstar Subscription,835.9,debit,Subscriptions
+2023-04-30,AWS Bill,14757.0,debit,Utilities
+2023-04-30,Blinkit Grocery Delivery,1687.95,debit,Groceries
+2023-04-30,Ola Cab,171.71,debit,Transportation
+2023-04-30,Dunzo Quick Commerce,1500.22,debit,Groceries
+2023-04-30,Hotstar Subscription,152.24,debit,Subscriptions
+2023-05-01,Tech Gadget Purchase,24105.79,debit,Shopping
+2023-05-01,Spotify Premium,119.0,debit,Subscriptions
+2023-05-02,AWS Bill,6313.37,debit,Utilities
+2023-05-02,Transfer Received,35117.79,credit,Income
+2023-05-03,Rapido Bike Taxi,98.94,debit,Transportation
+2023-05-03,Flipkart Order,3422.1,debit,Shopping
+2023-05-03,Netflix Subscription,329.6,debit,Subscriptions
+2023-05-03,BigBasket Groceries,463.62,debit,Groceries
+2023-05-04,Salary Credit ESOP,153627.47,credit,Income
+2023-05-04,Amazon Purchase,7401.84,debit,Shopping
+2023-05-04,More Supermarket,1527.34,debit,Groceries
+2023-05-04,Spotify Premium,119.0,debit,Subscriptions
+2023-05-04,WeWork Cafe,526.18,debit,Food & Dining
+2023-05-04,Cashback Credit,387.45,credit,Income
+2023-05-05,GitHub Copilot,837.0,debit,Subscriptions
+2023-05-05,AWS Bill,4075.42,debit,Utilities
+2023-05-05,Meesho Order,1913.78,debit,Shopping
+2023-05-05,Swiggy Order,210.3,debit,Food & Dining
+2023-05-06,AWS Bill,14027.01,debit,Utilities
+2023-05-07,YouTube Premium,139.0,debit,Subscriptions
+2023-05-07,DigitalOcean,3612.62,debit,Utilities
+2023-05-07,Meesho Order,528.44,debit,Shopping
+2023-05-07,Transfer Received,1539.97,credit,Income
+2023-05-07,MacBook Accessories,13396.13,debit,Shopping
+2023-05-07,MacBook Accessories,11067.32,debit,Shopping
+2023-05-08,Transfer Received,48743.64,credit,Income
+2023-05-08,Netflix Subscription,583.46,debit,Subscriptions
+2023-05-08,Ajio Clothing,654.29,debit,Shopping
+2023-05-09,Standing Desk,22722.57,debit,Shopping
+2023-05-09,Blinkit Grocery Delivery,1969.09,debit,Groceries
+2023-05-10,AWS Bill,1140.05,debit,Utilities
+2023-05-10,Swiggy Order,276.26,debit,Food & Dining
+2023-05-11,Starbucks Coffee,443.01,debit,Food & Dining
+2023-05-11,Dunzo Quick Commerce,1016.38,debit,Groceries
+2023-05-11,Meesho Order,177.32,debit,Shopping
+2023-05-11,Myntra Fashion,3671.25,debit,Shopping
+2023-05-11,Hotstar Subscription,705.88,debit,Subscriptions
+2023-05-11,Dunzo Quick Commerce,1489.59,debit,Groceries
+2023-05-11,BigBasket Groceries,577.33,debit,Groceries
+2023-05-11,Amazon Prime,430.08,debit,Subscriptions
+2023-05-12,BigBasket Groceries,656.18,debit,Groceries
+2023-05-12,Flipkart Order,2510.86,debit,Shopping
+2023-05-12,Rapido Bike Taxi,61.45,debit,Transportation
+2023-05-13,Reliance Fresh,1235.33,debit,Groceries
+2023-05-14,Bonus Credit,35374.52,credit,Income
+2023-05-14,MacBook Accessories,10416.02,debit,Shopping
+2023-05-14,Blinkit Grocery Delivery,396.5,debit,Groceries
+2023-05-15,Uber Ride,145.35,debit,Transportation
+2023-05-16,BigBasket Groceries,456.66,debit,Groceries
+2023-05-16,Rapido Bike Taxi,169.64,debit,Transportation
+2023-05-17,Uber Ride,172.33,debit,Transportation
+2023-05-17,Interest Credit,2848.78,credit,Income
+2023-05-18,Amazon Prime,325.08,debit,Subscriptions
+2023-05-19,Swiggy Instamart,375.0,debit,Groceries
+2023-05-19,DigitalOcean,585.82,debit,Utilities
+2023-05-19,Dunzo Quick Commerce,526.94,debit,Groceries
+2023-05-20,Netflix Subscription,585.1,debit,Subscriptions
+2023-05-20,Amazon Prime,515.62,debit,Subscriptions
+2023-05-20,More Supermarket,509.92,debit,Groceries
+2023-05-20,MacBook Accessories,5383.77,debit,Shopping
+2023-05-20,Hotstar Subscription,229.83,debit,Subscriptions
+2023-05-21,Dunzo Quick Commerce,229.53,debit,Groceries
+2023-05-22,Tech Gadget Purchase,13664.02,debit,Shopping
+2023-05-22,BigBasket Groceries,2712.38,debit,Groceries
+2023-05-23,GitHub Copilot,837.0,debit,Subscriptions
+2023-05-23,Blinkit Grocery Delivery,693.2,debit,Groceries
+2023-05-23,Figma Subscription,1250.0,debit,Subscriptions
+2023-05-24,Reliance Fresh,417.03,debit,Groceries
+2023-05-25,Meesho Order,1818.16,debit,Shopping
+2023-05-26,Salary Credit ESOP,100968.55,credit,Income
+2023-05-26,AWS Bill,6955.69,debit,Utilities
+2023-05-26,Netflix Subscription,510.47,debit,Subscriptions
+2023-05-26,Swiggy Order,794.77,debit,Food & Dining
+2023-05-26,Figma Subscription,1250.0,debit,Subscriptions
+2023-05-26,Myntra Fashion,2291.26,debit,Shopping
+2023-05-26,Figma Subscription,1250.0,debit,Subscriptions
+2023-05-28,Cult.fit Membership,1776.7,debit,Healthcare
+2023-05-28,Myntra Fashion,2438.66,debit,Shopping
+2023-05-28,Tech Gadget Purchase,23490.2,debit,Shopping
+2023-05-28,Dunzo Quick Commerce,306.93,debit,Groceries
+2023-05-29,Blinkit Grocery Delivery,796.54,debit,Groceries
+2023-05-30,Hotstar Subscription,497.07,debit,Subscriptions
+2023-05-31,Flipkart Order,1346.89,debit,Shopping
+2023-05-31,Dividend Credit,11322.2,credit,Income
+2023-05-31,AWS Bill,13051.1,debit,Utilities
+2023-05-31,Zomato Food Delivery,840.47,debit,Food & Dining
+2023-05-31,MacBook Accessories,6551.5,debit,Shopping
+2023-06-01,WeWork Cafe,201.34,debit,Food & Dining
+2023-06-01,Starbucks Coffee,365.1,debit,Food & Dining
+2023-06-01,Transfer Received,27890.56,credit,Income
+2023-06-01,Hotstar Subscription,314.97,debit,Subscriptions
+2023-06-02,More Supermarket,774.94,debit,Groceries
+2023-06-02,Reliance Fresh,1746.94,debit,Groceries
+2023-06-03,Tech Gadget Purchase,18255.85,debit,Shopping
+2023-06-03,Amazon Prime,559.66,debit,Subscriptions
+2023-06-03,BookMyShow Tickets,1069.47,debit,Entertainment
+2023-06-03,Meesho Order,548.41,debit,Shopping
+2023-06-03,GitHub Copilot,837.0,debit,Subscriptions
+2023-06-04,Salary Credit ESOP,167119.84,credit,Income
+2023-06-04,Ola Cab,498.44,debit,Transportation
+2023-06-04,Swiggy Instamart,565.18,debit,Groceries
+2023-06-04,Swiggy Instamart,1161.34,debit,Groceries
+2023-06-05,Amazon Purchase,3908.38,debit,Shopping
+2023-06-06,Uber Ride,486.03,debit,Transportation
+2023-06-07,Ajio Clothing,1163.2,debit,Shopping
+2023-06-07,BookMyShow Tickets,914.03,debit,Entertainment
+2023-06-07,Rapido Bike Taxi,52.81,debit,Transportation
+2023-06-07,Tech Gadget Purchase,28151.37,debit,Shopping
+2023-06-08,Blinkit Grocery Delivery,1066.01,debit,Groceries
+2023-06-09,Blinkit Grocery Delivery,2923.62,debit,Groceries
+2023-06-10,Myntra Fashion,3467.85,debit,Shopping
+2023-06-10,Zomato Food Delivery,386.94,debit,Food & Dining
+2023-06-10,Meesho Order,409.26,debit,Shopping
+2023-06-10,Flipkart Order,3385.38,debit,Shopping
+2023-06-11,Starbucks Coffee,615.16,debit,Food & Dining
+2023-06-11,Netflix Subscription,583.68,debit,Subscriptions
+2023-06-11,Ola Cab,223.82,debit,Transportation
+2023-06-12,Myntra Fashion,3699.41,debit,Shopping
+2023-06-12,YouTube Premium,139.0,debit,Subscriptions
+2023-06-13,Uber Ride,518.75,debit,Transportation
+2023-06-13,Figma Subscription,1250.0,debit,Subscriptions
+2023-06-14,Zomato Food Delivery,733.76,debit,Food & Dining
+2023-06-15,Netflix Subscription,453.93,debit,Subscriptions
+2023-06-15,Myntra Fashion,2950.13,debit,Shopping
+2023-06-15,Rapido Bike Taxi,93.17,debit,Transportation
+2023-06-17,Tech Gadget Purchase,22930.23,debit,Shopping
+2023-06-17,Ajio Clothing,2905.5,debit,Shopping
+2023-06-17,Tech Gadget Purchase,16498.55,debit,Shopping
+2023-06-18,Transfer Received,35141.58,credit,Income
+2023-06-19,Amazon Purchase,2730.58,debit,Shopping
+2023-06-19,Standing Desk,9022.56,debit,Shopping
+2023-06-19,Meesho Order,1887.35,debit,Shopping
+2023-06-20,Salary Credit ESOP,117922.7,credit,Income
+2023-06-20,Swiggy Instamart,1218.63,debit,Groceries
+2023-06-20,Myntra Fashion,1904.4,debit,Shopping
+2023-06-21,Rapido Bike Taxi,88.79,debit,Transportation
+2023-06-21,Interest Credit,815.93,credit,Income
+2023-06-22,Amazon Prime,822.62,debit,Subscriptions
+2023-06-22,Salary Credit ESOP,182416.12,credit,Income
+2023-06-22,Ajio Clothing,2335.65,debit,Shopping
+2023-06-23,Refund Credit,1513.82,credit,Income
+2023-06-23,Swiggy Order,670.58,debit,Food & Dining
+2023-06-23,BigBasket Groceries,2780.28,debit,Groceries
+2023-06-23,Tech Gadget Purchase,19836.66,debit,Shopping
+2023-06-24,Figma Subscription,1250.0,debit,Subscriptions
+2023-06-27,Cult.fit Membership,1094.84,debit,Healthcare
+2023-06-27,Meesho Order,315.12,debit,Shopping
+2023-06-27,Flipkart Order,998.53,debit,Shopping
+2023-06-29,Reliance Fresh,153.95,debit,Groceries
+2023-06-29,Amazon Prime,412.87,debit,Subscriptions
+2023-06-29,Interest Credit,1974.77,credit,Income
+2023-06-30,GitHub Copilot,837.0,debit,Subscriptions
+2023-06-30,WeWork Cafe,366.92,debit,Food & Dining
+2023-06-30,GitHub Copilot,837.0,debit,Subscriptions
+2023-06-30,Netflix Subscription,564.17,debit,Subscriptions
+2023-07-01,AWS Bill,7625.22,debit,Utilities
+2023-07-01,BigBasket Groceries,908.19,debit,Groceries
+2023-07-01,Amazon Purchase,5624.64,debit,Shopping
+2023-07-02,Tech Gadget Purchase,29073.26,debit,Shopping
+2023-07-02,Flipkart Order,4590.63,debit,Shopping
+2023-07-03,Flipkart Order,2105.2,debit,Shopping
+2023-07-03,Ajio Clothing,2688.55,debit,Shopping
+2023-07-04,MacBook Accessories,4142.45,debit,Shopping
+2023-07-05,Amazon Purchase,4387.63,debit,Shopping
+2023-07-05,GitHub Copilot,837.0,debit,Subscriptions
+2023-07-05,Tech Gadget Purchase,4577.64,debit,Shopping
+2023-07-05,BookMyShow Tickets,349.05,debit,Entertainment
+2023-07-05,Spotify Premium,119.0,debit,Subscriptions
+2023-07-06,Tech Gadget Purchase,7572.96,debit,Shopping
+2023-07-07,BigBasket Groceries,691.27,debit,Groceries
+2023-07-08,Tech Gadget Purchase,8871.92,debit,Shopping
+2023-07-09,Rapido Bike Taxi,118.16,debit,Transportation
+2023-07-09,DigitalOcean,1729.11,debit,Utilities
+2023-07-11,Tech Gadget Purchase,26588.81,debit,Shopping
+2023-07-11,Starbucks Coffee,589.49,debit,Food & Dining
+2023-07-11,BookMyShow Tickets,875.58,debit,Entertainment
+2023-07-13,AWS Bill,6013.69,debit,Utilities
+2023-07-13,YouTube Premium,139.0,debit,Subscriptions
+2023-07-14,Salary Credit ESOP,194282.61,credit,Income
+2023-07-15,Rapido Bike Taxi,56.95,debit,Transportation
+2023-07-15,BookMyShow Tickets,291.74,debit,Entertainment
+2023-07-15,Flipkart Order,4474.08,debit,Shopping
+2023-07-17,Amazon Prime,574.17,debit,Subscriptions
+2023-07-17,Myntra Fashion,1766.19,debit,Shopping
+2023-07-18,Meesho Order,1827.76,debit,Shopping
+2023-07-18,Starbucks Coffee,336.15,debit,Food & Dining
+2023-07-18,BigBasket Groceries,3119.0,debit,Groceries
+2023-07-19,BookMyShow Tickets,986.32,debit,Entertainment
+2023-07-19,Cashback Credit,518.98,credit,Income
+2023-07-20,Ajio Clothing,3058.36,debit,Shopping
+2023-07-21,Meesho Order,1658.04,debit,Shopping
+2023-07-21,Blinkit Grocery Delivery,2943.77,debit,Groceries
+2023-07-21,Amazon Prime,355.49,debit,Subscriptions
+2023-07-21,Interest Credit,1767.94,credit,Income
+2023-07-22,DigitalOcean,2495.22,debit,Utilities
+2023-07-23,Figma Subscription,1250.0,debit,Subscriptions
+2023-07-23,Myntra Fashion,1552.46,debit,Shopping
+2023-07-23,MacBook Accessories,14431.86,debit,Shopping
+2023-07-23,Zomato Food Delivery,735.02,debit,Food & Dining
+2023-07-23,Figma Subscription,1250.0,debit,Subscriptions
+2023-07-24,Flipkart Order,4711.39,debit,Shopping
+2023-07-24,Reliance Fresh,1690.55,debit,Groceries
+2023-07-25,BigBasket Groceries,1089.23,debit,Groceries
+2023-07-25,Stock Vesting Credit,43757.66,credit,Income
+2023-07-26,Figma Subscription,1250.0,debit,Subscriptions
+2023-07-27,GitHub Copilot,837.0,debit,Subscriptions
+2023-07-27,AWS Bill,4413.8,debit,Utilities
+2023-07-27,BookMyShow Tickets,362.97,debit,Entertainment
+2023-07-27,Rapido Bike Taxi,95.35,debit,Transportation
+2023-07-29,Netflix Subscription,302.09,debit,Subscriptions
+2023-07-30,Flipkart Order,831.18,debit,Shopping
+2023-07-30,Rapido Bike Taxi,104.57,debit,Transportation
+2023-07-31,Zomato Food Delivery,550.08,debit,Food & Dining
+2023-08-01,Uber Ride,398.37,debit,Transportation
+2023-08-01,Hotstar Subscription,249.9,debit,Subscriptions
+2023-08-01,Freelance Consulting,78008.66,credit,Income
+2023-08-02,Spotify Premium,119.0,debit,Subscriptions
+2023-08-02,YouTube Premium,139.0,debit,Subscriptions
+2023-08-03,Dividend Credit,7042.34,credit,Income
+2023-08-03,Meesho Order,797.2,debit,Shopping
+2023-08-03,DigitalOcean,3132.99,debit,Utilities
+2023-08-03,Standing Desk,18903.42,debit,Shopping
+2023-08-03,YouTube Premium,139.0,debit,Subscriptions
+2023-08-04,DigitalOcean,271.87,debit,Utilities
+2023-08-05,Hotstar Subscription,667.79,debit,Subscriptions
+2023-08-05,MacBook Accessories,11497.08,debit,Shopping
+2023-08-05,Ajio Clothing,1023.33,debit,Shopping
+2023-08-05,Dividend Credit,3181.86,credit,Income
+2023-08-05,Tech Gadget Purchase,13595.39,debit,Shopping
+2023-08-07,Uber Ride,304.74,debit,Transportation
+2023-08-07,DMart Purchase,2169.29,debit,Groceries
+2023-08-07,Rapido Bike Taxi,68.78,debit,Transportation
+2023-08-07,Zomato Food Delivery,217.77,debit,Food & Dining
+2023-08-08,Netflix Subscription,198.56,debit,Subscriptions
+2023-08-09,Ajio Clothing,541.75,debit,Shopping
+2023-08-09,Amazon Prime,671.19,debit,Subscriptions
+2023-08-09,DigitalOcean,3958.88,debit,Utilities
+2023-08-10,More Supermarket,135.18,debit,Groceries
+2023-08-11,YouTube Premium,139.0,debit,Subscriptions
+2023-08-12,Standing Desk,16819.24,debit,Shopping
+2023-08-13,Standing Desk,20945.47,debit,Shopping
+2023-08-14,Swiggy Order,372.9,debit,Food & Dining
+2023-08-14,Myntra Fashion,1236.29,debit,Shopping
+2023-08-15,BigBasket Groceries,379.59,debit,Groceries
+2023-08-16,Dunzo Quick Commerce,2012.81,debit,Groceries
+2023-08-17,Dividend Credit,10886.63,credit,Income
+2023-08-17,DMart Purchase,894.18,debit,Groceries
+2023-08-18,Dividend Credit,6484.37,credit,Income
+2023-08-18,Cult.fit Membership,1689.02,debit,Healthcare
+2023-08-18,Hotstar Subscription,615.19,debit,Subscriptions
+2023-08-18,Amazon Prime,188.66,debit,Subscriptions
+2023-08-18,UPI Received,4611.12,credit,Income
+2023-08-19,Rental Income,12890.67,credit,Income
+2023-08-20,Flipkart Order,1193.21,debit,Shopping
+2023-08-21,Ola Cab,456.22,debit,Transportation
+2023-08-21,Ajio Clothing,2999.22,debit,Shopping
+2023-08-21,Blinkit Grocery Delivery,484.5,debit,Groceries
+2023-08-22,Uber Ride,167.28,debit,Transportation
+2023-08-22,Flipkart Order,4754.47,debit,Shopping
+2023-08-22,DMart Purchase,530.96,debit,Groceries
+2023-08-22,Cult.fit Membership,2620.54,debit,Healthcare
+2023-08-22,Myntra Fashion,2012.3,debit,Shopping
+2023-08-24,WeWork Cafe,549.55,debit,Food & Dining
+2023-08-25,Salary Credit ESOP,142023.79,credit,Income
+2023-08-25,BookMyShow Tickets,1050.85,debit,Entertainment
+2023-08-25,Uber Ride,444.21,debit,Transportation
+2023-08-26,More Supermarket,470.99,debit,Groceries
+2023-08-26,Spotify Premium,119.0,debit,Subscriptions
+2023-08-27,Myntra Fashion,3919.5,debit,Shopping
+2023-08-28,AWS Bill,11098.78,debit,Utilities
+2023-08-29,DMart Purchase,1435.38,debit,Groceries
+2023-08-29,BookMyShow Tickets,1034.32,debit,Entertainment
+2023-08-29,Interest Credit,803.42,credit,Income
+2023-08-29,Slack Pro,875.0,debit,Subscriptions
+2023-08-30,MacBook Accessories,9822.18,debit,Shopping
+2023-08-30,Dunzo Quick Commerce,1406.37,debit,Groceries
+2023-08-30,Reliance Fresh,272.21,debit,Groceries
+2023-08-31,WeWork Cafe,550.9,debit,Food & Dining
+2023-09-01,Amazon Prime,411.25,debit,Subscriptions
+2023-09-01,GitHub Copilot,837.0,debit,Subscriptions
+2023-09-02,Salary Credit ESOP,194981.22,credit,Income
+2023-09-02,DigitalOcean,2886.22,debit,Utilities
+2023-09-02,Zomato Food Delivery,136.45,debit,Food & Dining
+2023-09-03,GitHub Copilot,837.0,debit,Subscriptions
+2023-09-03,DigitalOcean,3272.31,debit,Utilities
+2023-09-03,Amazon Purchase,2738.26,debit,Shopping
+2023-09-03,Refund Credit,4718.75,credit,Income
+2023-09-04,Meesho Order,425.37,debit,Shopping
+2023-09-04,Myntra Fashion,3588.74,debit,Shopping
+2023-09-05,GitHub Copilot,837.0,debit,Subscriptions
+2023-09-05,Swiggy Order,303.12,debit,Food & Dining
+2023-09-06,Interest Credit,2164.73,credit,Income
+2023-09-07,More Supermarket,1798.28,debit,Groceries
+2023-09-07,Bonus Credit,47091.63,credit,Income
+2023-09-07,Standing Desk,19074.41,debit,Shopping
+2023-09-08,More Supermarket,1713.13,debit,Groceries
+2023-09-08,Starbucks Coffee,579.46,debit,Food & Dining
+2023-09-09,Swiggy Instamart,479.56,debit,Groceries
+2023-09-09,DMart Purchase,312.0,debit,Groceries
+2023-09-09,Bonus Credit,12309.48,credit,Income
+2023-09-11,Spotify Premium,119.0,debit,Subscriptions
+2023-09-11,YouTube Premium,139.0,debit,Subscriptions
+2023-09-11,AWS Bill,12147.17,debit,Utilities
+2023-09-11,Uber Ride,384.02,debit,Transportation
+2023-09-13,Meesho Order,282.13,debit,Shopping
+2023-09-13,Reliance Fresh,1225.87,debit,Groceries
+2023-09-13,Netflix Subscription,422.3,debit,Subscriptions
+2023-09-13,Ola Cab,434.8,debit,Transportation
+2023-09-14,Meesho Order,213.6,debit,Shopping
+2023-09-14,MacBook Accessories,12815.3,debit,Shopping
+2023-09-14,AWS Bill,9086.13,debit,Utilities
+2023-09-15,Figma Subscription,1250.0,debit,Subscriptions
+2023-09-15,Blinkit Grocery Delivery,652.81,debit,Groceries
+2023-09-16,Netflix Subscription,439.57,debit,Subscriptions
+2023-09-16,Transfer Received,33318.93,credit,Income
+2023-09-17,Swiggy Order,426.6,debit,Food & Dining
+2023-09-18,Spotify Premium,119.0,debit,Subscriptions
+2023-09-18,Tech Gadget Purchase,21665.66,debit,Shopping
+2023-09-19,Standing Desk,22978.31,debit,Shopping
+2023-09-20,Ola Cab,489.98,debit,Transportation
+2023-09-20,Blinkit Grocery Delivery,1953.02,debit,Groceries
+2023-09-21,More Supermarket,1474.28,debit,Groceries
+2023-09-21,Interest Credit,990.5,credit,Income
+2023-09-21,BigBasket Groceries,1032.17,debit,Groceries
+2023-09-22,Swiggy Instamart,897.64,debit,Groceries
+2023-09-23,Ajio Clothing,1850.88,debit,Shopping
+2023-09-23,Starbucks Coffee,645.33,debit,Food & Dining
+2023-09-23,Ajio Clothing,2742.1,debit,Shopping
+2023-09-24,Amazon Purchase,2904.81,debit,Shopping
+2023-09-24,Rapido Bike Taxi,81.09,debit,Transportation
+2023-09-25,Interest Credit,1022.18,credit,Income
+2023-09-25,Salary Credit ESOP,102572.66,credit,Income
+2023-09-25,Swiggy Order,259.58,debit,Food & Dining
+2023-09-26,Tech Gadget Purchase,2169.34,debit,Shopping
+2023-09-26,Swiggy Order,632.26,debit,Food & Dining
+2023-09-29,Meesho Order,1219.39,debit,Shopping
+2023-09-30,Cult.fit Membership,2823.54,debit,Healthcare
+2023-09-30,GitHub Copilot,837.0,debit,Subscriptions
+2023-10-01,Myntra Fashion,3142.52,debit,Shopping
+2023-10-01,AWS Bill,3707.85,debit,Utilities
+2023-10-02,Ajio Clothing,909.94,debit,Shopping
+2023-10-02,Rental Income,17673.43,credit,Income
+2023-10-02,Swiggy Instamart,585.74,debit,Groceries
+2023-10-03,Swiggy Instamart,420.31,debit,Groceries
+2023-10-03,Figma Subscription,1250.0,debit,Subscriptions
+2023-10-03,Hotstar Subscription,801.78,debit,Subscriptions
+2023-10-03,BigBasket Groceries,2768.69,debit,Groceries
+2023-10-03,Dunzo Quick Commerce,464.62,debit,Groceries
+2023-10-03,Standing Desk,5242.3,debit,Shopping
+2023-10-04,Amazon Purchase,6278.11,debit,Shopping
+2023-10-04,Hotstar Subscription,796.08,debit,Subscriptions
+2023-10-07,MacBook Accessories,10710.84,debit,Shopping
+2023-10-07,DMart Purchase,571.58,debit,Groceries
+2023-10-07,Hotstar Subscription,234.4,debit,Subscriptions
+2023-10-08,Amazon Prime,543.66,debit,Subscriptions
+2023-10-09,Ola Cab,220.34,debit,Transportation
+2023-10-09,Starbucks Coffee,559.93,debit,Food & Dining
+2023-10-09,WeWork Cafe,420.23,debit,Food & Dining
+2023-10-10,YouTube Premium,139.0,debit,Subscriptions
+2023-10-11,Ola Cab,186.07,debit,Transportation
+2023-10-11,Zomato Food Delivery,517.95,debit,Food & Dining
+2023-10-11,Swiggy Instamart,808.46,debit,Groceries
+2023-10-11,Tech Gadget Purchase,19932.56,debit,Shopping
+2023-10-12,Slack Pro,875.0,debit,Subscriptions
+2023-10-12,Ajio Clothing,984.4,debit,Shopping
+2023-10-13,WeWork Cafe,534.86,debit,Food & Dining
+2023-10-14,Rental Income,21526.42,credit,Income
+2023-10-15,Netflix Subscription,268.13,debit,Subscriptions
+2023-10-15,Blinkit Grocery Delivery,2445.96,debit,Groceries
+2023-10-15,MacBook Accessories,14069.78,debit,Shopping
+2023-10-16,Blinkit Grocery Delivery,1688.36,debit,Groceries
+2023-10-16,Cashback Credit,951.68,credit,Income
+2023-10-17,GitHub Copilot,837.0,debit,Subscriptions
+2023-10-18,DigitalOcean,847.46,debit,Utilities
+2023-10-18,Figma Subscription,1250.0,debit,Subscriptions
+2023-10-19,Cult.fit Membership,929.43,debit,Healthcare
+2023-10-21,Amazon Prime,273.12,debit,Subscriptions
+2023-10-21,Spotify Premium,119.0,debit,Subscriptions
+2023-10-21,Uber Ride,152.94,debit,Transportation
+2023-10-22,YouTube Premium,139.0,debit,Subscriptions
+2023-10-23,Ola Cab,303.49,debit,Transportation
+2023-10-23,BigBasket Groceries,776.28,debit,Groceries
+2023-10-23,Dunzo Quick Commerce,1854.49,debit,Groceries
+2023-10-24,Swiggy Order,104.48,debit,Food & Dining
+2023-10-24,Uber Ride,142.79,debit,Transportation
+2023-10-24,Hotstar Subscription,848.56,debit,Subscriptions
+2023-10-24,Cashback Credit,978.39,credit,Income
+2023-10-25,Hotstar Subscription,402.87,debit,Subscriptions
+2023-10-26,Ola Cab,409.96,debit,Transportation
+2023-10-26,Stock Vesting Credit,31173.79,credit,Income
+2023-10-26,WeWork Cafe,418.07,debit,Food & Dining
+2023-10-27,Dunzo Quick Commerce,610.6,debit,Groceries
+2023-10-27,Transfer Received,22153.14,credit,Income
+2023-10-28,GitHub Copilot,837.0,debit,Subscriptions
+2023-10-28,Hotstar Subscription,729.78,debit,Subscriptions
+2023-10-28,Ajio Clothing,2536.79,debit,Shopping
+2023-10-28,Standing Desk,12131.26,debit,Shopping
+2023-10-29,Tech Gadget Purchase,2160.07,debit,Shopping
+2023-10-29,Hotstar Subscription,884.59,debit,Subscriptions
+2023-10-30,Amazon Purchase,7050.19,debit,Shopping
+2023-10-30,Rental Income,12986.19,credit,Income
+2023-10-31,Amazon Purchase,2853.14,debit,Shopping
+2023-10-31,BookMyShow Tickets,891.69,debit,Entertainment
+2023-11-01,DigitalOcean,1170.14,debit,Utilities
+2023-11-02,Zomato Food Delivery,386.23,debit,Food & Dining
+2023-11-03,Refund Credit,2582.07,credit,Income
+2023-11-03,Starbucks Coffee,542.11,debit,Food & Dining
+2023-11-04,MacBook Accessories,10679.39,debit,Shopping
+2023-11-04,GitHub Copilot,837.0,debit,Subscriptions
+2023-11-04,Hotstar Subscription,365.82,debit,Subscriptions
+2023-11-04,DigitalOcean,4926.37,debit,Utilities
+2023-11-05,Blinkit Grocery Delivery,357.4,debit,Groceries
+2023-11-06,Zomato Food Delivery,825.18,debit,Food & Dining
+2023-11-07,Transfer Received,31735.99,credit,Income
+2023-11-07,Swiggy Order,294.49,debit,Food & Dining
+2023-11-08,Stock Vesting Credit,34582.67,credit,Income
+2023-11-08,Ola Cab,280.78,debit,Transportation
+2023-11-08,Tech Gadget Purchase,24153.41,debit,Shopping
+2023-11-08,Tech Gadget Purchase,2907.47,debit,Shopping
+2023-11-09,DigitalOcean,4130.97,debit,Utilities
+2023-11-09,Ajio Clothing,724.52,debit,Shopping
+2023-11-09,Standing Desk,24448.21,debit,Shopping
+2023-11-10,AWS Bill,4377.26,debit,Utilities
+2023-11-12,Standing Desk,11238.52,debit,Shopping
+2023-11-12,Figma Subscription,1250.0,debit,Subscriptions
+2023-11-13,Starbucks Coffee,623.75,debit,Food & Dining
+2023-11-13,Freelance Consulting,33288.2,credit,Income
+2023-11-13,Bonus Credit,31038.2,credit,Income
+2023-11-14,Dunzo Quick Commerce,1261.38,debit,Groceries
+2023-11-14,More Supermarket,1213.34,debit,Groceries
+2023-11-14,Amazon Purchase,6496.88,debit,Shopping
+2023-11-15,WeWork Cafe,362.68,debit,Food & Dining
+2023-11-15,BookMyShow Tickets,1069.43,debit,Entertainment
+2023-11-15,UPI Received,2891.42,credit,Income
+2023-11-16,BigBasket Groceries,2912.96,debit,Groceries
+2023-11-17,Tech Gadget Purchase,9904.14,debit,Shopping
+2023-11-17,Standing Desk,21920.81,debit,Shopping
+2023-11-17,Cult.fit Membership,943.05,debit,Healthcare
+2023-11-17,Amazon Purchase,4452.8,debit,Shopping
+2023-11-17,DMart Purchase,350.48,debit,Groceries
+2023-11-17,DMart Purchase,1094.71,debit,Groceries
+2023-11-17,Stock Vesting Credit,22924.29,credit,Income
+2023-11-19,Transfer Received,38842.7,credit,Income
+2023-11-20,Uber Ride,529.27,debit,Transportation
+2023-11-20,More Supermarket,426.81,debit,Groceries
+2023-11-21,Uber Ride,85.27,debit,Transportation
+2023-11-22,DMart Purchase,2801.07,debit,Groceries
+2023-11-22,Cult.fit Membership,1813.22,debit,Healthcare
+2023-11-23,Myntra Fashion,1430.4,debit,Shopping
+2023-11-24,MacBook Accessories,2902.07,debit,Shopping
+2023-11-25,Netflix Subscription,417.86,debit,Subscriptions
+2023-11-25,MacBook Accessories,10401.35,debit,Shopping
+2023-11-26,Figma Subscription,1250.0,debit,Subscriptions
+2023-11-26,Ajio Clothing,2148.88,debit,Shopping
+2023-11-27,Bonus Credit,24063.61,credit,Income
+2023-11-27,Myntra Fashion,3735.91,debit,Shopping
+2023-11-27,DMart Purchase,1108.84,debit,Groceries
+2023-11-27,DigitalOcean,711.42,debit,Utilities
+2023-11-27,Amazon Purchase,7328.76,debit,Shopping
+2023-11-27,Amazon Prime,288.73,debit,Subscriptions
+2023-11-28,Cult.fit Membership,924.22,debit,Healthcare
+2023-11-28,Meesho Order,1265.62,debit,Shopping
+2023-11-28,Standing Desk,17386.44,debit,Shopping
+2023-11-30,Meesho Order,446.72,debit,Shopping
+2023-11-30,Zomato Food Delivery,267.16,debit,Food & Dining
+2023-11-30,GitHub Copilot,837.0,debit,Subscriptions
+2023-12-01,More Supermarket,1069.6,debit,Groceries
+2023-12-01,Swiggy Order,779.35,debit,Food & Dining
+2023-12-01,AWS Bill,4726.9,debit,Utilities
+2023-12-02,WeWork Cafe,410.32,debit,Food & Dining
+2023-12-02,Tech Gadget Purchase,13011.49,debit,Shopping
+2023-12-03,MacBook Accessories,11239.54,debit,Shopping
+2023-12-03,Swiggy Instamart,277.7,debit,Groceries
+2023-12-03,Bonus Credit,21543.62,credit,Income
+2023-12-05,Blinkit Grocery Delivery,2657.34,debit,Groceries
+2023-12-05,Rental Income,6932.77,credit,Income
+2023-12-06,GitHub Copilot,837.0,debit,Subscriptions
+2023-12-06,Starbucks Coffee,553.25,debit,Food & Dining
+2023-12-06,Netflix Subscription,260.24,debit,Subscriptions
+2023-12-07,Salary Credit ESOP,141208.07,credit,Income
+2023-12-07,Spotify Premium,119.0,debit,Subscriptions
+2023-12-07,Bonus Credit,13887.15,credit,Income
+2023-12-09,YouTube Premium,139.0,debit,Subscriptions
+2023-12-11,Interest Credit,719.38,credit,Income
+2023-12-11,DMart Purchase,1019.85,debit,Groceries
+2023-12-12,Netflix Subscription,282.79,debit,Subscriptions
+2023-12-12,Rapido Bike Taxi,118.03,debit,Transportation
+2023-12-12,Amazon Prime,258.76,debit,Subscriptions
+2023-12-13,Swiggy Instamart,1201.45,debit,Groceries
+2023-12-13,Starbucks Coffee,507.96,debit,Food & Dining
+2023-12-13,Myntra Fashion,3436.3,debit,Shopping
+2023-12-13,Amazon Prime,455.25,debit,Subscriptions
+2023-12-13,GitHub Copilot,837.0,debit,Subscriptions
+2023-12-15,BookMyShow Tickets,797.06,debit,Entertainment
+2023-12-15,Ajio Clothing,504.21,debit,Shopping
+2023-12-16,Uber Ride,170.6,debit,Transportation
+2023-12-16,YouTube Premium,139.0,debit,Subscriptions
+2023-12-17,Blinkit Grocery Delivery,2231.07,debit,Groceries
+2023-12-19,AWS Bill,8184.72,debit,Utilities
+2023-12-19,DigitalOcean,3918.6,debit,Utilities
+2023-12-20,Zomato Food Delivery,275.23,debit,Food & Dining
+2023-12-21,Standing Desk,18433.36,debit,Shopping
+2023-12-23,Uber Ride,261.29,debit,Transportation
+2023-12-23,Amazon Prime,802.66,debit,Subscriptions
+2023-12-24,Figma Subscription,1250.0,debit,Subscriptions
+2023-12-24,DMart Purchase,2779.05,debit,Groceries
+2023-12-25,Flipkart Order,1003.93,debit,Shopping
+2023-12-26,UPI Received,12459.51,credit,Income
+2023-12-26,Meesho Order,417.89,debit,Shopping
+2023-12-26,Cult.fit Membership,2723.35,debit,Healthcare
+2023-12-27,Cult.fit Membership,950.16,debit,Healthcare
+2023-12-28,Zomato Food Delivery,682.21,debit,Food & Dining
+2023-12-29,Ajio Clothing,2719.83,debit,Shopping
+2023-12-29,Swiggy Instamart,382.59,debit,Groceries
+2023-12-29,More Supermarket,712.42,debit,Groceries
+2023-12-29,Blinkit Grocery Delivery,1935.06,debit,Groceries
+2023-12-29,Netflix Subscription,207.31,debit,Subscriptions
+2023-12-30,Hotstar Subscription,854.98,debit,Subscriptions
+2023-12-30,Refund Credit,465.42,credit,Income
+2023-12-30,Uber Ride,426.55,debit,Transportation
+2023-12-30,Ajio Clothing,3390.95,debit,Shopping
+2023-12-30,Swiggy Order,654.84,debit,Food & Dining
+2023-12-31,Dividend Credit,1932.7,credit,Income
+2023-12-31,Zomato Food Delivery,369.86,debit,Food & Dining
+2023-12-31,BookMyShow Tickets,246.24,debit,Entertainment
+2023-12-31,Rapido Bike Taxi,144.2,debit,Transportation
+2024-01-01,Myntra Fashion,3193.75,debit,Shopping
+2024-01-03,Zomato Food Delivery,399.99,debit,Food & Dining
+2024-01-03,Figma Subscription,1250.0,debit,Subscriptions
+2024-01-03,DigitalOcean,2481.76,debit,Utilities
+2024-01-04,Blinkit Grocery Delivery,2802.29,debit,Groceries
+2024-01-04,Tech Gadget Purchase,26918.37,debit,Shopping
+2024-01-04,Cult.fit Membership,2958.44,debit,Healthcare
+2024-01-04,WeWork Cafe,450.27,debit,Food & Dining
+2024-01-05,Rapido Bike Taxi,78.16,debit,Transportation
+2024-01-05,Tech Gadget Purchase,12360.42,debit,Shopping
+2024-01-06,Dividend Credit,10484.16,credit,Income
+2024-01-06,Meesho Order,1952.41,debit,Shopping
+2024-01-06,DMart Purchase,2186.52,debit,Groceries
+2024-01-07,Tech Gadget Purchase,4981.16,debit,Shopping
+2024-01-07,GitHub Copilot,837.0,debit,Subscriptions
+2024-01-07,Freelance Consulting,55324.83,credit,Income
+2024-01-07,BookMyShow Tickets,571.08,debit,Entertainment
+2024-01-07,DMart Purchase,640.3,debit,Groceries
+2024-01-08,Rental Income,21554.83,credit,Income
+2024-01-08,Netflix Subscription,539.82,debit,Subscriptions
+2024-01-09,Amazon Purchase,1289.92,debit,Shopping
+2024-01-09,Rapido Bike Taxi,155.07,debit,Transportation
+2024-01-09,Salary Credit ESOP,190359.12,credit,Income
+2024-01-09,Refund Credit,1560.95,credit,Income
+2024-01-09,Ajio Clothing,1337.52,debit,Shopping
+2024-01-09,Tech Gadget Purchase,8121.79,debit,Shopping
+2024-01-10,MacBook Accessories,10888.43,debit,Shopping
+2024-01-10,Netflix Subscription,351.28,debit,Subscriptions
+2024-01-11,Meesho Order,1277.89,debit,Shopping
+2024-01-12,Zomato Food Delivery,512.97,debit,Food & Dining
+2024-01-12,BigBasket Groceries,2527.3,debit,Groceries
+2024-01-13,DMart Purchase,2327.83,debit,Groceries
+2024-01-13,WeWork Cafe,559.98,debit,Food & Dining
+2024-01-14,Swiggy Order,776.9,debit,Food & Dining
+2024-01-14,Tech Gadget Purchase,5812.27,debit,Shopping
+2024-01-14,DigitalOcean,555.97,debit,Utilities
+2024-01-14,Netflix Subscription,332.75,debit,Subscriptions
+2024-01-14,Swiggy Order,595.08,debit,Food & Dining
+2024-01-15,Ola Cab,193.86,debit,Transportation
+2024-01-15,Slack Pro,875.0,debit,Subscriptions
+2024-01-16,Swiggy Order,858.69,debit,Food & Dining
+2024-01-16,Zomato Food Delivery,662.11,debit,Food & Dining
+2024-01-16,Transfer Received,31413.31,credit,Income
+2024-01-16,MacBook Accessories,14636.62,debit,Shopping
+2024-01-16,Spotify Premium,119.0,debit,Subscriptions
+2024-01-17,Starbucks Coffee,366.01,debit,Food & Dining
+2024-01-18,Zomato Food Delivery,159.21,debit,Food & Dining
+2024-01-18,Interest Credit,2085.23,credit,Income
+2024-01-19,Zomato Food Delivery,644.43,debit,Food & Dining
+2024-01-20,Myntra Fashion,1064.73,debit,Shopping
+2024-01-20,Ola Cab,129.06,debit,Transportation
+2024-01-20,AWS Bill,6749.56,debit,Utilities
+2024-01-20,AWS Bill,11650.89,debit,Utilities
+2024-01-20,Tech Gadget Purchase,26837.53,debit,Shopping
+2024-01-21,Amazon Purchase,3888.24,debit,Shopping
+2024-01-22,BigBasket Groceries,716.3,debit,Groceries
+2024-01-23,Cult.fit Membership,1394.64,debit,Healthcare
+2024-01-24,Reliance Fresh,1067.04,debit,Groceries
+2024-01-24,Zomato Food Delivery,414.68,debit,Food & Dining
+2024-01-24,MacBook Accessories,2663.31,debit,Shopping
+2024-01-25,Spotify Premium,119.0,debit,Subscriptions
+2024-01-26,Netflix Subscription,208.74,debit,Subscriptions
+2024-01-27,Flipkart Order,5321.34,debit,Shopping
+2024-01-27,Flipkart Order,5656.77,debit,Shopping
+2024-01-27,MacBook Accessories,4113.66,debit,Shopping
+2024-01-27,BigBasket Groceries,2956.33,debit,Groceries
+2024-01-28,Netflix Subscription,216.91,debit,Subscriptions
+2024-01-28,Salary Credit ESOP,100714.82,credit,Income
+2024-01-28,WeWork Cafe,478.91,debit,Food & Dining
+2024-01-29,MacBook Accessories,7281.44,debit,Shopping
+2024-01-29,Flipkart Order,1714.94,debit,Shopping
+2024-01-29,Stock Vesting Credit,47791.14,credit,Income
+2024-01-30,WeWork Cafe,319.5,debit,Food & Dining
+2024-01-30,Cashback Credit,303.93,credit,Income
+2024-01-30,More Supermarket,1564.77,debit,Groceries
+2024-01-31,Flipkart Order,3004.37,debit,Shopping
+2024-01-31,Reliance Fresh,1430.77,debit,Groceries
+2024-01-31,UPI Received,4806.97,credit,Income
+2024-01-31,Swiggy Order,558.81,debit,Food & Dining
+2024-02-01,Flipkart Order,2523.35,debit,Shopping
+2024-02-02,Slack Pro,875.0,debit,Subscriptions
+2024-02-02,Blinkit Grocery Delivery,2275.86,debit,Groceries
+2024-02-03,DigitalOcean,4528.48,debit,Utilities
+2024-02-03,Netflix Subscription,372.46,debit,Subscriptions
+2024-02-03,WeWork Cafe,234.28,debit,Food & Dining
+2024-02-03,BigBasket Groceries,3792.27,debit,Groceries
+2024-02-04,Meesho Order,282.69,debit,Shopping
+2024-02-04,Uber Ride,206.24,debit,Transportation
+2024-02-05,Flipkart Order,5130.07,debit,Shopping
+2024-02-07,Ola Cab,205.25,debit,Transportation
+2024-02-07,DMart Purchase,2076.63,debit,Groceries
+2024-02-07,Bonus Credit,41563.84,credit,Income
+2024-02-07,WeWork Cafe,543.79,debit,Food & Dining
+2024-02-07,Cult.fit Membership,1427.89,debit,Healthcare
+2024-02-08,MacBook Accessories,6394.96,debit,Shopping
+2024-02-09,Flipkart Order,1649.72,debit,Shopping
+2024-02-09,Blinkit Grocery Delivery,639.77,debit,Groceries
+2024-02-10,Uber Ride,546.52,debit,Transportation
+2024-02-12,Uber Ride,430.84,debit,Transportation
+2024-02-12,Myntra Fashion,1516.69,debit,Shopping
+2024-02-13,Stock Vesting Credit,30586.7,credit,Income
+2024-02-14,Meesho Order,495.14,debit,Shopping
+2024-02-15,Netflix Subscription,473.36,debit,Subscriptions
+2024-02-16,DigitalOcean,2423.85,debit,Utilities
+2024-02-17,Hotstar Subscription,783.85,debit,Subscriptions
+2024-02-17,DMart Purchase,1647.5,debit,Groceries
+2024-02-18,BookMyShow Tickets,961.95,debit,Entertainment
+2024-02-19,Zomato Food Delivery,494.27,debit,Food & Dining
+2024-02-20,Uber Ride,333.5,debit,Transportation
+2024-02-20,Hotstar Subscription,587.07,debit,Subscriptions
+2024-02-20,Amazon Prime,582.86,debit,Subscriptions
+2024-02-21,Dunzo Quick Commerce,1684.97,debit,Groceries
+2024-02-22,Rapido Bike Taxi,108.09,debit,Transportation
+2024-02-23,MacBook Accessories,2994.63,debit,Shopping
+2024-02-23,Rapido Bike Taxi,115.46,debit,Transportation
+2024-02-24,DMart Purchase,3228.52,debit,Groceries
+2024-02-24,GitHub Copilot,837.0,debit,Subscriptions
+2024-02-24,DMart Purchase,2366.33,debit,Groceries
+2024-02-25,Bonus Credit,16477.73,credit,Income
+2024-02-26,UPI Received,6817.79,credit,Income
+2024-02-27,AWS Bill,5015.51,debit,Utilities
+2024-02-27,Cult.fit Membership,1432.78,debit,Healthcare
+2024-02-27,Swiggy Instamart,1310.58,debit,Groceries
+2024-02-27,Dividend Credit,2850.53,credit,Income
+2024-02-27,Rapido Bike Taxi,110.36,debit,Transportation
+2024-02-27,WeWork Cafe,403.17,debit,Food & Dining
+2024-02-29,AWS Bill,2346.64,debit,Utilities
+2024-03-01,Salary Credit ESOP,126115.21,credit,Income
+2024-03-02,YouTube Premium,139.0,debit,Subscriptions
+2024-03-02,AWS Bill,2777.63,debit,Utilities
+2024-03-03,Cashback Credit,120.16,credit,Income
+2024-03-04,Slack Pro,875.0,debit,Subscriptions
+2024-03-04,Zomato Food Delivery,273.11,debit,Food & Dining
+2024-03-04,More Supermarket,486.82,debit,Groceries
+2024-03-05,Meesho Order,234.72,debit,Shopping
+2024-03-05,Starbucks Coffee,437.47,debit,Food & Dining
+2024-03-06,BigBasket Groceries,2264.17,debit,Groceries
+2024-03-06,BookMyShow Tickets,703.12,debit,Entertainment
+2024-03-06,Swiggy Instamart,630.33,debit,Groceries
+2024-03-06,Reliance Fresh,744.54,debit,Groceries
+2024-03-07,Swiggy Instamart,1275.34,debit,Groceries
+2024-03-07,Swiggy Order,525.71,debit,Food & Dining
+2024-03-08,Bonus Credit,36245.19,credit,Income
+2024-03-08,Blinkit Grocery Delivery,603.3,debit,Groceries
+2024-03-08,Dividend Credit,14041.95,credit,Income
+2024-03-08,MacBook Accessories,4460.04,debit,Shopping
+2024-03-10,Myntra Fashion,1438.67,debit,Shopping
+2024-03-10,Slack Pro,875.0,debit,Subscriptions
+2024-03-11,Netflix Subscription,627.66,debit,Subscriptions
+2024-03-11,GitHub Copilot,837.0,debit,Subscriptions
+2024-03-12,BookMyShow Tickets,385.77,debit,Entertainment
+2024-03-12,Blinkit Grocery Delivery,541.97,debit,Groceries
+2024-03-13,Interest Credit,2463.86,credit,Income
+2024-03-13,Figma Subscription,1250.0,debit,Subscriptions
+2024-03-14,Ola Cab,312.35,debit,Transportation
+2024-03-15,Cult.fit Membership,1526.57,debit,Healthcare
+2024-03-15,BigBasket Groceries,2225.64,debit,Groceries
+2024-03-15,Spotify Premium,119.0,debit,Subscriptions
+2024-03-16,Dunzo Quick Commerce,588.16,debit,Groceries
+2024-03-16,Figma Subscription,1250.0,debit,Subscriptions
+2024-03-16,Amazon Purchase,5340.49,debit,Shopping
+2024-03-17,Amazon Purchase,2639.25,debit,Shopping
+2024-03-18,Reliance Fresh,1330.58,debit,Groceries
+2024-03-18,Freelance Consulting,43699.08,credit,Income
+2024-03-18,Reliance Fresh,1551.52,debit,Groceries
+2024-03-18,Ajio Clothing,3328.69,debit,Shopping
+2024-03-19,Rental Income,16928.64,credit,Income
+2024-03-19,YouTube Premium,139.0,debit,Subscriptions
+2024-03-19,BigBasket Groceries,3208.8,debit,Groceries
+2024-03-19,Ajio Clothing,520.17,debit,Shopping
+2024-03-20,Amazon Purchase,1844.05,debit,Shopping
+2024-03-21,Uber Ride,434.14,debit,Transportation
+2024-03-22,Reliance Fresh,863.79,debit,Groceries
+2024-03-22,Tech Gadget Purchase,12940.64,debit,Shopping
+2024-03-22,Salary Credit ESOP,135196.93,credit,Income
+2024-03-23,MacBook Accessories,8103.31,debit,Shopping
+2024-03-23,Slack Pro,875.0,debit,Subscriptions
+2024-03-24,Uber Ride,101.58,debit,Transportation
+2024-03-25,Starbucks Coffee,354.76,debit,Food & Dining
+2024-03-25,Zomato Food Delivery,349.96,debit,Food & Dining
+2024-03-25,Ajio Clothing,598.69,debit,Shopping
+2024-03-25,Starbucks Coffee,404.62,debit,Food & Dining
+2024-03-26,Dunzo Quick Commerce,735.59,debit,Groceries
+2024-03-26,WeWork Cafe,169.29,debit,Food & Dining
+2024-03-27,BookMyShow Tickets,347.54,debit,Entertainment
+2024-03-27,Swiggy Instamart,1055.21,debit,Groceries
+2024-03-27,Myntra Fashion,2660.5,debit,Shopping
+2024-03-28,Hotstar Subscription,787.27,debit,Subscriptions
+2024-03-29,More Supermarket,575.69,debit,Groceries
+2024-03-30,GitHub Copilot,837.0,debit,Subscriptions
+2024-03-30,Standing Desk,13479.83,debit,Shopping
+2024-03-30,Dividend Credit,3516.17,credit,Income
+2024-03-31,Standing Desk,11850.0,debit,Shopping
+2024-03-31,DMart Purchase,3135.18,debit,Groceries
+2024-04-01,Spotify Premium,119.0,debit,Subscriptions
+2024-04-01,Hotstar Subscription,359.06,debit,Subscriptions
+2024-04-01,Meesho Order,428.58,debit,Shopping
+2024-04-02,AWS Bill,11404.04,debit,Utilities
+2024-04-02,Slack Pro,875.0,debit,Subscriptions
+2024-04-02,Cult.fit Membership,2247.89,debit,Healthcare
+2024-04-03,Transfer Received,1586.51,credit,Income
+2024-04-05,Swiggy Order,875.45,debit,Food & Dining
+2024-04-05,Uber Ride,370.14,debit,Transportation
+2024-04-07,Swiggy Instamart,437.86,debit,Groceries
+2024-04-08,Tech Gadget Purchase,7611.18,debit,Shopping
+2024-04-08,Spotify Premium,119.0,debit,Subscriptions
+2024-04-08,Rapido Bike Taxi,31.22,debit,Transportation
+2024-04-08,DMart Purchase,2621.79,debit,Groceries
+2024-04-08,Slack Pro,875.0,debit,Subscriptions
+2024-04-08,Standing Desk,14033.1,debit,Shopping
+2024-04-09,DMart Purchase,3405.99,debit,Groceries
+2024-04-09,Myntra Fashion,3320.02,debit,Shopping
+2024-04-09,BookMyShow Tickets,938.19,debit,Entertainment
+2024-04-10,AWS Bill,2663.18,debit,Utilities
+2024-04-11,Dunzo Quick Commerce,1905.85,debit,Groceries
+2024-04-11,Flipkart Order,5961.36,debit,Shopping
+2024-04-12,Rapido Bike Taxi,67.59,debit,Transportation
+2024-04-13,BigBasket Groceries,3710.19,debit,Groceries
+2024-04-14,Figma Subscription,1250.0,debit,Subscriptions
+2024-04-14,Swiggy Order,454.28,debit,Food & Dining
+2024-04-14,Uber Ride,531.29,debit,Transportation
+2024-04-15,Uber Ride,361.08,debit,Transportation
+2024-04-15,BookMyShow Tickets,1195.42,debit,Entertainment
+2024-04-15,Stock Vesting Credit,40483.26,credit,Income
+2024-04-15,BigBasket Groceries,1255.03,debit,Groceries
+2024-04-15,Amazon Purchase,2433.52,debit,Shopping
+2024-04-16,Netflix Subscription,516.36,debit,Subscriptions
+2024-04-16,Tech Gadget Purchase,23301.57,debit,Shopping
+2024-04-16,Bonus Credit,46324.93,credit,Income
+2024-04-17,Interest Credit,2438.97,credit,Income
+2024-04-17,Zomato Food Delivery,623.07,debit,Food & Dining
+2024-04-17,Meesho Order,572.17,debit,Shopping
+2024-04-17,Blinkit Grocery Delivery,418.06,debit,Groceries
+2024-04-17,Rental Income,22141.63,credit,Income
+2024-04-18,Ola Cab,208.18,debit,Transportation
+2024-04-19,Transfer Received,29573.43,credit,Income
+2024-04-20,Transfer Received,47241.73,credit,Income
+2024-04-20,Myntra Fashion,2816.48,debit,Shopping
+2024-04-21,Blinkit Grocery Delivery,722.7,debit,Groceries
+2024-04-21,Spotify Premium,119.0,debit,Subscriptions
+2024-04-23,MacBook Accessories,10051.05,debit,Shopping
+2024-04-23,WeWork Cafe,487.98,debit,Food & Dining
+2024-04-24,Zomato Food Delivery,752.68,debit,Food & Dining
+2024-04-25,DMart Purchase,539.26,debit,Groceries
+2024-04-25,Reliance Fresh,1490.53,debit,Groceries
+2024-04-25,Amazon Prime,363.63,debit,Subscriptions
+2024-04-26,AWS Bill,7728.33,debit,Utilities
+2024-04-26,Swiggy Order,600.31,debit,Food & Dining
+2024-04-27,Flipkart Order,4675.74,debit,Shopping
+2024-04-27,Tech Gadget Purchase,16478.81,debit,Shopping
+2024-04-29,Swiggy Order,722.48,debit,Food & Dining
+2024-04-29,MacBook Accessories,5678.85,debit,Shopping
+2024-04-30,WeWork Cafe,337.13,debit,Food & Dining
+2024-05-01,UPI Received,11575.66,credit,Income
+2024-05-01,AWS Bill,9027.02,debit,Utilities
+2024-05-02,Slack Pro,875.0,debit,Subscriptions
+2024-05-02,DigitalOcean,4947.8,debit,Utilities
+2024-05-02,GitHub Copilot,837.0,debit,Subscriptions
+2024-05-02,Ola Cab,266.12,debit,Transportation
+2024-05-03,Swiggy Order,314.28,debit,Food & Dining
+2024-05-03,Zomato Food Delivery,820.13,debit,Food & Dining
+2024-05-04,WeWork Cafe,412.95,debit,Food & Dining
+2024-05-04,Myntra Fashion,2391.39,debit,Shopping
+2024-05-04,Ola Cab,109.69,debit,Transportation
+2024-05-04,GitHub Copilot,837.0,debit,Subscriptions
+2024-05-05,Standing Desk,8045.53,debit,Shopping
+2024-05-05,More Supermarket,228.18,debit,Groceries
+2024-05-05,Salary Credit ESOP,183156.96,credit,Income
+2024-05-05,Uber Ride,311.6,debit,Transportation
+2024-05-05,Slack Pro,875.0,debit,Subscriptions
+2024-05-05,Amazon Prime,962.63,debit,Subscriptions
+2024-05-06,DigitalOcean,4784.31,debit,Utilities
+2024-05-06,Freelance Consulting,58421.73,credit,Income
+2024-05-06,Rapido Bike Taxi,90.78,debit,Transportation
+2024-05-07,Zomato Food Delivery,487.76,debit,Food & Dining
+2024-05-08,Cult.fit Membership,2285.4,debit,Healthcare
+2024-05-08,Amazon Purchase,5441.23,debit,Shopping
+2024-05-10,Rapido Bike Taxi,151.75,debit,Transportation
+2024-05-12,Standing Desk,24635.62,debit,Shopping
+2024-05-13,Uber Ride,531.09,debit,Transportation
+2024-05-13,DigitalOcean,4295.54,debit,Utilities
+2024-05-13,Starbucks Coffee,432.49,debit,Food & Dining
+2024-05-14,Figma Subscription,1250.0,debit,Subscriptions
+2024-05-14,Uber Ride,515.18,debit,Transportation
+2024-05-14,Zomato Food Delivery,814.32,debit,Food & Dining
+2024-05-15,Ola Cab,311.44,debit,Transportation
+2024-05-15,Standing Desk,12972.21,debit,Shopping
+2024-05-16,Amazon Purchase,6986.42,debit,Shopping
+2024-05-16,Standing Desk,24058.26,debit,Shopping
+2024-05-16,DMart Purchase,371.8,debit,Groceries
+2024-05-17,Standing Desk,5125.3,debit,Shopping
+2024-05-18,Ajio Clothing,2474.55,debit,Shopping
+2024-05-18,Swiggy Order,866.85,debit,Food & Dining
+2024-05-18,AWS Bill,11874.92,debit,Utilities
+2024-05-18,Reliance Fresh,1416.42,debit,Groceries
+2024-05-19,DMart Purchase,3342.58,debit,Groceries
+2024-05-19,Reliance Fresh,1212.28,debit,Groceries
+2024-05-20,DMart Purchase,2933.56,debit,Groceries
+2024-05-20,Zomato Food Delivery,207.35,debit,Food & Dining
+2024-05-21,Ola Cab,438.54,debit,Transportation
+2024-05-21,Myntra Fashion,967.05,debit,Shopping
+2024-05-22,Ajio Clothing,1712.76,debit,Shopping
+2024-05-24,Uber Ride,84.77,debit,Transportation
+2024-05-24,Meesho Order,235.92,debit,Shopping
+2024-05-24,Dunzo Quick Commerce,1982.04,debit,Groceries
+2024-05-25,Dunzo Quick Commerce,849.29,debit,Groceries
+2024-05-25,Slack Pro,875.0,debit,Subscriptions
+2024-05-25,MacBook Accessories,13354.66,debit,Shopping
+2024-05-25,Freelance Consulting,16024.38,credit,Income
+2024-05-25,Flipkart Order,3251.63,debit,Shopping
+2024-05-26,GitHub Copilot,837.0,debit,Subscriptions
+2024-05-27,Swiggy Instamart,1398.39,debit,Groceries
+2024-05-27,GitHub Copilot,837.0,debit,Subscriptions
+2024-05-27,BookMyShow Tickets,318.34,debit,Entertainment
+2024-05-28,Amazon Prime,262.95,debit,Subscriptions
+2024-05-28,Cult.fit Membership,2586.43,debit,Healthcare
+2024-05-30,Salary Credit ESOP,145307.46,credit,Income
+2024-05-30,Reliance Fresh,528.52,debit,Groceries
+2024-05-30,Amazon Purchase,7629.44,debit,Shopping
+2024-05-30,Cult.fit Membership,2130.74,debit,Healthcare
+2024-05-31,BookMyShow Tickets,968.04,debit,Entertainment
+2024-06-01,Slack Pro,875.0,debit,Subscriptions
+2024-06-01,Amazon Prime,945.39,debit,Subscriptions
+2024-06-01,UPI Received,10352.89,credit,Income
+2024-06-02,Stock Vesting Credit,21978.25,credit,Income
+2024-06-02,Cashback Credit,359.74,credit,Income
+2024-06-02,Swiggy Instamart,571.29,debit,Groceries
+2024-06-04,Swiggy Order,350.49,debit,Food & Dining
+2024-06-05,Swiggy Instamart,667.79,debit,Groceries
+2024-06-05,Ola Cab,398.13,debit,Transportation
+2024-06-06,Uber Ride,112.91,debit,Transportation
+2024-06-06,Blinkit Grocery Delivery,624.59,debit,Groceries
+2024-06-08,Stock Vesting Credit,39242.81,credit,Income
+2024-06-09,Flipkart Order,2423.97,debit,Shopping
+2024-06-09,Refund Credit,3051.52,credit,Income
+2024-06-09,Amazon Purchase,7369.49,debit,Shopping
+2024-06-10,Standing Desk,20547.78,debit,Shopping
+2024-06-10,Amazon Purchase,7114.22,debit,Shopping
+2024-06-10,Flipkart Order,1321.66,debit,Shopping
+2024-06-11,GitHub Copilot,837.0,debit,Subscriptions
+2024-06-12,DMart Purchase,3036.57,debit,Groceries
+2024-06-12,Ajio Clothing,1750.29,debit,Shopping
+2024-06-13,Netflix Subscription,323.37,debit,Subscriptions
+2024-06-14,Hotstar Subscription,722.21,debit,Subscriptions
+2024-06-14,Stock Vesting Credit,28425.55,credit,Income
+2024-06-14,GitHub Copilot,837.0,debit,Subscriptions
+2024-06-15,Ajio Clothing,1962.47,debit,Shopping
+2024-06-15,Cashback Credit,477.16,credit,Income
+2024-06-16,BigBasket Groceries,857.01,debit,Groceries
+2024-06-16,Starbucks Coffee,510.55,debit,Food & Dining
+2024-06-16,Transfer Received,12786.01,credit,Income
+2024-06-17,Swiggy Instamart,544.24,debit,Groceries
+2024-06-17,Netflix Subscription,216.43,debit,Subscriptions
+2024-06-17,Standing Desk,16721.95,debit,Shopping
+2024-06-19,Refund Credit,3457.88,credit,Income
+2024-06-19,Interest Credit,1416.43,credit,Income
+2024-06-20,Transfer Received,43663.48,credit,Income
+2024-06-20,Starbucks Coffee,478.62,debit,Food & Dining
+2024-06-21,Meesho Order,1134.14,debit,Shopping
+2024-06-22,Salary Credit ESOP,104155.52,credit,Income
+2024-06-22,Uber Ride,301.68,debit,Transportation
+2024-06-23,Hotstar Subscription,473.85,debit,Subscriptions
+2024-06-23,Interest Credit,1637.88,credit,Income
+2024-06-24,Slack Pro,875.0,debit,Subscriptions
+2024-06-24,AWS Bill,8939.02,debit,Utilities
+2024-06-24,YouTube Premium,139.0,debit,Subscriptions
+2024-06-25,Swiggy Order,349.14,debit,Food & Dining
+2024-06-26,Amazon Purchase,4368.07,debit,Shopping
+2024-06-26,BookMyShow Tickets,1164.51,debit,Entertainment
+2024-06-26,Reliance Fresh,1351.06,debit,Groceries
+2024-06-27,GitHub Copilot,837.0,debit,Subscriptions
+2024-06-27,Swiggy Instamart,747.26,debit,Groceries
+2024-06-28,Cult.fit Membership,1681.01,debit,Healthcare
+2024-06-28,Meesho Order,1930.57,debit,Shopping
+2024-06-28,WeWork Cafe,151.3,debit,Food & Dining
+2024-06-29,Cashback Credit,256.51,credit,Income
+2024-06-29,Hotstar Subscription,572.5,debit,Subscriptions
+2024-06-29,Dunzo Quick Commerce,2410.65,debit,Groceries
+2024-06-30,Dividend Credit,13421.42,credit,Income
+2024-06-30,Ajio Clothing,888.0,debit,Shopping
+2024-07-01,Figma Subscription,1250.0,debit,Subscriptions
+2024-07-01,Figma Subscription,1250.0,debit,Subscriptions
+2024-07-02,Amazon Prime,944.57,debit,Subscriptions
+2024-07-02,Myntra Fashion,2461.67,debit,Shopping
+2024-07-02,Interest Credit,2963.13,credit,Income
+2024-07-03,Cashback Credit,57.24,credit,Income
+2024-07-03,WeWork Cafe,155.38,debit,Food & Dining
+2024-07-03,Ola Cab,317.76,debit,Transportation
+2024-07-04,Swiggy Order,116.52,debit,Food & Dining
+2024-07-05,Hotstar Subscription,745.68,debit,Subscriptions
+2024-07-06,Swiggy Instamart,499.34,debit,Groceries
+2024-07-06,DigitalOcean,1898.28,debit,Utilities
+2024-07-07,More Supermarket,1572.51,debit,Groceries
+2024-07-07,DigitalOcean,3888.28,debit,Utilities
+2024-07-08,Blinkit Grocery Delivery,2753.32,debit,Groceries
+2024-07-09,Starbucks Coffee,608.56,debit,Food & Dining
+2024-07-09,More Supermarket,186.24,debit,Groceries
+2024-07-10,DigitalOcean,208.13,debit,Utilities
+2024-07-10,Figma Subscription,1250.0,debit,Subscriptions
+2024-07-10,AWS Bill,3582.77,debit,Utilities
+2024-07-10,DigitalOcean,3565.6,debit,Utilities
+2024-07-11,Standing Desk,9835.3,debit,Shopping
+2024-07-12,Myntra Fashion,3346.95,debit,Shopping
+2024-07-12,MacBook Accessories,1577.23,debit,Shopping
+2024-07-14,Myntra Fashion,1210.92,debit,Shopping
+2024-07-14,More Supermarket,812.65,debit,Groceries
+2024-07-15,Myntra Fashion,1916.29,debit,Shopping
+2024-07-16,AWS Bill,3388.23,debit,Utilities
+2024-07-16,Swiggy Instamart,508.13,debit,Groceries
+2024-07-17,Myntra Fashion,1729.53,debit,Shopping
+2024-07-17,Hotstar Subscription,291.15,debit,Subscriptions
+2024-07-18,Standing Desk,22608.61,debit,Shopping
+2024-07-18,Salary Credit ESOP,178984.76,credit,Income
+2024-07-18,Ajio Clothing,3363.44,debit,Shopping
+2024-07-20,BookMyShow Tickets,573.26,debit,Entertainment
+2024-07-20,DMart Purchase,1568.05,debit,Groceries
+2024-07-21,DMart Purchase,285.73,debit,Groceries
+2024-07-21,Freelance Consulting,43260.38,credit,Income
+2024-07-22,More Supermarket,1644.87,debit,Groceries
+2024-07-22,WeWork Cafe,582.83,debit,Food & Dining
+2024-07-23,Uber Ride,578.17,debit,Transportation
+2024-07-23,Cult.fit Membership,2117.65,debit,Healthcare
+2024-07-23,Swiggy Instamart,815.12,debit,Groceries
+2024-07-24,Netflix Subscription,412.56,debit,Subscriptions
+2024-07-24,Uber Ride,597.9,debit,Transportation
+2024-07-24,More Supermarket,182.94,debit,Groceries
+2024-07-25,Reliance Fresh,517.39,debit,Groceries
+2024-07-26,Blinkit Grocery Delivery,583.78,debit,Groceries
+2024-07-26,Amazon Purchase,6499.01,debit,Shopping
+2024-07-27,DMart Purchase,288.27,debit,Groceries
+2024-07-27,DigitalOcean,3471.09,debit,Utilities
+2024-07-28,Refund Credit,1950.74,credit,Income
+2024-07-28,Myntra Fashion,2675.1,debit,Shopping
+2024-07-28,DigitalOcean,4150.01,debit,Utilities
+2024-07-30,Hotstar Subscription,531.67,debit,Subscriptions
+2024-07-30,Reliance Fresh,1991.45,debit,Groceries
+2024-07-31,AWS Bill,988.6,debit,Utilities
+2024-07-31,Spotify Premium,119.0,debit,Subscriptions
+2024-07-31,Freelance Consulting,40291.08,credit,Income
+2024-08-02,WeWork Cafe,177.26,debit,Food & Dining
+2024-08-02,Flipkart Order,397.45,debit,Shopping
+2024-08-02,Amazon Prime,556.9,debit,Subscriptions
+2024-08-03,Meesho Order,520.15,debit,Shopping
+2024-08-03,UPI Received,6618.91,credit,Income
+2024-08-03,Zomato Food Delivery,313.32,debit,Food & Dining
+2024-08-04,Refund Credit,1923.19,credit,Income
+2024-08-05,Dunzo Quick Commerce,2129.66,debit,Groceries
+2024-08-05,Zomato Food Delivery,632.92,debit,Food & Dining
+2024-08-05,Stock Vesting Credit,34422.85,credit,Income
+2024-08-06,Rental Income,17640.29,credit,Income
+2024-08-06,Swiggy Order,239.32,debit,Food & Dining
+2024-08-06,Rapido Bike Taxi,165.84,debit,Transportation
+2024-08-06,Cashback Credit,802.99,credit,Income
+2024-08-06,Netflix Subscription,500.45,debit,Subscriptions
+2024-08-06,Rental Income,18772.78,credit,Income
+2024-08-07,Dunzo Quick Commerce,2303.78,debit,Groceries
+2024-08-07,AWS Bill,3628.17,debit,Utilities
+2024-08-08,Blinkit Grocery Delivery,1584.98,debit,Groceries
+2024-08-08,Rapido Bike Taxi,149.96,debit,Transportation
+2024-08-10,Uber Ride,116.23,debit,Transportation
+2024-08-10,Slack Pro,875.0,debit,Subscriptions
+2024-08-10,Standing Desk,14651.38,debit,Shopping
+2024-08-11,UPI Received,4543.26,credit,Income
+2024-08-12,Zomato Food Delivery,362.17,debit,Food & Dining
+2024-08-13,Slack Pro,875.0,debit,Subscriptions
+2024-08-14,Figma Subscription,1250.0,debit,Subscriptions
+2024-08-14,Cashback Credit,962.25,credit,Income
+2024-08-14,DMart Purchase,1952.68,debit,Groceries
+2024-08-15,Rapido Bike Taxi,75.04,debit,Transportation
+2024-08-15,Ajio Clothing,997.2,debit,Shopping
+2024-08-16,DigitalOcean,1829.37,debit,Utilities
+2024-08-17,Interest Credit,2220.83,credit,Income
+2024-08-20,Reliance Fresh,1129.21,debit,Groceries
+2024-08-20,Myntra Fashion,757.9,debit,Shopping
+2024-08-20,More Supermarket,266.89,debit,Groceries
+2024-08-21,Tech Gadget Purchase,6313.66,debit,Shopping
+2024-08-21,Zomato Food Delivery,175.22,debit,Food & Dining
+2024-08-22,Starbucks Coffee,611.87,debit,Food & Dining
+2024-08-22,Standing Desk,23151.36,debit,Shopping
+2024-08-22,Tech Gadget Purchase,14793.47,debit,Shopping
+2024-08-25,Meesho Order,740.25,debit,Shopping
+2024-08-25,Hotstar Subscription,869.38,debit,Subscriptions
+2024-08-25,DigitalOcean,4720.06,debit,Utilities
+2024-08-25,Cult.fit Membership,1093.18,debit,Healthcare
+2024-08-27,Blinkit Grocery Delivery,605.05,debit,Groceries
+2024-08-27,Uber Ride,298.78,debit,Transportation
+2024-08-27,Transfer Received,19812.68,credit,Income
+2024-08-27,Bonus Credit,10915.48,credit,Income
+2024-08-29,MacBook Accessories,6520.96,debit,Shopping
+2024-08-30,Dividend Credit,6628.12,credit,Income
+2024-08-30,MacBook Accessories,8946.33,debit,Shopping
+2024-08-30,BigBasket Groceries,662.67,debit,Groceries
+2024-08-31,DigitalOcean,4857.48,debit,Utilities
+2024-08-31,Flipkart Order,5695.33,debit,Shopping
+2024-08-31,Myntra Fashion,2097.15,debit,Shopping
+2024-09-01,Cult.fit Membership,1003.2,debit,Healthcare
+2024-09-01,Dividend Credit,2017.08,credit,Income
+2024-09-01,Netflix Subscription,640.84,debit,Subscriptions
+2024-09-01,Myntra Fashion,1428.74,debit,Shopping
+2024-09-01,Blinkit Grocery Delivery,965.72,debit,Groceries
+2024-09-02,Dividend Credit,5605.77,credit,Income
+2024-09-03,Meesho Order,992.26,debit,Shopping
+2024-09-03,GitHub Copilot,837.0,debit,Subscriptions
+2024-09-03,More Supermarket,1220.36,debit,Groceries
+2024-09-04,Slack Pro,875.0,debit,Subscriptions
+2024-09-05,Rental Income,6619.29,credit,Income
+2024-09-05,YouTube Premium,139.0,debit,Subscriptions
+2024-09-05,MacBook Accessories,3671.14,debit,Shopping
+2024-09-06,BookMyShow Tickets,1060.48,debit,Entertainment
+2024-09-07,Blinkit Grocery Delivery,1211.95,debit,Groceries
+2024-09-09,Blinkit Grocery Delivery,2046.6,debit,Groceries
+2024-09-09,More Supermarket,565.29,debit,Groceries
+2024-09-09,Meesho Order,459.29,debit,Shopping
+2024-09-09,Interest Credit,1881.06,credit,Income
+2024-09-10,Swiggy Instamart,1160.5,debit,Groceries
+2024-09-11,Interest Credit,2813.02,credit,Income
+2024-09-11,Spotify Premium,119.0,debit,Subscriptions
+2024-09-11,Hotstar Subscription,656.14,debit,Subscriptions
+2024-09-11,Dunzo Quick Commerce,1581.57,debit,Groceries
+2024-09-11,Netflix Subscription,454.88,debit,Subscriptions
+2024-09-12,BigBasket Groceries,2167.39,debit,Groceries
+2024-09-13,More Supermarket,720.82,debit,Groceries
+2024-09-13,Hotstar Subscription,238.16,debit,Subscriptions
+2024-09-14,GitHub Copilot,837.0,debit,Subscriptions
+2024-09-14,Cashback Credit,868.28,credit,Income
+2024-09-14,Ajio Clothing,435.49,debit,Shopping
+2024-09-15,BigBasket Groceries,2926.86,debit,Groceries
+2024-09-15,Hotstar Subscription,410.74,debit,Subscriptions
+2024-09-16,Rental Income,9592.0,credit,Income
+2024-09-16,BookMyShow Tickets,1263.11,debit,Entertainment
+2024-09-17,AWS Bill,4491.02,debit,Utilities
+2024-09-17,Zomato Food Delivery,169.66,debit,Food & Dining
+2024-09-17,Standing Desk,22331.09,debit,Shopping
+2024-09-17,Blinkit Grocery Delivery,442.58,debit,Groceries
+2024-09-18,Reliance Fresh,1791.84,debit,Groceries
+2024-09-18,Interest Credit,1416.13,credit,Income
+2024-09-18,Ola Cab,331.75,debit,Transportation
+2024-09-19,Amazon Prime,686.93,debit,Subscriptions
+2024-09-19,Freelance Consulting,42859.15,credit,Income
+2024-09-19,Netflix Subscription,281.13,debit,Subscriptions
+2024-09-20,WeWork Cafe,598.97,debit,Food & Dining
+2024-09-20,Stock Vesting Credit,30231.96,credit,Income
+2024-09-21,Swiggy Instamart,1427.08,debit,Groceries
+2024-09-21,DMart Purchase,1881.86,debit,Groceries
+2024-09-21,Ajio Clothing,1887.62,debit,Shopping
+2024-09-21,DigitalOcean,2716.44,debit,Utilities
+2024-09-22,Netflix Subscription,438.88,debit,Subscriptions
+2024-09-22,Netflix Subscription,281.3,debit,Subscriptions
+2024-09-22,Cult.fit Membership,1429.84,debit,Healthcare
+2024-09-23,UPI Received,5088.89,credit,Income
+2024-09-24,MacBook Accessories,11688.65,debit,Shopping
+2024-09-24,Dunzo Quick Commerce,1194.16,debit,Groceries
+2024-09-25,Ola Cab,167.71,debit,Transportation
+2024-09-26,Amazon Prime,742.04,debit,Subscriptions
+2024-09-26,Tech Gadget Purchase,18686.96,debit,Shopping
+2024-09-26,Swiggy Order,228.6,debit,Food & Dining
+2024-09-27,Uber Ride,120.37,debit,Transportation
+2024-09-27,Transfer Received,3490.21,credit,Income
+2024-09-27,Standing Desk,9145.06,debit,Shopping
+2024-09-27,DigitalOcean,4392.89,debit,Utilities
+2024-09-30,Dunzo Quick Commerce,1604.69,debit,Groceries
+2024-10-01,Slack Pro,875.0,debit,Subscriptions
+2024-10-03,Interest Credit,2757.58,credit,Income
+2024-10-04,Swiggy Instamart,1458.38,debit,Groceries
+2024-10-04,Swiggy Instamart,319.08,debit,Groceries
+2024-10-04,Stock Vesting Credit,35271.16,credit,Income
+2024-10-05,Blinkit Grocery Delivery,1949.42,debit,Groceries
+2024-10-05,Ajio Clothing,2399.21,debit,Shopping
+2024-10-05,Swiggy Order,803.76,debit,Food & Dining
+2024-10-06,Blinkit Grocery Delivery,2867.75,debit,Groceries
+2024-10-07,Rental Income,15244.73,credit,Income
+2024-10-08,Tech Gadget Purchase,11891.65,debit,Shopping
+2024-10-08,Starbucks Coffee,402.84,debit,Food & Dining
+2024-10-09,YouTube Premium,139.0,debit,Subscriptions
+2024-10-10,Reliance Fresh,1317.94,debit,Groceries
+2024-10-11,Cult.fit Membership,939.04,debit,Healthcare
+2024-10-11,GitHub Copilot,837.0,debit,Subscriptions
+2024-10-11,Stock Vesting Credit,30585.44,credit,Income
+2024-10-12,MacBook Accessories,1818.53,debit,Shopping
+2024-10-13,Zomato Food Delivery,394.78,debit,Food & Dining
+2024-10-13,GitHub Copilot,837.0,debit,Subscriptions
+2024-10-14,Ajio Clothing,3096.51,debit,Shopping
+2024-10-14,Amazon Purchase,1144.79,debit,Shopping
+2024-10-14,Netflix Subscription,251.33,debit,Subscriptions
+2024-10-15,Dunzo Quick Commerce,2092.95,debit,Groceries
+2024-10-16,Cult.fit Membership,1753.76,debit,Healthcare
+2024-10-17,More Supermarket,932.71,debit,Groceries
+2024-10-17,Figma Subscription,1250.0,debit,Subscriptions
+2024-10-18,Hotstar Subscription,638.29,debit,Subscriptions
+2024-10-18,Amazon Purchase,4890.1,debit,Shopping
+2024-10-18,Slack Pro,875.0,debit,Subscriptions
+2024-10-18,Zomato Food Delivery,163.68,debit,Food & Dining
+2024-10-19,YouTube Premium,139.0,debit,Subscriptions
+2024-10-19,Cult.fit Membership,1880.33,debit,Healthcare
+2024-10-21,BigBasket Groceries,3716.74,debit,Groceries
+2024-10-22,Hotstar Subscription,713.64,debit,Subscriptions
+2024-10-22,Figma Subscription,1250.0,debit,Subscriptions
+2024-10-22,Figma Subscription,1250.0,debit,Subscriptions
+2024-10-23,Spotify Premium,119.0,debit,Subscriptions
+2024-10-24,Dunzo Quick Commerce,1971.44,debit,Groceries
+2024-10-24,Tech Gadget Purchase,18524.67,debit,Shopping
+2024-10-25,BigBasket Groceries,583.68,debit,Groceries
+2024-10-25,Meesho Order,1921.42,debit,Shopping
+2024-10-26,More Supermarket,174.06,debit,Groceries
+2024-10-26,Starbucks Coffee,333.28,debit,Food & Dining
+2024-10-27,Uber Ride,556.43,debit,Transportation
+2024-10-28,Cashback Credit,381.49,credit,Income
+2024-10-29,Ajio Clothing,1132.21,debit,Shopping
+2024-10-29,DigitalOcean,2625.26,debit,Utilities
+2024-10-29,Cashback Credit,399.82,credit,Income
+2024-10-29,Figma Subscription,1250.0,debit,Subscriptions
+2024-10-29,Figma Subscription,1250.0,debit,Subscriptions
+2024-10-30,Rapido Bike Taxi,153.88,debit,Transportation
+2024-10-31,Starbucks Coffee,578.5,debit,Food & Dining
+2024-10-31,GitHub Copilot,837.0,debit,Subscriptions
+2024-10-31,Slack Pro,875.0,debit,Subscriptions
+2024-10-31,Myntra Fashion,1523.26,debit,Shopping
+2024-11-02,Starbucks Coffee,370.59,debit,Food & Dining
+2024-11-02,DigitalOcean,4127.65,debit,Utilities
+2024-11-02,Starbucks Coffee,673.63,debit,Food & Dining
+2024-11-02,Interest Credit,2787.69,credit,Income
+2024-11-03,Spotify Premium,119.0,debit,Subscriptions
+2024-11-03,DigitalOcean,1363.91,debit,Utilities
+2024-11-03,Ajio Clothing,3157.79,debit,Shopping
+2024-11-03,Standing Desk,20164.99,debit,Shopping
+2024-11-04,Ajio Clothing,2948.89,debit,Shopping
+2024-11-04,Tech Gadget Purchase,4129.04,debit,Shopping
+2024-11-05,Spotify Premium,119.0,debit,Subscriptions
+2024-11-05,YouTube Premium,139.0,debit,Subscriptions
+2024-11-06,Spotify Premium,119.0,debit,Subscriptions
+2024-11-06,Meesho Order,1930.79,debit,Shopping
+2024-11-07,Spotify Premium,119.0,debit,Subscriptions
+2024-11-08,Rapido Bike Taxi,70.6,debit,Transportation
+2024-11-08,Spotify Premium,119.0,debit,Subscriptions
+2024-11-08,Tech Gadget Purchase,28406.96,debit,Shopping
+2024-11-09,Blinkit Grocery Delivery,2025.58,debit,Groceries
+2024-11-09,Spotify Premium,119.0,debit,Subscriptions
+2024-11-11,Amazon Prime,965.29,debit,Subscriptions
+2024-11-11,Rapido Bike Taxi,177.63,debit,Transportation
+2024-11-11,Reliance Fresh,1344.05,debit,Groceries
+2024-11-11,GitHub Copilot,837.0,debit,Subscriptions
+2024-11-12,AWS Bill,12003.91,debit,Utilities
+2024-11-12,Swiggy Order,563.43,debit,Food & Dining
+2024-11-12,Cult.fit Membership,923.63,debit,Healthcare
+2024-11-14,DigitalOcean,2870.43,debit,Utilities
+2024-11-15,Hotstar Subscription,676.31,debit,Subscriptions
+2024-11-15,Interest Credit,904.11,credit,Income
+2024-11-16,Amazon Prime,441.93,debit,Subscriptions
+2024-11-17,Figma Subscription,1250.0,debit,Subscriptions
+2024-11-17,Meesho Order,1361.53,debit,Shopping
+2024-11-17,Slack Pro,875.0,debit,Subscriptions
+2024-11-19,Cult.fit Membership,1428.69,debit,Healthcare
+2024-11-19,More Supermarket,588.1,debit,Groceries
+2024-11-20,Uber Ride,307.61,debit,Transportation
+2024-11-20,BigBasket Groceries,3212.76,debit,Groceries
+2024-11-20,Slack Pro,875.0,debit,Subscriptions
+2024-11-21,Uber Ride,481.9,debit,Transportation
+2024-11-21,Figma Subscription,1250.0,debit,Subscriptions
+2024-11-22,Spotify Premium,119.0,debit,Subscriptions
+2024-11-22,MacBook Accessories,6885.49,debit,Shopping
+2024-11-24,Netflix Subscription,428.65,debit,Subscriptions
+2024-11-24,Meesho Order,645.06,debit,Shopping
+2024-11-24,Myntra Fashion,542.48,debit,Shopping
+2024-11-26,Tech Gadget Purchase,10196.61,debit,Shopping
+2024-11-26,Meesho Order,255.21,debit,Shopping
+2024-11-28,Starbucks Coffee,573.26,debit,Food & Dining
+2024-11-28,Figma Subscription,1250.0,debit,Subscriptions
+2024-11-29,Spotify Premium,119.0,debit,Subscriptions
+2024-11-29,Cashback Credit,354.27,credit,Income
+2024-11-30,Reliance Fresh,677.87,debit,Groceries
+2024-11-30,Amazon Prime,267.73,debit,Subscriptions
+2024-12-01,DigitalOcean,3745.06,debit,Utilities
+2024-12-01,More Supermarket,1047.55,debit,Groceries
+2024-12-01,Ajio Clothing,2617.88,debit,Shopping
+2024-12-01,DMart Purchase,1538.3,debit,Groceries
+2024-12-03,BigBasket Groceries,1108.22,debit,Groceries
+2024-12-03,Ajio Clothing,714.54,debit,Shopping
+2024-12-04,Hotstar Subscription,483.92,debit,Subscriptions
+2024-12-05,YouTube Premium,139.0,debit,Subscriptions
+2024-12-05,DMart Purchase,1067.03,debit,Groceries
+2024-12-06,Slack Pro,875.0,debit,Subscriptions
+2024-12-06,Hotstar Subscription,892.09,debit,Subscriptions
+2024-12-06,Amazon Purchase,1493.22,debit,Shopping
+2024-12-06,Blinkit Grocery Delivery,1678.01,debit,Groceries
+2024-12-06,Rapido Bike Taxi,199.38,debit,Transportation
+2024-12-07,Spotify Premium,119.0,debit,Subscriptions
+2024-12-07,Uber Ride,457.87,debit,Transportation
+2024-12-08,Hotstar Subscription,548.64,debit,Subscriptions
+2024-12-09,Blinkit Grocery Delivery,1567.72,debit,Groceries
+2024-12-09,Salary Credit ESOP,146628.46,credit,Income
+2024-12-10,Swiggy Instamart,462.28,debit,Groceries
+2024-12-10,DMart Purchase,1687.8,debit,Groceries
+2024-12-10,BookMyShow Tickets,611.6,debit,Entertainment
+2024-12-10,YouTube Premium,139.0,debit,Subscriptions
+2024-12-11,MacBook Accessories,9603.16,debit,Shopping
+2024-12-11,Meesho Order,979.1,debit,Shopping
+2024-12-11,Figma Subscription,1250.0,debit,Subscriptions
+2024-12-12,Rental Income,18743.7,credit,Income
+2024-12-12,Amazon Prime,931.01,debit,Subscriptions
+2024-12-13,Amazon Prime,963.49,debit,Subscriptions
+2024-12-13,Reliance Fresh,328.37,debit,Groceries
+2024-12-14,DigitalOcean,2483.75,debit,Utilities
+2024-12-14,Slack Pro,875.0,debit,Subscriptions
+2024-12-15,Spotify Premium,119.0,debit,Subscriptions
+2024-12-15,Figma Subscription,1250.0,debit,Subscriptions
+2024-12-15,MacBook Accessories,3019.24,debit,Shopping
+2024-12-15,DMart Purchase,1471.89,debit,Groceries
+2024-12-16,Ajio Clothing,2126.47,debit,Shopping
+2024-12-17,Hotstar Subscription,650.35,debit,Subscriptions
+2024-12-17,BigBasket Groceries,788.22,debit,Groceries
+2024-12-18,Figma Subscription,1250.0,debit,Subscriptions
+2024-12-18,DigitalOcean,3616.83,debit,Utilities
+2024-12-18,Amazon Prime,768.07,debit,Subscriptions
+2024-12-18,Standing Desk,16087.8,debit,Shopping
+2024-12-19,Zomato Food Delivery,390.69,debit,Food & Dining
+2024-12-20,Standing Desk,9249.54,debit,Shopping
+2024-12-20,Refund Credit,1802.66,credit,Income
+2024-12-20,Cult.fit Membership,1023.26,debit,Healthcare
+2024-12-20,WeWork Cafe,399.39,debit,Food & Dining
+2024-12-21,Freelance Consulting,46784.22,credit,Income
+2024-12-21,Transfer Received,18660.04,credit,Income
+2024-12-22,BookMyShow Tickets,992.85,debit,Entertainment
+2024-12-22,Flipkart Order,4867.27,debit,Shopping
+2024-12-23,BigBasket Groceries,2282.28,debit,Groceries
+2024-12-25,YouTube Premium,139.0,debit,Subscriptions
+2024-12-25,Zomato Food Delivery,272.91,debit,Food & Dining
+2024-12-27,Netflix Subscription,171.88,debit,Subscriptions
+2024-12-28,Standing Desk,20852.28,debit,Shopping
+2024-12-28,MacBook Accessories,10844.47,debit,Shopping
+2024-12-28,Spotify Premium,119.0,debit,Subscriptions
+2024-12-28,Transfer Received,48566.0,credit,Income
+2024-12-30,More Supermarket,1192.04,debit,Groceries
+2024-12-30,MacBook Accessories,6610.48,debit,Shopping
+2024-12-30,MacBook Accessories,14262.89,debit,Shopping
+2024-12-31,Amazon Purchase,3474.18,debit,Shopping
+2025-01-01,Uber Ride,391.34,debit,Transportation
+2025-01-01,Swiggy Order,293.46,debit,Food & Dining
+2025-01-01,Reliance Fresh,1211.07,debit,Groceries
+2025-01-01,Spotify Premium,119.0,debit,Subscriptions
+2025-01-02,Slack Pro,875.0,debit,Subscriptions
+2025-01-02,Ajio Clothing,2426.74,debit,Shopping
+2025-01-03,Slack Pro,875.0,debit,Subscriptions
+2025-01-03,Zomato Food Delivery,637.87,debit,Food & Dining
+2025-01-03,More Supermarket,1373.81,debit,Groceries
+2025-01-04,GitHub Copilot,837.0,debit,Subscriptions
+2025-01-05,GitHub Copilot,837.0,debit,Subscriptions
+2025-01-05,WeWork Cafe,461.51,debit,Food & Dining
+2025-01-05,BigBasket Groceries,3874.78,debit,Groceries
+2025-01-05,Hotstar Subscription,784.06,debit,Subscriptions
+2025-01-08,Cult.fit Membership,1436.31,debit,Healthcare
+2025-01-09,Rapido Bike Taxi,161.67,debit,Transportation
+2025-01-09,Stock Vesting Credit,14213.84,credit,Income
+2025-01-09,More Supermarket,1710.59,debit,Groceries
+2025-01-10,Rapido Bike Taxi,82.37,debit,Transportation
+2025-01-11,Flipkart Order,3519.01,debit,Shopping
+2025-01-12,Blinkit Grocery Delivery,884.89,debit,Groceries
+2025-01-12,Standing Desk,19378.09,debit,Shopping
+2025-01-12,DigitalOcean,2656.46,debit,Utilities
+2025-01-12,MacBook Accessories,10234.1,debit,Shopping
+2025-01-13,BookMyShow Tickets,296.65,debit,Entertainment
+2025-01-13,More Supermarket,1374.44,debit,Groceries
+2025-01-15,BookMyShow Tickets,309.76,debit,Entertainment
+2025-01-15,BigBasket Groceries,2962.44,debit,Groceries
+2025-01-15,Dunzo Quick Commerce,2413.31,debit,Groceries
+2025-01-15,Slack Pro,875.0,debit,Subscriptions
+2025-01-16,Standing Desk,8271.82,debit,Shopping
+2025-01-16,Cult.fit Membership,913.59,debit,Healthcare
+2025-01-16,BigBasket Groceries,2070.44,debit,Groceries
+2025-01-18,Starbucks Coffee,569.54,debit,Food & Dining
+2025-01-19,Ola Cab,156.61,debit,Transportation
+2025-01-19,Standing Desk,11127.61,debit,Shopping
+2025-01-20,AWS Bill,12727.59,debit,Utilities
+2025-01-21,GitHub Copilot,837.0,debit,Subscriptions
+2025-01-22,Netflix Subscription,275.14,debit,Subscriptions
+2025-01-22,BookMyShow Tickets,1461.99,debit,Entertainment
+2025-01-23,Ola Cab,142.6,debit,Transportation
+2025-01-23,Refund Credit,4802.47,credit,Income
+2025-01-23,AWS Bill,12547.65,debit,Utilities
+2025-01-25,Hotstar Subscription,391.29,debit,Subscriptions
+2025-01-26,Freelance Consulting,54380.51,credit,Income
+2025-01-26,WeWork Cafe,166.66,debit,Food & Dining
+2025-01-27,Ola Cab,225.78,debit,Transportation
+2025-01-28,DigitalOcean,4997.48,debit,Utilities
+2025-01-28,Cult.fit Membership,1245.74,debit,Healthcare
+2025-01-28,Stock Vesting Credit,12407.78,credit,Income
+2025-01-28,Uber Ride,407.57,debit,Transportation
+2025-01-29,DigitalOcean,2882.09,debit,Utilities
+2025-01-29,DigitalOcean,3186.53,debit,Utilities
+2025-01-30,Freelance Consulting,55668.73,credit,Income
+2025-01-30,WeWork Cafe,271.97,debit,Food & Dining
+2025-01-30,Meesho Order,1800.66,debit,Shopping
+2025-02-01,Swiggy Instamart,1308.43,debit,Groceries
+2025-02-02,MacBook Accessories,4109.52,debit,Shopping
+2025-02-03,Hotstar Subscription,694.97,debit,Subscriptions
+2025-02-03,Slack Pro,875.0,debit,Subscriptions
+2025-02-03,Cashback Credit,271.53,credit,Income
+2025-02-04,Transfer Received,10887.91,credit,Income
+2025-02-04,Zomato Food Delivery,216.77,debit,Food & Dining
+2025-02-04,DigitalOcean,1276.12,debit,Utilities
+2025-02-04,Uber Ride,492.65,debit,Transportation
+2025-02-07,Tech Gadget Purchase,14539.84,debit,Shopping
+2025-02-08,Swiggy Instamart,355.16,debit,Groceries
+2025-02-09,Netflix Subscription,388.52,debit,Subscriptions
+2025-02-09,Swiggy Order,503.95,debit,Food & Dining
+2025-02-09,Myntra Fashion,3292.51,debit,Shopping
+2025-02-09,Reliance Fresh,833.92,debit,Groceries
+2025-02-10,Reliance Fresh,636.82,debit,Groceries
+2025-02-11,AWS Bill,7977.41,debit,Utilities
+2025-02-11,AWS Bill,2176.29,debit,Utilities
+2025-02-11,Amazon Purchase,5269.28,debit,Shopping
+2025-02-11,Tech Gadget Purchase,28535.45,debit,Shopping
+2025-02-12,Figma Subscription,1250.0,debit,Subscriptions
+2025-02-13,Rapido Bike Taxi,124.78,debit,Transportation
+2025-02-14,Bonus Credit,27541.37,credit,Income
+2025-02-14,Flipkart Order,3896.87,debit,Shopping
+2025-02-14,Refund Credit,4072.09,credit,Income
+2025-02-17,Ola Cab,408.27,debit,Transportation
+2025-02-18,Refund Credit,2695.21,credit,Income
+2025-02-18,GitHub Copilot,837.0,debit,Subscriptions
+2025-02-18,Myntra Fashion,3095.68,debit,Shopping
+2025-02-18,Transfer Received,39881.15,credit,Income
+2025-02-19,GitHub Copilot,837.0,debit,Subscriptions
+2025-02-19,Bonus Credit,15516.52,credit,Income
+2025-02-19,Flipkart Order,4713.05,debit,Shopping
+2025-02-20,YouTube Premium,139.0,debit,Subscriptions
+2025-02-20,Ajio Clothing,1275.3,debit,Shopping
+2025-02-20,Standing Desk,11906.28,debit,Shopping
+2025-02-20,DigitalOcean,4845.13,debit,Utilities
+2025-02-20,Cult.fit Membership,2027.32,debit,Healthcare
+2025-02-21,Reliance Fresh,926.28,debit,Groceries
+2025-02-22,AWS Bill,13073.27,debit,Utilities
+2025-02-22,WeWork Cafe,286.41,debit,Food & Dining
+2025-02-22,Meesho Order,597.16,debit,Shopping
+2025-02-23,Dunzo Quick Commerce,1757.0,debit,Groceries
+2025-02-24,BigBasket Groceries,376.01,debit,Groceries
+2025-02-24,Figma Subscription,1250.0,debit,Subscriptions
+2025-02-24,Dunzo Quick Commerce,367.42,debit,Groceries
+2025-02-25,BookMyShow Tickets,842.44,debit,Entertainment
+2025-02-26,Dunzo Quick Commerce,1995.78,debit,Groceries
+2025-02-27,Cult.fit Membership,2288.28,debit,Healthcare
+2025-02-27,DMart Purchase,1336.9,debit,Groceries
+2025-02-27,More Supermarket,896.31,debit,Groceries
+2025-02-28,Ola Cab,332.72,debit,Transportation
+2025-02-28,Freelance Consulting,30542.47,credit,Income
+2025-02-28,Hotstar Subscription,502.6,debit,Subscriptions
+2025-03-01,Hotstar Subscription,672.84,debit,Subscriptions
+2025-03-01,AWS Bill,1570.25,debit,Utilities
+2025-03-01,DMart Purchase,2480.33,debit,Groceries
+2025-03-01,UPI Received,19541.98,credit,Income
+2025-03-02,Swiggy Order,226.31,debit,Food & Dining
+2025-03-03,Slack Pro,875.0,debit,Subscriptions
+2025-03-03,Swiggy Order,844.56,debit,Food & Dining
+2025-03-04,Netflix Subscription,583.57,debit,Subscriptions
+2025-03-04,DMart Purchase,1918.03,debit,Groceries
+2025-03-05,BigBasket Groceries,1193.31,debit,Groceries
+2025-03-05,Swiggy Instamart,587.27,debit,Groceries
+2025-03-05,More Supermarket,1084.11,debit,Groceries
+2025-03-05,DMart Purchase,3244.02,debit,Groceries
+2025-03-06,Slack Pro,875.0,debit,Subscriptions
+2025-03-06,Zomato Food Delivery,538.8,debit,Food & Dining
+2025-03-06,Dunzo Quick Commerce,904.96,debit,Groceries
+2025-03-06,Starbucks Coffee,676.34,debit,Food & Dining
+2025-03-06,Cashback Credit,894.95,credit,Income
+2025-03-07,Zomato Food Delivery,317.26,debit,Food & Dining
+2025-03-08,Dunzo Quick Commerce,2257.16,debit,Groceries
+2025-03-08,Transfer Received,10025.57,credit,Income
+2025-03-08,Reliance Fresh,1877.35,debit,Groceries
+2025-03-09,Rapido Bike Taxi,123.96,debit,Transportation
+2025-03-09,Figma Subscription,1250.0,debit,Subscriptions
+2025-03-09,Interest Credit,808.88,credit,Income
+2025-03-10,Starbucks Coffee,365.74,debit,Food & Dining
+2025-03-11,Tech Gadget Purchase,4369.7,debit,Shopping
+2025-03-11,Amazon Prime,311.61,debit,Subscriptions
+2025-03-12,Flipkart Order,4309.84,debit,Shopping
+2025-03-12,Hotstar Subscription,890.35,debit,Subscriptions
+2025-03-13,Slack Pro,875.0,debit,Subscriptions
+2025-03-13,Myntra Fashion,3197.76,debit,Shopping
+2025-03-13,Salary Credit ESOP,101456.23,credit,Income
+2025-03-14,Netflix Subscription,261.93,debit,Subscriptions
+2025-03-15,Swiggy Order,541.77,debit,Food & Dining
+2025-03-15,Rapido Bike Taxi,126.95,debit,Transportation
+2025-03-16,DMart Purchase,316.95,debit,Groceries
+2025-03-16,Hotstar Subscription,404.3,debit,Subscriptions
+2025-03-16,BigBasket Groceries,3237.57,debit,Groceries
+2025-03-17,BigBasket Groceries,3175.52,debit,Groceries
+2025-03-17,Spotify Premium,119.0,debit,Subscriptions
+2025-03-17,Slack Pro,875.0,debit,Subscriptions
+2025-03-17,Uber Ride,136.98,debit,Transportation
+2025-03-18,GitHub Copilot,837.0,debit,Subscriptions
+2025-03-18,Swiggy Order,751.87,debit,Food & Dining
+2025-03-18,Meesho Order,795.48,debit,Shopping
+2025-03-18,DMart Purchase,1093.16,debit,Groceries
+2025-03-19,Cult.fit Membership,1763.07,debit,Healthcare
+2025-03-19,Dunzo Quick Commerce,935.25,debit,Groceries
+2025-03-20,Figma Subscription,1250.0,debit,Subscriptions
+2025-03-20,BigBasket Groceries,3378.93,debit,Groceries
+2025-03-20,Amazon Purchase,3882.96,debit,Shopping
+2025-03-20,Dividend Credit,3583.71,credit,Income
+2025-03-21,More Supermarket,418.76,debit,Groceries
+2025-03-21,Uber Ride,500.28,debit,Transportation
+2025-03-22,Amazon Purchase,1089.79,debit,Shopping
+2025-03-22,Starbucks Coffee,387.27,debit,Food & Dining
+2025-03-23,GitHub Copilot,837.0,debit,Subscriptions
+2025-03-23,Rapido Bike Taxi,64.05,debit,Transportation
+2025-03-23,Rental Income,18558.5,credit,Income
+2025-03-23,GitHub Copilot,837.0,debit,Subscriptions
+2025-03-24,Interest Credit,2840.08,credit,Income
+2025-03-24,Transfer Received,17120.69,credit,Income
+2025-03-25,BookMyShow Tickets,603.7,debit,Entertainment
+2025-03-25,Rental Income,17883.74,credit,Income
+2025-03-25,Rapido Bike Taxi,61.45,debit,Transportation
+2025-03-25,Spotify Premium,119.0,debit,Subscriptions
+2025-03-26,YouTube Premium,139.0,debit,Subscriptions
+2025-03-26,Standing Desk,5609.68,debit,Shopping
+2025-03-26,Amazon Purchase,7374.17,debit,Shopping
+2025-03-26,WeWork Cafe,402.68,debit,Food & Dining
+2025-03-27,BigBasket Groceries,3876.08,debit,Groceries
+2025-03-28,Uber Ride,304.08,debit,Transportation
+2025-03-28,Refund Credit,3634.36,credit,Income
+2025-03-28,Refund Credit,1792.41,credit,Income
+2025-03-29,Rapido Bike Taxi,171.78,debit,Transportation
+2025-03-29,UPI Received,17601.29,credit,Income
+2025-03-29,BigBasket Groceries,1637.16,debit,Groceries
+2025-03-29,Rental Income,16155.78,credit,Income
+2025-03-31,Zomato Food Delivery,420.25,debit,Food & Dining
+2025-03-31,Dunzo Quick Commerce,702.88,debit,Groceries
+2025-03-31,Myntra Fashion,1447.34,debit,Shopping

@@ -1,0 +1,2801 @@
+date,description,amount,transaction_type,category
+2020-01-02,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-01-02,Maid/Cook Salary,INR 3176.71,debit,Miscellaneous
+2020-01-03,Family Restaurant,INR 2033.75,debit,Food & Dining
+2020-01-05,Children's Birthday Party,INR 14167.38,debit,Entertainment
+2020-01-06,Ajio Clothing,INR 802.59,debit,Shopping
+2020-01-08,BigBasket Groceries,INR 2685.75,debit,Groceries
+2020-01-09,Hotstar Subscription,INR 279.72,debit,Subscriptions
+2020-01-09,Kids Clothing,INR 2134.39,debit,Shopping
+2020-01-09,Netflix Subscription,INR 380.09,debit,Subscriptions
+2020-01-09,Interest Credit,INR 3638.97,credit,Income
+2020-01-10,Car Servicing,INR 10617.83,debit,Transportation
+2020-01-10,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-01-11,Maid/Cook Salary,INR 4979.70,debit,Miscellaneous
+2020-01-12,Reliance Fresh,INR 216.21,debit,Groceries
+2020-01-12,Rapido Bike Taxi,INR 114.72,debit,Transportation
+2020-01-12,Household Repairs,INR 5101.31,debit,Housing
+2020-01-13,BookMyShow Tickets,INR 480.27,debit,Entertainment
+2020-01-13,Children's Birthday Party,INR 9343.12,debit,Entertainment
+2020-01-14,Refund Credit,INR 1735.67,credit,Income
+2020-01-14,Toys & Games,INR 475.85,debit,Shopping
+2020-01-15,Bonus Credit,INR 69252.78,credit,Income
+2020-01-16,Children's Birthday Party,INR 6131.01,debit,Entertainment
+2020-01-16,BookMyShow Tickets,INR 1034.38,debit,Entertainment
+2020-01-17,Toys & Games,INR 533.92,debit,Shopping
+2020-01-19,Amazon Purchase,INR 5310.82,debit,Shopping
+2020-01-19,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-01-19,Milk Monthly,INR 1005.65,debit,Groceries
+2020-01-21,Household Repairs,INR 1846.42,debit,Housing
+2020-01-22,Household Repairs,INR 7332.95,debit,Housing
+2020-01-23,Interest Credit,INR 3540.87,credit,Income
+2020-01-23,Refund Credit,INR 4806.96,credit,Income
+2020-01-24,Cashback Credit,INR 615.17,credit,Income
+2020-01-27,Bonus Credit,INR 11971.63,credit,Income
+2020-01-28,Flipkart Order,INR 3078.80,debit,Shopping
+2020-01-30,BigBasket Groceries,INR 2668.43,debit,Groceries
+2020-01-31,Bonus Credit,INR 24066.83,credit,Income
+2020-01-31,Rapido Bike Taxi,INR 198.91,debit,Transportation
+2020-02-02,Ola Cab,INR 235.67,debit,Transportation
+2020-02-02,Swiggy Order,INR 878.78,debit,Food & Dining
+2020-02-04,Swiggy Order,INR 309.21,debit,Food & Dining
+2020-02-05,Rental Income,INR 14925.64,credit,Income
+2020-02-07,Uber Ride,INR 380.84,debit,Transportation
+2020-02-10,School Bus Fees,INR 3487.17,debit,Education
+2020-02-11,Flipkart Order,INR 4644.44,debit,Shopping
+2020-02-12,Flipkart Order,INR 2322.42,debit,Shopping
+2020-02-13,Children's Birthday Party,INR 3227.61,debit,Entertainment
+2020-02-14,Hotstar Subscription,INR 762.62,debit,Subscriptions
+2020-02-16,Toys & Games,INR 4837.41,debit,Shopping
+2020-02-16,Netflix Subscription,INR 352.07,debit,Subscriptions
+2020-02-16,Maid/Cook Salary,INR 3515.64,debit,Miscellaneous
+2020-02-17,Refund Credit,INR 4429.28,credit,Income
+2020-02-17,Toys & Games,INR 1911.49,debit,Shopping
+2020-02-18,More Supermarket,INR 399.92,debit,Groceries
+2020-02-20,Husband Salary,INR 142100.15,credit,Income
+2020-02-20,Rental Income,INR 13250.50,credit,Income
+2020-02-21,Wife Salary,INR 93918.01,credit,Income
+2020-02-23,Family Restaurant,INR 3721.16,debit,Food & Dining
+2020-02-23,Reliance Fresh,INR 212.17,debit,Groceries
+2020-02-24,Hotstar Subscription,INR 633.54,debit,Subscriptions
+2020-02-25,Rental Income,INR 14224.42,credit,Income
+2020-02-26,Amazon Purchase,INR 5206.41,debit,Shopping
+2020-02-26,Family Vacation,INR 49413.35,debit,Travel
+2020-02-26,Amazon Prime,INR 625.79,debit,Subscriptions
+2020-02-26,Vegetable Vendor,INR 690.05,debit,Groceries
+2020-02-27,More Supermarket,INR 1128.43,debit,Groceries
+2020-02-27,Ola Cab,INR 161.45,debit,Transportation
+2020-02-28,Car Servicing,INR 7934.93,debit,Transportation
+2020-02-29,School Bus Fees,INR 2744.00,debit,Education
+2020-02-29,Bonus Credit,INR 50741.08,credit,Income
+2020-02-29,Tuition Teacher,INR 3777.14,debit,Education
+2020-03-02,Tuition Teacher,INR 5313.91,debit,Education
+2020-03-03,Tuition Teacher,INR 5785.67,debit,Education
+2020-03-03,Amazon Purchase,INR 2245.79,debit,Shopping
+2020-03-03,Wife Salary,INR 83299.60,credit,Income
+2020-03-04,Swiggy Order,INR 538.49,debit,Food & Dining
+2020-03-04,Tuition Teacher,INR 7065.29,debit,Education
+2020-03-05,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-03-05,Zomato Food Delivery,INR 590.17,debit,Food & Dining
+2020-03-06,Bonus Credit,INR 55911.58,credit,Income
+2020-03-06,Car EMI,INR 9284.54,debit,Transportation
+2020-03-07,Car Servicing,INR 2145.98,debit,Transportation
+2020-03-07,Hotstar Subscription,INR 516.56,debit,Subscriptions
+2020-03-09,Interest Credit,INR 4816.11,credit,Income
+2020-03-09,Reliance Fresh,INR 1249.51,debit,Groceries
+2020-03-09,Car EMI,INR 15911.56,debit,Transportation
+2020-03-09,BigBasket Groceries,INR 3339.19,debit,Groceries
+2020-03-09,Children's Birthday Party,INR 7497.80,debit,Entertainment
+2020-03-10,Kids Clothing,INR 1328.24,debit,Shopping
+2020-03-12,Hotstar Subscription,INR 352.06,debit,Subscriptions
+2020-03-14,Refund Credit,INR 784.62,credit,Income
+2020-03-16,Hotstar Subscription,INR 360.52,debit,Subscriptions
+2020-03-16,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-03-18,Rapido Bike Taxi,INR 154.61,debit,Transportation
+2020-03-20,Rapido Bike Taxi,INR 189.53,debit,Transportation
+2020-03-20,Ajio Clothing,INR 3096.35,debit,Shopping
+2020-03-21,Meesho Order,INR 1767.16,debit,Shopping
+2020-03-21,Rapido Bike Taxi,INR 171.65,debit,Transportation
+2020-03-21,Ola Cab,INR 355.52,debit,Transportation
+2020-03-21,Milk Monthly,INR 938.27,debit,Groceries
+2020-03-23,Tuition Teacher,INR 6315.86,debit,Education
+2020-03-23,Rapido Bike Taxi,INR 70.32,debit,Transportation
+2020-03-23,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-03-23,Myntra Fashion,INR 901.82,debit,Shopping
+2020-03-25,Home Appliance Purchase,INR 24099.61,debit,Shopping
+2020-03-25,Ola Cab,INR 272.80,debit,Transportation
+2020-03-26,DMart Purchase,INR 1580.72,debit,Groceries
+2020-03-26,Zomato Food Delivery,INR 844.02,debit,Food & Dining
+2020-03-27,Wife Salary,INR 93417.69,credit,Income
+2020-03-29,Interest Credit,INR 3791.37,credit,Income
+2020-03-31,Reliance Fresh,INR 1569.57,debit,Groceries
+2020-03-31,Property Tax,INR 1510.05,debit,Housing
+2020-03-31,Household Repairs,INR 1053.20,debit,Housing
+2020-04-01,Home Appliance Purchase,INR 18404.06,debit,Shopping
+2020-04-02,BigBasket Groceries,INR 463.47,debit,Groceries
+2020-04-02,Vegetable Vendor,INR 440.14,debit,Groceries
+2020-04-03,Kids Clothing,INR 1574.76,debit,Shopping
+2020-04-04,Milk Monthly,INR 883.90,debit,Groceries
+2020-04-04,Meesho Order,INR 708.72,debit,Shopping
+2020-04-05,Myntra Fashion,INR 1552.01,debit,Shopping
+2020-04-05,Wife Salary,INR 71863.82,credit,Income
+2020-04-05,Family Restaurant,INR 2184.25,debit,Food & Dining
+2020-04-05,Uber Ride,INR 275.72,debit,Transportation
+2020-04-05,BigBasket Groceries,INR 3308.19,debit,Groceries
+2020-04-05,Meesho Order,INR 1504.47,debit,Shopping
+2020-04-06,School Bus Fees,INR 2062.21,debit,Education
+2020-04-07,Meesho Order,INR 1650.95,debit,Shopping
+2020-04-08,Meesho Order,INR 471.36,debit,Shopping
+2020-04-09,DMart Purchase,INR 514.26,debit,Groceries
+2020-04-10,Husband Salary,INR 66433.02,credit,Income
+2020-04-11,Family Restaurant,INR 1492.28,debit,Food & Dining
+2020-04-12,Maid/Cook Salary,INR 3928.76,debit,Miscellaneous
+2020-04-14,Family Restaurant,INR 1479.45,debit,Food & Dining
+2020-04-14,Netflix Subscription,INR 340.65,debit,Subscriptions
+2020-04-14,Family Vacation,INR 18393.24,debit,Travel
+2020-04-14,BookMyShow Tickets,INR 1470.60,debit,Entertainment
+2020-04-15,BookMyShow Tickets,INR 458.62,debit,Entertainment
+2020-04-15,Rapido Bike Taxi,INR 55.74,debit,Transportation
+2020-04-17,Amazon Prime,INR 275.69,debit,Subscriptions
+2020-04-17,Milk Monthly,INR 858.34,debit,Groceries
+2020-04-18,Vegetable Vendor,INR 765.11,debit,Groceries
+2020-04-19,Home Appliance Purchase,INR 8574.65,debit,Shopping
+2020-04-19,More Supermarket,INR 640.96,debit,Groceries
+2020-04-20,Interest Credit,INR 3561.03,credit,Income
+2020-04-21,Myntra Fashion,INR 3639.56,debit,Shopping
+2020-04-23,Toys & Games,INR 1573.69,debit,Shopping
+2020-04-23,Wife Salary,INR 76866.91,credit,Income
+2020-04-24,School Bus Fees,INR 3289.24,debit,Education
+2020-04-24,Property Tax,INR 879.31,debit,Housing
+2020-04-24,Netflix Subscription,INR 365.26,debit,Subscriptions
+2020-04-25,Toys & Games,INR 3772.16,debit,Shopping
+2020-04-25,Refund Credit,INR 4667.50,credit,Income
+2020-04-27,Hotstar Subscription,INR 183.66,debit,Subscriptions
+2020-04-28,Reliance Fresh,INR 1850.92,debit,Groceries
+2020-04-28,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-04-28,Tuition Teacher,INR 7756.58,debit,Education
+2020-04-30,Ola Cab,INR 495.15,debit,Transportation
+2020-05-01,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-05-01,Home Appliance Purchase,INR 25038.30,debit,Shopping
+2020-05-03,Netflix Subscription,INR 516.85,debit,Subscriptions
+2020-05-03,School Bus Fees,INR 2180.94,debit,Education
+2020-05-04,Rapido Bike Taxi,INR 124.75,debit,Transportation
+2020-05-05,Netflix Subscription,INR 233.15,debit,Subscriptions
+2020-05-05,Rental Income,INR 17702.02,credit,Income
+2020-05-05,Amazon Purchase,INR 6085.36,debit,Shopping
+2020-05-06,Car EMI,INR 14943.47,debit,Transportation
+2020-05-08,Maid/Cook Salary,INR 6875.46,debit,Miscellaneous
+2020-05-09,Property Tax,INR 1700.54,debit,Housing
+2020-05-09,BookMyShow Tickets,INR 309.31,debit,Entertainment
+2020-05-10,Rapido Bike Taxi,INR 123.45,debit,Transportation
+2020-05-11,Property Tax,INR 4826.82,debit,Housing
+2020-05-11,BigBasket Groceries,INR 3343.72,debit,Groceries
+2020-05-12,Refund Credit,INR 426.39,credit,Income
+2020-05-13,Family Vacation,INR 37893.40,debit,Travel
+2020-05-13,BookMyShow Tickets,INR 1446.86,debit,Entertainment
+2020-05-14,Ajio Clothing,INR 1079.93,debit,Shopping
+2020-05-15,Children's Birthday Party,INR 6815.36,debit,Entertainment
+2020-05-15,Car Servicing,INR 3361.01,debit,Transportation
+2020-05-16,Ola Cab,INR 417.68,debit,Transportation
+2020-05-17,Husband Salary,INR 139376.82,credit,Income
+2020-05-17,Meesho Order,INR 464.21,debit,Shopping
+2020-05-18,DMart Purchase,INR 1503.85,debit,Groceries
+2020-05-18,Uber Ride,INR 358.70,debit,Transportation
+2020-05-19,Ajio Clothing,INR 3114.83,debit,Shopping
+2020-05-20,Household Repairs,INR 16343.06,debit,Housing
+2020-05-21,Home Appliance Purchase,INR 14223.07,debit,Shopping
+2020-05-22,Rental Income,INR 18074.56,credit,Income
+2020-05-22,Uber Ride,INR 118.97,debit,Transportation
+2020-05-22,Refund Credit,INR 2993.81,credit,Income
+2020-05-23,Family Vacation,INR 7904.84,debit,Travel
+2020-05-23,Husband Salary,INR 143055.45,credit,Income
+2020-05-25,Toys & Games,INR 3164.38,debit,Shopping
+2020-05-25,Rapido Bike Taxi,INR 74.24,debit,Transportation
+2020-05-26,Amazon Prime,INR 285.45,debit,Subscriptions
+2020-05-26,Swiggy Order,INR 679.18,debit,Food & Dining
+2020-05-27,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-05-27,BookMyShow Tickets,INR 1021.93,debit,Entertainment
+2020-05-27,Netflix Subscription,INR 302.83,debit,Subscriptions
+2020-05-28,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-05-28,Home Appliance Purchase,INR 33998.59,debit,Shopping
+2020-05-31,Car EMI,INR 13346.26,debit,Transportation
+2020-06-01,Hotstar Subscription,INR 571.59,debit,Subscriptions
+2020-06-02,Flipkart Order,INR 4601.06,debit,Shopping
+2020-06-02,Car Servicing,INR 6527.17,debit,Transportation
+2020-06-03,BigBasket Groceries,INR 1766.96,debit,Groceries
+2020-06-05,Rapido Bike Taxi,INR 36.28,debit,Transportation
+2020-06-05,BookMyShow Tickets,INR 667.10,debit,Entertainment
+2020-06-09,Husband Salary,INR 86435.12,credit,Income
+2020-06-09,Kids Clothing,INR 2940.87,debit,Shopping
+2020-06-10,Maid/Cook Salary,INR 4910.52,debit,Miscellaneous
+2020-06-11,Amazon Purchase,INR 3803.71,debit,Shopping
+2020-06-11,Ola Cab,INR 336.58,debit,Transportation
+2020-06-13,BigBasket Groceries,INR 2658.89,debit,Groceries
+2020-06-13,Amazon Prime,INR 939.08,debit,Subscriptions
+2020-06-14,Family Vacation,INR 23469.10,debit,Travel
+2020-06-14,Amazon Prime,INR 898.25,debit,Subscriptions
+2020-06-14,Tuition Teacher,INR 3402.86,debit,Education
+2020-06-15,DMart Purchase,INR 2733.70,debit,Groceries
+2020-06-16,Myntra Fashion,INR 2600.95,debit,Shopping
+2020-06-17,Hotstar Subscription,INR 569.37,debit,Subscriptions
+2020-06-19,Myntra Fashion,INR 3950.05,debit,Shopping
+2020-06-19,Uber Ride,INR 152.70,debit,Transportation
+2020-06-20,DMart Purchase,INR 1793.68,debit,Groceries
+2020-06-20,More Supermarket,INR 1106.60,debit,Groceries
+2020-06-22,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-06-22,Kids Clothing,INR 2959.66,debit,Shopping
+2020-06-23,More Supermarket,INR 716.56,debit,Groceries
+2020-06-23,Rapido Bike Taxi,INR 125.94,debit,Transportation
+2020-06-23,BookMyShow Tickets,INR 975.59,debit,Entertainment
+2020-06-23,Zomato Food Delivery,INR 303.65,debit,Food & Dining
+2020-06-24,Rental Income,INR 9293.02,credit,Income
+2020-06-25,BigBasket Groceries,INR 1474.86,debit,Groceries
+2020-06-26,Milk Monthly,INR 851.84,debit,Groceries
+2020-06-26,Car Servicing,INR 6236.49,debit,Transportation
+2020-06-27,Hotstar Subscription,INR 418.99,debit,Subscriptions
+2020-06-28,Ola Cab,INR 463.33,debit,Transportation
+2020-06-28,Netflix Subscription,INR 544.11,debit,Subscriptions
+2020-06-28,Bonus Credit,INR 67547.57,credit,Income
+2020-06-28,Tuition Teacher,INR 4275.57,debit,Education
+2020-06-30,Toys & Games,INR 2878.46,debit,Shopping
+2020-07-01,BookMyShow Tickets,INR 633.20,debit,Entertainment
+2020-07-01,Wife Salary,INR 83450.14,credit,Income
+2020-07-02,Milk Monthly,INR 768.45,debit,Groceries
+2020-07-04,Ajio Clothing,INR 998.16,debit,Shopping
+2020-07-05,Toys & Games,INR 3471.34,debit,Shopping
+2020-07-05,Rapido Bike Taxi,INR 155.65,debit,Transportation
+2020-07-06,Zomato Food Delivery,INR 471.04,debit,Food & Dining
+2020-07-06,Children's Birthday Party,INR 5613.75,debit,Entertainment
+2020-07-06,Rapido Bike Taxi,INR 184.90,debit,Transportation
+2020-07-07,Children's Birthday Party,INR 7880.94,debit,Entertainment
+2020-07-08,Ola Cab,INR 230.66,debit,Transportation
+2020-07-09,Flipkart Order,INR 5311.33,debit,Shopping
+2020-07-11,Family Restaurant,INR 3992.36,debit,Food & Dining
+2020-07-11,Tuition Teacher,INR 6452.73,debit,Education
+2020-07-13,Property Tax,INR 1959.75,debit,Housing
+2020-07-13,Bonus Credit,INR 41701.33,credit,Income
+2020-07-14,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-07-14,Rapido Bike Taxi,INR 89.43,debit,Transportation
+2020-07-15,Ajio Clothing,INR 2543.25,debit,Shopping
+2020-07-15,Amazon Purchase,INR 347.42,debit,Shopping
+2020-07-16,Car Servicing,INR 11998.39,debit,Transportation
+2020-07-17,Home Appliance Purchase,INR 38651.30,debit,Shopping
+2020-07-17,Maid/Cook Salary,INR 4012.01,debit,Miscellaneous
+2020-07-18,Children's Birthday Party,INR 13288.82,debit,Entertainment
+2020-07-18,Reliance Fresh,INR 947.86,debit,Groceries
+2020-07-19,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-07-20,Vegetable Vendor,INR 628.42,debit,Groceries
+2020-07-20,Hotstar Subscription,INR 636.70,debit,Subscriptions
+2020-07-21,Car EMI,INR 11577.20,debit,Transportation
+2020-07-21,Household Repairs,INR 3880.33,debit,Housing
+2020-07-22,Husband Salary,INR 78766.40,credit,Income
+2020-07-22,Children's Birthday Party,INR 2716.64,debit,Entertainment
+2020-07-22,Maid/Cook Salary,INR 7636.95,debit,Miscellaneous
+2020-07-23,Rental Income,INR 17716.08,credit,Income
+2020-07-25,Zomato Food Delivery,INR 379.13,debit,Food & Dining
+2020-07-27,Cashback Credit,INR 1125.37,credit,Income
+2020-07-28,BookMyShow Tickets,INR 845.97,debit,Entertainment
+2020-07-28,Zomato Food Delivery,INR 647.54,debit,Food & Dining
+2020-07-28,Ola Cab,INR 309.65,debit,Transportation
+2020-07-30,Family Vacation,INR 55482.02,debit,Travel
+2020-07-30,School Bus Fees,INR 3147.14,debit,Education
+2020-07-30,Zomato Food Delivery,INR 760.70,debit,Food & Dining
+2020-08-01,Amazon Prime,INR 640.23,debit,Subscriptions
+2020-08-01,Refund Credit,INR 4679.67,credit,Income
+2020-08-03,Interest Credit,INR 2875.97,credit,Income
+2020-08-04,Family Vacation,INR 31760.49,debit,Travel
+2020-08-04,Rapido Bike Taxi,INR 192.55,debit,Transportation
+2020-08-05,Flipkart Order,INR 893.02,debit,Shopping
+2020-08-05,More Supermarket,INR 1300.76,debit,Groceries
+2020-08-08,Car Servicing,INR 9580.09,debit,Transportation
+2020-08-09,Home Appliance Purchase,INR 9337.89,debit,Shopping
+2020-08-10,Ajio Clothing,INR 1890.46,debit,Shopping
+2020-08-11,Swiggy Order,INR 897.05,debit,Food & Dining
+2020-08-11,Amazon Purchase,INR 3109.70,debit,Shopping
+2020-08-12,Reliance Fresh,INR 685.98,debit,Groceries
+2020-08-13,Property Tax,INR 7130.30,debit,Housing
+2020-08-13,Cashback Credit,INR 1459.87,credit,Income
+2020-08-14,School Bus Fees,INR 2834.05,debit,Education
+2020-08-14,School Bus Fees,INR 2351.09,debit,Education
+2020-08-14,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-08-15,Kids Clothing,INR 727.99,debit,Shopping
+2020-08-15,Wife Salary,INR 43371.99,credit,Income
+2020-08-15,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-08-16,Car EMI,INR 18025.52,debit,Transportation
+2020-08-17,Amazon Prime,INR 738.25,debit,Subscriptions
+2020-08-17,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-08-18,Family Vacation,INR 36786.27,debit,Travel
+2020-08-18,BookMyShow Tickets,INR 1218.46,debit,Entertainment
+2020-08-20,Property Tax,INR 5676.86,debit,Housing
+2020-08-21,Maid/Cook Salary,INR 3997.71,debit,Miscellaneous
+2020-08-21,Rapido Bike Taxi,INR 155.48,debit,Transportation
+2020-08-21,Myntra Fashion,INR 2736.08,debit,Shopping
+2020-08-22,Family Vacation,INR 5062.30,debit,Travel
+2020-08-22,Vegetable Vendor,INR 639.53,debit,Groceries
+2020-08-23,Home Appliance Purchase,INR 13790.74,debit,Shopping
+2020-08-24,Milk Monthly,INR 692.18,debit,Groceries
+2020-08-26,Ajio Clothing,INR 2721.47,debit,Shopping
+2020-08-26,Children's Birthday Party,INR 12878.49,debit,Entertainment
+2020-08-26,Zomato Food Delivery,INR 692.94,debit,Food & Dining
+2020-08-28,Family Restaurant,INR 2574.24,debit,Food & Dining
+2020-08-29,Toys & Games,INR 1484.20,debit,Shopping
+2020-08-29,Bonus Credit,INR 52539.27,credit,Income
+2020-08-29,Husband Salary,INR 119571.57,credit,Income
+2020-08-31,DMart Purchase,INR 1492.36,debit,Groceries
+2020-09-01,Household Repairs,INR 16181.82,debit,Housing
+2020-09-01,Car EMI,INR 18452.91,debit,Transportation
+2020-09-01,Amazon Purchase,INR 673.91,debit,Shopping
+2020-09-03,Tuition Teacher,INR 5998.34,debit,Education
+2020-09-03,Family Vacation,INR 7900.61,debit,Travel
+2020-09-03,Zomato Food Delivery,INR 754.61,debit,Food & Dining
+2020-09-03,Reliance Fresh,INR 1520.94,debit,Groceries
+2020-09-03,Wife Salary,INR 87539.21,credit,Income
+2020-09-04,Property Tax,INR 5980.94,debit,Housing
+2020-09-06,Ola Cab,INR 173.89,debit,Transportation
+2020-09-07,Flipkart Order,INR 3710.60,debit,Shopping
+2020-09-07,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-09-07,Cashback Credit,INR 344.85,credit,Income
+2020-09-09,School Bus Fees,INR 1588.07,debit,Education
+2020-09-09,Property Tax,INR 7046.09,debit,Housing
+2020-09-09,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-09-10,Uber Ride,INR 566.64,debit,Transportation
+2020-09-10,Refund Credit,INR 4216.72,credit,Income
+2020-09-10,DMart Purchase,INR 3015.71,debit,Groceries
+2020-09-11,Milk Monthly,INR 689.92,debit,Groceries
+2020-09-11,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-09-11,Myntra Fashion,INR 628.96,debit,Shopping
+2020-09-11,Flipkart Order,INR 4385.82,debit,Shopping
+2020-09-12,BigBasket Groceries,INR 2097.76,debit,Groceries
+2020-09-12,Amazon Prime,INR 905.90,debit,Subscriptions
+2020-09-13,Meesho Order,INR 1422.67,debit,Shopping
+2020-09-15,Bonus Credit,INR 72120.17,credit,Income
+2020-09-15,BookMyShow Tickets,INR 349.77,debit,Entertainment
+2020-09-16,Interest Credit,INR 4052.07,credit,Income
+2020-09-17,Myntra Fashion,INR 3685.86,debit,Shopping
+2020-09-17,Amazon Prime,INR 220.08,debit,Subscriptions
+2020-09-17,Reliance Fresh,INR 1545.54,debit,Groceries
+2020-09-18,More Supermarket,INR 543.13,debit,Groceries
+2020-09-19,Netflix Subscription,INR 347.12,debit,Subscriptions
+2020-09-20,Maid/Cook Salary,INR 6510.00,debit,Miscellaneous
+2020-09-21,Amazon Purchase,INR 7197.78,debit,Shopping
+2020-09-23,Flipkart Order,INR 5405.44,debit,Shopping
+2020-09-24,More Supermarket,INR 718.94,debit,Groceries
+2020-09-25,Bonus Credit,INR 14034.94,credit,Income
+2020-09-25,Vegetable Vendor,INR 565.26,debit,Groceries
+2020-09-26,Maid/Cook Salary,INR 7268.83,debit,Miscellaneous
+2020-09-27,Husband Salary,INR 143282.81,credit,Income
+2020-09-27,Swiggy Order,INR 227.35,debit,Food & Dining
+2020-09-28,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-09-29,More Supermarket,INR 577.01,debit,Groceries
+2020-09-29,Husband Salary,INR 81492.84,credit,Income
+2020-09-29,Milk Monthly,INR 930.95,debit,Groceries
+2020-09-30,Myntra Fashion,INR 1865.07,debit,Shopping
+2020-09-30,Cashback Credit,INR 226.59,credit,Income
+2020-09-30,Home Appliance Purchase,INR 35517.11,debit,Shopping
+2020-10-03,Hotstar Subscription,INR 702.73,debit,Subscriptions
+2020-10-04,DMart Purchase,INR 1565.12,debit,Groceries
+2020-10-04,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-10-05,Toys & Games,INR 2557.00,debit,Shopping
+2020-10-06,Wife Salary,INR 40479.93,credit,Income
+2020-10-08,Uber Ride,INR 515.88,debit,Transportation
+2020-10-08,Vegetable Vendor,INR 345.43,debit,Groceries
+2020-10-11,Refund Credit,INR 3550.50,credit,Income
+2020-10-11,BigBasket Groceries,INR 1230.21,debit,Groceries
+2020-10-11,Tuition Teacher,INR 6300.90,debit,Education
+2020-10-12,Milk Monthly,INR 943.67,debit,Groceries
+2020-10-14,Rental Income,INR 6966.79,credit,Income
+2020-10-16,Maid/Cook Salary,INR 3233.78,debit,Miscellaneous
+2020-10-16,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-10-17,Hotstar Subscription,INR 811.81,debit,Subscriptions
+2020-10-18,Vegetable Vendor,INR 408.04,debit,Groceries
+2020-10-22,Spotify Premium,INR 119.00,debit,Subscriptions
+2020-10-22,Amazon Prime,INR 444.34,debit,Subscriptions
+2020-10-23,Zomato Food Delivery,INR 322.23,debit,Food & Dining
+2020-10-23,Property Tax,INR 5738.06,debit,Housing
+2020-10-24,BookMyShow Tickets,INR 645.15,debit,Entertainment
+2020-10-24,BigBasket Groceries,INR 2300.52,debit,Groceries
+2020-10-25,Bonus Credit,INR 28232.23,credit,Income
+2020-10-26,Car EMI,INR 17001.13,debit,Transportation
+2020-10-27,Property Tax,INR 3283.76,debit,Housing
+2020-10-27,Amazon Prime,INR 834.19,debit,Subscriptions
+2020-10-28,Vegetable Vendor,INR 760.80,debit,Groceries
+2020-10-29,More Supermarket,INR 1736.74,debit,Groceries
+2020-10-30,Reliance Fresh,INR 796.50,debit,Groceries
+2020-10-31,School Bus Fees,INR 2664.35,debit,Education
+2020-11-02,Car Servicing,INR 10059.57,debit,Transportation
+2020-11-03,Wife Salary,INR 74188.59,credit,Income
+2020-11-05,Zomato Food Delivery,INR 173.82,debit,Food & Dining
+2020-11-07,Amazon Purchase,INR 3498.20,debit,Shopping
+2020-11-07,Hotstar Subscription,INR 677.55,debit,Subscriptions
+2020-11-08,Household Repairs,INR 13455.22,debit,Housing
+2020-11-08,School Bus Fees,INR 2852.53,debit,Education
+2020-11-11,Cashback Credit,INR 760.91,credit,Income
+2020-11-13,Family Vacation,INR 51256.85,debit,Travel
+2020-11-13,Toys & Games,INR 4281.00,debit,Shopping
+2020-11-14,Interest Credit,INR 2064.53,credit,Income
+2020-11-15,Ajio Clothing,INR 2965.64,debit,Shopping
+2020-11-16,Maid/Cook Salary,INR 4359.01,debit,Miscellaneous
+2020-11-17,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-11-17,More Supermarket,INR 208.14,debit,Groceries
+2020-11-18,Hotstar Subscription,INR 648.92,debit,Subscriptions
+2020-11-18,DMart Purchase,INR 2234.37,debit,Groceries
+2020-11-19,Car Servicing,INR 6504.24,debit,Transportation
+2020-11-20,Ola Cab,INR 89.26,debit,Transportation
+2020-11-20,Swiggy Order,INR 796.60,debit,Food & Dining
+2020-11-20,Swiggy Order,INR 480.65,debit,Food & Dining
+2020-11-20,Home Appliance Purchase,INR 18666.34,debit,Shopping
+2020-11-21,BookMyShow Tickets,INR 1183.76,debit,Entertainment
+2020-11-21,Rental Income,INR 8425.41,credit,Income
+2020-11-22,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-11-23,Netflix Subscription,INR 643.04,debit,Subscriptions
+2020-11-27,Myntra Fashion,INR 2654.66,debit,Shopping
+2020-11-27,Netflix Subscription,INR 366.38,debit,Subscriptions
+2020-11-28,Flipkart Order,INR 5343.33,debit,Shopping
+2020-11-29,Home Appliance Purchase,INR 12329.30,debit,Shopping
+2020-11-30,BookMyShow Tickets,INR 674.85,debit,Entertainment
+2020-11-30,Property Tax,INR 5213.98,debit,Housing
+2020-11-30,Netflix Subscription,INR 356.72,debit,Subscriptions
+2020-12-01,Vegetable Vendor,INR 300.83,debit,Groceries
+2020-12-02,Toys & Games,INR 2047.50,debit,Shopping
+2020-12-03,Vegetable Vendor,INR 380.05,debit,Groceries
+2020-12-05,Family Vacation,INR 20815.33,debit,Travel
+2020-12-06,Flipkart Order,INR 3383.91,debit,Shopping
+2020-12-06,Myntra Fashion,INR 1851.04,debit,Shopping
+2020-12-06,Refund Credit,INR 3989.59,credit,Income
+2020-12-07,More Supermarket,INR 554.46,debit,Groceries
+2020-12-07,Amazon Purchase,INR 3176.73,debit,Shopping
+2020-12-08,Rental Income,INR 12886.74,credit,Income
+2020-12-08,Interest Credit,INR 3881.42,credit,Income
+2020-12-08,School Bus Fees,INR 1529.70,debit,Education
+2020-12-08,Bonus Credit,INR 58863.90,credit,Income
+2020-12-08,School Bus Fees,INR 2618.08,debit,Education
+2020-12-09,Netflix Subscription,INR 385.48,debit,Subscriptions
+2020-12-10,DMart Purchase,INR 832.39,debit,Groceries
+2020-12-11,Car Servicing,INR 4411.56,debit,Transportation
+2020-12-11,Amazon Purchase,INR 803.50,debit,Shopping
+2020-12-12,Maid/Cook Salary,INR 6096.42,debit,Miscellaneous
+2020-12-12,Kids Clothing,INR 650.64,debit,Shopping
+2020-12-12,Home Appliance Purchase,INR 9802.84,debit,Shopping
+2020-12-13,Family Restaurant,INR 1227.15,debit,Food & Dining
+2020-12-14,Bonus Credit,INR 33723.72,credit,Income
+2020-12-14,Ola Cab,INR 280.88,debit,Transportation
+2020-12-17,Toys & Games,INR 1633.49,debit,Shopping
+2020-12-18,Household Repairs,INR 13317.77,debit,Housing
+2020-12-19,Household Repairs,INR 10031.68,debit,Housing
+2020-12-19,Amazon Purchase,INR 6817.67,debit,Shopping
+2020-12-19,Refund Credit,INR 1854.94,credit,Income
+2020-12-19,Reliance Fresh,INR 1086.04,debit,Groceries
+2020-12-20,BookMyShow Tickets,INR 1043.58,debit,Entertainment
+2020-12-21,Reliance Fresh,INR 851.54,debit,Groceries
+2020-12-21,Maid/Cook Salary,INR 3779.63,debit,Miscellaneous
+2020-12-21,Zomato Food Delivery,INR 255.78,debit,Food & Dining
+2020-12-22,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-12-22,YouTube Premium,INR 139.00,debit,Subscriptions
+2020-12-23,BigBasket Groceries,INR 2375.27,debit,Groceries
+2020-12-23,More Supermarket,INR 133.61,debit,Groceries
+2020-12-24,Myntra Fashion,INR 961.23,debit,Shopping
+2020-12-24,Uber Ride,INR 488.47,debit,Transportation
+2020-12-25,Kids Clothing,INR 1189.33,debit,Shopping
+2020-12-25,Uber Ride,INR 223.27,debit,Transportation
+2020-12-27,Rental Income,INR 7825.82,credit,Income
+2020-12-28,Family Vacation,INR 9156.46,debit,Travel
+2020-12-28,Ola Cab,INR 225.32,debit,Transportation
+2020-12-29,Family Restaurant,INR 3845.51,debit,Food & Dining
+2020-12-30,Milk Monthly,INR 856.70,debit,Groceries
+2020-12-31,Amazon Purchase,INR 1173.03,debit,Shopping
+2020-12-31,Hotstar Subscription,INR 524.29,debit,Subscriptions
+2021-01-02,Refund Credit,INR 3335.38,credit,Income
+2021-01-02,Tuition Teacher,INR 4081.80,debit,Education
+2021-01-04,BigBasket Groceries,INR 3576.89,debit,Groceries
+2021-01-05,Milk Monthly,INR 883.85,debit,Groceries
+2021-01-05,Milk Monthly,INR 820.06,debit,Groceries
+2021-01-05,Wife Salary,INR 46068.29,credit,Income
+2021-01-05,Flipkart Order,INR 4815.03,debit,Shopping
+2021-01-05,Family Vacation,INR 5732.28,debit,Travel
+2021-01-07,Interest Credit,INR 2290.03,credit,Income
+2021-01-07,DMart Purchase,INR 1867.51,debit,Groceries
+2021-01-08,Rental Income,INR 12498.39,credit,Income
+2021-01-09,Ajio Clothing,INR 710.05,debit,Shopping
+2021-01-10,Rental Income,INR 14192.67,credit,Income
+2021-01-10,BigBasket Groceries,INR 1013.33,debit,Groceries
+2021-01-11,Household Repairs,INR 13254.69,debit,Housing
+2021-01-11,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-01-12,Uber Ride,INR 134.37,debit,Transportation
+2021-01-12,Refund Credit,INR 2734.25,credit,Income
+2021-01-14,Uber Ride,INR 297.33,debit,Transportation
+2021-01-17,Milk Monthly,INR 1102.07,debit,Groceries
+2021-01-17,Household Repairs,INR 15663.04,debit,Housing
+2021-01-18,Interest Credit,INR 1528.98,credit,Income
+2021-01-18,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-01-18,Household Repairs,INR 6351.98,debit,Housing
+2021-01-18,School Bus Fees,INR 2783.28,debit,Education
+2021-01-18,Property Tax,INR 3028.05,debit,Housing
+2021-01-19,Children's Birthday Party,INR 10621.67,debit,Entertainment
+2021-01-19,Amazon Prime,INR 703.68,debit,Subscriptions
+2021-01-20,More Supermarket,INR 1072.36,debit,Groceries
+2021-01-21,Zomato Food Delivery,INR 238.86,debit,Food & Dining
+2021-01-22,Rental Income,INR 14618.37,credit,Income
+2021-01-22,Family Restaurant,INR 3546.67,debit,Food & Dining
+2021-01-22,Rapido Bike Taxi,INR 47.83,debit,Transportation
+2021-01-23,Wife Salary,INR 62571.04,credit,Income
+2021-01-23,School Bus Fees,INR 3115.16,debit,Education
+2021-01-23,Property Tax,INR 6187.05,debit,Housing
+2021-01-24,Family Vacation,INR 6792.41,debit,Travel
+2021-01-24,Property Tax,INR 1514.01,debit,Housing
+2021-01-24,Zomato Food Delivery,INR 596.04,debit,Food & Dining
+2021-01-25,Amazon Purchase,INR 478.46,debit,Shopping
+2021-01-25,Swiggy Order,INR 852.76,debit,Food & Dining
+2021-01-27,Family Vacation,INR 33577.20,debit,Travel
+2021-01-28,Tuition Teacher,INR 6669.64,debit,Education
+2021-01-28,Interest Credit,INR 1773.46,credit,Income
+2021-01-29,Flipkart Order,INR 4764.29,debit,Shopping
+2021-01-29,More Supermarket,INR 1788.52,debit,Groceries
+2021-02-02,Uber Ride,INR 122.83,debit,Transportation
+2021-02-02,Maid/Cook Salary,INR 3463.86,debit,Miscellaneous
+2021-02-02,Wife Salary,INR 89668.31,credit,Income
+2021-02-03,Toys & Games,INR 2003.62,debit,Shopping
+2021-02-04,Maid/Cook Salary,INR 5524.91,debit,Miscellaneous
+2021-02-05,Myntra Fashion,INR 503.75,debit,Shopping
+2021-02-05,Car Servicing,INR 5247.49,debit,Transportation
+2021-02-06,Car EMI,INR 13728.52,debit,Transportation
+2021-02-07,Toys & Games,INR 4681.48,debit,Shopping
+2021-02-08,Zomato Food Delivery,INR 603.74,debit,Food & Dining
+2021-02-09,Family Restaurant,INR 3070.80,debit,Food & Dining
+2021-02-11,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-02-15,School Bus Fees,INR 3605.00,debit,Education
+2021-02-15,Household Repairs,INR 13948.08,debit,Housing
+2021-02-17,Maid/Cook Salary,INR 9280.53,debit,Miscellaneous
+2021-02-18,Husband Salary,INR 93624.13,credit,Income
+2021-02-18,Hotstar Subscription,INR 719.52,debit,Subscriptions
+2021-02-19,Swiggy Order,INR 790.78,debit,Food & Dining
+2021-02-19,Car EMI,INR 8784.20,debit,Transportation
+2021-02-21,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-02-24,Maid/Cook Salary,INR 5144.44,debit,Miscellaneous
+2021-02-26,Hotstar Subscription,INR 382.87,debit,Subscriptions
+2021-02-26,Zomato Food Delivery,INR 333.79,debit,Food & Dining
+2021-02-26,Amazon Purchase,INR 3761.05,debit,Shopping
+2021-02-27,Cashback Credit,INR 480.42,credit,Income
+2021-02-27,Kids Clothing,INR 552.31,debit,Shopping
+2021-02-28,Family Restaurant,INR 1380.08,debit,Food & Dining
+2021-03-01,Rental Income,INR 5728.35,credit,Income
+2021-03-01,Children's Birthday Party,INR 6334.97,debit,Entertainment
+2021-03-02,Netflix Subscription,INR 166.20,debit,Subscriptions
+2021-03-05,Children's Birthday Party,INR 12635.46,debit,Entertainment
+2021-03-06,More Supermarket,INR 1423.31,debit,Groceries
+2021-03-07,Cashback Credit,INR 275.32,credit,Income
+2021-03-07,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-03-08,Children's Birthday Party,INR 2999.28,debit,Entertainment
+2021-03-08,Children's Birthday Party,INR 11035.96,debit,Entertainment
+2021-03-09,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-03-10,Toys & Games,INR 4497.99,debit,Shopping
+2021-03-11,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-03-11,Tuition Teacher,INR 5756.52,debit,Education
+2021-03-12,Refund Credit,INR 4831.52,credit,Income
+2021-03-12,Children's Birthday Party,INR 14516.12,debit,Entertainment
+2021-03-13,Netflix Subscription,INR 245.88,debit,Subscriptions
+2021-03-14,DMart Purchase,INR 3305.91,debit,Groceries
+2021-03-14,Uber Ride,INR 81.30,debit,Transportation
+2021-03-14,Ajio Clothing,INR 3462.93,debit,Shopping
+2021-03-15,Vegetable Vendor,INR 640.54,debit,Groceries
+2021-03-17,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-03-18,Property Tax,INR 3499.84,debit,Housing
+2021-03-18,Refund Credit,INR 2126.15,credit,Income
+2021-03-18,Rapido Bike Taxi,INR 126.31,debit,Transportation
+2021-03-19,Meesho Order,INR 261.78,debit,Shopping
+2021-03-20,Zomato Food Delivery,INR 221.17,debit,Food & Dining
+2021-03-21,Milk Monthly,INR 688.71,debit,Groceries
+2021-03-21,Refund Credit,INR 4399.37,credit,Income
+2021-03-21,Myntra Fashion,INR 3902.28,debit,Shopping
+2021-03-23,Hotstar Subscription,INR 198.36,debit,Subscriptions
+2021-03-24,Kids Clothing,INR 2782.39,debit,Shopping
+2021-03-25,BigBasket Groceries,INR 814.34,debit,Groceries
+2021-03-25,Maid/Cook Salary,INR 9755.92,debit,Miscellaneous
+2021-03-26,Reliance Fresh,INR 813.38,debit,Groceries
+2021-03-27,Rapido Bike Taxi,INR 182.24,debit,Transportation
+2021-03-27,Tuition Teacher,INR 4092.04,debit,Education
+2021-03-27,Meesho Order,INR 1419.06,debit,Shopping
+2021-03-28,Myntra Fashion,INR 1769.91,debit,Shopping
+2021-03-29,Rental Income,INR 15829.30,credit,Income
+2021-03-29,Toys & Games,INR 4395.41,debit,Shopping
+2021-03-29,Tuition Teacher,INR 4537.91,debit,Education
+2021-03-30,Swiggy Order,INR 340.93,debit,Food & Dining
+2021-03-30,Home Appliance Purchase,INR 15626.22,debit,Shopping
+2021-03-31,Property Tax,INR 1267.53,debit,Housing
+2021-04-01,BookMyShow Tickets,INR 949.81,debit,Entertainment
+2021-04-02,BookMyShow Tickets,INR 793.67,debit,Entertainment
+2021-04-03,Kids Clothing,INR 1614.03,debit,Shopping
+2021-04-05,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-04-05,BigBasket Groceries,INR 1095.20,debit,Groceries
+2021-04-06,Children's Birthday Party,INR 7628.78,debit,Entertainment
+2021-04-06,More Supermarket,INR 477.38,debit,Groceries
+2021-04-07,Milk Monthly,INR 834.63,debit,Groceries
+2021-04-08,Amazon Purchase,INR 1604.15,debit,Shopping
+2021-04-09,Ajio Clothing,INR 2095.02,debit,Shopping
+2021-04-09,Kids Clothing,INR 776.78,debit,Shopping
+2021-04-09,Refund Credit,INR 774.75,credit,Income
+2021-04-09,Flipkart Order,INR 2032.14,debit,Shopping
+2021-04-12,Zomato Food Delivery,INR 599.68,debit,Food & Dining
+2021-04-13,Car EMI,INR 14324.65,debit,Transportation
+2021-04-13,Car EMI,INR 12107.30,debit,Transportation
+2021-04-14,Amazon Purchase,INR 714.73,debit,Shopping
+2021-04-14,Refund Credit,INR 345.31,credit,Income
+2021-04-16,Household Repairs,INR 15379.11,debit,Housing
+2021-04-17,Maid/Cook Salary,INR 9368.54,debit,Miscellaneous
+2021-04-20,Refund Credit,INR 676.44,credit,Income
+2021-04-20,Hotstar Subscription,INR 420.09,debit,Subscriptions
+2021-04-21,Children's Birthday Party,INR 9210.20,debit,Entertainment
+2021-04-21,Kids Clothing,INR 1512.30,debit,Shopping
+2021-04-23,Children's Birthday Party,INR 5112.02,debit,Entertainment
+2021-04-25,Milk Monthly,INR 752.89,debit,Groceries
+2021-04-27,DMart Purchase,INR 1183.38,debit,Groceries
+2021-04-27,Zomato Food Delivery,INR 813.75,debit,Food & Dining
+2021-04-27,Car Servicing,INR 9199.78,debit,Transportation
+2021-04-29,Ola Cab,INR 196.90,debit,Transportation
+2021-04-30,Rental Income,INR 13907.74,credit,Income
+2021-04-30,Tuition Teacher,INR 4348.46,debit,Education
+2021-04-30,Refund Credit,INR 2926.57,credit,Income
+2021-05-01,Kids Clothing,INR 2429.41,debit,Shopping
+2021-05-01,Household Repairs,INR 14072.89,debit,Housing
+2021-05-01,More Supermarket,INR 1474.96,debit,Groceries
+2021-05-01,Zomato Food Delivery,INR 216.88,debit,Food & Dining
+2021-05-02,Myntra Fashion,INR 3942.37,debit,Shopping
+2021-05-04,Car EMI,INR 18567.02,debit,Transportation
+2021-05-05,Tuition Teacher,INR 5068.73,debit,Education
+2021-05-05,Car Servicing,INR 3504.03,debit,Transportation
+2021-05-06,Netflix Subscription,INR 378.07,debit,Subscriptions
+2021-05-06,Vegetable Vendor,INR 643.99,debit,Groceries
+2021-05-07,Children's Birthday Party,INR 5606.50,debit,Entertainment
+2021-05-07,Netflix Subscription,INR 563.53,debit,Subscriptions
+2021-05-08,Rental Income,INR 15617.44,credit,Income
+2021-05-09,Toys & Games,INR 4751.30,debit,Shopping
+2021-05-14,Myntra Fashion,INR 1465.15,debit,Shopping
+2021-05-14,Uber Ride,INR 579.74,debit,Transportation
+2021-05-15,Flipkart Order,INR 832.45,debit,Shopping
+2021-05-16,Rapido Bike Taxi,INR 179.34,debit,Transportation
+2021-05-16,Car EMI,INR 11190.47,debit,Transportation
+2021-05-16,Ola Cab,INR 72.93,debit,Transportation
+2021-05-16,Maid/Cook Salary,INR 5928.65,debit,Miscellaneous
+2021-05-17,Milk Monthly,INR 735.10,debit,Groceries
+2021-05-18,Swiggy Order,INR 897.85,debit,Food & Dining
+2021-05-18,Vegetable Vendor,INR 464.03,debit,Groceries
+2021-05-19,Meesho Order,INR 1665.38,debit,Shopping
+2021-05-19,Bonus Credit,INR 32901.32,credit,Income
+2021-05-20,Flipkart Order,INR 5899.15,debit,Shopping
+2021-05-20,BookMyShow Tickets,INR 462.30,debit,Entertainment
+2021-05-23,Family Restaurant,INR 2199.95,debit,Food & Dining
+2021-05-26,BigBasket Groceries,INR 1999.56,debit,Groceries
+2021-05-26,Kids Clothing,INR 1310.67,debit,Shopping
+2021-05-26,DMart Purchase,INR 593.29,debit,Groceries
+2021-05-26,Children's Birthday Party,INR 6711.22,debit,Entertainment
+2021-05-26,Family Vacation,INR 24186.91,debit,Travel
+2021-05-27,DMart Purchase,INR 804.52,debit,Groceries
+2021-05-30,Family Vacation,INR 30133.93,debit,Travel
+2021-05-30,Wife Salary,INR 54213.51,credit,Income
+2021-05-30,BookMyShow Tickets,INR 1234.40,debit,Entertainment
+2021-05-31,Rapido Bike Taxi,INR 43.22,debit,Transportation
+2021-05-31,Amazon Prime,INR 255.68,debit,Subscriptions
+2021-06-02,Swiggy Order,INR 210.04,debit,Food & Dining
+2021-06-03,Children's Birthday Party,INR 2969.23,debit,Entertainment
+2021-06-03,Car Servicing,INR 9583.49,debit,Transportation
+2021-06-03,More Supermarket,INR 1547.10,debit,Groceries
+2021-06-03,BookMyShow Tickets,INR 502.43,debit,Entertainment
+2021-06-05,Household Repairs,INR 13597.38,debit,Housing
+2021-06-05,Flipkart Order,INR 3581.12,debit,Shopping
+2021-06-05,Interest Credit,INR 3269.92,credit,Income
+2021-06-06,Rapido Bike Taxi,INR 171.76,debit,Transportation
+2021-06-07,Milk Monthly,INR 773.54,debit,Groceries
+2021-06-07,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-06-09,Household Repairs,INR 13144.96,debit,Housing
+2021-06-09,Tuition Teacher,INR 6521.48,debit,Education
+2021-06-09,Car EMI,INR 11718.42,debit,Transportation
+2021-06-10,Cashback Credit,INR 1194.63,credit,Income
+2021-06-12,Vegetable Vendor,INR 579.57,debit,Groceries
+2021-06-12,DMart Purchase,INR 759.59,debit,Groceries
+2021-06-14,Kids Clothing,INR 1108.81,debit,Shopping
+2021-06-14,Zomato Food Delivery,INR 398.70,debit,Food & Dining
+2021-06-15,More Supermarket,INR 1357.06,debit,Groceries
+2021-06-16,BigBasket Groceries,INR 936.30,debit,Groceries
+2021-06-16,Reliance Fresh,INR 451.51,debit,Groceries
+2021-06-17,Netflix Subscription,INR 613.37,debit,Subscriptions
+2021-06-17,Uber Ride,INR 85.87,debit,Transportation
+2021-06-18,Property Tax,INR 4461.68,debit,Housing
+2021-06-18,Ajio Clothing,INR 3032.92,debit,Shopping
+2021-06-20,Reliance Fresh,INR 208.63,debit,Groceries
+2021-06-21,Reliance Fresh,INR 490.04,debit,Groceries
+2021-06-21,Kids Clothing,INR 1455.82,debit,Shopping
+2021-06-21,More Supermarket,INR 1696.87,debit,Groceries
+2021-06-21,Household Repairs,INR 4318.99,debit,Housing
+2021-06-22,Children's Birthday Party,INR 5855.64,debit,Entertainment
+2021-06-22,Maid/Cook Salary,INR 4280.15,debit,Miscellaneous
+2021-06-22,Cashback Credit,INR 1592.00,credit,Income
+2021-06-23,Family Vacation,INR 46524.23,debit,Travel
+2021-06-23,Netflix Subscription,INR 442.21,debit,Subscriptions
+2021-06-25,Car EMI,INR 10852.98,debit,Transportation
+2021-06-26,Husband Salary,INR 95365.22,credit,Income
+2021-06-28,Reliance Fresh,INR 1989.37,debit,Groceries
+2021-06-28,Household Repairs,INR 16114.16,debit,Housing
+2021-06-30,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-07-01,Property Tax,INR 7756.06,debit,Housing
+2021-07-01,More Supermarket,INR 1484.59,debit,Groceries
+2021-07-01,Hotstar Subscription,INR 619.98,debit,Subscriptions
+2021-07-02,Property Tax,INR 3303.94,debit,Housing
+2021-07-02,Meesho Order,INR 1776.14,debit,Shopping
+2021-07-02,Family Restaurant,INR 2240.46,debit,Food & Dining
+2021-07-04,Tuition Teacher,INR 4186.67,debit,Education
+2021-07-05,Meesho Order,INR 1497.69,debit,Shopping
+2021-07-06,Flipkart Order,INR 1954.06,debit,Shopping
+2021-07-06,Meesho Order,INR 443.60,debit,Shopping
+2021-07-07,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-07-08,Milk Monthly,INR 974.99,debit,Groceries
+2021-07-08,Netflix Subscription,INR 210.52,debit,Subscriptions
+2021-07-08,Hotstar Subscription,INR 806.30,debit,Subscriptions
+2021-07-10,Family Restaurant,INR 3274.17,debit,Food & Dining
+2021-07-11,Swiggy Order,INR 251.25,debit,Food & Dining
+2021-07-12,Interest Credit,INR 3541.01,credit,Income
+2021-07-12,DMart Purchase,INR 3385.35,debit,Groceries
+2021-07-12,Amazon Purchase,INR 5582.79,debit,Shopping
+2021-07-13,BookMyShow Tickets,INR 1481.02,debit,Entertainment
+2021-07-14,Family Restaurant,INR 3600.51,debit,Food & Dining
+2021-07-17,Wife Salary,INR 81826.86,credit,Income
+2021-07-17,BookMyShow Tickets,INR 874.89,debit,Entertainment
+2021-07-18,Property Tax,INR 6514.17,debit,Housing
+2021-07-19,Car EMI,INR 9474.96,debit,Transportation
+2021-07-20,Family Restaurant,INR 2419.56,debit,Food & Dining
+2021-07-20,Toys & Games,INR 3131.69,debit,Shopping
+2021-07-21,Car Servicing,INR 2526.14,debit,Transportation
+2021-07-22,Ola Cab,INR 204.85,debit,Transportation
+2021-07-23,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-07-25,Rapido Bike Taxi,INR 89.74,debit,Transportation
+2021-07-26,Interest Credit,INR 2155.47,credit,Income
+2021-07-26,Bonus Credit,INR 41704.58,credit,Income
+2021-07-26,Meesho Order,INR 827.48,debit,Shopping
+2021-07-27,Car EMI,INR 14888.55,debit,Transportation
+2021-07-28,Refund Credit,INR 1776.41,credit,Income
+2021-07-28,Family Restaurant,INR 1647.35,debit,Food & Dining
+2021-07-29,Wife Salary,INR 66831.37,credit,Income
+2021-07-29,Wife Salary,INR 68337.14,credit,Income
+2021-07-30,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-07-30,Tuition Teacher,INR 7865.77,debit,Education
+2021-07-31,BigBasket Groceries,INR 1540.24,debit,Groceries
+2021-07-31,Interest Credit,INR 1757.91,credit,Income
+2021-07-31,Uber Ride,INR 181.98,debit,Transportation
+2021-07-31,Property Tax,INR 1571.59,debit,Housing
+2021-08-01,Meesho Order,INR 441.23,debit,Shopping
+2021-08-03,Zomato Food Delivery,INR 526.72,debit,Food & Dining
+2021-08-05,Amazon Purchase,INR 959.56,debit,Shopping
+2021-08-05,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-08-06,Ola Cab,INR 353.35,debit,Transportation
+2021-08-06,Hotstar Subscription,INR 606.63,debit,Subscriptions
+2021-08-07,Property Tax,INR 7895.97,debit,Housing
+2021-08-07,Reliance Fresh,INR 292.98,debit,Groceries
+2021-08-09,More Supermarket,INR 713.37,debit,Groceries
+2021-08-10,Property Tax,INR 2367.53,debit,Housing
+2021-08-10,Netflix Subscription,INR 234.87,debit,Subscriptions
+2021-08-11,BookMyShow Tickets,INR 570.71,debit,Entertainment
+2021-08-12,Property Tax,INR 3517.95,debit,Housing
+2021-08-13,Ajio Clothing,INR 2914.42,debit,Shopping
+2021-08-13,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-08-14,Kids Clothing,INR 1255.75,debit,Shopping
+2021-08-15,Amazon Prime,INR 575.84,debit,Subscriptions
+2021-08-16,More Supermarket,INR 317.38,debit,Groceries
+2021-08-17,Uber Ride,INR 452.90,debit,Transportation
+2021-08-18,Reliance Fresh,INR 918.53,debit,Groceries
+2021-08-18,Amazon Purchase,INR 7472.10,debit,Shopping
+2021-08-18,Car Servicing,INR 10326.34,debit,Transportation
+2021-08-19,Family Vacation,INR 12436.99,debit,Travel
+2021-08-20,Car Servicing,INR 3555.03,debit,Transportation
+2021-08-21,Vegetable Vendor,INR 986.34,debit,Groceries
+2021-08-22,Meesho Order,INR 847.08,debit,Shopping
+2021-08-22,Family Vacation,INR 40269.66,debit,Travel
+2021-08-24,School Bus Fees,INR 2039.30,debit,Education
+2021-08-25,Refund Credit,INR 727.86,credit,Income
+2021-08-25,Maid/Cook Salary,INR 4611.27,debit,Miscellaneous
+2021-08-26,Swiggy Order,INR 554.53,debit,Food & Dining
+2021-08-29,Milk Monthly,INR 1005.46,debit,Groceries
+2021-08-29,Car EMI,INR 10656.11,debit,Transportation
+2021-08-30,Tuition Teacher,INR 4290.38,debit,Education
+2021-08-31,Ola Cab,INR 409.65,debit,Transportation
+2021-08-31,Toys & Games,INR 1583.76,debit,Shopping
+2021-09-02,Amazon Prime,INR 452.53,debit,Subscriptions
+2021-09-02,Milk Monthly,INR 949.27,debit,Groceries
+2021-09-02,Amazon Prime,INR 848.01,debit,Subscriptions
+2021-09-03,Property Tax,INR 2155.24,debit,Housing
+2021-09-03,Swiggy Order,INR 476.85,debit,Food & Dining
+2021-09-04,Milk Monthly,INR 609.23,debit,Groceries
+2021-09-05,Swiggy Order,INR 135.77,debit,Food & Dining
+2021-09-06,Tuition Teacher,INR 6421.58,debit,Education
+2021-09-06,More Supermarket,INR 1051.39,debit,Groceries
+2021-09-06,BookMyShow Tickets,INR 1155.02,debit,Entertainment
+2021-09-10,Ajio Clothing,INR 3226.26,debit,Shopping
+2021-09-11,Husband Salary,INR 70985.65,credit,Income
+2021-09-13,Family Restaurant,INR 3516.99,debit,Food & Dining
+2021-09-14,Milk Monthly,INR 722.21,debit,Groceries
+2021-09-16,Maid/Cook Salary,INR 5389.36,debit,Miscellaneous
+2021-09-16,Amazon Purchase,INR 2332.39,debit,Shopping
+2021-09-17,DMart Purchase,INR 263.23,debit,Groceries
+2021-09-19,Milk Monthly,INR 973.82,debit,Groceries
+2021-09-20,Wife Salary,INR 64133.61,credit,Income
+2021-09-23,Myntra Fashion,INR 2405.33,debit,Shopping
+2021-09-26,Tuition Teacher,INR 4792.44,debit,Education
+2021-09-29,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-09-30,BigBasket Groceries,INR 1337.07,debit,Groceries
+2021-09-30,Amazon Prime,INR 635.84,debit,Subscriptions
+2021-09-30,Hotstar Subscription,INR 349.03,debit,Subscriptions
+2021-10-01,Vegetable Vendor,INR 280.47,debit,Groceries
+2021-10-01,Children's Birthday Party,INR 2708.23,debit,Entertainment
+2021-10-01,Husband Salary,INR 144499.30,credit,Income
+2021-10-01,Zomato Food Delivery,INR 613.89,debit,Food & Dining
+2021-10-01,Home Appliance Purchase,INR 39997.80,debit,Shopping
+2021-10-02,Toys & Games,INR 1980.06,debit,Shopping
+2021-10-03,More Supermarket,INR 329.17,debit,Groceries
+2021-10-03,Hotstar Subscription,INR 276.72,debit,Subscriptions
+2021-10-04,Vegetable Vendor,INR 388.67,debit,Groceries
+2021-10-05,Bonus Credit,INR 16892.30,credit,Income
+2021-10-06,School Bus Fees,INR 3952.08,debit,Education
+2021-10-06,Car EMI,INR 11867.56,debit,Transportation
+2021-10-07,Car Servicing,INR 8514.03,debit,Transportation
+2021-10-08,Toys & Games,INR 493.09,debit,Shopping
+2021-10-08,School Bus Fees,INR 1831.06,debit,Education
+2021-10-08,BookMyShow Tickets,INR 965.20,debit,Entertainment
+2021-10-08,School Bus Fees,INR 2564.02,debit,Education
+2021-10-08,BigBasket Groceries,INR 2148.36,debit,Groceries
+2021-10-09,More Supermarket,INR 379.84,debit,Groceries
+2021-10-09,Children's Birthday Party,INR 6600.90,debit,Entertainment
+2021-10-09,BigBasket Groceries,INR 2749.45,debit,Groceries
+2021-10-11,BookMyShow Tickets,INR 302.70,debit,Entertainment
+2021-10-11,Milk Monthly,INR 855.44,debit,Groceries
+2021-10-13,Ajio Clothing,INR 1755.29,debit,Shopping
+2021-10-14,Property Tax,INR 7914.94,debit,Housing
+2021-10-14,Swiggy Order,INR 620.97,debit,Food & Dining
+2021-10-15,Uber Ride,INR 208.97,debit,Transportation
+2021-10-16,Bonus Credit,INR 18533.55,credit,Income
+2021-10-16,DMart Purchase,INR 2538.46,debit,Groceries
+2021-10-16,Car EMI,INR 19779.09,debit,Transportation
+2021-10-18,Ola Cab,INR 158.05,debit,Transportation
+2021-10-18,Maid/Cook Salary,INR 7017.04,debit,Miscellaneous
+2021-10-18,Uber Ride,INR 102.21,debit,Transportation
+2021-10-19,Car Servicing,INR 11598.82,debit,Transportation
+2021-10-21,Hotstar Subscription,INR 221.50,debit,Subscriptions
+2021-10-21,Rapido Bike Taxi,INR 134.05,debit,Transportation
+2021-10-22,Uber Ride,INR 466.41,debit,Transportation
+2021-10-22,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-10-23,Reliance Fresh,INR 1022.17,debit,Groceries
+2021-10-23,Vegetable Vendor,INR 576.57,debit,Groceries
+2021-10-24,Uber Ride,INR 86.14,debit,Transportation
+2021-10-24,Myntra Fashion,INR 1182.94,debit,Shopping
+2021-10-26,Amazon Purchase,INR 3336.21,debit,Shopping
+2021-10-26,Home Appliance Purchase,INR 8262.84,debit,Shopping
+2021-10-26,Rental Income,INR 15169.37,credit,Income
+2021-10-27,Amazon Purchase,INR 7463.18,debit,Shopping
+2021-10-29,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-10-30,Uber Ride,INR 411.81,debit,Transportation
+2021-10-30,Car Servicing,INR 6275.25,debit,Transportation
+2021-11-01,Hotstar Subscription,INR 289.28,debit,Subscriptions
+2021-11-01,Car EMI,INR 12988.11,debit,Transportation
+2021-11-02,Zomato Food Delivery,INR 522.83,debit,Food & Dining
+2021-11-03,Children's Birthday Party,INR 6720.62,debit,Entertainment
+2021-11-05,Kids Clothing,INR 2023.82,debit,Shopping
+2021-11-05,Amazon Prime,INR 269.68,debit,Subscriptions
+2021-11-05,More Supermarket,INR 685.11,debit,Groceries
+2021-11-07,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-11-09,BigBasket Groceries,INR 1565.23,debit,Groceries
+2021-11-09,Household Repairs,INR 11475.90,debit,Housing
+2021-11-09,Rapido Bike Taxi,INR 101.91,debit,Transportation
+2021-11-10,Property Tax,INR 1150.85,debit,Housing
+2021-11-10,Car Servicing,INR 6075.07,debit,Transportation
+2021-11-10,BookMyShow Tickets,INR 771.47,debit,Entertainment
+2021-11-10,Car Servicing,INR 9780.85,debit,Transportation
+2021-11-11,Maid/Cook Salary,INR 6735.69,debit,Miscellaneous
+2021-11-12,Toys & Games,INR 439.13,debit,Shopping
+2021-11-13,Hotstar Subscription,INR 480.16,debit,Subscriptions
+2021-11-16,Netflix Subscription,INR 573.43,debit,Subscriptions
+2021-11-16,Family Restaurant,INR 2347.69,debit,Food & Dining
+2021-11-17,More Supermarket,INR 1489.34,debit,Groceries
+2021-11-17,Milk Monthly,INR 1152.33,debit,Groceries
+2021-11-17,Property Tax,INR 5313.33,debit,Housing
+2021-11-17,Maid/Cook Salary,INR 7552.44,debit,Miscellaneous
+2021-11-18,Home Appliance Purchase,INR 37596.36,debit,Shopping
+2021-11-19,Property Tax,INR 5006.33,debit,Housing
+2021-11-19,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-11-21,Household Repairs,INR 19086.40,debit,Housing
+2021-11-21,Cashback Credit,INR 746.93,credit,Income
+2021-11-21,BigBasket Groceries,INR 3783.53,debit,Groceries
+2021-11-22,Milk Monthly,INR 933.59,debit,Groceries
+2021-11-24,Bonus Credit,INR 62777.76,credit,Income
+2021-11-24,Bonus Credit,INR 33650.03,credit,Income
+2021-11-25,Flipkart Order,INR 1629.64,debit,Shopping
+2021-11-25,Netflix Subscription,INR 433.46,debit,Subscriptions
+2021-11-25,Home Appliance Purchase,INR 29198.98,debit,Shopping
+2021-11-26,Home Appliance Purchase,INR 30513.62,debit,Shopping
+2021-11-26,Refund Credit,INR 419.19,credit,Income
+2021-11-26,BigBasket Groceries,INR 1762.43,debit,Groceries
+2021-11-26,Milk Monthly,INR 626.68,debit,Groceries
+2021-11-28,Myntra Fashion,INR 3357.02,debit,Shopping
+2021-11-28,Rapido Bike Taxi,INR 135.98,debit,Transportation
+2021-11-28,DMart Purchase,INR 964.76,debit,Groceries
+2021-11-30,Spotify Premium,INR 119.00,debit,Subscriptions
+2021-12-01,Amazon Prime,INR 972.97,debit,Subscriptions
+2021-12-01,Swiggy Order,INR 243.48,debit,Food & Dining
+2021-12-01,Toys & Games,INR 4639.25,debit,Shopping
+2021-12-01,Amazon Purchase,INR 1557.72,debit,Shopping
+2021-12-01,Reliance Fresh,INR 1224.64,debit,Groceries
+2021-12-03,Myntra Fashion,INR 2561.64,debit,Shopping
+2021-12-04,Kids Clothing,INR 1400.70,debit,Shopping
+2021-12-04,Ajio Clothing,INR 1525.53,debit,Shopping
+2021-12-05,Reliance Fresh,INR 1920.64,debit,Groceries
+2021-12-06,BigBasket Groceries,INR 3286.90,debit,Groceries
+2021-12-07,Cashback Credit,INR 234.93,credit,Income
+2021-12-09,Toys & Games,INR 1543.60,debit,Shopping
+2021-12-09,Amazon Prime,INR 380.39,debit,Subscriptions
+2021-12-10,Children's Birthday Party,INR 11146.21,debit,Entertainment
+2021-12-10,Tuition Teacher,INR 7454.79,debit,Education
+2021-12-11,Rental Income,INR 15254.13,credit,Income
+2021-12-11,Bonus Credit,INR 37102.13,credit,Income
+2021-12-12,Car EMI,INR 9278.12,debit,Transportation
+2021-12-12,DMart Purchase,INR 1869.28,debit,Groceries
+2021-12-13,Myntra Fashion,INR 2228.80,debit,Shopping
+2021-12-13,Uber Ride,INR 219.27,debit,Transportation
+2021-12-13,Household Repairs,INR 3340.89,debit,Housing
+2021-12-13,Meesho Order,INR 1206.83,debit,Shopping
+2021-12-13,BigBasket Groceries,INR 2836.70,debit,Groceries
+2021-12-15,Ajio Clothing,INR 3049.24,debit,Shopping
+2021-12-15,Amazon Purchase,INR 7982.42,debit,Shopping
+2021-12-16,Wife Salary,INR 55230.46,credit,Income
+2021-12-16,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-12-17,Rapido Bike Taxi,INR 100.28,debit,Transportation
+2021-12-18,Amazon Prime,INR 505.38,debit,Subscriptions
+2021-12-18,Refund Credit,INR 1988.81,credit,Income
+2021-12-21,Rapido Bike Taxi,INR 172.54,debit,Transportation
+2021-12-23,Amazon Prime,INR 215.55,debit,Subscriptions
+2021-12-23,Milk Monthly,INR 804.41,debit,Groceries
+2021-12-24,Family Restaurant,INR 1916.75,debit,Food & Dining
+2021-12-25,Vegetable Vendor,INR 576.51,debit,Groceries
+2021-12-26,YouTube Premium,INR 139.00,debit,Subscriptions
+2021-12-27,Family Restaurant,INR 3240.94,debit,Food & Dining
+2021-12-28,Ola Cab,INR 94.22,debit,Transportation
+2021-12-30,Interest Credit,INR 3943.83,credit,Income
+2021-12-30,DMart Purchase,INR 2816.61,debit,Groceries
+2021-12-31,Kids Clothing,INR 2397.45,debit,Shopping
+2021-12-31,Flipkart Order,INR 4296.55,debit,Shopping
+2021-12-31,Husband Salary,INR 76665.35,credit,Income
+2022-01-01,Rental Income,INR 5825.93,credit,Income
+2022-01-02,Tuition Teacher,INR 4042.08,debit,Education
+2022-01-03,Hotstar Subscription,INR 417.84,debit,Subscriptions
+2022-01-03,Property Tax,INR 6850.21,debit,Housing
+2022-01-04,Home Appliance Purchase,INR 39054.33,debit,Shopping
+2022-01-04,Ajio Clothing,INR 2731.88,debit,Shopping
+2022-01-05,Uber Ride,INR 321.65,debit,Transportation
+2022-01-05,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-01-07,Flipkart Order,INR 2962.23,debit,Shopping
+2022-01-07,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-01-08,Children's Birthday Party,INR 6008.34,debit,Entertainment
+2022-01-08,BigBasket Groceries,INR 3363.44,debit,Groceries
+2022-01-08,BigBasket Groceries,INR 569.51,debit,Groceries
+2022-01-09,Interest Credit,INR 1516.53,credit,Income
+2022-01-10,Cashback Credit,INR 545.01,credit,Income
+2022-01-12,Family Vacation,INR 7550.62,debit,Travel
+2022-01-12,Household Repairs,INR 2781.53,debit,Housing
+2022-01-13,Ajio Clothing,INR 2992.76,debit,Shopping
+2022-01-13,Toys & Games,INR 2399.99,debit,Shopping
+2022-01-14,Amazon Prime,INR 382.41,debit,Subscriptions
+2022-01-14,Milk Monthly,INR 684.63,debit,Groceries
+2022-01-14,Household Repairs,INR 18513.73,debit,Housing
+2022-01-15,Household Repairs,INR 12990.37,debit,Housing
+2022-01-15,Husband Salary,INR 88309.52,credit,Income
+2022-01-15,Car EMI,INR 12225.90,debit,Transportation
+2022-01-17,Home Appliance Purchase,INR 19484.49,debit,Shopping
+2022-01-17,Amazon Prime,INR 980.36,debit,Subscriptions
+2022-01-20,Amazon Prime,INR 827.23,debit,Subscriptions
+2022-01-22,School Bus Fees,INR 2313.26,debit,Education
+2022-01-24,Tuition Teacher,INR 4512.91,debit,Education
+2022-01-24,Amazon Purchase,INR 5019.71,debit,Shopping
+2022-01-25,Family Vacation,INR 41720.13,debit,Travel
+2022-01-25,Family Vacation,INR 37785.02,debit,Travel
+2022-01-26,Ola Cab,INR 251.68,debit,Transportation
+2022-01-27,BigBasket Groceries,INR 3360.36,debit,Groceries
+2022-01-28,Tuition Teacher,INR 3888.63,debit,Education
+2022-01-28,Toys & Games,INR 2527.69,debit,Shopping
+2022-01-30,Uber Ride,INR 378.88,debit,Transportation
+2022-01-30,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-01-31,Zomato Food Delivery,INR 185.52,debit,Food & Dining
+2022-01-31,Kids Clothing,INR 885.19,debit,Shopping
+2022-01-31,Maid/Cook Salary,INR 7433.31,debit,Miscellaneous
+2022-02-03,School Bus Fees,INR 2114.18,debit,Education
+2022-02-04,Ajio Clothing,INR 2261.76,debit,Shopping
+2022-02-05,Car Servicing,INR 7988.91,debit,Transportation
+2022-02-07,Zomato Food Delivery,INR 279.26,debit,Food & Dining
+2022-02-07,Tuition Teacher,INR 7755.40,debit,Education
+2022-02-07,Amazon Purchase,INR 6261.79,debit,Shopping
+2022-02-08,Myntra Fashion,INR 1081.64,debit,Shopping
+2022-02-08,Swiggy Order,INR 492.18,debit,Food & Dining
+2022-02-08,Uber Ride,INR 158.20,debit,Transportation
+2022-02-08,Ola Cab,INR 349.27,debit,Transportation
+2022-02-09,Flipkart Order,INR 1383.20,debit,Shopping
+2022-02-11,BookMyShow Tickets,INR 987.70,debit,Entertainment
+2022-02-11,Reliance Fresh,INR 1362.72,debit,Groceries
+2022-02-12,Family Vacation,INR 30371.19,debit,Travel
+2022-02-15,Maid/Cook Salary,INR 4804.03,debit,Miscellaneous
+2022-02-15,Tuition Teacher,INR 4839.14,debit,Education
+2022-02-16,Interest Credit,INR 4863.50,credit,Income
+2022-02-16,Family Restaurant,INR 1991.27,debit,Food & Dining
+2022-02-18,Milk Monthly,INR 941.15,debit,Groceries
+2022-02-18,Swiggy Order,INR 607.62,debit,Food & Dining
+2022-02-18,Family Restaurant,INR 950.43,debit,Food & Dining
+2022-02-19,Property Tax,INR 4805.02,debit,Housing
+2022-02-19,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-02-19,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-02-20,Ajio Clothing,INR 1945.66,debit,Shopping
+2022-02-21,Myntra Fashion,INR 3583.90,debit,Shopping
+2022-02-21,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-02-21,Household Repairs,INR 19162.28,debit,Housing
+2022-02-21,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-02-22,Amazon Prime,INR 765.43,debit,Subscriptions
+2022-02-24,Refund Credit,INR 493.17,credit,Income
+2022-02-24,Car Servicing,INR 7259.58,debit,Transportation
+2022-02-25,Reliance Fresh,INR 1302.57,debit,Groceries
+2022-02-25,Reliance Fresh,INR 1183.98,debit,Groceries
+2022-02-25,Rental Income,INR 15215.66,credit,Income
+2022-02-25,School Bus Fees,INR 2850.90,debit,Education
+2022-02-26,Wife Salary,INR 75897.22,credit,Income
+2022-02-26,Flipkart Order,INR 4155.95,debit,Shopping
+2022-02-27,Rental Income,INR 14711.34,credit,Income
+2022-02-27,Car EMI,INR 12739.38,debit,Transportation
+2022-02-27,Meesho Order,INR 486.67,debit,Shopping
+2022-02-28,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-02-28,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-03-01,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-03-02,BookMyShow Tickets,INR 908.74,debit,Entertainment
+2022-03-02,Cashback Credit,INR 1062.39,credit,Income
+2022-03-03,Milk Monthly,INR 1141.24,debit,Groceries
+2022-03-05,Interest Credit,INR 2230.87,credit,Income
+2022-03-06,Home Appliance Purchase,INR 36057.92,debit,Shopping
+2022-03-06,Rental Income,INR 7719.35,credit,Income
+2022-03-06,Car Servicing,INR 7613.66,debit,Transportation
+2022-03-07,Car EMI,INR 16322.92,debit,Transportation
+2022-03-07,Toys & Games,INR 4085.31,debit,Shopping
+2022-03-07,DMart Purchase,INR 1397.12,debit,Groceries
+2022-03-08,Swiggy Order,INR 361.04,debit,Food & Dining
+2022-03-09,Rapido Bike Taxi,INR 132.57,debit,Transportation
+2022-03-10,Refund Credit,INR 4806.05,credit,Income
+2022-03-11,Maid/Cook Salary,INR 7885.78,debit,Miscellaneous
+2022-03-13,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-03-14,Amazon Purchase,INR 4224.52,debit,Shopping
+2022-03-14,Ola Cab,INR 436.67,debit,Transportation
+2022-03-15,Hotstar Subscription,INR 234.21,debit,Subscriptions
+2022-03-15,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-03-16,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-03-17,Cashback Credit,INR 966.11,credit,Income
+2022-03-17,Cashback Credit,INR 231.84,credit,Income
+2022-03-18,More Supermarket,INR 828.04,debit,Groceries
+2022-03-18,Uber Ride,INR 415.80,debit,Transportation
+2022-03-20,Reliance Fresh,INR 1485.73,debit,Groceries
+2022-03-20,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-03-23,Family Restaurant,INR 3262.37,debit,Food & Dining
+2022-03-23,BigBasket Groceries,INR 3603.42,debit,Groceries
+2022-03-25,Maid/Cook Salary,INR 9181.69,debit,Miscellaneous
+2022-03-25,Household Repairs,INR 10257.64,debit,Housing
+2022-03-26,Family Vacation,INR 46136.42,debit,Travel
+2022-03-26,Reliance Fresh,INR 763.27,debit,Groceries
+2022-03-27,Meesho Order,INR 984.64,debit,Shopping
+2022-03-28,Rapido Bike Taxi,INR 69.59,debit,Transportation
+2022-03-28,Refund Credit,INR 1460.00,credit,Income
+2022-03-29,Car EMI,INR 14059.68,debit,Transportation
+2022-03-31,Property Tax,INR 7592.00,debit,Housing
+2022-03-31,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-03-31,DMart Purchase,INR 863.10,debit,Groceries
+2022-04-02,More Supermarket,INR 146.13,debit,Groceries
+2022-04-02,Uber Ride,INR 166.74,debit,Transportation
+2022-04-04,More Supermarket,INR 1482.38,debit,Groceries
+2022-04-05,BigBasket Groceries,INR 830.18,debit,Groceries
+2022-04-06,Flipkart Order,INR 5641.18,debit,Shopping
+2022-04-06,Car EMI,INR 15383.47,debit,Transportation
+2022-04-06,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-04-06,Property Tax,INR 776.67,debit,Housing
+2022-04-09,School Bus Fees,INR 2662.68,debit,Education
+2022-04-10,Refund Credit,INR 4245.23,credit,Income
+2022-04-11,More Supermarket,INR 876.45,debit,Groceries
+2022-04-11,Reliance Fresh,INR 1912.94,debit,Groceries
+2022-04-12,Hotstar Subscription,INR 800.20,debit,Subscriptions
+2022-04-12,Car Servicing,INR 9420.53,debit,Transportation
+2022-04-13,Ajio Clothing,INR 1667.95,debit,Shopping
+2022-04-15,More Supermarket,INR 1419.90,debit,Groceries
+2022-04-15,Reliance Fresh,INR 991.53,debit,Groceries
+2022-04-15,Reliance Fresh,INR 248.35,debit,Groceries
+2022-04-16,Household Repairs,INR 9692.44,debit,Housing
+2022-04-16,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-04-17,Wife Salary,INR 68978.42,credit,Income
+2022-04-18,Property Tax,INR 6109.18,debit,Housing
+2022-04-18,Meesho Order,INR 1468.57,debit,Shopping
+2022-04-18,Uber Ride,INR 481.09,debit,Transportation
+2022-04-19,Interest Credit,INR 2596.10,credit,Income
+2022-04-20,Kids Clothing,INR 2466.93,debit,Shopping
+2022-04-20,Family Vacation,INR 56260.16,debit,Travel
+2022-04-22,Zomato Food Delivery,INR 566.23,debit,Food & Dining
+2022-04-22,Maid/Cook Salary,INR 6724.01,debit,Miscellaneous
+2022-04-23,School Bus Fees,INR 1787.92,debit,Education
+2022-04-23,Children's Birthday Party,INR 4690.91,debit,Entertainment
+2022-04-23,BookMyShow Tickets,INR 1069.71,debit,Entertainment
+2022-04-23,Rapido Bike Taxi,INR 141.23,debit,Transportation
+2022-04-24,Amazon Purchase,INR 3677.75,debit,Shopping
+2022-04-24,Property Tax,INR 2708.52,debit,Housing
+2022-04-24,Car EMI,INR 18608.46,debit,Transportation
+2022-04-25,Car Servicing,INR 7086.98,debit,Transportation
+2022-04-25,Meesho Order,INR 886.70,debit,Shopping
+2022-04-25,Amazon Purchase,INR 7256.36,debit,Shopping
+2022-04-26,Netflix Subscription,INR 320.91,debit,Subscriptions
+2022-04-27,Property Tax,INR 6629.80,debit,Housing
+2022-04-29,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-04-30,Reliance Fresh,INR 1353.14,debit,Groceries
+2022-05-01,Ajio Clothing,INR 1141.58,debit,Shopping
+2022-05-01,Husband Salary,INR 64368.56,credit,Income
+2022-05-01,More Supermarket,INR 1228.22,debit,Groceries
+2022-05-02,Kids Clothing,INR 1678.59,debit,Shopping
+2022-05-04,Flipkart Order,INR 2535.55,debit,Shopping
+2022-05-06,DMart Purchase,INR 3203.98,debit,Groceries
+2022-05-06,More Supermarket,INR 1045.55,debit,Groceries
+2022-05-08,Ola Cab,INR 315.73,debit,Transportation
+2022-05-09,Property Tax,INR 6468.21,debit,Housing
+2022-05-09,Netflix Subscription,INR 493.67,debit,Subscriptions
+2022-05-10,Uber Ride,INR 399.85,debit,Transportation
+2022-05-10,BigBasket Groceries,INR 1829.25,debit,Groceries
+2022-05-11,Wife Salary,INR 55583.06,credit,Income
+2022-05-11,Refund Credit,INR 1324.40,credit,Income
+2022-05-11,Car EMI,INR 13198.54,debit,Transportation
+2022-05-12,Ola Cab,INR 378.10,debit,Transportation
+2022-05-13,School Bus Fees,INR 3246.67,debit,Education
+2022-05-14,Family Vacation,INR 25449.24,debit,Travel
+2022-05-15,Wife Salary,INR 51355.51,credit,Income
+2022-05-15,Husband Salary,INR 103018.83,credit,Income
+2022-05-15,Milk Monthly,INR 737.68,debit,Groceries
+2022-05-15,Ola Cab,INR 460.85,debit,Transportation
+2022-05-15,Tuition Teacher,INR 2179.85,debit,Education
+2022-05-16,Amazon Purchase,INR 5769.75,debit,Shopping
+2022-05-16,Myntra Fashion,INR 3345.26,debit,Shopping
+2022-05-16,Swiggy Order,INR 774.59,debit,Food & Dining
+2022-05-17,Zomato Food Delivery,INR 523.78,debit,Food & Dining
+2022-05-17,Wife Salary,INR 68435.12,credit,Income
+2022-05-18,Bonus Credit,INR 70276.61,credit,Income
+2022-05-19,Netflix Subscription,INR 490.13,debit,Subscriptions
+2022-05-19,Toys & Games,INR 3240.30,debit,Shopping
+2022-05-20,Hotstar Subscription,INR 239.61,debit,Subscriptions
+2022-05-20,Family Vacation,INR 17417.69,debit,Travel
+2022-05-22,Refund Credit,INR 3227.56,credit,Income
+2022-05-24,Meesho Order,INR 1702.92,debit,Shopping
+2022-05-24,Maid/Cook Salary,INR 7128.45,debit,Miscellaneous
+2022-05-24,Tuition Teacher,INR 7962.75,debit,Education
+2022-05-24,Toys & Games,INR 2025.08,debit,Shopping
+2022-05-25,Flipkart Order,INR 3923.97,debit,Shopping
+2022-05-25,BigBasket Groceries,INR 3587.48,debit,Groceries
+2022-05-26,Netflix Subscription,INR 521.84,debit,Subscriptions
+2022-05-26,Husband Salary,INR 132730.18,credit,Income
+2022-05-26,Children's Birthday Party,INR 4153.43,debit,Entertainment
+2022-05-26,DMart Purchase,INR 1248.21,debit,Groceries
+2022-05-28,Meesho Order,INR 1414.92,debit,Shopping
+2022-05-29,Milk Monthly,INR 1159.66,debit,Groceries
+2022-05-29,Refund Credit,INR 3521.05,credit,Income
+2022-05-31,Netflix Subscription,INR 400.97,debit,Subscriptions
+2022-05-31,Rapido Bike Taxi,INR 31.88,debit,Transportation
+2022-06-01,DMart Purchase,INR 1588.62,debit,Groceries
+2022-06-01,Interest Credit,INR 3046.73,credit,Income
+2022-06-02,Uber Ride,INR 300.31,debit,Transportation
+2022-06-03,BigBasket Groceries,INR 3064.50,debit,Groceries
+2022-06-04,Family Vacation,INR 46520.97,debit,Travel
+2022-06-05,Wife Salary,INR 64600.38,credit,Income
+2022-06-06,Reliance Fresh,INR 1830.99,debit,Groceries
+2022-06-07,DMart Purchase,INR 2473.14,debit,Groceries
+2022-06-07,Toys & Games,INR 4914.20,debit,Shopping
+2022-06-07,Toys & Games,INR 648.71,debit,Shopping
+2022-06-08,Meesho Order,INR 261.02,debit,Shopping
+2022-06-11,Family Restaurant,INR 1497.21,debit,Food & Dining
+2022-06-13,Wife Salary,INR 62825.98,credit,Income
+2022-06-15,Zomato Food Delivery,INR 739.40,debit,Food & Dining
+2022-06-16,Toys & Games,INR 4344.78,debit,Shopping
+2022-06-16,Rental Income,INR 12133.80,credit,Income
+2022-06-17,Kids Clothing,INR 1195.12,debit,Shopping
+2022-06-18,Car EMI,INR 18335.03,debit,Transportation
+2022-06-18,Ajio Clothing,INR 2780.75,debit,Shopping
+2022-06-19,Refund Credit,INR 3557.22,credit,Income
+2022-06-19,Family Restaurant,INR 3563.29,debit,Food & Dining
+2022-06-20,Maid/Cook Salary,INR 3505.97,debit,Miscellaneous
+2022-06-22,Flipkart Order,INR 5034.48,debit,Shopping
+2022-06-22,Car Servicing,INR 3495.72,debit,Transportation
+2022-06-23,Maid/Cook Salary,INR 9072.18,debit,Miscellaneous
+2022-06-23,Wife Salary,INR 87421.65,credit,Income
+2022-06-23,Netflix Subscription,INR 460.82,debit,Subscriptions
+2022-06-24,Family Vacation,INR 51600.92,debit,Travel
+2022-06-24,DMart Purchase,INR 941.82,debit,Groceries
+2022-06-25,Netflix Subscription,INR 208.25,debit,Subscriptions
+2022-06-25,Hotstar Subscription,INR 520.00,debit,Subscriptions
+2022-06-26,Home Appliance Purchase,INR 27699.30,debit,Shopping
+2022-06-29,DMart Purchase,INR 1914.29,debit,Groceries
+2022-06-29,Flipkart Order,INR 796.78,debit,Shopping
+2022-06-30,Family Vacation,INR 15601.24,debit,Travel
+2022-07-01,Kids Clothing,INR 1960.44,debit,Shopping
+2022-07-03,Rental Income,INR 5713.94,credit,Income
+2022-07-04,More Supermarket,INR 1096.47,debit,Groceries
+2022-07-05,Ajio Clothing,INR 1434.18,debit,Shopping
+2022-07-07,Netflix Subscription,INR 294.80,debit,Subscriptions
+2022-07-08,Ola Cab,INR 264.62,debit,Transportation
+2022-07-08,Hotstar Subscription,INR 466.66,debit,Subscriptions
+2022-07-08,Myntra Fashion,INR 2714.46,debit,Shopping
+2022-07-09,More Supermarket,INR 276.28,debit,Groceries
+2022-07-10,Netflix Subscription,INR 237.85,debit,Subscriptions
+2022-07-10,Kids Clothing,INR 1012.67,debit,Shopping
+2022-07-10,Household Repairs,INR 17009.98,debit,Housing
+2022-07-11,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-07-11,Cashback Credit,INR 815.74,credit,Income
+2022-07-11,Ajio Clothing,INR 2418.93,debit,Shopping
+2022-07-11,Reliance Fresh,INR 995.42,debit,Groceries
+2022-07-12,Family Restaurant,INR 3872.12,debit,Food & Dining
+2022-07-12,Amazon Prime,INR 998.31,debit,Subscriptions
+2022-07-13,Interest Credit,INR 2375.75,credit,Income
+2022-07-13,Cashback Credit,INR 1584.00,credit,Income
+2022-07-13,School Bus Fees,INR 2374.09,debit,Education
+2022-07-13,Zomato Food Delivery,INR 420.89,debit,Food & Dining
+2022-07-15,Rental Income,INR 17116.52,credit,Income
+2022-07-16,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-07-17,DMart Purchase,INR 3197.17,debit,Groceries
+2022-07-17,Tuition Teacher,INR 4981.55,debit,Education
+2022-07-18,Refund Credit,INR 4547.12,credit,Income
+2022-07-18,Children's Birthday Party,INR 10875.94,debit,Entertainment
+2022-07-20,Interest Credit,INR 4662.22,credit,Income
+2022-07-22,Cashback Credit,INR 1949.38,credit,Income
+2022-07-23,Ola Cab,INR 161.38,debit,Transportation
+2022-07-24,Swiggy Order,INR 691.45,debit,Food & Dining
+2022-07-25,Home Appliance Purchase,INR 18158.98,debit,Shopping
+2022-07-27,Uber Ride,INR 127.49,debit,Transportation
+2022-07-29,DMart Purchase,INR 200.48,debit,Groceries
+2022-07-29,Uber Ride,INR 401.46,debit,Transportation
+2022-07-30,Ola Cab,INR 454.78,debit,Transportation
+2022-07-30,Reliance Fresh,INR 331.73,debit,Groceries
+2022-08-01,Amazon Purchase,INR 294.14,debit,Shopping
+2022-08-01,Hotstar Subscription,INR 858.49,debit,Subscriptions
+2022-08-03,Reliance Fresh,INR 619.47,debit,Groceries
+2022-08-03,Ola Cab,INR 280.26,debit,Transportation
+2022-08-04,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-08-04,Ola Cab,INR 84.45,debit,Transportation
+2022-08-04,Household Repairs,INR 9965.98,debit,Housing
+2022-08-05,Husband Salary,INR 143931.23,credit,Income
+2022-08-06,Maid/Cook Salary,INR 5510.57,debit,Miscellaneous
+2022-08-07,Hotstar Subscription,INR 397.58,debit,Subscriptions
+2022-08-07,Wife Salary,INR 55707.38,credit,Income
+2022-08-08,More Supermarket,INR 1164.70,debit,Groceries
+2022-08-09,Reliance Fresh,INR 718.14,debit,Groceries
+2022-08-09,Family Restaurant,INR 1550.07,debit,Food & Dining
+2022-08-09,Family Vacation,INR 10147.07,debit,Travel
+2022-08-11,Rental Income,INR 19553.10,credit,Income
+2022-08-12,Flipkart Order,INR 3070.60,debit,Shopping
+2022-08-12,Ajio Clothing,INR 1456.65,debit,Shopping
+2022-08-14,Zomato Food Delivery,INR 453.49,debit,Food & Dining
+2022-08-14,Netflix Subscription,INR 340.08,debit,Subscriptions
+2022-08-14,Rental Income,INR 9968.26,credit,Income
+2022-08-15,Swiggy Order,INR 503.49,debit,Food & Dining
+2022-08-16,Zomato Food Delivery,INR 257.41,debit,Food & Dining
+2022-08-17,Ola Cab,INR 468.87,debit,Transportation
+2022-08-18,Car EMI,INR 18207.08,debit,Transportation
+2022-08-20,Myntra Fashion,INR 1996.33,debit,Shopping
+2022-08-22,Property Tax,INR 1136.15,debit,Housing
+2022-08-22,Bonus Credit,INR 19341.30,credit,Income
+2022-08-23,Household Repairs,INR 14576.95,debit,Housing
+2022-08-23,Myntra Fashion,INR 2905.79,debit,Shopping
+2022-08-23,Refund Credit,INR 1557.39,credit,Income
+2022-08-24,DMart Purchase,INR 2813.52,debit,Groceries
+2022-08-26,Milk Monthly,INR 687.53,debit,Groceries
+2022-08-26,Netflix Subscription,INR 348.42,debit,Subscriptions
+2022-08-26,Vegetable Vendor,INR 767.74,debit,Groceries
+2022-08-28,Swiggy Order,INR 511.13,debit,Food & Dining
+2022-08-29,Family Vacation,INR 42593.10,debit,Travel
+2022-08-30,BookMyShow Tickets,INR 430.83,debit,Entertainment
+2022-08-30,DMart Purchase,INR 2408.02,debit,Groceries
+2022-08-30,Uber Ride,INR 586.30,debit,Transportation
+2022-08-31,BigBasket Groceries,INR 834.28,debit,Groceries
+2022-08-31,Tuition Teacher,INR 5439.73,debit,Education
+2022-09-01,Children's Birthday Party,INR 12123.74,debit,Entertainment
+2022-09-01,Refund Credit,INR 1353.13,credit,Income
+2022-09-02,Husband Salary,INR 94887.90,credit,Income
+2022-09-02,Flipkart Order,INR 1164.73,debit,Shopping
+2022-09-04,BigBasket Groceries,INR 3264.25,debit,Groceries
+2022-09-06,Myntra Fashion,INR 3530.58,debit,Shopping
+2022-09-07,Husband Salary,INR 87997.06,credit,Income
+2022-09-07,Family Restaurant,INR 2652.71,debit,Food & Dining
+2022-09-08,Children's Birthday Party,INR 8879.10,debit,Entertainment
+2022-09-08,Rental Income,INR 12369.33,credit,Income
+2022-09-09,Swiggy Order,INR 838.21,debit,Food & Dining
+2022-09-09,Car Servicing,INR 5436.91,debit,Transportation
+2022-09-09,Cashback Credit,INR 589.34,credit,Income
+2022-09-09,BigBasket Groceries,INR 3125.06,debit,Groceries
+2022-09-10,Toys & Games,INR 1289.96,debit,Shopping
+2022-09-11,Flipkart Order,INR 5156.02,debit,Shopping
+2022-09-11,Household Repairs,INR 5403.08,debit,Housing
+2022-09-12,Milk Monthly,INR 1049.58,debit,Groceries
+2022-09-12,Rapido Bike Taxi,INR 184.11,debit,Transportation
+2022-09-13,Hotstar Subscription,INR 396.38,debit,Subscriptions
+2022-09-13,Husband Salary,INR 60911.52,credit,Income
+2022-09-14,Family Restaurant,INR 1913.38,debit,Food & Dining
+2022-09-15,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-09-18,Myntra Fashion,INR 1687.41,debit,Shopping
+2022-09-19,Kids Clothing,INR 2063.36,debit,Shopping
+2022-09-19,Maid/Cook Salary,INR 9199.34,debit,Miscellaneous
+2022-09-19,Husband Salary,INR 138291.10,credit,Income
+2022-09-21,Ajio Clothing,INR 2698.14,debit,Shopping
+2022-09-22,Maid/Cook Salary,INR 8739.27,debit,Miscellaneous
+2022-09-22,School Bus Fees,INR 3755.91,debit,Education
+2022-09-24,More Supermarket,INR 1147.57,debit,Groceries
+2022-09-25,DMart Purchase,INR 624.99,debit,Groceries
+2022-09-25,DMart Purchase,INR 1900.36,debit,Groceries
+2022-09-25,Toys & Games,INR 1800.94,debit,Shopping
+2022-09-27,More Supermarket,INR 1517.37,debit,Groceries
+2022-09-27,Car EMI,INR 17797.91,debit,Transportation
+2022-09-28,Amazon Purchase,INR 2218.32,debit,Shopping
+2022-09-28,Tuition Teacher,INR 5558.78,debit,Education
+2022-09-28,Maid/Cook Salary,INR 7870.28,debit,Miscellaneous
+2022-09-29,School Bus Fees,INR 3016.33,debit,Education
+2022-09-30,Maid/Cook Salary,INR 3700.74,debit,Miscellaneous
+2022-10-02,Car EMI,INR 12598.37,debit,Transportation
+2022-10-02,Uber Ride,INR 233.79,debit,Transportation
+2022-10-03,Milk Monthly,INR 1050.40,debit,Groceries
+2022-10-03,Maid/Cook Salary,INR 9218.42,debit,Miscellaneous
+2022-10-03,Amazon Purchase,INR 386.78,debit,Shopping
+2022-10-05,Kids Clothing,INR 2197.17,debit,Shopping
+2022-10-05,BigBasket Groceries,INR 3786.21,debit,Groceries
+2022-10-05,Vegetable Vendor,INR 407.70,debit,Groceries
+2022-10-05,Flipkart Order,INR 1897.29,debit,Shopping
+2022-10-07,BigBasket Groceries,INR 2576.16,debit,Groceries
+2022-10-07,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-10-07,Maid/Cook Salary,INR 9233.29,debit,Miscellaneous
+2022-10-08,Uber Ride,INR 350.72,debit,Transportation
+2022-10-08,Family Vacation,INR 42644.00,debit,Travel
+2022-10-08,Ola Cab,INR 222.45,debit,Transportation
+2022-10-10,Ola Cab,INR 428.87,debit,Transportation
+2022-10-11,Bonus Credit,INR 55337.60,credit,Income
+2022-10-11,Vegetable Vendor,INR 700.56,debit,Groceries
+2022-10-13,Car Servicing,INR 11167.61,debit,Transportation
+2022-10-13,Property Tax,INR 5426.29,debit,Housing
+2022-10-14,Milk Monthly,INR 809.32,debit,Groceries
+2022-10-15,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-10-15,Children's Birthday Party,INR 14690.14,debit,Entertainment
+2022-10-17,Hotstar Subscription,INR 280.64,debit,Subscriptions
+2022-10-17,Zomato Food Delivery,INR 622.74,debit,Food & Dining
+2022-10-18,Uber Ride,INR 455.65,debit,Transportation
+2022-10-19,School Bus Fees,INR 2206.94,debit,Education
+2022-10-19,Children's Birthday Party,INR 9153.53,debit,Entertainment
+2022-10-19,Reliance Fresh,INR 1801.12,debit,Groceries
+2022-10-19,Family Vacation,INR 17894.83,debit,Travel
+2022-10-20,Husband Salary,INR 146208.28,credit,Income
+2022-10-21,More Supermarket,INR 1230.88,debit,Groceries
+2022-10-21,Property Tax,INR 1050.47,debit,Housing
+2022-10-21,BigBasket Groceries,INR 2011.04,debit,Groceries
+2022-10-22,Vegetable Vendor,INR 917.66,debit,Groceries
+2022-10-24,Tuition Teacher,INR 6817.17,debit,Education
+2022-10-27,Rapido Bike Taxi,INR 114.78,debit,Transportation
+2022-10-28,Toys & Games,INR 3223.71,debit,Shopping
+2022-10-28,Maid/Cook Salary,INR 6063.81,debit,Miscellaneous
+2022-10-29,Zomato Food Delivery,INR 815.77,debit,Food & Dining
+2022-10-30,Amazon Purchase,INR 7362.07,debit,Shopping
+2022-10-30,Amazon Purchase,INR 7324.78,debit,Shopping
+2022-10-30,Family Vacation,INR 54365.88,debit,Travel
+2022-10-31,Household Repairs,INR 5162.09,debit,Housing
+2022-10-31,Ajio Clothing,INR 2323.37,debit,Shopping
+2022-11-01,Interest Credit,INR 4921.87,credit,Income
+2022-11-04,Hotstar Subscription,INR 178.22,debit,Subscriptions
+2022-11-04,Bonus Credit,INR 56648.41,credit,Income
+2022-11-06,More Supermarket,INR 574.48,debit,Groceries
+2022-11-06,Flipkart Order,INR 3961.19,debit,Shopping
+2022-11-07,Ola Cab,INR 418.08,debit,Transportation
+2022-11-07,DMart Purchase,INR 283.67,debit,Groceries
+2022-11-08,Household Repairs,INR 19735.74,debit,Housing
+2022-11-09,Hotstar Subscription,INR 564.35,debit,Subscriptions
+2022-11-09,Hotstar Subscription,INR 835.02,debit,Subscriptions
+2022-11-09,Toys & Games,INR 508.97,debit,Shopping
+2022-11-10,Bonus Credit,INR 14041.40,credit,Income
+2022-11-11,Kids Clothing,INR 2356.58,debit,Shopping
+2022-11-11,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-11-12,Flipkart Order,INR 5548.93,debit,Shopping
+2022-11-13,Netflix Subscription,INR 457.21,debit,Subscriptions
+2022-11-17,Ajio Clothing,INR 2299.28,debit,Shopping
+2022-11-18,More Supermarket,INR 1330.14,debit,Groceries
+2022-11-18,Kids Clothing,INR 1756.95,debit,Shopping
+2022-11-18,Car EMI,INR 10071.69,debit,Transportation
+2022-11-19,Toys & Games,INR 4655.78,debit,Shopping
+2022-11-20,Rapido Bike Taxi,INR 46.04,debit,Transportation
+2022-11-20,Spotify Premium,INR 119.00,debit,Subscriptions
+2022-11-21,Amazon Prime,INR 946.98,debit,Subscriptions
+2022-11-22,Bonus Credit,INR 78827.33,credit,Income
+2022-11-22,Milk Monthly,INR 936.31,debit,Groceries
+2022-11-23,Milk Monthly,INR 984.70,debit,Groceries
+2022-11-26,Maid/Cook Salary,INR 8045.66,debit,Miscellaneous
+2022-11-27,Zomato Food Delivery,INR 236.08,debit,Food & Dining
+2022-11-27,Refund Credit,INR 1572.68,credit,Income
+2022-11-27,Swiggy Order,INR 413.41,debit,Food & Dining
+2022-11-27,Flipkart Order,INR 1151.22,debit,Shopping
+2022-11-28,Ajio Clothing,INR 2178.84,debit,Shopping
+2022-11-28,Reliance Fresh,INR 1770.36,debit,Groceries
+2022-12-01,Kids Clothing,INR 691.82,debit,Shopping
+2022-12-01,Reliance Fresh,INR 1567.77,debit,Groceries
+2022-12-01,Tuition Teacher,INR 2139.05,debit,Education
+2022-12-02,DMart Purchase,INR 934.08,debit,Groceries
+2022-12-02,Rental Income,INR 18709.57,credit,Income
+2022-12-04,Refund Credit,INR 3976.09,credit,Income
+2022-12-04,Ola Cab,INR 275.73,debit,Transportation
+2022-12-05,Home Appliance Purchase,INR 35759.68,debit,Shopping
+2022-12-05,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-12-06,Household Repairs,INR 15996.65,debit,Housing
+2022-12-06,DMart Purchase,INR 558.70,debit,Groceries
+2022-12-07,Ola Cab,INR 76.84,debit,Transportation
+2022-12-08,Vegetable Vendor,INR 318.69,debit,Groceries
+2022-12-10,Car EMI,INR 12577.26,debit,Transportation
+2022-12-12,Cashback Credit,INR 546.89,credit,Income
+2022-12-12,Milk Monthly,INR 907.67,debit,Groceries
+2022-12-13,BookMyShow Tickets,INR 1334.93,debit,Entertainment
+2022-12-15,Netflix Subscription,INR 500.45,debit,Subscriptions
+2022-12-15,School Bus Fees,INR 1629.44,debit,Education
+2022-12-16,Swiggy Order,INR 375.66,debit,Food & Dining
+2022-12-16,Family Restaurant,INR 1554.97,debit,Food & Dining
+2022-12-17,Family Vacation,INR 23692.16,debit,Travel
+2022-12-18,Swiggy Order,INR 587.78,debit,Food & Dining
+2022-12-18,Amazon Purchase,INR 954.33,debit,Shopping
+2022-12-18,DMart Purchase,INR 1452.42,debit,Groceries
+2022-12-19,Household Repairs,INR 19371.35,debit,Housing
+2022-12-19,Wife Salary,INR 63288.68,credit,Income
+2022-12-20,Rental Income,INR 10538.60,credit,Income
+2022-12-21,Swiggy Order,INR 636.87,debit,Food & Dining
+2022-12-22,Flipkart Order,INR 5029.03,debit,Shopping
+2022-12-23,Tuition Teacher,INR 4090.94,debit,Education
+2022-12-24,Cashback Credit,INR 276.75,credit,Income
+2022-12-24,Zomato Food Delivery,INR 672.10,debit,Food & Dining
+2022-12-25,YouTube Premium,INR 139.00,debit,Subscriptions
+2022-12-26,Zomato Food Delivery,INR 339.78,debit,Food & Dining
+2022-12-26,Car Servicing,INR 7518.93,debit,Transportation
+2022-12-27,Zomato Food Delivery,INR 634.53,debit,Food & Dining
+2022-12-27,Family Vacation,INR 52158.87,debit,Travel
+2022-12-28,BookMyShow Tickets,INR 1222.11,debit,Entertainment
+2022-12-28,Flipkart Order,INR 4310.12,debit,Shopping
+2022-12-29,Uber Ride,INR 443.66,debit,Transportation
+2023-01-01,Refund Credit,INR 4698.03,credit,Income
+2023-01-02,School Bus Fees,INR 2796.17,debit,Education
+2023-01-03,Children's Birthday Party,INR 6486.62,debit,Entertainment
+2023-01-03,Amazon Prime,INR 365.15,debit,Subscriptions
+2023-01-06,Uber Ride,INR 335.57,debit,Transportation
+2023-01-06,Car Servicing,INR 8207.18,debit,Transportation
+2023-01-08,School Bus Fees,INR 2850.38,debit,Education
+2023-01-10,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-01-10,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-01-11,Maid/Cook Salary,INR 6441.56,debit,Miscellaneous
+2023-01-12,Flipkart Order,INR 5894.95,debit,Shopping
+2023-01-13,Rapido Bike Taxi,INR 133.85,debit,Transportation
+2023-01-16,BigBasket Groceries,INR 830.78,debit,Groceries
+2023-01-16,Children's Birthday Party,INR 9417.55,debit,Entertainment
+2023-01-16,Car Servicing,INR 10286.97,debit,Transportation
+2023-01-19,Ajio Clothing,INR 2454.39,debit,Shopping
+2023-01-21,Uber Ride,INR 372.40,debit,Transportation
+2023-01-23,Zomato Food Delivery,INR 716.91,debit,Food & Dining
+2023-01-26,Refund Credit,INR 3753.38,credit,Income
+2023-01-27,Household Repairs,INR 2835.42,debit,Housing
+2023-01-27,Household Repairs,INR 18461.34,debit,Housing
+2023-01-30,School Bus Fees,INR 2200.63,debit,Education
+2023-01-30,More Supermarket,INR 1089.82,debit,Groceries
+2023-01-30,Bonus Credit,INR 43650.61,credit,Income
+2023-01-31,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-02-01,Car EMI,INR 14604.64,debit,Transportation
+2023-02-01,Zomato Food Delivery,INR 481.09,debit,Food & Dining
+2023-02-03,More Supermarket,INR 1457.42,debit,Groceries
+2023-02-03,BigBasket Groceries,INR 2574.90,debit,Groceries
+2023-02-03,Flipkart Order,INR 2155.86,debit,Shopping
+2023-02-03,Zomato Food Delivery,INR 175.55,debit,Food & Dining
+2023-02-03,Zomato Food Delivery,INR 344.27,debit,Food & Dining
+2023-02-04,Husband Salary,INR 138918.34,credit,Income
+2023-02-04,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-02-04,Interest Credit,INR 4962.48,credit,Income
+2023-02-05,Netflix Subscription,INR 639.48,debit,Subscriptions
+2023-02-06,Children's Birthday Party,INR 11666.36,debit,Entertainment
+2023-02-07,Zomato Food Delivery,INR 270.78,debit,Food & Dining
+2023-02-09,Kids Clothing,INR 725.21,debit,Shopping
+2023-02-09,Kids Clothing,INR 708.37,debit,Shopping
+2023-02-10,Milk Monthly,INR 637.48,debit,Groceries
+2023-02-10,Milk Monthly,INR 1163.20,debit,Groceries
+2023-02-10,Toys & Games,INR 4250.37,debit,Shopping
+2023-02-10,Refund Credit,INR 3094.52,credit,Income
+2023-02-10,Refund Credit,INR 4362.93,credit,Income
+2023-02-12,Rapido Bike Taxi,INR 148.04,debit,Transportation
+2023-02-13,Reliance Fresh,INR 1178.39,debit,Groceries
+2023-02-13,Car EMI,INR 8485.49,debit,Transportation
+2023-02-13,Kids Clothing,INR 2124.26,debit,Shopping
+2023-02-14,School Bus Fees,INR 2323.41,debit,Education
+2023-02-14,Flipkart Order,INR 1876.50,debit,Shopping
+2023-02-16,Family Vacation,INR 31773.38,debit,Travel
+2023-02-20,Amazon Purchase,INR 602.39,debit,Shopping
+2023-02-20,Family Restaurant,INR 3457.81,debit,Food & Dining
+2023-02-20,Toys & Games,INR 1691.36,debit,Shopping
+2023-02-20,Vegetable Vendor,INR 574.28,debit,Groceries
+2023-02-21,Maid/Cook Salary,INR 6503.96,debit,Miscellaneous
+2023-02-22,Ola Cab,INR 435.25,debit,Transportation
+2023-02-22,Flipkart Order,INR 1402.03,debit,Shopping
+2023-02-23,Home Appliance Purchase,INR 36924.96,debit,Shopping
+2023-02-23,More Supermarket,INR 1568.59,debit,Groceries
+2023-02-24,Family Restaurant,INR 1504.97,debit,Food & Dining
+2023-02-24,Tuition Teacher,INR 4288.89,debit,Education
+2023-02-25,Hotstar Subscription,INR 391.39,debit,Subscriptions
+2023-02-26,Cashback Credit,INR 1037.36,credit,Income
+2023-02-26,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-02-26,Milk Monthly,INR 894.53,debit,Groceries
+2023-02-26,Children's Birthday Party,INR 11442.98,debit,Entertainment
+2023-02-28,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-02-28,Car EMI,INR 13980.83,debit,Transportation
+2023-02-28,Wife Salary,INR 85268.77,credit,Income
+2023-03-03,Family Vacation,INR 58083.89,debit,Travel
+2023-03-04,Flipkart Order,INR 689.29,debit,Shopping
+2023-03-05,Rental Income,INR 17009.69,credit,Income
+2023-03-06,Amazon Purchase,INR 5282.63,debit,Shopping
+2023-03-06,Flipkart Order,INR 4896.08,debit,Shopping
+2023-03-06,School Bus Fees,INR 3145.98,debit,Education
+2023-03-07,Household Repairs,INR 14489.58,debit,Housing
+2023-03-07,Ola Cab,INR 254.27,debit,Transportation
+2023-03-09,BookMyShow Tickets,INR 215.51,debit,Entertainment
+2023-03-10,Uber Ride,INR 428.50,debit,Transportation
+2023-03-14,Vegetable Vendor,INR 425.97,debit,Groceries
+2023-03-14,Family Vacation,INR 29055.84,debit,Travel
+2023-03-16,Property Tax,INR 5701.95,debit,Housing
+2023-03-16,Car EMI,INR 18456.16,debit,Transportation
+2023-03-17,Cashback Credit,INR 955.33,credit,Income
+2023-03-20,Reliance Fresh,INR 1589.01,debit,Groceries
+2023-03-21,Household Repairs,INR 6061.76,debit,Housing
+2023-03-22,Car EMI,INR 18620.81,debit,Transportation
+2023-03-24,More Supermarket,INR 1194.44,debit,Groceries
+2023-03-25,School Bus Fees,INR 2233.43,debit,Education
+2023-03-25,Household Repairs,INR 12163.79,debit,Housing
+2023-03-26,Amazon Purchase,INR 1426.40,debit,Shopping
+2023-03-26,Home Appliance Purchase,INR 26291.16,debit,Shopping
+2023-03-28,Flipkart Order,INR 4187.46,debit,Shopping
+2023-03-29,Refund Credit,INR 1151.00,credit,Income
+2023-03-30,Netflix Subscription,INR 386.33,debit,Subscriptions
+2023-03-31,Household Repairs,INR 7690.98,debit,Housing
+2023-03-31,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-03-31,BookMyShow Tickets,INR 1315.78,debit,Entertainment
+2023-04-03,Maid/Cook Salary,INR 3516.58,debit,Miscellaneous
+2023-04-04,Kids Clothing,INR 2766.33,debit,Shopping
+2023-04-05,Refund Credit,INR 3587.91,credit,Income
+2023-04-07,Milk Monthly,INR 890.03,debit,Groceries
+2023-04-09,Rapido Bike Taxi,INR 40.29,debit,Transportation
+2023-04-09,Rapido Bike Taxi,INR 125.58,debit,Transportation
+2023-04-10,Maid/Cook Salary,INR 4020.69,debit,Miscellaneous
+2023-04-10,Family Vacation,INR 44390.48,debit,Travel
+2023-04-10,Milk Monthly,INR 1000.79,debit,Groceries
+2023-04-12,DMart Purchase,INR 2438.53,debit,Groceries
+2023-04-15,Ajio Clothing,INR 2390.25,debit,Shopping
+2023-04-18,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-04-19,Netflix Subscription,INR 188.26,debit,Subscriptions
+2023-04-20,Vegetable Vendor,INR 444.32,debit,Groceries
+2023-04-23,Wife Salary,INR 47487.58,credit,Income
+2023-04-23,School Bus Fees,INR 3296.00,debit,Education
+2023-04-24,School Bus Fees,INR 3336.86,debit,Education
+2023-04-26,Family Restaurant,INR 3666.31,debit,Food & Dining
+2023-04-26,Kids Clothing,INR 1402.85,debit,Shopping
+2023-04-27,Flipkart Order,INR 3628.27,debit,Shopping
+2023-04-28,Household Repairs,INR 14084.79,debit,Housing
+2023-04-28,Vegetable Vendor,INR 773.18,debit,Groceries
+2023-04-28,Car EMI,INR 9102.06,debit,Transportation
+2023-04-30,Meesho Order,INR 1738.00,debit,Shopping
+2023-04-30,Kids Clothing,INR 1287.05,debit,Shopping
+2023-05-01,Family Restaurant,INR 1704.82,debit,Food & Dining
+2023-05-01,Rapido Bike Taxi,INR 96.55,debit,Transportation
+2023-05-02,Amazon Prime,INR 430.12,debit,Subscriptions
+2023-05-03,Household Repairs,INR 5230.90,debit,Housing
+2023-05-04,Swiggy Order,INR 643.49,debit,Food & Dining
+2023-05-04,Rental Income,INR 18567.58,credit,Income
+2023-05-04,Car EMI,INR 14490.47,debit,Transportation
+2023-05-05,Hotstar Subscription,INR 873.28,debit,Subscriptions
+2023-05-05,Car Servicing,INR 10841.42,debit,Transportation
+2023-05-06,Hotstar Subscription,INR 461.13,debit,Subscriptions
+2023-05-06,Maid/Cook Salary,INR 9666.95,debit,Miscellaneous
+2023-05-07,Reliance Fresh,INR 1410.35,debit,Groceries
+2023-05-09,Vegetable Vendor,INR 933.42,debit,Groceries
+2023-05-09,More Supermarket,INR 1603.37,debit,Groceries
+2023-05-11,School Bus Fees,INR 1911.46,debit,Education
+2023-05-11,More Supermarket,INR 151.44,debit,Groceries
+2023-05-12,Netflix Subscription,INR 457.84,debit,Subscriptions
+2023-05-12,BigBasket Groceries,INR 1484.77,debit,Groceries
+2023-05-14,Meesho Order,INR 360.18,debit,Shopping
+2023-05-19,Netflix Subscription,INR 567.31,debit,Subscriptions
+2023-05-20,Meesho Order,INR 1791.56,debit,Shopping
+2023-05-20,Interest Credit,INR 2341.55,credit,Income
+2023-05-20,More Supermarket,INR 1459.39,debit,Groceries
+2023-05-22,Home Appliance Purchase,INR 27136.45,debit,Shopping
+2023-05-23,Ajio Clothing,INR 3041.90,debit,Shopping
+2023-05-23,Rental Income,INR 18723.72,credit,Income
+2023-05-23,Children's Birthday Party,INR 8086.38,debit,Entertainment
+2023-05-25,Reliance Fresh,INR 466.09,debit,Groceries
+2023-05-29,Meesho Order,INR 1573.26,debit,Shopping
+2023-05-29,Toys & Games,INR 3373.19,debit,Shopping
+2023-05-30,Amazon Purchase,INR 1653.32,debit,Shopping
+2023-06-03,Car Servicing,INR 9237.37,debit,Transportation
+2023-06-03,Home Appliance Purchase,INR 23636.52,debit,Shopping
+2023-06-03,Property Tax,INR 7551.45,debit,Housing
+2023-06-03,Hotstar Subscription,INR 838.94,debit,Subscriptions
+2023-06-03,BookMyShow Tickets,INR 1097.82,debit,Entertainment
+2023-06-05,Amazon Prime,INR 719.92,debit,Subscriptions
+2023-06-05,Amazon Purchase,INR 6421.52,debit,Shopping
+2023-06-05,Rapido Bike Taxi,INR 59.70,debit,Transportation
+2023-06-05,BigBasket Groceries,INR 2540.48,debit,Groceries
+2023-06-05,Wife Salary,INR 65220.22,credit,Income
+2023-06-05,School Bus Fees,INR 2413.09,debit,Education
+2023-06-05,Rental Income,INR 9449.91,credit,Income
+2023-06-07,Husband Salary,INR 116910.33,credit,Income
+2023-06-07,Husband Salary,INR 117496.02,credit,Income
+2023-06-08,Rapido Bike Taxi,INR 149.02,debit,Transportation
+2023-06-10,Rapido Bike Taxi,INR 126.68,debit,Transportation
+2023-06-11,Husband Salary,INR 72256.69,credit,Income
+2023-06-12,Meesho Order,INR 1395.28,debit,Shopping
+2023-06-13,Flipkart Order,INR 449.80,debit,Shopping
+2023-06-14,Husband Salary,INR 90195.14,credit,Income
+2023-06-14,Car Servicing,INR 3238.75,debit,Transportation
+2023-06-15,Tuition Teacher,INR 2914.25,debit,Education
+2023-06-15,Property Tax,INR 4940.54,debit,Housing
+2023-06-17,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-06-19,Hotstar Subscription,INR 419.75,debit,Subscriptions
+2023-06-19,Family Vacation,INR 45531.91,debit,Travel
+2023-06-20,Toys & Games,INR 617.38,debit,Shopping
+2023-06-20,Household Repairs,INR 1087.58,debit,Housing
+2023-06-22,Amazon Prime,INR 642.06,debit,Subscriptions
+2023-06-22,DMart Purchase,INR 1235.20,debit,Groceries
+2023-06-24,Toys & Games,INR 2202.95,debit,Shopping
+2023-06-24,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-06-25,Zomato Food Delivery,INR 427.41,debit,Food & Dining
+2023-06-26,BookMyShow Tickets,INR 1033.11,debit,Entertainment
+2023-06-26,More Supermarket,INR 317.28,debit,Groceries
+2023-06-28,Toys & Games,INR 3002.15,debit,Shopping
+2023-06-28,School Bus Fees,INR 1795.96,debit,Education
+2023-06-29,BookMyShow Tickets,INR 1195.83,debit,Entertainment
+2023-06-30,Netflix Subscription,INR 552.00,debit,Subscriptions
+2023-06-30,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-06-30,BigBasket Groceries,INR 1185.56,debit,Groceries
+2023-07-01,Amazon Prime,INR 903.95,debit,Subscriptions
+2023-07-01,Reliance Fresh,INR 1420.93,debit,Groceries
+2023-07-02,Hotstar Subscription,INR 380.25,debit,Subscriptions
+2023-07-06,Property Tax,INR 3446.03,debit,Housing
+2023-07-06,Myntra Fashion,INR 1097.62,debit,Shopping
+2023-07-07,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-07-09,Hotstar Subscription,INR 158.91,debit,Subscriptions
+2023-07-10,Reliance Fresh,INR 1319.40,debit,Groceries
+2023-07-12,Meesho Order,INR 438.22,debit,Shopping
+2023-07-12,Family Restaurant,INR 2831.63,debit,Food & Dining
+2023-07-12,More Supermarket,INR 692.87,debit,Groceries
+2023-07-13,More Supermarket,INR 850.87,debit,Groceries
+2023-07-14,Amazon Purchase,INR 5897.10,debit,Shopping
+2023-07-14,Netflix Subscription,INR 161.64,debit,Subscriptions
+2023-07-15,Ola Cab,INR 73.97,debit,Transportation
+2023-07-15,Husband Salary,INR 136963.61,credit,Income
+2023-07-17,Ola Cab,INR 215.20,debit,Transportation
+2023-07-17,Meesho Order,INR 1730.58,debit,Shopping
+2023-07-17,DMart Purchase,INR 2721.29,debit,Groceries
+2023-07-18,School Bus Fees,INR 3157.99,debit,Education
+2023-07-18,Swiggy Order,INR 431.67,debit,Food & Dining
+2023-07-18,Car Servicing,INR 10811.29,debit,Transportation
+2023-07-18,School Bus Fees,INR 3388.75,debit,Education
+2023-07-19,Meesho Order,INR 1331.51,debit,Shopping
+2023-07-20,More Supermarket,INR 1029.25,debit,Groceries
+2023-07-22,Reliance Fresh,INR 1023.54,debit,Groceries
+2023-07-23,Swiggy Order,INR 499.10,debit,Food & Dining
+2023-07-25,Uber Ride,INR 129.48,debit,Transportation
+2023-07-26,Milk Monthly,INR 1065.45,debit,Groceries
+2023-07-27,Vegetable Vendor,INR 949.35,debit,Groceries
+2023-07-30,Uber Ride,INR 348.59,debit,Transportation
+2023-07-30,Meesho Order,INR 1310.11,debit,Shopping
+2023-08-01,Tuition Teacher,INR 6002.99,debit,Education
+2023-08-01,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-08-01,Rapido Bike Taxi,INR 115.14,debit,Transportation
+2023-08-01,Toys & Games,INR 2188.94,debit,Shopping
+2023-08-02,Husband Salary,INR 146811.41,credit,Income
+2023-08-04,Uber Ride,INR 430.04,debit,Transportation
+2023-08-04,Children's Birthday Party,INR 13301.50,debit,Entertainment
+2023-08-06,Interest Credit,INR 4602.79,credit,Income
+2023-08-06,Family Vacation,INR 48337.56,debit,Travel
+2023-08-06,Milk Monthly,INR 1043.60,debit,Groceries
+2023-08-07,Wife Salary,INR 43858.34,credit,Income
+2023-08-07,Rental Income,INR 7222.95,credit,Income
+2023-08-08,Vegetable Vendor,INR 808.47,debit,Groceries
+2023-08-10,Amazon Prime,INR 411.99,debit,Subscriptions
+2023-08-11,Maid/Cook Salary,INR 7089.62,debit,Miscellaneous
+2023-08-13,Children's Birthday Party,INR 5075.67,debit,Entertainment
+2023-08-14,Refund Credit,INR 4188.02,credit,Income
+2023-08-14,Property Tax,INR 5218.46,debit,Housing
+2023-08-14,Netflix Subscription,INR 366.57,debit,Subscriptions
+2023-08-15,Rental Income,INR 9149.66,credit,Income
+2023-08-16,More Supermarket,INR 1510.43,debit,Groceries
+2023-08-16,Household Repairs,INR 10153.95,debit,Housing
+2023-08-17,Netflix Subscription,INR 509.21,debit,Subscriptions
+2023-08-19,Rapido Bike Taxi,INR 95.75,debit,Transportation
+2023-08-21,Kids Clothing,INR 2616.23,debit,Shopping
+2023-08-22,Household Repairs,INR 13787.67,debit,Housing
+2023-08-23,School Bus Fees,INR 3413.73,debit,Education
+2023-08-23,Children's Birthday Party,INR 7542.06,debit,Entertainment
+2023-08-25,Toys & Games,INR 1010.12,debit,Shopping
+2023-08-25,Car EMI,INR 19728.48,debit,Transportation
+2023-08-26,Family Vacation,INR 31631.22,debit,Travel
+2023-08-26,Family Restaurant,INR 1597.77,debit,Food & Dining
+2023-08-27,Home Appliance Purchase,INR 36367.58,debit,Shopping
+2023-08-27,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-08-30,Reliance Fresh,INR 1967.68,debit,Groceries
+2023-08-31,Zomato Food Delivery,INR 330.52,debit,Food & Dining
+2023-08-31,Children's Birthday Party,INR 10617.21,debit,Entertainment
+2023-09-01,BookMyShow Tickets,INR 1406.23,debit,Entertainment
+2023-09-03,Meesho Order,INR 1885.31,debit,Shopping
+2023-09-03,Ajio Clothing,INR 3251.91,debit,Shopping
+2023-09-04,Netflix Subscription,INR 472.32,debit,Subscriptions
+2023-09-04,Wife Salary,INR 72258.02,credit,Income
+2023-09-06,Vegetable Vendor,INR 832.70,debit,Groceries
+2023-09-06,Meesho Order,INR 208.55,debit,Shopping
+2023-09-07,Property Tax,INR 1707.52,debit,Housing
+2023-09-07,BigBasket Groceries,INR 3634.90,debit,Groceries
+2023-09-08,Car Servicing,INR 11580.70,debit,Transportation
+2023-09-11,Husband Salary,INR 78489.26,credit,Income
+2023-09-12,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-09-12,Family Vacation,INR 10790.43,debit,Travel
+2023-09-15,Ajio Clothing,INR 1932.03,debit,Shopping
+2023-09-16,Rental Income,INR 14049.22,credit,Income
+2023-09-16,Rental Income,INR 15641.15,credit,Income
+2023-09-16,BookMyShow Tickets,INR 1290.67,debit,Entertainment
+2023-09-17,Ajio Clothing,INR 2723.02,debit,Shopping
+2023-09-17,Kids Clothing,INR 2674.88,debit,Shopping
+2023-09-18,Zomato Food Delivery,INR 610.73,debit,Food & Dining
+2023-09-19,Bonus Credit,INR 49812.05,credit,Income
+2023-09-19,Meesho Order,INR 1320.01,debit,Shopping
+2023-09-20,More Supermarket,INR 1610.61,debit,Groceries
+2023-09-20,Car EMI,INR 19807.76,debit,Transportation
+2023-09-20,Maid/Cook Salary,INR 4343.36,debit,Miscellaneous
+2023-09-22,Home Appliance Purchase,INR 28202.51,debit,Shopping
+2023-09-23,Ajio Clothing,INR 1309.84,debit,Shopping
+2023-09-23,Uber Ride,INR 120.89,debit,Transportation
+2023-09-23,Uber Ride,INR 332.00,debit,Transportation
+2023-09-25,Wife Salary,INR 71355.55,credit,Income
+2023-09-26,Milk Monthly,INR 986.12,debit,Groceries
+2023-09-27,Family Restaurant,INR 3850.56,debit,Food & Dining
+2023-09-29,BookMyShow Tickets,INR 1269.93,debit,Entertainment
+2023-10-01,Reliance Fresh,INR 931.50,debit,Groceries
+2023-10-02,Meesho Order,INR 1250.77,debit,Shopping
+2023-10-03,Zomato Food Delivery,INR 527.79,debit,Food & Dining
+2023-10-04,BookMyShow Tickets,INR 1240.56,debit,Entertainment
+2023-10-05,Car Servicing,INR 8487.92,debit,Transportation
+2023-10-05,Hotstar Subscription,INR 273.99,debit,Subscriptions
+2023-10-05,Swiggy Order,INR 597.69,debit,Food & Dining
+2023-10-05,Refund Credit,INR 2053.57,credit,Income
+2023-10-08,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-10-10,Household Repairs,INR 7595.89,debit,Housing
+2023-10-10,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-10-15,Kids Clothing,INR 1751.32,debit,Shopping
+2023-10-15,Amazon Prime,INR 755.03,debit,Subscriptions
+2023-10-15,Vegetable Vendor,INR 955.48,debit,Groceries
+2023-10-16,Ola Cab,INR 375.95,debit,Transportation
+2023-10-17,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-10-18,Property Tax,INR 6282.76,debit,Housing
+2023-10-19,Meesho Order,INR 1144.96,debit,Shopping
+2023-10-20,DMart Purchase,INR 2766.78,debit,Groceries
+2023-10-21,Cashback Credit,INR 651.27,credit,Income
+2023-10-22,School Bus Fees,INR 3166.82,debit,Education
+2023-10-23,Kids Clothing,INR 1988.50,debit,Shopping
+2023-10-25,Zomato Food Delivery,INR 709.68,debit,Food & Dining
+2023-10-25,Zomato Food Delivery,INR 532.15,debit,Food & Dining
+2023-10-26,DMart Purchase,INR 2517.68,debit,Groceries
+2023-10-27,Family Restaurant,INR 3728.28,debit,Food & Dining
+2023-10-28,Refund Credit,INR 4208.22,credit,Income
+2023-10-29,Meesho Order,INR 1861.41,debit,Shopping
+2023-10-29,BookMyShow Tickets,INR 1217.38,debit,Entertainment
+2023-10-29,Hotstar Subscription,INR 350.59,debit,Subscriptions
+2023-10-30,BookMyShow Tickets,INR 751.84,debit,Entertainment
+2023-10-30,Property Tax,INR 4150.56,debit,Housing
+2023-10-30,Myntra Fashion,INR 2787.08,debit,Shopping
+2023-10-30,Flipkart Order,INR 3774.41,debit,Shopping
+2023-10-31,Reliance Fresh,INR 1309.48,debit,Groceries
+2023-10-31,Zomato Food Delivery,INR 279.64,debit,Food & Dining
+2023-10-31,Amazon Purchase,INR 7606.11,debit,Shopping
+2023-10-31,Household Repairs,INR 15182.33,debit,Housing
+2023-11-01,Meesho Order,INR 1091.55,debit,Shopping
+2023-11-03,Refund Credit,INR 2185.18,credit,Income
+2023-11-05,Family Restaurant,INR 2949.83,debit,Food & Dining
+2023-11-05,Maid/Cook Salary,INR 6972.22,debit,Miscellaneous
+2023-11-05,Zomato Food Delivery,INR 224.30,debit,Food & Dining
+2023-11-05,Flipkart Order,INR 656.96,debit,Shopping
+2023-11-05,Ajio Clothing,INR 1295.55,debit,Shopping
+2023-11-06,BigBasket Groceries,INR 1713.77,debit,Groceries
+2023-11-06,Toys & Games,INR 2098.49,debit,Shopping
+2023-11-07,Family Vacation,INR 5736.64,debit,Travel
+2023-11-10,DMart Purchase,INR 2177.38,debit,Groceries
+2023-11-10,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-11-10,Home Appliance Purchase,INR 8422.78,debit,Shopping
+2023-11-11,Car EMI,INR 8128.24,debit,Transportation
+2023-11-11,Rapido Bike Taxi,INR 140.02,debit,Transportation
+2023-11-11,Zomato Food Delivery,INR 545.09,debit,Food & Dining
+2023-11-12,Swiggy Order,INR 193.89,debit,Food & Dining
+2023-11-13,Zomato Food Delivery,INR 829.84,debit,Food & Dining
+2023-11-15,Amazon Prime,INR 997.03,debit,Subscriptions
+2023-11-17,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-11-21,Amazon Prime,INR 512.40,debit,Subscriptions
+2023-11-22,Ajio Clothing,INR 1928.25,debit,Shopping
+2023-11-23,Netflix Subscription,INR 207.46,debit,Subscriptions
+2023-11-23,Car EMI,INR 12327.50,debit,Transportation
+2023-11-23,Netflix Subscription,INR 510.66,debit,Subscriptions
+2023-11-25,Rapido Bike Taxi,INR 58.41,debit,Transportation
+2023-11-26,Uber Ride,INR 374.97,debit,Transportation
+2023-11-26,BigBasket Groceries,INR 2959.68,debit,Groceries
+2023-11-26,Toys & Games,INR 2218.53,debit,Shopping
+2023-11-27,Reliance Fresh,INR 226.97,debit,Groceries
+2023-11-28,School Bus Fees,INR 2183.67,debit,Education
+2023-11-29,Maid/Cook Salary,INR 9386.52,debit,Miscellaneous
+2023-11-30,Tuition Teacher,INR 7868.05,debit,Education
+2023-12-02,Tuition Teacher,INR 3246.75,debit,Education
+2023-12-02,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-12-02,BigBasket Groceries,INR 3903.29,debit,Groceries
+2023-12-02,Reliance Fresh,INR 1605.55,debit,Groceries
+2023-12-03,School Bus Fees,INR 2957.38,debit,Education
+2023-12-03,Maid/Cook Salary,INR 4372.83,debit,Miscellaneous
+2023-12-04,DMart Purchase,INR 1418.94,debit,Groceries
+2023-12-05,Ola Cab,INR 201.82,debit,Transportation
+2023-12-05,Husband Salary,INR 82012.78,credit,Income
+2023-12-06,Zomato Food Delivery,INR 748.50,debit,Food & Dining
+2023-12-06,Netflix Subscription,INR 427.43,debit,Subscriptions
+2023-12-07,Flipkart Order,INR 3113.60,debit,Shopping
+2023-12-08,Family Vacation,INR 36275.49,debit,Travel
+2023-12-09,Vegetable Vendor,INR 653.01,debit,Groceries
+2023-12-11,Maid/Cook Salary,INR 7468.98,debit,Miscellaneous
+2023-12-11,Uber Ride,INR 168.55,debit,Transportation
+2023-12-12,Bonus Credit,INR 10479.87,credit,Income
+2023-12-13,Meesho Order,INR 539.67,debit,Shopping
+2023-12-14,Wife Salary,INR 70132.50,credit,Income
+2023-12-14,Amazon Prime,INR 990.46,debit,Subscriptions
+2023-12-15,Tuition Teacher,INR 5317.70,debit,Education
+2023-12-15,Amazon Purchase,INR 6299.19,debit,Shopping
+2023-12-15,Maid/Cook Salary,INR 3399.72,debit,Miscellaneous
+2023-12-16,Ajio Clothing,INR 2289.72,debit,Shopping
+2023-12-17,BookMyShow Tickets,INR 1427.58,debit,Entertainment
+2023-12-17,Rental Income,INR 19504.70,credit,Income
+2023-12-17,Wife Salary,INR 53833.59,credit,Income
+2023-12-18,Swiggy Order,INR 895.79,debit,Food & Dining
+2023-12-19,Spotify Premium,INR 119.00,debit,Subscriptions
+2023-12-20,Milk Monthly,INR 730.11,debit,Groceries
+2023-12-20,Cashback Credit,INR 342.56,credit,Income
+2023-12-21,More Supermarket,INR 752.63,debit,Groceries
+2023-12-21,Zomato Food Delivery,INR 282.43,debit,Food & Dining
+2023-12-22,Family Restaurant,INR 3087.11,debit,Food & Dining
+2023-12-22,Toys & Games,INR 1983.60,debit,Shopping
+2023-12-22,Family Restaurant,INR 3688.20,debit,Food & Dining
+2023-12-23,Cashback Credit,INR 1566.64,credit,Income
+2023-12-23,Uber Ride,INR 532.60,debit,Transportation
+2023-12-23,Amazon Prime,INR 275.84,debit,Subscriptions
+2023-12-23,Family Vacation,INR 58811.78,debit,Travel
+2023-12-25,Refund Credit,INR 543.48,credit,Income
+2023-12-26,YouTube Premium,INR 139.00,debit,Subscriptions
+2023-12-26,DMart Purchase,INR 1313.36,debit,Groceries
+2023-12-27,More Supermarket,INR 1199.42,debit,Groceries
+2023-12-27,Maid/Cook Salary,INR 8254.26,debit,Miscellaneous
+2023-12-27,Family Restaurant,INR 2655.12,debit,Food & Dining
+2023-12-28,Property Tax,INR 4347.69,debit,Housing
+2023-12-29,More Supermarket,INR 1745.31,debit,Groceries
+2023-12-30,Car Servicing,INR 10884.97,debit,Transportation
+2023-12-30,Ajio Clothing,INR 1688.13,debit,Shopping
+2023-12-31,Milk Monthly,INR 752.48,debit,Groceries
+2024-01-01,Rental Income,INR 5045.44,credit,Income
+2024-01-02,Ola Cab,INR 272.11,debit,Transportation
+2024-01-05,Zomato Food Delivery,INR 710.00,debit,Food & Dining
+2024-01-07,Myntra Fashion,INR 3523.92,debit,Shopping
+2024-01-08,More Supermarket,INR 819.85,debit,Groceries
+2024-01-08,BookMyShow Tickets,INR 507.68,debit,Entertainment
+2024-01-08,Rapido Bike Taxi,INR 196.06,debit,Transportation
+2024-01-08,Interest Credit,INR 2688.83,credit,Income
+2024-01-08,Husband Salary,INR 137975.94,credit,Income
+2024-01-10,Amazon Purchase,INR 3268.20,debit,Shopping
+2024-01-10,Kids Clothing,INR 2301.53,debit,Shopping
+2024-01-12,Ola Cab,INR 181.54,debit,Transportation
+2024-01-12,Children's Birthday Party,INR 10051.69,debit,Entertainment
+2024-01-12,Rental Income,INR 17847.43,credit,Income
+2024-01-13,Milk Monthly,INR 763.75,debit,Groceries
+2024-01-15,Hotstar Subscription,INR 557.15,debit,Subscriptions
+2024-01-16,Kids Clothing,INR 2938.44,debit,Shopping
+2024-01-16,Refund Credit,INR 1197.19,credit,Income
+2024-01-17,Children's Birthday Party,INR 6686.73,debit,Entertainment
+2024-01-17,Property Tax,INR 5833.32,debit,Housing
+2024-01-17,DMart Purchase,INR 642.77,debit,Groceries
+2024-01-17,Flipkart Order,INR 812.97,debit,Shopping
+2024-01-19,BookMyShow Tickets,INR 1203.34,debit,Entertainment
+2024-01-19,Zomato Food Delivery,INR 784.48,debit,Food & Dining
+2024-01-19,Wife Salary,INR 52751.66,credit,Income
+2024-01-20,Meesho Order,INR 1087.51,debit,Shopping
+2024-01-20,Amazon Purchase,INR 4536.49,debit,Shopping
+2024-01-23,Car Servicing,INR 7611.21,debit,Transportation
+2024-01-23,Vegetable Vendor,INR 365.50,debit,Groceries
+2024-01-25,Amazon Purchase,INR 4958.02,debit,Shopping
+2024-01-25,Home Appliance Purchase,INR 12738.64,debit,Shopping
+2024-01-26,Husband Salary,INR 129968.04,credit,Income
+2024-01-26,Ajio Clothing,INR 2169.39,debit,Shopping
+2024-01-28,Maid/Cook Salary,INR 5655.30,debit,Miscellaneous
+2024-01-30,DMart Purchase,INR 2194.51,debit,Groceries
+2024-01-31,Reliance Fresh,INR 324.72,debit,Groceries
+2024-02-01,Milk Monthly,INR 1087.80,debit,Groceries
+2024-02-02,Flipkart Order,INR 5426.40,debit,Shopping
+2024-02-02,Family Vacation,INR 31091.48,debit,Travel
+2024-02-02,Netflix Subscription,INR 179.77,debit,Subscriptions
+2024-02-02,Property Tax,INR 1199.19,debit,Housing
+2024-02-03,Uber Ride,INR 347.94,debit,Transportation
+2024-02-04,Swiggy Order,INR 494.51,debit,Food & Dining
+2024-02-05,Milk Monthly,INR 649.63,debit,Groceries
+2024-02-06,Ola Cab,INR 370.96,debit,Transportation
+2024-02-07,Uber Ride,INR 331.75,debit,Transportation
+2024-02-07,Kids Clothing,INR 2685.28,debit,Shopping
+2024-02-09,Hotstar Subscription,INR 812.52,debit,Subscriptions
+2024-02-11,School Bus Fees,INR 2658.01,debit,Education
+2024-02-11,Interest Credit,INR 4257.39,credit,Income
+2024-02-12,School Bus Fees,INR 3504.64,debit,Education
+2024-02-16,Meesho Order,INR 1088.29,debit,Shopping
+2024-02-17,School Bus Fees,INR 3303.91,debit,Education
+2024-02-18,Hotstar Subscription,INR 465.79,debit,Subscriptions
+2024-02-18,Milk Monthly,INR 693.08,debit,Groceries
+2024-02-18,Myntra Fashion,INR 3054.72,debit,Shopping
+2024-02-18,BookMyShow Tickets,INR 1440.27,debit,Entertainment
+2024-02-18,Myntra Fashion,INR 3691.79,debit,Shopping
+2024-02-18,BookMyShow Tickets,INR 859.76,debit,Entertainment
+2024-02-19,Spotify Premium,INR 119.00,debit,Subscriptions
+2024-02-20,Maid/Cook Salary,INR 4668.93,debit,Miscellaneous
+2024-02-21,Hotstar Subscription,INR 222.72,debit,Subscriptions
+2024-02-22,Meesho Order,INR 781.10,debit,Shopping
+2024-02-22,Amazon Prime,INR 265.14,debit,Subscriptions
+2024-02-22,Toys & Games,INR 1922.14,debit,Shopping
+2024-02-23,Refund Credit,INR 2884.02,credit,Income
+2024-02-23,Toys & Games,INR 4397.30,debit,Shopping
+2024-02-24,Netflix Subscription,INR 566.27,debit,Subscriptions
+2024-02-26,Kids Clothing,INR 2411.56,debit,Shopping
+2024-02-29,Household Repairs,INR 18240.54,debit,Housing
+2024-02-29,Reliance Fresh,INR 818.81,debit,Groceries
+2024-03-01,Kids Clothing,INR 2808.70,debit,Shopping
+2024-03-02,Property Tax,INR 6843.65,debit,Housing
+2024-03-03,Meesho Order,INR 1689.45,debit,Shopping
+2024-03-04,Rental Income,INR 10678.96,credit,Income
+2024-03-04,Car EMI,INR 17408.73,debit,Transportation
+2024-03-05,Milk Monthly,INR 1154.95,debit,Groceries
+2024-03-06,Cashback Credit,INR 657.61,credit,Income
+2024-03-07,Rapido Bike Taxi,INR 166.35,debit,Transportation
+2024-03-07,Rapido Bike Taxi,INR 96.77,debit,Transportation
+2024-03-07,Home Appliance Purchase,INR 17561.13,debit,Shopping
+2024-03-08,Uber Ride,INR 515.28,debit,Transportation
+2024-03-09,Vegetable Vendor,INR 397.51,debit,Groceries
+2024-03-09,Car Servicing,INR 9140.81,debit,Transportation
+2024-03-09,School Bus Fees,INR 2551.86,debit,Education
+2024-03-10,Myntra Fashion,INR 2797.24,debit,Shopping
+2024-03-12,Flipkart Order,INR 516.55,debit,Shopping
+2024-03-12,Tuition Teacher,INR 3848.24,debit,Education
+2024-03-12,Maid/Cook Salary,INR 5580.33,debit,Miscellaneous
+2024-03-12,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-03-12,Amazon Purchase,INR 7652.48,debit,Shopping
+2024-03-13,Zomato Food Delivery,INR 285.08,debit,Food & Dining
+2024-03-13,Hotstar Subscription,INR 464.83,debit,Subscriptions
+2024-03-13,Amazon Purchase,INR 3327.70,debit,Shopping
+2024-03-13,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-03-14,Ajio Clothing,INR 2644.34,debit,Shopping
+2024-03-15,DMart Purchase,INR 3468.21,debit,Groceries
+2024-03-17,Interest Credit,INR 4018.81,credit,Income
+2024-03-18,Car Servicing,INR 4830.38,debit,Transportation
+2024-03-20,Zomato Food Delivery,INR 486.24,debit,Food & Dining
+2024-03-20,Hotstar Subscription,INR 389.79,debit,Subscriptions
+2024-03-20,BigBasket Groceries,INR 2166.41,debit,Groceries
+2024-03-21,Family Vacation,INR 9615.39,debit,Travel
+2024-03-21,Family Restaurant,INR 2690.72,debit,Food & Dining
+2024-03-22,Husband Salary,INR 149396.68,credit,Income
+2024-03-22,Children's Birthday Party,INR 4995.77,debit,Entertainment
+2024-03-23,Myntra Fashion,INR 1279.51,debit,Shopping
+2024-03-23,Hotstar Subscription,INR 514.44,debit,Subscriptions
+2024-03-24,Rapido Bike Taxi,INR 115.61,debit,Transportation
+2024-03-25,Ajio Clothing,INR 1753.20,debit,Shopping
+2024-03-26,Kids Clothing,INR 635.08,debit,Shopping
+2024-03-26,Home Appliance Purchase,INR 3947.56,debit,Shopping
+2024-03-26,Hotstar Subscription,INR 355.15,debit,Subscriptions
+2024-03-26,Interest Credit,INR 4187.15,credit,Income
+2024-03-30,Amazon Prime,INR 500.24,debit,Subscriptions
+2024-03-30,Milk Monthly,INR 917.65,debit,Groceries
+2024-03-31,Milk Monthly,INR 878.46,debit,Groceries
+2024-03-31,Meesho Order,INR 639.64,debit,Shopping
+2024-04-01,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-04-01,Children's Birthday Party,INR 8440.52,debit,Entertainment
+2024-04-01,Family Vacation,INR 15509.11,debit,Travel
+2024-04-03,Netflix Subscription,INR 634.12,debit,Subscriptions
+2024-04-03,Milk Monthly,INR 1100.63,debit,Groceries
+2024-04-03,Myntra Fashion,INR 863.93,debit,Shopping
+2024-04-04,Amazon Prime,INR 896.62,debit,Subscriptions
+2024-04-06,Amazon Prime,INR 733.48,debit,Subscriptions
+2024-04-06,Kids Clothing,INR 1322.70,debit,Shopping
+2024-04-08,Flipkart Order,INR 1378.50,debit,Shopping
+2024-04-09,Swiggy Order,INR 333.66,debit,Food & Dining
+2024-04-11,Bonus Credit,INR 12955.42,credit,Income
+2024-04-12,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-04-12,More Supermarket,INR 522.26,debit,Groceries
+2024-04-13,Tuition Teacher,INR 7450.29,debit,Education
+2024-04-13,DMart Purchase,INR 3046.67,debit,Groceries
+2024-04-14,Reliance Fresh,INR 1751.35,debit,Groceries
+2024-04-14,Zomato Food Delivery,INR 390.60,debit,Food & Dining
+2024-04-16,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-04-19,DMart Purchase,INR 1285.60,debit,Groceries
+2024-04-20,Cashback Credit,INR 107.97,credit,Income
+2024-04-20,Myntra Fashion,INR 543.11,debit,Shopping
+2024-04-20,Flipkart Order,INR 4715.41,debit,Shopping
+2024-04-20,Kids Clothing,INR 2698.22,debit,Shopping
+2024-04-22,Property Tax,INR 5505.13,debit,Housing
+2024-04-23,Vegetable Vendor,INR 345.19,debit,Groceries
+2024-04-23,Milk Monthly,INR 691.28,debit,Groceries
+2024-04-24,Myntra Fashion,INR 3383.20,debit,Shopping
+2024-04-26,Zomato Food Delivery,INR 684.29,debit,Food & Dining
+2024-04-27,Bonus Credit,INR 78775.00,credit,Income
+2024-04-27,Wife Salary,INR 53881.98,credit,Income
+2024-04-27,Vegetable Vendor,INR 804.64,debit,Groceries
+2024-04-28,Hotstar Subscription,INR 149.36,debit,Subscriptions
+2024-04-28,Bonus Credit,INR 78359.05,credit,Income
+2024-04-29,Netflix Subscription,INR 606.40,debit,Subscriptions
+2024-04-29,Amazon Prime,INR 596.06,debit,Subscriptions
+2024-04-30,Zomato Food Delivery,INR 602.79,debit,Food & Dining
+2024-04-30,Rapido Bike Taxi,INR 124.31,debit,Transportation
+2024-04-30,Tuition Teacher,INR 6067.82,debit,Education
+2024-05-01,Reliance Fresh,INR 289.08,debit,Groceries
+2024-05-01,Children's Birthday Party,INR 12096.26,debit,Entertainment
+2024-05-01,Flipkart Order,INR 2205.27,debit,Shopping
+2024-05-03,Vegetable Vendor,INR 371.57,debit,Groceries
+2024-05-03,Wife Salary,INR 55366.42,credit,Income
+2024-05-05,Home Appliance Purchase,INR 26900.75,debit,Shopping
+2024-05-05,Family Vacation,INR 35889.82,debit,Travel
+2024-05-05,Toys & Games,INR 2521.62,debit,Shopping
+2024-05-05,Amazon Purchase,INR 3015.19,debit,Shopping
+2024-05-06,School Bus Fees,INR 3197.49,debit,Education
+2024-05-06,Flipkart Order,INR 1717.77,debit,Shopping
+2024-05-07,Uber Ride,INR 569.44,debit,Transportation
+2024-05-07,Zomato Food Delivery,INR 819.56,debit,Food & Dining
+2024-05-08,School Bus Fees,INR 2309.80,debit,Education
+2024-05-08,Meesho Order,INR 595.29,debit,Shopping
+2024-05-08,Ajio Clothing,INR 2052.43,debit,Shopping
+2024-05-08,Myntra Fashion,INR 2938.40,debit,Shopping
+2024-05-09,Cashback Credit,INR 1571.35,credit,Income
+2024-05-11,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-05-11,Car Servicing,INR 4705.33,debit,Transportation
+2024-05-11,Home Appliance Purchase,INR 17635.90,debit,Shopping
+2024-05-11,Milk Monthly,INR 1048.91,debit,Groceries
+2024-05-14,Meesho Order,INR 386.67,debit,Shopping
+2024-05-15,Reliance Fresh,INR 240.03,debit,Groceries
+2024-05-16,Home Appliance Purchase,INR 30116.52,debit,Shopping
+2024-05-22,Netflix Subscription,INR 401.41,debit,Subscriptions
+2024-05-24,Refund Credit,INR 1838.75,credit,Income
+2024-05-24,BookMyShow Tickets,INR 1347.74,debit,Entertainment
+2024-05-24,Vegetable Vendor,INR 355.81,debit,Groceries
+2024-05-25,Amazon Prime,INR 199.57,debit,Subscriptions
+2024-05-25,Milk Monthly,INR 1014.37,debit,Groceries
+2024-05-26,Household Repairs,INR 10247.77,debit,Housing
+2024-05-26,Rental Income,INR 18155.03,credit,Income
+2024-05-27,Toys & Games,INR 4578.77,debit,Shopping
+2024-05-27,BigBasket Groceries,INR 2012.96,debit,Groceries
+2024-05-27,Property Tax,INR 4175.79,debit,Housing
+2024-05-29,Tuition Teacher,INR 3779.01,debit,Education
+2024-05-30,Rental Income,INR 6193.36,credit,Income
+2024-05-31,Zomato Food Delivery,INR 519.74,debit,Food & Dining
+2024-05-31,Milk Monthly,INR 1017.19,debit,Groceries
+2024-06-01,Uber Ride,INR 534.48,debit,Transportation
+2024-06-02,Myntra Fashion,INR 1870.48,debit,Shopping
+2024-06-02,Zomato Food Delivery,INR 555.89,debit,Food & Dining
+2024-06-03,Maid/Cook Salary,INR 7684.61,debit,Miscellaneous
+2024-06-03,Zomato Food Delivery,INR 665.69,debit,Food & Dining
+2024-06-05,Meesho Order,INR 1161.53,debit,Shopping
+2024-06-06,Toys & Games,INR 3334.78,debit,Shopping
+2024-06-07,Flipkart Order,INR 3094.68,debit,Shopping
+2024-06-09,Milk Monthly,INR 1180.89,debit,Groceries
+2024-06-09,Myntra Fashion,INR 3147.27,debit,Shopping
+2024-06-10,Car Servicing,INR 5663.97,debit,Transportation
+2024-06-12,Kids Clothing,INR 578.62,debit,Shopping
+2024-06-13,Meesho Order,INR 1561.11,debit,Shopping
+2024-06-14,Car EMI,INR 8567.76,debit,Transportation
+2024-06-14,Wife Salary,INR 40247.34,credit,Income
+2024-06-14,Children's Birthday Party,INR 7609.36,debit,Entertainment
+2024-06-15,Ola Cab,INR 106.19,debit,Transportation
+2024-06-15,Uber Ride,INR 142.33,debit,Transportation
+2024-06-17,Amazon Purchase,INR 354.13,debit,Shopping
+2024-06-17,Bonus Credit,INR 14440.73,credit,Income
+2024-06-19,Property Tax,INR 1799.78,debit,Housing
+2024-06-20,Toys & Games,INR 4659.15,debit,Shopping
+2024-06-20,Husband Salary,INR 142616.56,credit,Income
+2024-06-21,Spotify Premium,INR 119.00,debit,Subscriptions
+2024-06-22,Refund Credit,INR 2504.57,credit,Income
+2024-06-22,Property Tax,INR 2641.39,debit,Housing
+2024-06-23,Car EMI,INR 12941.71,debit,Transportation
+2024-06-23,Property Tax,INR 6445.46,debit,Housing
+2024-06-24,Home Appliance Purchase,INR 31903.64,debit,Shopping
+2024-06-25,Children's Birthday Party,INR 7798.31,debit,Entertainment
+2024-06-26,Interest Credit,INR 4332.12,credit,Income
+2024-06-26,Meesho Order,INR 551.06,debit,Shopping
+2024-06-27,Meesho Order,INR 566.59,debit,Shopping
+2024-06-28,Hotstar Subscription,INR 632.05,debit,Subscriptions
+2024-06-28,Ola Cab,INR 103.97,debit,Transportation
+2024-06-28,BigBasket Groceries,INR 2955.65,debit,Groceries
+2024-06-30,Zomato Food Delivery,INR 559.47,debit,Food & Dining
+2024-06-30,Myntra Fashion,INR 1199.18,debit,Shopping
+2024-07-01,Amazon Prime,INR 321.15,debit,Subscriptions
+2024-07-03,Refund Credit,INR 4643.78,credit,Income
+2024-07-03,Children's Birthday Party,INR 5609.96,debit,Entertainment
+2024-07-03,Spotify Premium,INR 119.00,debit,Subscriptions
+2024-07-04,Myntra Fashion,INR 3701.15,debit,Shopping
+2024-07-04,More Supermarket,INR 1011.70,debit,Groceries
+2024-07-05,BookMyShow Tickets,INR 1101.36,debit,Entertainment
+2024-07-07,Interest Credit,INR 1521.79,credit,Income
+2024-07-07,Children's Birthday Party,INR 7907.23,debit,Entertainment
+2024-07-08,BigBasket Groceries,INR 3369.11,debit,Groceries
+2024-07-08,Netflix Subscription,INR 415.96,debit,Subscriptions
+2024-07-08,Kids Clothing,INR 1247.26,debit,Shopping
+2024-07-08,Interest Credit,INR 4793.49,credit,Income
+2024-07-09,Children's Birthday Party,INR 9385.96,debit,Entertainment
+2024-07-09,School Bus Fees,INR 2221.22,debit,Education
+2024-07-09,Bonus Credit,INR 14429.46,credit,Income
+2024-07-10,More Supermarket,INR 1781.37,debit,Groceries
+2024-07-11,DMart Purchase,INR 1121.22,debit,Groceries
+2024-07-11,Family Restaurant,INR 2647.17,debit,Food & Dining
+2024-07-11,Property Tax,INR 4997.45,debit,Housing
+2024-07-12,Meesho Order,INR 1339.03,debit,Shopping
+2024-07-13,DMart Purchase,INR 1394.50,debit,Groceries
+2024-07-13,Vegetable Vendor,INR 529.95,debit,Groceries
+2024-07-13,Home Appliance Purchase,INR 37810.26,debit,Shopping
+2024-07-13,Ola Cab,INR 419.84,debit,Transportation
+2024-07-14,Rental Income,INR 14951.11,credit,Income
+2024-07-15,Rapido Bike Taxi,INR 131.07,debit,Transportation
+2024-07-16,Family Restaurant,INR 896.30,debit,Food & Dining
+2024-07-16,Interest Credit,INR 2112.49,credit,Income
+2024-07-16,Home Appliance Purchase,INR 37020.63,debit,Shopping
+2024-07-17,Car EMI,INR 16437.78,debit,Transportation
+2024-07-20,Meesho Order,INR 342.38,debit,Shopping
+2024-07-21,BigBasket Groceries,INR 427.54,debit,Groceries
+2024-07-21,Tuition Teacher,INR 7886.33,debit,Education
+2024-07-22,Car Servicing,INR 10049.29,debit,Transportation
+2024-07-22,Flipkart Order,INR 4264.33,debit,Shopping
+2024-07-23,Swiggy Order,INR 348.21,debit,Food & Dining
+2024-07-23,Interest Credit,INR 2793.61,credit,Income
+2024-07-23,Vegetable Vendor,INR 846.06,debit,Groceries
+2024-07-23,Meesho Order,INR 811.73,debit,Shopping
+2024-07-23,Ola Cab,INR 482.62,debit,Transportation
+2024-07-27,School Bus Fees,INR 2495.46,debit,Education
+2024-07-27,Hotstar Subscription,INR 493.29,debit,Subscriptions
+2024-07-28,Car EMI,INR 17933.47,debit,Transportation
+2024-07-29,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-07-30,Family Vacation,INR 54071.49,debit,Travel
+2024-07-30,Netflix Subscription,INR 519.44,debit,Subscriptions
+2024-07-31,Property Tax,INR 2992.53,debit,Housing
+2024-08-01,Netflix Subscription,INR 321.26,debit,Subscriptions
+2024-08-02,Maid/Cook Salary,INR 3643.34,debit,Miscellaneous
+2024-08-02,Meesho Order,INR 510.46,debit,Shopping
+2024-08-03,Car Servicing,INR 9872.51,debit,Transportation
+2024-08-04,Myntra Fashion,INR 2286.42,debit,Shopping
+2024-08-05,Wife Salary,INR 97499.05,credit,Income
+2024-08-06,Family Vacation,INR 29545.48,debit,Travel
+2024-08-08,Vegetable Vendor,INR 918.37,debit,Groceries
+2024-08-08,Cashback Credit,INR 688.19,credit,Income
+2024-08-10,Family Restaurant,INR 1841.46,debit,Food & Dining
+2024-08-13,Netflix Subscription,INR 409.74,debit,Subscriptions
+2024-08-14,Uber Ride,INR 407.94,debit,Transportation
+2024-08-14,Toys & Games,INR 1059.45,debit,Shopping
+2024-08-14,Family Vacation,INR 28603.39,debit,Travel
+2024-08-15,Car EMI,INR 10827.08,debit,Transportation
+2024-08-16,Family Vacation,INR 29204.03,debit,Travel
+2024-08-17,Uber Ride,INR 375.75,debit,Transportation
+2024-08-17,More Supermarket,INR 414.41,debit,Groceries
+2024-08-17,Tuition Teacher,INR 6175.60,debit,Education
+2024-08-18,Ajio Clothing,INR 1252.07,debit,Shopping
+2024-08-19,Flipkart Order,INR 5951.12,debit,Shopping
+2024-08-19,Family Vacation,INR 43304.82,debit,Travel
+2024-08-20,Maid/Cook Salary,INR 8680.49,debit,Miscellaneous
+2024-08-20,Ajio Clothing,INR 2634.69,debit,Shopping
+2024-08-20,Hotstar Subscription,INR 521.09,debit,Subscriptions
+2024-08-21,Family Restaurant,INR 2774.44,debit,Food & Dining
+2024-08-21,Family Restaurant,INR 3805.89,debit,Food & Dining
+2024-08-21,School Bus Fees,INR 2555.15,debit,Education
+2024-08-23,Milk Monthly,INR 1184.13,debit,Groceries
+2024-08-23,Ola Cab,INR 101.56,debit,Transportation
+2024-08-23,Uber Ride,INR 497.42,debit,Transportation
+2024-08-26,Family Restaurant,INR 1614.15,debit,Food & Dining
+2024-08-27,Cashback Credit,INR 1477.04,credit,Income
+2024-08-28,Amazon Purchase,INR 4654.38,debit,Shopping
+2024-08-30,Car Servicing,INR 6043.49,debit,Transportation
+2024-08-30,Toys & Games,INR 255.54,debit,Shopping
+2024-08-31,Reliance Fresh,INR 1521.60,debit,Groceries
+2024-09-01,Property Tax,INR 1937.94,debit,Housing
+2024-09-01,Car Servicing,INR 8031.10,debit,Transportation
+2024-09-02,Hotstar Subscription,INR 345.46,debit,Subscriptions
+2024-09-04,Home Appliance Purchase,INR 32533.80,debit,Shopping
+2024-09-06,Family Restaurant,INR 3270.40,debit,Food & Dining
+2024-09-07,Netflix Subscription,INR 218.75,debit,Subscriptions
+2024-09-08,Home Appliance Purchase,INR 8578.52,debit,Shopping
+2024-09-09,School Bus Fees,INR 2634.35,debit,Education
+2024-09-09,Home Appliance Purchase,INR 31852.90,debit,Shopping
+2024-09-09,Husband Salary,INR 126680.52,credit,Income
+2024-09-12,Rental Income,INR 17063.73,credit,Income
+2024-09-12,Ola Cab,INR 266.83,debit,Transportation
+2024-09-14,Swiggy Order,INR 182.30,debit,Food & Dining
+2024-09-15,Meesho Order,INR 1713.93,debit,Shopping
+2024-09-15,Toys & Games,INR 1765.36,debit,Shopping
+2024-09-17,Rapido Bike Taxi,INR 57.77,debit,Transportation
+2024-09-17,Maid/Cook Salary,INR 3889.67,debit,Miscellaneous
+2024-09-17,DMart Purchase,INR 345.60,debit,Groceries
+2024-09-18,Hotstar Subscription,INR 558.50,debit,Subscriptions
+2024-09-19,DMart Purchase,INR 3352.10,debit,Groceries
+2024-09-20,Children's Birthday Party,INR 14194.95,debit,Entertainment
+2024-09-20,More Supermarket,INR 444.16,debit,Groceries
+2024-09-20,Milk Monthly,INR 974.50,debit,Groceries
+2024-09-21,Reliance Fresh,INR 617.32,debit,Groceries
+2024-09-21,Ajio Clothing,INR 2306.64,debit,Shopping
+2024-09-22,BigBasket Groceries,INR 2709.08,debit,Groceries
+2024-09-24,Milk Monthly,INR 929.06,debit,Groceries
+2024-09-24,Amazon Purchase,INR 820.26,debit,Shopping
+2024-09-27,Wife Salary,INR 73330.30,credit,Income
+2024-09-27,Ola Cab,INR 286.39,debit,Transportation
+2024-09-27,Husband Salary,INR 90558.79,credit,Income
+2024-09-27,Interest Credit,INR 4152.83,credit,Income
+2024-09-29,More Supermarket,INR 943.30,debit,Groceries
+2024-09-29,Family Vacation,INR 36773.36,debit,Travel
+2024-09-29,Home Appliance Purchase,INR 22087.56,debit,Shopping
+2024-10-01,Maid/Cook Salary,INR 5769.20,debit,Miscellaneous
+2024-10-03,Amazon Prime,INR 813.20,debit,Subscriptions
+2024-10-03,Amazon Purchase,INR 6776.72,debit,Shopping
+2024-10-04,Amazon Purchase,INR 7784.72,debit,Shopping
+2024-10-05,Netflix Subscription,INR 626.43,debit,Subscriptions
+2024-10-07,BigBasket Groceries,INR 1014.07,debit,Groceries
+2024-10-08,Milk Monthly,INR 1032.84,debit,Groceries
+2024-10-08,Hotstar Subscription,INR 598.36,debit,Subscriptions
+2024-10-08,BigBasket Groceries,INR 1971.72,debit,Groceries
+2024-10-09,Home Appliance Purchase,INR 32517.67,debit,Shopping
+2024-10-10,BookMyShow Tickets,INR 1160.70,debit,Entertainment
+2024-10-10,Rapido Bike Taxi,INR 176.87,debit,Transportation
+2024-10-11,Reliance Fresh,INR 872.75,debit,Groceries
+2024-10-11,BookMyShow Tickets,INR 1160.80,debit,Entertainment
+2024-10-12,Myntra Fashion,INR 588.77,debit,Shopping
+2024-10-13,Car EMI,INR 11496.33,debit,Transportation
+2024-10-13,Vegetable Vendor,INR 733.52,debit,Groceries
+2024-10-14,Ajio Clothing,INR 1700.00,debit,Shopping
+2024-10-15,Car EMI,INR 9683.07,debit,Transportation
+2024-10-16,Tuition Teacher,INR 2757.01,debit,Education
+2024-10-16,Vegetable Vendor,INR 356.57,debit,Groceries
+2024-10-16,Hotstar Subscription,INR 527.52,debit,Subscriptions
+2024-10-20,Car EMI,INR 16671.01,debit,Transportation
+2024-10-21,School Bus Fees,INR 3461.72,debit,Education
+2024-10-22,Children's Birthday Party,INR 11305.71,debit,Entertainment
+2024-10-23,Rapido Bike Taxi,INR 97.37,debit,Transportation
+2024-10-24,Swiggy Order,INR 267.99,debit,Food & Dining
+2024-10-25,Milk Monthly,INR 753.74,debit,Groceries
+2024-10-25,Household Repairs,INR 6589.35,debit,Housing
+2024-10-26,Wife Salary,INR 65340.57,credit,Income
+2024-10-27,Toys & Games,INR 3458.93,debit,Shopping
+2024-10-27,Car Servicing,INR 5048.33,debit,Transportation
+2024-10-29,Interest Credit,INR 3414.55,credit,Income
+2024-10-30,Myntra Fashion,INR 3471.52,debit,Shopping
+2024-10-31,Rental Income,INR 9636.93,credit,Income
+2024-11-01,Ajio Clothing,INR 700.56,debit,Shopping
+2024-11-01,Uber Ride,INR 161.07,debit,Transportation
+2024-11-02,Family Vacation,INR 47131.13,debit,Travel
+2024-11-03,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-11-04,Property Tax,INR 3811.11,debit,Housing
+2024-11-06,Ola Cab,INR 223.00,debit,Transportation
+2024-11-07,Family Restaurant,INR 3087.52,debit,Food & Dining
+2024-11-11,Ajio Clothing,INR 3409.91,debit,Shopping
+2024-11-13,Toys & Games,INR 885.50,debit,Shopping
+2024-11-14,Spotify Premium,INR 119.00,debit,Subscriptions
+2024-11-15,Hotstar Subscription,INR 194.18,debit,Subscriptions
+2024-11-18,Bonus Credit,INR 63042.97,credit,Income
+2024-11-19,Milk Monthly,INR 978.88,debit,Groceries
+2024-11-21,Netflix Subscription,INR 274.84,debit,Subscriptions
+2024-11-22,Tuition Teacher,INR 3141.16,debit,Education
+2024-11-22,Swiggy Order,INR 315.26,debit,Food & Dining
+2024-11-22,Toys & Games,INR 2412.02,debit,Shopping
+2024-11-23,More Supermarket,INR 1712.99,debit,Groceries
+2024-11-23,Family Restaurant,INR 3469.67,debit,Food & Dining
+2024-11-24,Family Restaurant,INR 1344.24,debit,Food & Dining
+2024-11-25,Maid/Cook Salary,INR 7892.84,debit,Miscellaneous
+2024-11-25,DMart Purchase,INR 1009.14,debit,Groceries
+2024-11-26,Refund Credit,INR 3303.52,credit,Income
+2024-11-26,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-11-29,Ajio Clothing,INR 2663.34,debit,Shopping
+2024-12-02,Reliance Fresh,INR 490.44,debit,Groceries
+2024-12-02,Meesho Order,INR 1992.77,debit,Shopping
+2024-12-03,Kids Clothing,INR 2145.60,debit,Shopping
+2024-12-03,Rapido Bike Taxi,INR 140.76,debit,Transportation
+2024-12-05,Zomato Food Delivery,INR 382.97,debit,Food & Dining
+2024-12-06,Myntra Fashion,INR 1586.81,debit,Shopping
+2024-12-06,Rapido Bike Taxi,INR 157.12,debit,Transportation
+2024-12-07,YouTube Premium,INR 139.00,debit,Subscriptions
+2024-12-07,Interest Credit,INR 1450.17,credit,Income
+2024-12-07,Toys & Games,INR 4636.39,debit,Shopping
+2024-12-08,Vegetable Vendor,INR 418.31,debit,Groceries
+2024-12-08,Family Restaurant,INR 3359.62,debit,Food & Dining
+2024-12-08,Car Servicing,INR 3427.55,debit,Transportation
+2024-12-08,Vegetable Vendor,INR 374.04,debit,Groceries
+2024-12-08,Property Tax,INR 1040.03,debit,Housing
+2024-12-08,Hotstar Subscription,INR 334.86,debit,Subscriptions
+2024-12-09,School Bus Fees,INR 3673.36,debit,Education
+2024-12-09,Tuition Teacher,INR 7305.38,debit,Education
+2024-12-10,Vegetable Vendor,INR 204.47,debit,Groceries
+2024-12-10,Netflix Subscription,INR 373.40,debit,Subscriptions
+2024-12-11,Amazon Prime,INR 928.87,debit,Subscriptions
+2024-12-11,Uber Ride,INR 585.41,debit,Transportation
+2024-12-12,Bonus Credit,INR 14731.96,credit,Income
+2024-12-12,Husband Salary,INR 130549.74,credit,Income
+2024-12-12,Household Repairs,INR 4282.99,debit,Housing
+2024-12-12,Home Appliance Purchase,INR 27736.49,debit,Shopping
+2024-12-16,Spotify Premium,INR 119.00,debit,Subscriptions
+2024-12-17,BookMyShow Tickets,INR 1191.65,debit,Entertainment
+2024-12-17,Family Restaurant,INR 2638.53,debit,Food & Dining
+2024-12-17,Kids Clothing,INR 2642.31,debit,Shopping
+2024-12-18,School Bus Fees,INR 3599.35,debit,Education
+2024-12-18,School Bus Fees,INR 2605.94,debit,Education
+2024-12-20,Tuition Teacher,INR 7397.69,debit,Education
+2024-12-20,Rapido Bike Taxi,INR 164.54,debit,Transportation
+2024-12-20,School Bus Fees,INR 2885.60,debit,Education
+2024-12-21,Meesho Order,INR 1852.66,debit,Shopping
+2024-12-22,Swiggy Order,INR 553.69,debit,Food & Dining
+2024-12-22,Tuition Teacher,INR 3980.07,debit,Education
+2024-12-22,Flipkart Order,INR 1935.15,debit,Shopping
+2024-12-22,Kids Clothing,INR 1433.62,debit,Shopping
+2024-12-23,Amazon Prime,INR 434.82,debit,Subscriptions
+2024-12-26,Reliance Fresh,INR 1009.41,debit,Groceries
+2024-12-27,Refund Credit,INR 4855.10,credit,Income
+2024-12-28,Rental Income,INR 5564.12,credit,Income
+2024-12-28,Flipkart Order,INR 2003.19,debit,Shopping
+2024-12-28,Zomato Food Delivery,INR 828.81,debit,Food & Dining
+2024-12-29,Household Repairs,INR 17773.26,debit,Housing
+2024-12-31,Children's Birthday Party,INR 8811.58,debit,Entertainment
+2025-01-01,Family Restaurant,INR 2124.11,debit,Food & Dining
+2025-01-01,Ola Cab,INR 262.25,debit,Transportation
+2025-01-02,BigBasket Groceries,INR 3343.20,debit,Groceries
+2025-01-02,BigBasket Groceries,INR 1463.31,debit,Groceries
+2025-01-03,Family Restaurant,INR 3938.07,debit,Food & Dining
+2025-01-03,Maid/Cook Salary,INR 6165.74,debit,Miscellaneous
+2025-01-03,Milk Monthly,INR 805.82,debit,Groceries
+2025-01-04,Car EMI,INR 10228.94,debit,Transportation
+2025-01-05,Maid/Cook Salary,INR 4543.65,debit,Miscellaneous
+2025-01-05,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-01-06,Interest Credit,INR 2566.52,credit,Income
+2025-01-06,Children's Birthday Party,INR 6008.86,debit,Entertainment
+2025-01-07,Car EMI,INR 18736.38,debit,Transportation
+2025-01-08,Maid/Cook Salary,INR 7431.14,debit,Miscellaneous
+2025-01-08,Property Tax,INR 5931.14,debit,Housing
+2025-01-09,Myntra Fashion,INR 3754.78,debit,Shopping
+2025-01-09,Maid/Cook Salary,INR 6816.52,debit,Miscellaneous
+2025-01-09,Zomato Food Delivery,INR 539.01,debit,Food & Dining
+2025-01-12,Rapido Bike Taxi,INR 199.23,debit,Transportation
+2025-01-13,Car EMI,INR 13245.94,debit,Transportation
+2025-01-13,More Supermarket,INR 1107.82,debit,Groceries
+2025-01-14,DMart Purchase,INR 1265.38,debit,Groceries
+2025-01-14,More Supermarket,INR 1786.95,debit,Groceries
+2025-01-14,Ola Cab,INR 79.93,debit,Transportation
+2025-01-15,Cashback Credit,INR 326.33,credit,Income
+2025-01-16,Home Appliance Purchase,INR 33721.10,debit,Shopping
+2025-01-16,Maid/Cook Salary,INR 3758.51,debit,Miscellaneous
+2025-01-17,BookMyShow Tickets,INR 1028.82,debit,Entertainment
+2025-01-18,DMart Purchase,INR 1162.66,debit,Groceries
+2025-01-18,Ola Cab,INR 307.86,debit,Transportation
+2025-01-18,Tuition Teacher,INR 7148.20,debit,Education
+2025-01-21,Reliance Fresh,INR 932.88,debit,Groceries
+2025-01-21,Toys & Games,INR 4722.00,debit,Shopping
+2025-01-21,Amazon Purchase,INR 3146.98,debit,Shopping
+2025-01-22,Zomato Food Delivery,INR 842.98,debit,Food & Dining
+2025-01-23,Cashback Credit,INR 733.73,credit,Income
+2025-01-25,Hotstar Subscription,INR 862.33,debit,Subscriptions
+2025-01-25,BookMyShow Tickets,INR 601.38,debit,Entertainment
+2025-01-27,Household Repairs,INR 5748.73,debit,Housing
+2025-01-28,Toys & Games,INR 665.36,debit,Shopping
+2025-01-30,Interest Credit,INR 4935.87,credit,Income
+2025-02-01,Reliance Fresh,INR 225.19,debit,Groceries
+2025-02-02,Myntra Fashion,INR 2973.58,debit,Shopping
+2025-02-05,Milk Monthly,INR 994.06,debit,Groceries
+2025-02-08,Meesho Order,INR 826.00,debit,Shopping
+2025-02-08,Kids Clothing,INR 631.59,debit,Shopping
+2025-02-08,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-02-09,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-02-09,Vegetable Vendor,INR 389.31,debit,Groceries
+2025-02-09,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-02-11,Maid/Cook Salary,INR 3085.06,debit,Miscellaneous
+2025-02-11,Amazon Prime,INR 794.12,debit,Subscriptions
+2025-02-11,Household Repairs,INR 1811.44,debit,Housing
+2025-02-12,DMart Purchase,INR 1212.93,debit,Groceries
+2025-02-12,Husband Salary,INR 67015.62,credit,Income
+2025-02-13,More Supermarket,INR 1441.56,debit,Groceries
+2025-02-15,Ajio Clothing,INR 3299.11,debit,Shopping
+2025-02-16,Car Servicing,INR 3653.45,debit,Transportation
+2025-02-16,Family Restaurant,INR 1344.22,debit,Food & Dining
+2025-02-16,Myntra Fashion,INR 1010.48,debit,Shopping
+2025-02-16,More Supermarket,INR 1698.10,debit,Groceries
+2025-02-18,Swiggy Order,INR 602.27,debit,Food & Dining
+2025-02-18,School Bus Fees,INR 2122.62,debit,Education
+2025-02-19,Household Repairs,INR 19357.59,debit,Housing
+2025-02-20,Uber Ride,INR 124.63,debit,Transportation
+2025-02-22,More Supermarket,INR 1628.99,debit,Groceries
+2025-02-25,Bonus Credit,INR 67724.45,credit,Income
+2025-02-25,Bonus Credit,INR 69954.77,credit,Income
+2025-02-27,Family Vacation,INR 33672.41,debit,Travel
+2025-02-27,Family Restaurant,INR 2391.96,debit,Food & Dining
+2025-02-28,Rental Income,INR 19502.82,credit,Income
+2025-02-28,Amazon Prime,INR 306.20,debit,Subscriptions
+2025-03-01,Tuition Teacher,INR 2961.57,debit,Education
+2025-03-01,Milk Monthly,INR 674.58,debit,Groceries
+2025-03-01,Swiggy Order,INR 674.95,debit,Food & Dining
+2025-03-01,Amazon Purchase,INR 6965.71,debit,Shopping
+2025-03-02,School Bus Fees,INR 3683.97,debit,Education
+2025-03-03,Swiggy Order,INR 843.51,debit,Food & Dining
+2025-03-03,Ola Cab,INR 355.90,debit,Transportation
+2025-03-03,BigBasket Groceries,INR 1683.31,debit,Groceries
+2025-03-03,Swiggy Order,INR 252.13,debit,Food & Dining
+2025-03-03,Tuition Teacher,INR 4282.39,debit,Education
+2025-03-04,Myntra Fashion,INR 894.08,debit,Shopping
+2025-03-05,Swiggy Order,INR 109.27,debit,Food & Dining
+2025-03-05,Family Restaurant,INR 2377.69,debit,Food & Dining
+2025-03-05,Refund Credit,INR 2297.28,credit,Income
+2025-03-07,Zomato Food Delivery,INR 223.02,debit,Food & Dining
+2025-03-07,BookMyShow Tickets,INR 1424.69,debit,Entertainment
+2025-03-07,Tuition Teacher,INR 3702.21,debit,Education
+2025-03-07,Ajio Clothing,INR 2221.21,debit,Shopping
+2025-03-08,Maid/Cook Salary,INR 6236.42,debit,Miscellaneous
+2025-03-10,Husband Salary,INR 115915.04,credit,Income
+2025-03-12,Netflix Subscription,INR 246.45,debit,Subscriptions
+2025-03-12,Reliance Fresh,INR 1269.89,debit,Groceries
+2025-03-13,Refund Credit,INR 468.80,credit,Income
+2025-03-14,Toys & Games,INR 4276.24,debit,Shopping
+2025-03-15,Ajio Clothing,INR 3347.96,debit,Shopping
+2025-03-15,Toys & Games,INR 3455.35,debit,Shopping
+2025-03-15,Family Restaurant,INR 3116.88,debit,Food & Dining
+2025-03-17,BigBasket Groceries,INR 2105.79,debit,Groceries
+2025-03-17,Amazon Prime,INR 188.78,debit,Subscriptions
+2025-03-17,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-03-19,Amazon Purchase,INR 4411.97,debit,Shopping
+2025-03-20,Amazon Prime,INR 944.07,debit,Subscriptions
+2025-03-21,Family Vacation,INR 7516.64,debit,Travel
+2025-03-22,Amazon Purchase,INR 3487.90,debit,Shopping
+2025-03-23,Maid/Cook Salary,INR 4274.52,debit,Miscellaneous
+2025-03-23,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-03-24,Cashback Credit,INR 403.31,credit,Income
+2025-03-25,Family Restaurant,INR 1694.77,debit,Food & Dining
+2025-03-25,Household Repairs,INR 4400.82,debit,Housing
+2025-03-25,Rapido Bike Taxi,INR 94.08,debit,Transportation
+2025-03-26,Ola Cab,INR 333.74,debit,Transportation
+2025-03-26,Rapido Bike Taxi,INR 143.05,debit,Transportation
+2025-03-28,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-03-30,DMart Purchase,INR 3263.45,debit,Groceries
+2025-03-30,BookMyShow Tickets,INR 1497.96,debit,Entertainment
+2025-03-30,BigBasket Groceries,INR 1659.85,debit,Groceries
+2025-04-02,Netflix Subscription,INR 294.39,debit,Subscriptions
+2025-04-04,Tuition Teacher,INR 6126.72,debit,Education
+2025-04-06,Vegetable Vendor,INR 520.91,debit,Groceries
+2025-04-06,Children's Birthday Party,INR 2885.15,debit,Entertainment
+2025-04-07,Children's Birthday Party,INR 12920.19,debit,Entertainment
+2025-04-08,Tuition Teacher,INR 3495.05,debit,Education
+2025-04-09,Car EMI,INR 16568.94,debit,Transportation
+2025-04-09,School Bus Fees,INR 1984.26,debit,Education
+2025-04-12,Swiggy Order,INR 241.33,debit,Food & Dining
+2025-04-12,Flipkart Order,INR 3116.24,debit,Shopping
+2025-04-12,BookMyShow Tickets,INR 1428.69,debit,Entertainment
+2025-04-13,Refund Credit,INR 2272.26,credit,Income
+2025-04-14,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-04-14,Flipkart Order,INR 2632.78,debit,Shopping
+2025-04-15,More Supermarket,INR 269.93,debit,Groceries
+2025-04-15,Family Restaurant,INR 1944.63,debit,Food & Dining
+2025-04-16,School Bus Fees,INR 3265.58,debit,Education
+2025-04-16,Myntra Fashion,INR 1244.10,debit,Shopping
+2025-04-17,Husband Salary,INR 145871.23,credit,Income
+2025-04-17,Property Tax,INR 3428.14,debit,Housing
+2025-04-18,School Bus Fees,INR 1514.15,debit,Education
+2025-04-18,Family Vacation,INR 41025.56,debit,Travel
+2025-04-20,Husband Salary,INR 83955.91,credit,Income
+2025-04-22,Car EMI,INR 14722.26,debit,Transportation
+2025-04-22,Refund Credit,INR 3624.42,credit,Income
+2025-04-23,BigBasket Groceries,INR 1290.48,debit,Groceries
+2025-04-23,Milk Monthly,INR 871.26,debit,Groceries
+2025-04-25,Hotstar Subscription,INR 352.39,debit,Subscriptions
+2025-04-26,Car EMI,INR 17383.14,debit,Transportation
+2025-04-28,BigBasket Groceries,INR 3168.44,debit,Groceries
+2025-04-28,Milk Monthly,INR 957.85,debit,Groceries
+2025-04-30,Hotstar Subscription,INR 582.08,debit,Subscriptions
+2025-05-03,Property Tax,INR 7533.31,debit,Housing
+2025-05-05,Reliance Fresh,INR 798.86,debit,Groceries
+2025-05-06,Uber Ride,INR 472.84,debit,Transportation
+2025-05-06,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-05-06,Amazon Purchase,INR 5202.55,debit,Shopping
+2025-05-08,Family Vacation,INR 42566.80,debit,Travel
+2025-05-08,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-05-09,Household Repairs,INR 16901.14,debit,Housing
+2025-05-09,BigBasket Groceries,INR 772.81,debit,Groceries
+2025-05-10,Home Appliance Purchase,INR 5934.70,debit,Shopping
+2025-05-11,Flipkart Order,INR 576.67,debit,Shopping
+2025-05-11,Uber Ride,INR 507.52,debit,Transportation
+2025-05-12,Car EMI,INR 9119.34,debit,Transportation
+2025-05-12,Hotstar Subscription,INR 562.19,debit,Subscriptions
+2025-05-12,Vegetable Vendor,INR 249.68,debit,Groceries
+2025-05-14,Property Tax,INR 3839.01,debit,Housing
+2025-05-16,Ajio Clothing,INR 2730.52,debit,Shopping
+2025-05-16,Netflix Subscription,INR 513.78,debit,Subscriptions
+2025-05-17,Car Servicing,INR 3698.61,debit,Transportation
+2025-05-17,Kids Clothing,INR 2783.86,debit,Shopping
+2025-05-17,Swiggy Order,INR 453.48,debit,Food & Dining
+2025-05-18,Myntra Fashion,INR 1270.76,debit,Shopping
+2025-05-18,Refund Credit,INR 2521.78,credit,Income
+2025-05-18,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-05-18,Netflix Subscription,INR 474.77,debit,Subscriptions
+2025-05-19,Family Restaurant,INR 923.00,debit,Food & Dining
+2025-05-20,Toys & Games,INR 2141.90,debit,Shopping
+2025-05-20,Amazon Purchase,INR 1040.79,debit,Shopping
+2025-05-20,Meesho Order,INR 947.16,debit,Shopping
+2025-05-20,More Supermarket,INR 453.92,debit,Groceries
+2025-05-20,Swiggy Order,INR 291.06,debit,Food & Dining
+2025-05-21,Cashback Credit,INR 993.39,credit,Income
+2025-05-22,Vegetable Vendor,INR 661.18,debit,Groceries
+2025-05-23,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-05-24,Bonus Credit,INR 51361.82,credit,Income
+2025-05-24,Home Appliance Purchase,INR 34953.04,debit,Shopping
+2025-05-24,Family Vacation,INR 59388.01,debit,Travel
+2025-05-24,Swiggy Order,INR 721.88,debit,Food & Dining
+2025-05-24,Bonus Credit,INR 48291.88,credit,Income
+2025-05-25,Ola Cab,INR 434.78,debit,Transportation
+2025-05-25,Amazon Prime,INR 376.33,debit,Subscriptions
+2025-05-25,Vegetable Vendor,INR 986.81,debit,Groceries
+2025-05-25,Family Restaurant,INR 1966.93,debit,Food & Dining
+2025-05-26,Hotstar Subscription,INR 234.67,debit,Subscriptions
+2025-05-26,Tuition Teacher,INR 5302.58,debit,Education
+2025-05-27,Uber Ride,INR 404.78,debit,Transportation
+2025-05-28,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-05-28,Family Vacation,INR 5901.14,debit,Travel
+2025-05-29,Household Repairs,INR 3211.41,debit,Housing
+2025-05-30,Home Appliance Purchase,INR 30606.13,debit,Shopping
+2025-05-31,Ola Cab,INR 81.66,debit,Transportation
+2025-06-01,Ajio Clothing,INR 761.44,debit,Shopping
+2025-06-02,Car Servicing,INR 10226.15,debit,Transportation
+2025-06-03,Amazon Purchase,INR 2050.09,debit,Shopping
+2025-06-03,Refund Credit,INR 1226.17,credit,Income
+2025-06-05,BookMyShow Tickets,INR 840.40,debit,Entertainment
+2025-06-06,BigBasket Groceries,INR 1357.37,debit,Groceries
+2025-06-07,Home Appliance Purchase,INR 3796.58,debit,Shopping
+2025-06-07,Maid/Cook Salary,INR 5873.44,debit,Miscellaneous
+2025-06-07,Uber Ride,INR 315.49,debit,Transportation
+2025-06-08,Cashback Credit,INR 1677.13,credit,Income
+2025-06-08,Household Repairs,INR 6911.15,debit,Housing
+2025-06-10,Bonus Credit,INR 36909.89,credit,Income
+2025-06-11,Family Vacation,INR 26848.21,debit,Travel
+2025-06-12,Household Repairs,INR 1982.58,debit,Housing
+2025-06-12,Husband Salary,INR 101937.88,credit,Income
+2025-06-13,Interest Credit,INR 2085.60,credit,Income
+2025-06-14,Milk Monthly,INR 645.87,debit,Groceries
+2025-06-14,Ajio Clothing,INR 2549.64,debit,Shopping
+2025-06-16,Car EMI,INR 16522.81,debit,Transportation
+2025-06-17,Rental Income,INR 16749.34,credit,Income
+2025-06-17,Amazon Purchase,INR 3859.62,debit,Shopping
+2025-06-19,Toys & Games,INR 3570.41,debit,Shopping
+2025-06-20,BookMyShow Tickets,INR 714.59,debit,Entertainment
+2025-06-22,School Bus Fees,INR 2977.85,debit,Education
+2025-06-24,Husband Salary,INR 124968.45,credit,Income
+2025-06-25,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-06-25,Netflix Subscription,INR 205.25,debit,Subscriptions
+2025-06-26,Netflix Subscription,INR 558.47,debit,Subscriptions
+2025-06-27,Zomato Food Delivery,INR 577.16,debit,Food & Dining
+2025-06-27,Car EMI,INR 9456.28,debit,Transportation
+2025-06-28,Flipkart Order,INR 5063.51,debit,Shopping
+2025-06-28,More Supermarket,INR 1407.06,debit,Groceries
+2025-06-29,Hotstar Subscription,INR 855.47,debit,Subscriptions
+2025-06-29,School Bus Fees,INR 3055.17,debit,Education
+2025-06-30,Home Appliance Purchase,INR 8212.67,debit,Shopping
+2025-06-30,Property Tax,INR 3033.57,debit,Housing
+2025-07-02,More Supermarket,INR 435.34,debit,Groceries
+2025-07-02,Hotstar Subscription,INR 565.39,debit,Subscriptions
+2025-07-02,Hotstar Subscription,INR 832.41,debit,Subscriptions
+2025-07-03,Milk Monthly,INR 1015.80,debit,Groceries
+2025-07-03,Ajio Clothing,INR 2443.21,debit,Shopping
+2025-07-03,Tuition Teacher,INR 5924.69,debit,Education
+2025-07-04,Property Tax,INR 6835.53,debit,Housing
+2025-07-07,Ola Cab,INR 367.12,debit,Transportation
+2025-07-10,Interest Credit,INR 4098.26,credit,Income
+2025-07-10,Cashback Credit,INR 1602.55,credit,Income
+2025-07-11,Meesho Order,INR 315.24,debit,Shopping
+2025-07-12,Family Vacation,INR 45758.70,debit,Travel
+2025-07-13,Swiggy Order,INR 348.42,debit,Food & Dining
+2025-07-13,Amazon Prime,INR 257.92,debit,Subscriptions
+2025-07-14,DMart Purchase,INR 3276.63,debit,Groceries
+2025-07-15,More Supermarket,INR 1008.76,debit,Groceries
+2025-07-16,Kids Clothing,INR 544.94,debit,Shopping
+2025-07-18,Myntra Fashion,INR 1199.03,debit,Shopping
+2025-07-20,Rapido Bike Taxi,INR 172.41,debit,Transportation
+2025-07-21,Children's Birthday Party,INR 3684.15,debit,Entertainment
+2025-07-21,Vegetable Vendor,INR 553.76,debit,Groceries
+2025-07-22,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-07-23,Car EMI,INR 15351.69,debit,Transportation
+2025-07-27,Reliance Fresh,INR 1094.97,debit,Groceries
+2025-07-27,Uber Ride,INR 157.38,debit,Transportation
+2025-07-28,Swiggy Order,INR 502.36,debit,Food & Dining
+2025-07-28,Amazon Prime,INR 624.84,debit,Subscriptions
+2025-07-29,Rapido Bike Taxi,INR 196.51,debit,Transportation
+2025-07-31,BigBasket Groceries,INR 2839.18,debit,Groceries
+2025-07-31,Flipkart Order,INR 5014.74,debit,Shopping
+2025-08-01,School Bus Fees,INR 1594.34,debit,Education
+2025-08-03,School Bus Fees,INR 2486.09,debit,Education
+2025-08-03,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-08-06,Bonus Credit,INR 19190.82,credit,Income
+2025-08-08,Car EMI,INR 12232.69,debit,Transportation
+2025-08-09,Kids Clothing,INR 697.34,debit,Shopping
+2025-08-09,Vegetable Vendor,INR 402.94,debit,Groceries
+2025-08-10,Car Servicing,INR 5964.50,debit,Transportation
+2025-08-11,Kids Clothing,INR 747.58,debit,Shopping
+2025-08-11,Netflix Subscription,INR 369.94,debit,Subscriptions
+2025-08-11,Bonus Credit,INR 79595.44,credit,Income
+2025-08-12,Zomato Food Delivery,INR 433.35,debit,Food & Dining
+2025-08-13,Rental Income,INR 7186.95,credit,Income
+2025-08-14,Family Vacation,INR 11331.16,debit,Travel
+2025-08-14,Myntra Fashion,INR 722.74,debit,Shopping
+2025-08-14,Car Servicing,INR 2390.60,debit,Transportation
+2025-08-15,Amazon Prime,INR 848.67,debit,Subscriptions
+2025-08-15,Property Tax,INR 1761.73,debit,Housing
+2025-08-15,Spotify Premium,INR 119.00,debit,Subscriptions
+2025-08-15,Hotstar Subscription,INR 542.80,debit,Subscriptions
+2025-08-15,Children's Birthday Party,INR 8536.39,debit,Entertainment
+2025-08-15,Kids Clothing,INR 1889.92,debit,Shopping
+2025-08-16,Car EMI,INR 12789.73,debit,Transportation
+2025-08-16,Maid/Cook Salary,INR 4663.08,debit,Miscellaneous
+2025-08-16,Toys & Games,INR 4114.00,debit,Shopping
+2025-08-16,Ajio Clothing,INR 2343.61,debit,Shopping
+2025-08-17,School Bus Fees,INR 2709.04,debit,Education
+2025-08-17,Amazon Purchase,INR 7609.32,debit,Shopping
+2025-08-20,Tuition Teacher,INR 4600.47,debit,Education
+2025-08-20,Meesho Order,INR 445.65,debit,Shopping
+2025-08-20,Car EMI,INR 13776.36,debit,Transportation
+2025-08-21,Husband Salary,INR 63032.95,credit,Income
+2025-08-22,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-08-23,BigBasket Groceries,INR 1590.34,debit,Groceries
+2025-08-24,Zomato Food Delivery,INR 652.40,debit,Food & Dining
+2025-08-25,Reliance Fresh,INR 1381.01,debit,Groceries
+2025-08-26,Car Servicing,INR 9250.71,debit,Transportation
+2025-08-26,Husband Salary,INR 75892.02,credit,Income
+2025-08-26,Amazon Purchase,INR 6572.33,debit,Shopping
+2025-08-27,Swiggy Order,INR 625.35,debit,Food & Dining
+2025-08-27,Myntra Fashion,INR 925.84,debit,Shopping
+2025-08-27,School Bus Fees,INR 2870.27,debit,Education
+2025-08-27,Home Appliance Purchase,INR 32658.57,debit,Shopping
+2025-08-28,Ajio Clothing,INR 2607.95,debit,Shopping
+2025-08-29,Property Tax,INR 2978.32,debit,Housing
+2025-08-29,Vegetable Vendor,INR 663.55,debit,Groceries
+2025-08-29,Rental Income,INR 12325.83,credit,Income
+2025-08-30,Netflix Subscription,INR 601.38,debit,Subscriptions
+2025-08-30,Amazon Purchase,INR 5005.41,debit,Shopping
+2025-08-31,Family Restaurant,INR 1962.91,debit,Food & Dining
+2025-08-31,Swiggy Order,INR 356.89,debit,Food & Dining
+2025-09-01,Meesho Order,INR 1217.78,debit,Shopping
+2025-09-03,Refund Credit,INR 284.14,credit,Income
+2025-09-03,Toys & Games,INR 2470.63,debit,Shopping
+2025-09-03,Home Appliance Purchase,INR 12485.16,debit,Shopping
+2025-09-05,Rental Income,INR 16293.68,credit,Income
+2025-09-06,Zomato Food Delivery,INR 446.58,debit,Food & Dining
+2025-09-06,Reliance Fresh,INR 792.79,debit,Groceries
+2025-09-08,Ajio Clothing,INR 3050.39,debit,Shopping
+2025-09-08,DMart Purchase,INR 656.98,debit,Groceries
+2025-09-09,Myntra Fashion,INR 3114.53,debit,Shopping
+2025-09-09,Maid/Cook Salary,INR 3409.35,debit,Miscellaneous
+2025-09-10,Household Repairs,INR 10148.08,debit,Housing
+2025-09-11,Tuition Teacher,INR 5021.65,debit,Education
+2025-09-12,Swiggy Order,INR 592.62,debit,Food & Dining
+2025-09-12,Car EMI,INR 8127.15,debit,Transportation
+2025-09-12,Bonus Credit,INR 35672.40,credit,Income
+2025-09-13,More Supermarket,INR 565.36,debit,Groceries
+2025-09-13,Home Appliance Purchase,INR 36865.90,debit,Shopping
+2025-09-14,Home Appliance Purchase,INR 16747.97,debit,Shopping
+2025-09-16,Hotstar Subscription,INR 475.08,debit,Subscriptions
+2025-09-16,Rapido Bike Taxi,INR 127.68,debit,Transportation
+2025-09-16,Refund Credit,INR 1836.15,credit,Income
+2025-09-17,Family Restaurant,INR 3936.66,debit,Food & Dining
+2025-09-17,Swiggy Order,INR 257.99,debit,Food & Dining
+2025-09-17,Reliance Fresh,INR 1936.24,debit,Groceries
+2025-09-17,Car EMI,INR 19128.02,debit,Transportation
+2025-09-18,BookMyShow Tickets,INR 862.63,debit,Entertainment
+2025-09-19,More Supermarket,INR 249.16,debit,Groceries
+2025-09-20,Bonus Credit,INR 53725.03,credit,Income
+2025-09-20,Family Vacation,INR 56971.24,debit,Travel
+2025-09-21,Family Vacation,INR 53368.61,debit,Travel
+2025-09-21,Family Vacation,INR 15029.28,debit,Travel
+2025-09-22,Property Tax,INR 5385.56,debit,Housing
+2025-09-23,Milk Monthly,INR 927.82,debit,Groceries
+2025-09-23,BigBasket Groceries,INR 2476.50,debit,Groceries
+2025-09-24,Milk Monthly,INR 735.58,debit,Groceries
+2025-09-26,Family Restaurant,INR 3878.11,debit,Food & Dining
+2025-09-27,DMart Purchase,INR 977.66,debit,Groceries
+2025-09-27,Reliance Fresh,INR 1987.04,debit,Groceries
+2025-09-28,Amazon Prime,INR 346.15,debit,Subscriptions
+2025-09-29,Ajio Clothing,INR 1850.12,debit,Shopping
+2025-09-30,Wife Salary,INR 50813.32,credit,Income
+2025-10-02,Family Vacation,INR 15804.89,debit,Travel
+2025-10-03,Amazon Purchase,INR 2759.77,debit,Shopping
+2025-10-04,Family Restaurant,INR 949.20,debit,Food & Dining
+2025-10-05,Wife Salary,INR 99036.72,credit,Income
+2025-10-05,Vegetable Vendor,INR 818.53,debit,Groceries
+2025-10-06,Interest Credit,INR 3280.08,credit,Income
+2025-10-06,School Bus Fees,INR 3950.14,debit,Education
+2025-10-07,Myntra Fashion,INR 674.99,debit,Shopping
+2025-10-07,Ola Cab,INR 229.98,debit,Transportation
+2025-10-08,Swiggy Order,INR 801.12,debit,Food & Dining
+2025-10-10,Ola Cab,INR 439.21,debit,Transportation
+2025-10-13,Husband Salary,INR 76816.26,credit,Income
+2025-10-14,Family Vacation,INR 44866.92,debit,Travel
+2025-10-16,BookMyShow Tickets,INR 1029.97,debit,Entertainment
+2025-10-16,Reliance Fresh,INR 605.34,debit,Groceries
+2025-10-16,BigBasket Groceries,INR 2172.62,debit,Groceries
+2025-10-16,Family Vacation,INR 21337.53,debit,Travel
+2025-10-19,Family Restaurant,INR 3150.50,debit,Food & Dining
+2025-10-20,Swiggy Order,INR 655.15,debit,Food & Dining
+2025-10-21,Maid/Cook Salary,INR 8747.51,debit,Miscellaneous
+2025-10-22,Maid/Cook Salary,INR 8311.53,debit,Miscellaneous
+2025-10-24,Refund Credit,INR 226.42,credit,Income
+2025-10-24,Netflix Subscription,INR 586.02,debit,Subscriptions
+2025-10-26,Tuition Teacher,INR 3570.30,debit,Education
+2025-10-27,Maid/Cook Salary,INR 7608.34,debit,Miscellaneous
+2025-10-27,Swiggy Order,INR 489.78,debit,Food & Dining
+2025-10-28,Rental Income,INR 16852.03,credit,Income
+2025-10-30,Home Appliance Purchase,INR 20330.53,debit,Shopping
+2025-10-31,BookMyShow Tickets,INR 903.46,debit,Entertainment
+2025-11-03,Property Tax,INR 3489.60,debit,Housing
+2025-11-04,Netflix Subscription,INR 298.27,debit,Subscriptions
+2025-11-05,Household Repairs,INR 2758.89,debit,Housing
+2025-11-05,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-11-05,Refund Credit,INR 2295.40,credit,Income
+2025-11-06,BookMyShow Tickets,INR 737.32,debit,Entertainment
+2025-11-07,Toys & Games,INR 1559.45,debit,Shopping
+2025-11-07,Amazon Prime,INR 179.09,debit,Subscriptions
+2025-11-08,Meesho Order,INR 1009.96,debit,Shopping
+2025-11-08,BookMyShow Tickets,INR 1378.30,debit,Entertainment
+2025-11-09,Ola Cab,INR 355.00,debit,Transportation
+2025-11-10,Maid/Cook Salary,INR 5528.24,debit,Miscellaneous
+2025-11-10,Tuition Teacher,INR 7491.23,debit,Education
+2025-11-10,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-11-12,More Supermarket,INR 1208.49,debit,Groceries
+2025-11-14,Reliance Fresh,INR 271.28,debit,Groceries
+2025-11-14,Netflix Subscription,INR 157.32,debit,Subscriptions
+2025-11-15,Rental Income,INR 17291.30,credit,Income
+2025-11-16,Netflix Subscription,INR 516.58,debit,Subscriptions
+2025-11-16,BigBasket Groceries,INR 2118.20,debit,Groceries
+2025-11-16,Household Repairs,INR 14530.75,debit,Housing
+2025-11-17,YouTube Premium,INR 139.00,debit,Subscriptions
+2025-11-17,Milk Monthly,INR 809.98,debit,Groceries
+2025-11-17,Tuition Teacher,INR 5665.57,debit,Education
+2025-11-17,School Bus Fees,INR 1824.34,debit,Education
+2025-11-18,Amazon Purchase,INR 6340.85,debit,Shopping
+2025-11-18,Netflix Subscription,INR 172.45,debit,Subscriptions
+2025-11-19,Refund Credit,INR 2618.45,credit,Income
+2025-11-19,Rapido Bike Taxi,INR 178.38,debit,Transportation
+2025-11-21,Bonus Credit,INR 45554.39,credit,Income
+2025-11-21,Interest Credit,INR 2064.19,credit,Income
+2025-11-21,Milk Monthly,INR 745.86,debit,Groceries
+2025-11-22,Amazon Prime,INR 258.88,debit,Subscriptions
+2025-11-22,Netflix Subscription,INR 404.68,debit,Subscriptions
+2025-11-23,Uber Ride,INR 292.22,debit,Transportation
+2025-11-23,Family Vacation,INR 52800.96,debit,Travel
+2025-11-24,Uber Ride,INR 284.67,debit,Transportation
+2025-11-25,Hotstar Subscription,INR 678.96,debit,Subscriptions
+2025-11-26,Interest Credit,INR 2222.53,credit,Income
+2025-11-26,Uber Ride,INR 321.15,debit,Transportation
+2025-11-28,Amazon Prime,INR 960.07,debit,Subscriptions
+2025-11-28,Household Repairs,INR 14401.64,debit,Housing
+2025-11-29,Myntra Fashion,INR 3881.86,debit,Shopping
+2025-11-29,Ola Cab,INR 305.86,debit,Transportation
+2025-12-01,Flipkart Order,INR 466.82,debit,Shopping
+2025-12-01,Home Appliance Purchase,INR 27290.58,debit,Shopping
+2025-12-03,Cashback Credit,INR 895.22,credit,Income
+2025-12-03,Household Repairs,INR 10079.08,debit,Housing
+2025-12-03,Swiggy Order,INR 307.78,debit,Food & Dining
+2025-12-04,Toys & Games,INR 3550.43,debit,Shopping
+2025-12-04,Reliance Fresh,INR 1033.06,debit,Groceries
+2025-12-05,Ola Cab,INR 166.88,debit,Transportation
+2025-12-06,Interest Credit,INR 4347.15,credit,Income
+2025-12-06,Interest Credit,INR 2929.25,credit,Income
+2025-12-10,Myntra Fashion,INR 1913.27,debit,Shopping
+2025-12-10,Zomato Food Delivery,INR 667.70,debit,Food & Dining
+2025-12-10,Family Vacation,INR 42467.27,debit,Travel
+2025-12-11,Reliance Fresh,INR 1834.11,debit,Groceries
+2025-12-13,Reliance Fresh,INR 1363.72,debit,Groceries
+2025-12-15,Kids Clothing,INR 2306.47,debit,Shopping
+2025-12-16,Reliance Fresh,INR 1712.91,debit,Groceries
+2025-12-17,Swiggy Order,INR 743.95,debit,Food & Dining
+2025-12-18,Property Tax,INR 3432.44,debit,Housing
+2025-12-19,Amazon Purchase,INR 6199.62,debit,Shopping
+2025-12-20,BigBasket Groceries,INR 3152.18,debit,Groceries
+2025-12-20,More Supermarket,INR 1283.52,debit,Groceries
+2025-12-21,Amazon Prime,INR 994.19,debit,Subscriptions
+2025-12-21,Family Restaurant,INR 3180.69,debit,Food & Dining
+2025-12-22,Myntra Fashion,INR 878.41,debit,Shopping
+2025-12-25,Home Appliance Purchase,INR 15936.12,debit,Shopping
+2025-12-26,Family Restaurant,INR 2359.14,debit,Food & Dining
+2025-12-28,Kids Clothing,INR 937.90,debit,Shopping
+2025-12-28,Wife Salary,INR 95627.32,credit,Income
+2025-12-28,Hotstar Subscription,INR 526.49,debit,Subscriptions
+2025-12-29,Kids Clothing,INR 2770.05,debit,Shopping

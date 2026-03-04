@@ -1,0 +1,10 @@
+# MoneyMind – Personal Financial Spending Analyzer
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive charts
+plotly>=5.15.0
+
+# NiceGUI dashboard
+nicegui>=2.0.0

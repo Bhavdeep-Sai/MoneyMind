@@ -1,0 +1,2001 @@
+date,description,amount,category
+2022-01-01,Amazon Prime,Rs 567.86,Subscriptions
+2022-01-04,Myntra Fashion,Rs 697.82,Shopping
+2022-01-05,Premium Gym,"Rs 4,717.76",Healthcare
+2022-01-05,Security System,"Rs 13,766.56",Housing
+2022-01-05,Hotstar Subscription,Rs 821.87,Subscriptions
+2022-01-06,DMart Purchase,"Rs 1,291.47",Groceries
+2022-01-06,Flipkart Order,"Rs 5,380.43",Shopping
+2022-01-07,Spotify Premium,Rs 119.00,Subscriptions
+2022-01-08,Premium Whisky Shop,"Rs 6,519.20",Food & Dining
+2022-01-09,Investment Advisory Fee,"Rs 17,134.62",Miscellaneous
+2022-01-09,Swiggy Order,Rs 188.61,Food & Dining
+2022-01-09,Dividend Credit,"Rs 11,626.86",Income
+2022-01-10,Amazon Purchase,Rs 668.69,Shopping
+2022-01-10,Uber Ride,Rs 527.19,Transportation
+2022-01-10,Golf Club Membership,"Rs 5,492.53",Healthcare
+2022-01-10,Chartered Accountant,"Rs 28,164.50",Miscellaneous
+2022-01-11,More Supermarket,Rs 716.45,Groceries
+2022-01-13,Myntra Fashion,Rs 830.69,Shopping
+2022-01-14,Dividend Credit,"Rs 44,649.01",Income
+2022-01-16,Netflix Subscription,Rs 262.90,Subscriptions
+2022-01-16,Rapido Bike Taxi,Rs 127.61,Transportation
+2022-01-19,Hotstar Subscription,Rs 493.80,Subscriptions
+2022-01-19,YouTube Premium,Rs 139.00,Subscriptions
+2022-01-19,Golf Club Membership,"Rs 25,758.50",Healthcare
+2022-01-20,BMW Service Center,"Rs 15,961.79",Transportation
+2022-01-20,Myntra Fashion,"Rs 3,803.18",Shopping
+2022-01-21,YouTube Premium,Rs 139.00,Subscriptions
+2022-01-22,DMart Purchase,"Rs 2,395.67",Groceries
+2022-01-22,Fine Dining Restaurant,"Rs 13,710.97",Food & Dining
+2022-01-23,YouTube Premium,Rs 139.00,Subscriptions
+2022-01-24,Luxury Watch Service,"Rs 21,382.89",Shopping
+2022-01-26,Security System,"Rs 17,572.52",Housing
+2022-01-26,Designer Brand Store,"Rs 34,591.69",Shopping
+2022-01-27,BMW Service Center,"Rs 10,734.65",Transportation
+2022-01-28,BigBasket Groceries,"Rs 2,978.47",Groceries
+2022-01-29,YouTube Premium,Rs 139.00,Subscriptions
+2022-01-29,BMW Service Center,"Rs 11,663.05",Transportation
+2022-01-30,BigBasket Groceries,"Rs 3,762.17",Groceries
+2022-01-30,YouTube Premium,Rs 139.00,Subscriptions
+2022-01-30,Spotify Premium,Rs 119.00,Subscriptions
+2022-01-31,BigBasket Groceries,"Rs 2,995.94",Groceries
+2022-02-01,Dividend Credit,"Rs 50,207.06",Income
+2022-02-01,Investment Advisory Fee,"Rs 18,325.61",Miscellaneous
+2022-02-03,Hotstar Subscription,Rs 762.09,Subscriptions
+2022-02-06,Premium Whisky Shop,"Rs 14,369.92",Food & Dining
+2022-02-06,Reliance Fresh,"Rs 1,019.29",Groceries
+2022-02-07,Meesho Order,"Rs 1,419.33",Shopping
+2022-02-09,More Supermarket,"Rs 1,507.03",Groceries
+2022-02-10,Designer Brand Store,"Rs 81,808.57",Shopping
+2022-02-10,YouTube Premium,Rs 139.00,Subscriptions
+2022-02-11,Reliance Fresh,Rs 556.70,Groceries
+2022-02-11,Dividend Credit,"Rs 48,511.66",Income
+2022-02-11,Security System,"Rs 22,690.60",Housing
+2022-02-11,Investment Advisory Fee,"Rs 14,634.08",Miscellaneous
+2022-02-11,Designer Brand Store,"Rs 42,325.45",Shopping
+2022-02-14,Ola Cab,Rs 121.09,Transportation
+2022-02-14,Rental Income,"Rs 57,642.67",Income
+2022-02-14,Security System,"Rs 25,630.06",Housing
+2022-02-17,BigBasket Groceries,"Rs 1,754.97",Groceries
+2022-02-17,Designer Brand Store,"Rs 30,772.29",Shopping
+2022-02-18,Stock Options,"Rs 279,502.63",Income
+2022-02-18,Chartered Accountant,"Rs 45,311.56",Miscellaneous
+2022-02-20,Ola Cab,Rs 125.52,Transportation
+2022-02-20,More Supermarket,"Rs 1,487.50",Groceries
+2022-02-20,Security System,"Rs 21,954.24",Housing
+2022-02-22,Amazon Purchase,"Rs 4,707.47",Shopping
+2022-02-22,Security System,"Rs 7,458.49",Housing
+2022-02-22,Dividend Credit,"Rs 28,535.86",Income
+2022-02-23,Dividend Credit,"Rs 38,412.27",Income
+2022-02-24,Premium Whisky Shop,"Rs 9,626.10",Food & Dining
+2022-02-24,Premium Whisky Shop,"Rs 6,334.65",Food & Dining
+2022-02-25,YouTube Premium,Rs 139.00,Subscriptions
+2022-02-26,Uber Ride,Rs 471.98,Transportation
+2022-02-27,BMW Service Center,"Rs 29,567.92",Transportation
+2022-02-28,Uber Ride,Rs 548.81,Transportation
+2022-02-28,Stock Options,"Rs 153,204.51",Income
+2022-03-01,Annual Bonus,"Rs 124,327.48",Income
+2022-03-01,DMart Purchase,"Rs 2,612.31",Groceries
+2022-03-04,Ajio Clothing,"Rs 2,071.48",Shopping
+2022-03-04,Luxury Watch Service,"Rs 70,365.61",Shopping
+2022-03-06,Annual Bonus,"Rs 151,377.21",Income
+2022-03-06,Hotstar Subscription,Rs 869.55,Subscriptions
+2022-03-07,Hotstar Subscription,Rs 329.15,Subscriptions
+2022-03-08,Rapido Bike Taxi,Rs 115.30,Transportation
+2022-03-09,Fine Dining Restaurant,"Rs 17,174.81",Food & Dining
+2022-03-09,Luxury Watch Service,"Rs 31,904.75",Shopping
+2022-03-09,Hotstar Subscription,Rs 407.78,Subscriptions
+2022-03-10,Golf Club Membership,"Rs 22,302.91",Healthcare
+2022-03-10,Flipkart Order,"Rs 5,570.73",Shopping
+2022-03-11,Business Class Flight,"Rs 112,768.63",Travel
+2022-03-12,Ola Cab,Rs 267.59,Transportation
+2022-03-13,Uber Ride,Rs 143.37,Transportation
+2022-03-13,Reliance Fresh,Rs 571.37,Groceries
+2022-03-14,Security System,"Rs 27,838.14",Housing
+2022-03-16,YouTube Premium,Rs 139.00,Subscriptions
+2022-03-17,Interior Design Service,"Rs 126,673.22",Housing
+2022-03-17,Annual Bonus,"Rs 430,581.47",Income
+2022-03-19,Amazon Purchase,"Rs 1,649.21",Shopping
+2022-03-21,Meesho Order,"Rs 1,235.85",Shopping
+2022-03-21,Ola Cab,Rs 363.97,Transportation
+2022-03-22,5-Star Hotel,"Rs 70,806.49",Travel
+2022-03-22,Reliance Fresh,"Rs 1,846.44",Groceries
+2022-03-23,Golf Club Membership,"Rs 23,394.62",Healthcare
+2022-03-24,Zomato Food Delivery,Rs 444.41,Food & Dining
+2022-03-24,Rental Income,"Rs 37,809.53",Income
+2022-03-25,Interior Design Service,"Rs 88,114.34",Housing
+2022-03-25,BMW Service Center,"Rs 18,110.85",Transportation
+2022-03-26,Dividend Credit,"Rs 18,599.98",Income
+2022-03-26,Dividend Credit,"Rs 33,209.39",Income
+2022-03-26,Investment Advisory Fee,"Rs 5,373.91",Miscellaneous
+2022-03-26,Chartered Accountant,"Rs 49,961.89",Miscellaneous
+2022-03-27,Investment Advisory Fee,"Rs 11,777.99",Miscellaneous
+2022-03-28,Flipkart Order,"Rs 1,230.56",Shopping
+2022-03-29,Hotstar Subscription,Rs 322.90,Subscriptions
+2022-03-29,BigBasket Groceries,"Rs 3,873.23",Groceries
+2022-03-30,Ajio Clothing,"Rs 1,738.92",Shopping
+2022-03-31,Golf Club Membership,"Rs 28,761.56",Healthcare
+2022-04-02,DMart Purchase,"Rs 2,568.51",Groceries
+2022-04-02,Swiggy Order,Rs 508.90,Food & Dining
+2022-04-02,Parking Premium Mall,Rs 324.28,Transportation
+2022-04-02,Chartered Accountant,"Rs 37,649.18",Miscellaneous
+2022-04-03,Premium Gym,"Rs 3,616.25",Healthcare
+2022-04-03,Amazon Prime,Rs 282.11,Subscriptions
+2022-04-04,Interest Credit,"Rs 25,153.52",Income
+2022-04-06,BMW Service Center,"Rs 28,576.50",Transportation
+2022-04-06,Dividend Credit,"Rs 39,137.42",Income
+2022-04-08,Interest Credit,"Rs 18,391.34",Income
+2022-04-09,Amazon Purchase,"Rs 6,280.47",Shopping
+2022-04-10,BookMyShow Tickets,Rs 454.06,Entertainment
+2022-04-12,Swiggy Order,Rs 390.49,Food & Dining
+2022-04-12,Uber Ride,Rs 142.27,Transportation
+2022-04-14,More Supermarket,Rs 524.41,Groceries
+2022-04-15,Myntra Fashion,"Rs 1,187.69",Shopping
+2022-04-15,DMart Purchase,"Rs 1,356.21",Groceries
+2022-04-15,Flipkart Order,"Rs 3,469.11",Shopping
+2022-04-16,BMW Service Center,"Rs 44,808.72",Transportation
+2022-04-17,Meesho Order,"Rs 1,811.30",Shopping
+2022-04-17,Amazon Purchase,"Rs 5,085.79",Shopping
+2022-04-18,Uber Ride,Rs 94.56,Transportation
+2022-04-19,Chartered Accountant,"Rs 40,048.71",Miscellaneous
+2022-04-20,Rental Income,"Rs 25,909.59",Income
+2022-04-22,Fine Dining Restaurant,"Rs 18,758.30",Food & Dining
+2022-04-22,Designer Brand Store,"Rs 36,292.10",Shopping
+2022-04-22,Premium Gym,"Rs 2,733.99",Healthcare
+2022-04-23,Premium Gym,"Rs 4,092.48",Healthcare
+2022-04-26,Meesho Order,"Rs 1,475.48",Shopping
+2022-04-28,DMart Purchase,Rs 675.27,Groceries
+2022-04-28,Spotify Premium,Rs 119.00,Subscriptions
+2022-04-28,Parking Premium Mall,Rs 531.80,Transportation
+2022-04-29,Golf Club Membership,"Rs 19,644.42",Healthcare
+2022-04-29,Business Profit Transfer,"Rs 167,204.51",Income
+2022-04-30,Zomato Food Delivery,Rs 422.76,Food & Dining
+2022-04-30,Salary CTC Credit,"Rs 556,616.39",Income
+2022-04-30,Amazon Purchase,"Rs 3,763.68",Shopping
+2022-05-01,Meesho Order,Rs 973.19,Shopping
+2022-05-03,Swiggy Order,Rs 769.39,Food & Dining
+2022-05-05,Meesho Order,"Rs 1,305.34",Shopping
+2022-05-05,Business Profit Transfer,"Rs 257,317.86",Income
+2022-05-06,DMart Purchase,"Rs 2,289.42",Groceries
+2022-05-06,Zomato Food Delivery,Rs 433.26,Food & Dining
+2022-05-08,Security System,"Rs 6,471.46",Housing
+2022-05-08,Spotify Premium,Rs 119.00,Subscriptions
+2022-05-08,Spotify Premium,Rs 119.00,Subscriptions
+2022-05-09,Luxury Watch Service,"Rs 37,141.43",Shopping
+2022-05-11,YouTube Premium,Rs 139.00,Subscriptions
+2022-05-11,Zomato Food Delivery,Rs 578.56,Food & Dining
+2022-05-11,BigBasket Groceries,"Rs 2,066.62",Groceries
+2022-05-12,Investment Advisory Fee,"Rs 8,752.62",Miscellaneous
+2022-05-13,Chartered Accountant,"Rs 11,942.70",Miscellaneous
+2022-05-14,Parking Premium Mall,Rs 229.97,Transportation
+2022-05-14,Golf Club Membership,"Rs 11,552.67",Healthcare
+2022-05-15,Amazon Prime,Rs 666.63,Subscriptions
+2022-05-15,More Supermarket,Rs 249.11,Groceries
+2022-05-15,Meesho Order,"Rs 1,353.90",Shopping
+2022-05-15,Zomato Food Delivery,Rs 228.24,Food & Dining
+2022-05-15,Salary CTC Credit,"Rs 443,883.60",Income
+2022-05-15,Meesho Order,"Rs 1,681.78",Shopping
+2022-05-16,Chartered Accountant,"Rs 46,127.95",Miscellaneous
+2022-05-17,BMW Service Center,"Rs 6,629.80",Transportation
+2022-05-18,Parking Premium Mall,Rs 410.86,Transportation
+2022-05-18,Stock Options,"Rs 214,129.25",Income
+2022-05-20,Meesho Order,Rs 281.07,Shopping
+2022-05-20,BigBasket Groceries,"Rs 1,596.28",Groceries
+2022-05-21,BookMyShow Tickets,Rs 476.82,Entertainment
+2022-05-22,BigBasket Groceries,"Rs 3,633.28",Groceries
+2022-05-23,Dividend Credit,"Rs 20,943.16",Income
+2022-05-24,Golf Club Membership,"Rs 26,794.67",Healthcare
+2022-05-24,Fine Dining Restaurant,"Rs 16,765.37",Food & Dining
+2022-05-24,BMW Service Center,"Rs 24,980.05",Transportation
+2022-05-24,DMart Purchase,"Rs 2,410.36",Groceries
+2022-05-25,Fine Dining Restaurant,"Rs 15,677.02",Food & Dining
+2022-05-25,Chartered Accountant,"Rs 26,321.64",Miscellaneous
+2022-05-26,Swiggy Order,Rs 558.81,Food & Dining
+2022-05-26,Premium Whisky Shop,"Rs 5,384.35",Food & Dining
+2022-05-26,BigBasket Groceries,Rs 556.96,Groceries
+2022-05-27,Interior Design Service,"Rs 184,573.47",Housing
+2022-05-30,Golf Club Membership,"Rs 7,664.48",Healthcare
+2022-05-31,Premium Gym,"Rs 3,467.12",Healthcare
+2022-06-01,Ola Cab,Rs 463.25,Transportation
+2022-06-03,BMW Service Center,"Rs 27,361.19",Transportation
+2022-06-03,Security System,"Rs 20,198.59",Housing
+2022-06-04,Amazon Purchase,"Rs 2,319.50",Shopping
+2022-06-04,BigBasket Groceries,Rs 602.80,Groceries
+2022-06-05,Amazon Prime,Rs 433.70,Subscriptions
+2022-06-05,Uber Ride,Rs 364.70,Transportation
+2022-06-05,Designer Brand Store,"Rs 8,163.84",Shopping
+2022-06-09,Premium Whisky Shop,"Rs 8,520.46",Food & Dining
+2022-06-09,Fine Dining Restaurant,"Rs 12,088.36",Food & Dining
+2022-06-10,YouTube Premium,Rs 139.00,Subscriptions
+2022-06-11,Amazon Prime,Rs 291.83,Subscriptions
+2022-06-12,Flipkart Order,"Rs 5,945.17",Shopping
+2022-06-13,Rental Income,"Rs 43,591.03",Income
+2022-06-13,BMW Service Center,"Rs 41,359.02",Transportation
+2022-06-14,Uber Ride,Rs 463.79,Transportation
+2022-06-14,Fine Dining Restaurant,"Rs 8,462.92",Food & Dining
+2022-06-15,Premium Gym,"Rs 3,359.27",Healthcare
+2022-06-15,Swiggy Order,Rs 818.07,Food & Dining
+2022-06-15,Designer Brand Store,"Rs 88,478.84",Shopping
+2022-06-16,Amazon Prime,Rs 360.38,Subscriptions
+2022-06-17,Ola Cab,Rs 344.76,Transportation
+2022-06-19,YouTube Premium,Rs 139.00,Subscriptions
+2022-06-20,BMW Service Center,"Rs 38,295.99",Transportation
+2022-06-21,Chartered Accountant,"Rs 35,018.54",Miscellaneous
+2022-06-22,Uber Ride,Rs 223.99,Transportation
+2022-06-22,Security System,"Rs 22,508.09",Housing
+2022-06-24,DMart Purchase,"Rs 2,285.85",Groceries
+2022-06-25,Netflix Subscription,Rs 576.09,Subscriptions
+2022-06-28,Premium Whisky Shop,"Rs 6,475.54",Food & Dining
+2022-06-28,Meesho Order,Rs 457.96,Shopping
+2022-07-02,Golf Club Membership,"Rs 14,388.53",Healthcare
+2022-07-02,BookMyShow Tickets,Rs 954.03,Entertainment
+2022-07-02,Meesho Order,Rs 269.76,Shopping
+2022-07-03,Uber Ride,Rs 104.11,Transportation
+2022-07-04,Meesho Order,"Rs 1,134.81",Shopping
+2022-07-05,Investment Advisory Fee,"Rs 19,713.07",Miscellaneous
+2022-07-05,Dividend Credit,"Rs 58,122.60",Income
+2022-07-05,Chartered Accountant,"Rs 26,167.02",Miscellaneous
+2022-07-05,Salary CTC Credit,"Rs 425,708.98",Income
+2022-07-06,Amazon Prime,Rs 210.54,Subscriptions
+2022-07-07,Annual Bonus,"Rs 364,179.02",Income
+2022-07-08,Golf Club Membership,"Rs 24,986.54",Healthcare
+2022-07-08,Interior Design Service,"Rs 125,480.48",Housing
+2022-07-08,Meesho Order,Rs 929.22,Shopping
+2022-07-08,Investment Advisory Fee,"Rs 14,051.96",Miscellaneous
+2022-07-09,BookMyShow Tickets,Rs 952.41,Entertainment
+2022-07-09,Luxury Watch Service,"Rs 42,968.90",Shopping
+2022-07-09,Stock Options,"Rs 267,037.75",Income
+2022-07-10,Flipkart Order,"Rs 3,546.27",Shopping
+2022-07-10,Stock Options,"Rs 102,046.95",Income
+2022-07-12,Investment Advisory Fee,"Rs 6,421.84",Miscellaneous
+2022-07-13,Ajio Clothing,"Rs 1,115.16",Shopping
+2022-07-13,Uber Ride,Rs 486.62,Transportation
+2022-07-13,Interest Credit,"Rs 5,615.33",Income
+2022-07-14,Business Profit Transfer,"Rs 56,259.27",Income
+2022-07-15,More Supermarket,Rs 374.45,Groceries
+2022-07-15,Netflix Subscription,Rs 351.89,Subscriptions
+2022-07-16,Rapido Bike Taxi,Rs 112.91,Transportation
+2022-07-16,Chartered Accountant,"Rs 47,015.44",Miscellaneous
+2022-07-17,BookMyShow Tickets,"Rs 1,452.25",Entertainment
+2022-07-18,Business Profit Transfer,"Rs 144,575.27",Income
+2022-07-18,Dividend Credit,"Rs 72,145.53",Income
+2022-07-18,Uber Ride,Rs 272.95,Transportation
+2022-07-19,Reliance Fresh,Rs 194.05,Groceries
+2022-07-19,Business Profit Transfer,"Rs 235,686.39",Income
+2022-07-20,Reliance Fresh,"Rs 1,010.85",Groceries
+2022-07-21,Meesho Order,Rs 917.21,Shopping
+2022-07-22,Amazon Prime,Rs 949.76,Subscriptions
+2022-07-23,BMW Service Center,"Rs 25,898.25",Transportation
+2022-07-24,Zomato Food Delivery,Rs 156.40,Food & Dining
+2022-07-25,5-Star Hotel,"Rs 63,345.63",Travel
+2022-07-29,Premium Gym,"Rs 2,552.77",Healthcare
+2022-07-30,More Supermarket,"Rs 1,549.23",Groceries
+2022-07-30,Uber Ride,Rs 404.25,Transportation
+2022-08-01,Meesho Order,Rs 867.35,Shopping
+2022-08-02,Zomato Food Delivery,Rs 635.91,Food & Dining
+2022-08-02,Chartered Accountant,"Rs 18,942.49",Miscellaneous
+2022-08-06,Business Class Flight,"Rs 65,292.85",Travel
+2022-08-07,Amazon Purchase,"Rs 2,801.82",Shopping
+2022-08-08,Ajio Clothing,"Rs 1,412.56",Shopping
+2022-08-09,Meesho Order,"Rs 1,581.78",Shopping
+2022-08-10,Myntra Fashion,"Rs 3,987.02",Shopping
+2022-08-10,Parking Premium Mall,Rs 629.08,Transportation
+2022-08-11,Meesho Order,Rs 516.30,Shopping
+2022-08-14,Interest Credit,"Rs 5,104.36",Income
+2022-08-15,Premium Gym,"Rs 3,140.72",Healthcare
+2022-08-16,Flipkart Order,Rs 563.67,Shopping
+2022-08-16,5-Star Hotel,"Rs 19,502.05",Travel
+2022-08-18,Premium Gym,"Rs 4,258.88",Healthcare
+2022-08-19,More Supermarket,Rs 219.08,Groceries
+2022-08-19,Parking Premium Mall,Rs 324.30,Transportation
+2022-08-19,Spotify Premium,Rs 119.00,Subscriptions
+2022-08-19,Salary CTC Credit,"Rs 371,340.45",Income
+2022-08-20,BigBasket Groceries,"Rs 1,735.25",Groceries
+2022-08-21,Parking Premium Mall,Rs 543.19,Transportation
+2022-08-21,More Supermarket,"Rs 1,286.18",Groceries
+2022-08-21,Rapido Bike Taxi,Rs 157.68,Transportation
+2022-08-23,More Supermarket,"Rs 1,724.41",Groceries
+2022-08-23,Salary CTC Credit,"Rs 500,631.12",Income
+2022-08-24,Stock Options,"Rs 116,906.98",Income
+2022-08-24,Investment Advisory Fee,"Rs 10,193.38",Miscellaneous
+2022-08-24,Premium Whisky Shop,"Rs 3,671.62",Food & Dining
+2022-08-25,Chartered Accountant,"Rs 31,922.17",Miscellaneous
+2022-08-26,Flipkart Order,"Rs 1,132.96",Shopping
+2022-08-27,Amazon Purchase,"Rs 1,284.86",Shopping
+2022-08-27,More Supermarket,"Rs 1,089.95",Groceries
+2022-08-27,Meesho Order,Rs 504.01,Shopping
+2022-08-27,YouTube Premium,Rs 139.00,Subscriptions
+2022-08-27,Ajio Clothing,"Rs 1,644.31",Shopping
+2022-08-28,Luxury Watch Service,"Rs 30,428.25",Shopping
+2022-08-28,Premium Whisky Shop,"Rs 2,263.37",Food & Dining
+2022-08-29,BMW Service Center,"Rs 37,044.48",Transportation
+2022-08-29,Parking Premium Mall,Rs 576.76,Transportation
+2022-08-29,BookMyShow Tickets,Rs 793.41,Entertainment
+2022-08-31,YouTube Premium,Rs 139.00,Subscriptions
+2022-08-31,Hotstar Subscription,Rs 323.03,Subscriptions
+2022-08-31,Interest Credit,"Rs 24,007.31",Income
+2022-08-31,Hotstar Subscription,Rs 456.69,Subscriptions
+2022-09-01,Meesho Order,Rs 162.64,Shopping
+2022-09-02,Ajio Clothing,"Rs 2,273.26",Shopping
+2022-09-03,Parking Premium Mall,Rs 417.03,Transportation
+2022-09-03,Stock Options,"Rs 54,460.32",Income
+2022-09-04,Designer Brand Store,"Rs 67,828.95",Shopping
+2022-09-05,Investment Advisory Fee,"Rs 11,418.39",Miscellaneous
+2022-09-05,Netflix Subscription,Rs 255.16,Subscriptions
+2022-09-06,Ola Cab,Rs 200.85,Transportation
+2022-09-08,Golf Club Membership,"Rs 20,893.97",Healthcare
+2022-09-08,Investment Advisory Fee,"Rs 13,541.53",Miscellaneous
+2022-09-08,More Supermarket,Rs 230.10,Groceries
+2022-09-09,Salary CTC Credit,"Rs 345,626.17",Income
+2022-09-09,Stock Options,"Rs 292,771.54",Income
+2022-09-10,Annual Bonus,"Rs 220,572.97",Income
+2022-09-10,Premium Gym,"Rs 4,036.72",Healthcare
+2022-09-10,Annual Bonus,"Rs 382,842.93",Income
+2022-09-10,BookMyShow Tickets,Rs 430.80,Entertainment
+2022-09-10,Investment Advisory Fee,"Rs 10,742.89",Miscellaneous
+2022-09-11,Security System,"Rs 7,960.02",Housing
+2022-09-13,Myntra Fashion,"Rs 2,199.31",Shopping
+2022-09-15,Fine Dining Restaurant,"Rs 16,309.28",Food & Dining
+2022-09-16,Luxury Watch Service,"Rs 55,545.78",Shopping
+2022-09-17,Ajio Clothing,"Rs 3,322.56",Shopping
+2022-09-17,Netflix Subscription,Rs 273.67,Subscriptions
+2022-09-17,Premium Gym,"Rs 4,899.63",Healthcare
+2022-09-17,Luxury Watch Service,"Rs 46,922.06",Shopping
+2022-09-19,Salary CTC Credit,"Rs 527,132.99",Income
+2022-09-20,Reliance Fresh,Rs 851.78,Groceries
+2022-09-21,Meesho Order,Rs 272.31,Shopping
+2022-09-21,Annual Bonus,"Rs 321,834.80",Income
+2022-09-22,Chartered Accountant,"Rs 45,480.11",Miscellaneous
+2022-09-22,Investment Advisory Fee,"Rs 10,460.96",Miscellaneous
+2022-09-23,Premium Whisky Shop,"Rs 2,682.19",Food & Dining
+2022-09-24,DMart Purchase,"Rs 1,710.66",Groceries
+2022-09-24,More Supermarket,Rs 201.16,Groceries
+2022-09-24,Chartered Accountant,"Rs 15,920.42",Miscellaneous
+2022-09-25,Zomato Food Delivery,Rs 327.78,Food & Dining
+2022-09-25,Investment Advisory Fee,"Rs 19,713.49",Miscellaneous
+2022-09-25,Meesho Order,Rs 387.22,Shopping
+2022-09-25,Stock Options,"Rs 101,015.36",Income
+2022-09-25,Amazon Purchase,"Rs 1,427.87",Shopping
+2022-09-26,Fine Dining Restaurant,"Rs 13,790.94",Food & Dining
+2022-09-26,Premium Gym,"Rs 3,362.86",Healthcare
+2022-09-26,Chartered Accountant,"Rs 49,110.46",Miscellaneous
+2022-09-28,Premium Gym,"Rs 2,502.37",Healthcare
+2022-09-29,Swiggy Order,Rs 821.14,Food & Dining
+2022-09-29,Designer Brand Store,"Rs 27,548.94",Shopping
+2022-09-30,BigBasket Groceries,Rs 587.48,Groceries
+2022-09-30,Myntra Fashion,"Rs 2,279.37",Shopping
+2022-09-30,Chartered Accountant,"Rs 49,584.38",Miscellaneous
+2022-09-30,Luxury Watch Service,"Rs 24,495.68",Shopping
+2022-10-01,5-Star Hotel,"Rs 53,845.90",Travel
+2022-10-03,BigBasket Groceries,"Rs 1,117.30",Groceries
+2022-10-03,Rental Income,"Rs 25,633.74",Income
+2022-10-04,BookMyShow Tickets,Rs 469.06,Entertainment
+2022-10-04,DMart Purchase,"Rs 3,261.84",Groceries
+2022-10-08,Zomato Food Delivery,Rs 807.31,Food & Dining
+2022-10-08,Chartered Accountant,"Rs 20,243.66",Miscellaneous
+2022-10-09,Investment Advisory Fee,"Rs 16,913.66",Miscellaneous
+2022-10-10,Parking Premium Mall,Rs 278.60,Transportation
+2022-10-12,Rapido Bike Taxi,Rs 180.13,Transportation
+2022-10-13,Luxury Watch Service,"Rs 48,777.30",Shopping
+2022-10-14,More Supermarket,"Rs 1,603.06",Groceries
+2022-10-14,BookMyShow Tickets,Rs 938.15,Entertainment
+2022-10-14,Parking Premium Mall,Rs 410.66,Transportation
+2022-10-15,Fine Dining Restaurant,"Rs 11,178.21",Food & Dining
+2022-10-16,Investment Advisory Fee,"Rs 19,802.56",Miscellaneous
+2022-10-17,Premium Whisky Shop,"Rs 12,068.26",Food & Dining
+2022-10-17,Premium Gym,"Rs 3,237.47",Healthcare
+2022-10-18,Golf Club Membership,"Rs 5,351.13",Healthcare
+2022-10-18,BigBasket Groceries,Rs 638.96,Groceries
+2022-10-19,Stock Options,"Rs 177,607.84",Income
+2022-10-20,Security System,"Rs 27,748.42",Housing
+2022-10-21,Rapido Bike Taxi,Rs 184.40,Transportation
+2022-10-21,Investment Advisory Fee,"Rs 11,034.64",Miscellaneous
+2022-10-21,Golf Club Membership,"Rs 10,588.40",Healthcare
+2022-10-22,Annual Bonus,"Rs 196,414.33",Income
+2022-10-23,BMW Service Center,"Rs 31,764.53",Transportation
+2022-10-23,Hotstar Subscription,Rs 151.13,Subscriptions
+2022-10-24,Zomato Food Delivery,Rs 768.49,Food & Dining
+2022-10-28,Rental Income,"Rs 51,530.16",Income
+2022-10-30,Myntra Fashion,"Rs 1,860.26",Shopping
+2022-10-31,More Supermarket,"Rs 1,382.59",Groceries
+2022-10-31,Annual Bonus,"Rs 345,777.78",Income
+2022-11-01,Meesho Order,"Rs 1,054.93",Shopping
+2022-11-02,Security System,"Rs 18,681.70",Housing
+2022-11-02,YouTube Premium,Rs 139.00,Subscriptions
+2022-11-03,Flipkart Order,"Rs 5,690.17",Shopping
+2022-11-03,Security System,"Rs 28,229.57",Housing
+2022-11-03,Business Profit Transfer,"Rs 156,226.70",Income
+2022-11-03,Salary CTC Credit,"Rs 499,046.28",Income
+2022-11-04,Netflix Subscription,Rs 262.77,Subscriptions
+2022-11-05,More Supermarket,Rs 876.76,Groceries
+2022-11-05,Hotstar Subscription,Rs 645.95,Subscriptions
+2022-11-05,5-Star Hotel,"Rs 60,057.74",Travel
+2022-11-05,Investment Advisory Fee,"Rs 19,003.45",Miscellaneous
+2022-11-06,Annual Bonus,"Rs 332,488.85",Income
+2022-11-06,Hotstar Subscription,Rs 354.29,Subscriptions
+2022-11-08,Designer Brand Store,"Rs 56,045.27",Shopping
+2022-11-08,Flipkart Order,"Rs 5,935.39",Shopping
+2022-11-09,Netflix Subscription,Rs 299.59,Subscriptions
+2022-11-10,Amazon Prime,Rs 247.86,Subscriptions
+2022-11-12,Fine Dining Restaurant,"Rs 11,018.05",Food & Dining
+2022-11-12,BookMyShow Tickets,"Rs 1,432.21",Entertainment
+2022-11-12,Flipkart Order,"Rs 2,201.27",Shopping
+2022-11-12,Amazon Prime,Rs 975.61,Subscriptions
+2022-11-12,Ajio Clothing,"Rs 2,160.13",Shopping
+2022-11-14,Myntra Fashion,"Rs 3,883.37",Shopping
+2022-11-17,Reliance Fresh,"Rs 1,670.41",Groceries
+2022-11-18,Reliance Fresh,"Rs 1,319.00",Groceries
+2022-11-19,BookMyShow Tickets,"Rs 1,234.16",Entertainment
+2022-11-19,BigBasket Groceries,"Rs 1,798.77",Groceries
+2022-11-20,More Supermarket,Rs 709.04,Groceries
+2022-11-20,Zomato Food Delivery,Rs 554.47,Food & Dining
+2022-11-20,5-Star Hotel,"Rs 63,676.87",Travel
+2022-11-20,BookMyShow Tickets,"Rs 1,103.25",Entertainment
+2022-11-21,Myntra Fashion,"Rs 2,976.56",Shopping
+2022-11-21,Zomato Food Delivery,Rs 207.47,Food & Dining
+2022-11-23,Fine Dining Restaurant,"Rs 6,388.39",Food & Dining
+2022-11-24,Meesho Order,Rs 461.28,Shopping
+2022-11-24,Swiggy Order,Rs 344.98,Food & Dining
+2022-11-25,Amazon Prime,Rs 665.28,Subscriptions
+2022-11-25,Spotify Premium,Rs 119.00,Subscriptions
+2022-11-25,Business Class Flight,"Rs 85,310.39",Travel
+2022-11-26,Chartered Accountant,"Rs 34,091.13",Miscellaneous
+2022-11-26,Amazon Prime,Rs 833.54,Subscriptions
+2022-11-27,Amazon Prime,Rs 426.87,Subscriptions
+2022-11-28,Premium Gym,"Rs 4,701.56",Healthcare
+2022-11-29,Golf Club Membership,"Rs 13,646.71",Healthcare
+2022-11-29,Myntra Fashion,"Rs 1,461.40",Shopping
+2022-11-30,Netflix Subscription,Rs 199.89,Subscriptions
+2022-12-01,Annual Bonus,"Rs 201,381.81",Income
+2022-12-01,Ola Cab,Rs 279.56,Transportation
+2022-12-01,Fine Dining Restaurant,"Rs 16,829.67",Food & Dining
+2022-12-01,Fine Dining Restaurant,"Rs 8,856.43",Food & Dining
+2022-12-01,Investment Advisory Fee,"Rs 9,845.43",Miscellaneous
+2022-12-03,Interior Design Service,"Rs 189,319.74",Housing
+2022-12-03,Dividend Credit,"Rs 74,710.16",Income
+2022-12-03,Myntra Fashion,"Rs 2,801.71",Shopping
+2022-12-05,Security System,"Rs 14,439.08",Housing
+2022-12-05,Ola Cab,Rs 394.22,Transportation
+2022-12-07,Zomato Food Delivery,Rs 169.57,Food & Dining
+2022-12-10,Golf Club Membership,"Rs 6,220.76",Healthcare
+2022-12-11,Meesho Order,Rs 157.16,Shopping
+2022-12-13,5-Star Hotel,"Rs 11,247.02",Travel
+2022-12-13,Amazon Purchase,"Rs 1,018.34",Shopping
+2022-12-13,Interest Credit,"Rs 6,895.28",Income
+2022-12-14,Security System,"Rs 21,465.06",Housing
+2022-12-14,Netflix Subscription,Rs 431.29,Subscriptions
+2022-12-14,Flipkart Order,"Rs 5,654.20",Shopping
+2022-12-17,Premium Gym,"Rs 4,430.62",Healthcare
+2022-12-17,Uber Ride,Rs 92.25,Transportation
+2022-12-18,Premium Gym,"Rs 2,678.92",Healthcare
+2022-12-19,Flipkart Order,"Rs 2,370.96",Shopping
+2022-12-19,Swiggy Order,Rs 421.81,Food & Dining
+2022-12-21,Rapido Bike Taxi,Rs 79.82,Transportation
+2022-12-22,Interior Design Service,"Rs 146,654.91",Housing
+2022-12-23,Hotstar Subscription,Rs 584.53,Subscriptions
+2022-12-24,BigBasket Groceries,"Rs 1,055.36",Groceries
+2022-12-26,Luxury Watch Service,"Rs 38,264.94",Shopping
+2022-12-26,BookMyShow Tickets,Rs 735.98,Entertainment
+2022-12-27,Interior Design Service,"Rs 101,260.36",Housing
+2022-12-28,BMW Service Center,"Rs 10,579.89",Transportation
+2022-12-28,Security System,"Rs 22,864.98",Housing
+2022-12-29,BMW Service Center,"Rs 21,535.44",Transportation
+2022-12-29,Business Profit Transfer,"Rs 213,078.51",Income
+2022-12-29,Flipkart Order,"Rs 4,451.49",Shopping
+2022-12-30,Hotstar Subscription,Rs 437.71,Subscriptions
+2022-12-30,Business Class Flight,"Rs 43,380.16",Travel
+2022-12-30,Uber Ride,Rs 140.19,Transportation
+2022-12-31,Chartered Accountant,"Rs 11,748.07",Miscellaneous
+2023-01-01,5-Star Hotel,"Rs 30,300.14",Travel
+2023-01-02,Stock Options,"Rs 161,997.64",Income
+2023-01-03,YouTube Premium,Rs 139.00,Subscriptions
+2023-01-05,Swiggy Order,Rs 689.23,Food & Dining
+2023-01-05,Business Class Flight,"Rs 56,718.06",Travel
+2023-01-07,More Supermarket,Rs 353.08,Groceries
+2023-01-07,Designer Brand Store,"Rs 17,779.72",Shopping
+2023-01-08,Rental Income,"Rs 50,156.43",Income
+2023-01-09,DMart Purchase,Rs 426.97,Groceries
+2023-01-09,Reliance Fresh,"Rs 1,714.39",Groceries
+2023-01-12,Designer Brand Store,"Rs 14,138.92",Shopping
+2023-01-12,Luxury Watch Service,"Rs 11,374.94",Shopping
+2023-01-12,Spotify Premium,Rs 119.00,Subscriptions
+2023-01-12,Amazon Prime,Rs 305.04,Subscriptions
+2023-01-13,Amazon Purchase,Rs 448.77,Shopping
+2023-01-13,Chartered Accountant,"Rs 26,202.76",Miscellaneous
+2023-01-15,Interior Design Service,"Rs 150,849.78",Housing
+2023-01-15,Amazon Purchase,"Rs 5,828.08",Shopping
+2023-01-16,Netflix Subscription,Rs 320.10,Subscriptions
+2023-01-17,Parking Premium Mall,Rs 716.70,Transportation
+2023-01-18,BigBasket Groceries,"Rs 3,022.39",Groceries
+2023-01-18,Business Profit Transfer,"Rs 91,674.27",Income
+2023-01-18,Luxury Watch Service,"Rs 32,067.36",Shopping
+2023-01-20,Business Profit Transfer,"Rs 284,720.54",Income
+2023-01-20,Ola Cab,Rs 228.54,Transportation
+2023-01-22,Premium Whisky Shop,"Rs 3,093.56",Food & Dining
+2023-01-22,Amazon Prime,Rs 325.42,Subscriptions
+2023-01-23,Business Profit Transfer,"Rs 83,337.23",Income
+2023-01-23,Rental Income,"Rs 23,675.02",Income
+2023-01-26,Hotstar Subscription,Rs 181.40,Subscriptions
+2023-01-26,Zomato Food Delivery,Rs 430.35,Food & Dining
+2023-01-27,Swiggy Order,Rs 514.01,Food & Dining
+2023-01-28,Fine Dining Restaurant,"Rs 12,985.08",Food & Dining
+2023-01-28,Premium Whisky Shop,"Rs 9,161.37",Food & Dining
+2023-01-29,Spotify Premium,Rs 119.00,Subscriptions
+2023-01-29,Annual Bonus,"Rs 213,432.60",Income
+2023-01-29,Investment Advisory Fee,"Rs 17,397.96",Miscellaneous
+2023-01-29,BookMyShow Tickets,Rs 241.02,Entertainment
+2023-01-29,Uber Ride,Rs 542.58,Transportation
+2023-01-30,Premium Gym,"Rs 4,226.73",Healthcare
+2023-01-31,DMart Purchase,"Rs 3,141.37",Groceries
+2023-02-01,Premium Whisky Shop,"Rs 8,712.82",Food & Dining
+2023-02-01,Ajio Clothing,"Rs 3,435.77",Shopping
+2023-02-02,Premium Gym,"Rs 3,818.47",Healthcare
+2023-02-04,Fine Dining Restaurant,"Rs 8,661.45",Food & Dining
+2023-02-05,Spotify Premium,Rs 119.00,Subscriptions
+2023-02-05,Parking Premium Mall,Rs 539.45,Transportation
+2023-02-06,BigBasket Groceries,"Rs 3,517.10",Groceries
+2023-02-06,Security System,"Rs 23,856.94",Housing
+2023-02-06,Interest Credit,"Rs 24,547.89",Income
+2023-02-06,DMart Purchase,Rs 857.62,Groceries
+2023-02-06,Designer Brand Store,"Rs 9,371.50",Shopping
+2023-02-06,Interest Credit,"Rs 18,418.10",Income
+2023-02-08,Rapido Bike Taxi,Rs 52.40,Transportation
+2023-02-09,Swiggy Order,Rs 383.48,Food & Dining
+2023-02-10,DMart Purchase,Rs 510.82,Groceries
+2023-02-11,Annual Bonus,"Rs 370,083.62",Income
+2023-02-12,Ajio Clothing,"Rs 1,527.40",Shopping
+2023-02-12,Ola Cab,Rs 304.76,Transportation
+2023-02-12,Investment Advisory Fee,"Rs 5,875.42",Miscellaneous
+2023-02-13,Designer Brand Store,"Rs 55,099.53",Shopping
+2023-02-14,BookMyShow Tickets,Rs 689.36,Entertainment
+2023-02-15,Golf Club Membership,"Rs 20,554.27",Healthcare
+2023-02-15,Spotify Premium,Rs 119.00,Subscriptions
+2023-02-16,Golf Club Membership,"Rs 7,656.37",Healthcare
+2023-02-17,Fine Dining Restaurant,"Rs 10,533.03",Food & Dining
+2023-02-17,5-Star Hotel,"Rs 43,946.12",Travel
+2023-02-21,Salary CTC Credit,"Rs 576,958.54",Income
+2023-02-21,Amazon Purchase,"Rs 1,975.88",Shopping
+2023-02-22,Investment Advisory Fee,"Rs 16,734.25",Miscellaneous
+2023-02-22,Dividend Credit,"Rs 12,478.50",Income
+2023-02-22,Business Profit Transfer,"Rs 170,237.95",Income
+2023-02-24,Premium Gym,"Rs 3,810.06",Healthcare
+2023-02-24,Salary CTC Credit,"Rs 477,153.73",Income
+2023-02-24,Amazon Prime,Rs 400.71,Subscriptions
+2023-02-25,Spotify Premium,Rs 119.00,Subscriptions
+2023-02-26,Designer Brand Store,"Rs 35,667.78",Shopping
+2023-02-27,5-Star Hotel,"Rs 19,634.38",Travel
+2023-02-28,Amazon Prime,Rs 868.48,Subscriptions
+2023-03-02,Premium Whisky Shop,"Rs 3,133.30",Food & Dining
+2023-03-03,Interest Credit,"Rs 19,631.23",Income
+2023-03-04,Golf Club Membership,"Rs 8,834.23",Healthcare
+2023-03-05,Zomato Food Delivery,Rs 238.09,Food & Dining
+2023-03-08,Chartered Accountant,"Rs 14,396.01",Miscellaneous
+2023-03-10,YouTube Premium,Rs 139.00,Subscriptions
+2023-03-13,Interior Design Service,"Rs 116,565.08",Housing
+2023-03-13,Swiggy Order,Rs 530.89,Food & Dining
+2023-03-14,Rental Income,"Rs 77,500.86",Income
+2023-03-14,Premium Whisky Shop,"Rs 3,313.18",Food & Dining
+2023-03-15,Meesho Order,Rs 812.52,Shopping
+2023-03-17,Salary CTC Credit,"Rs 587,936.39",Income
+2023-03-17,Business Class Flight,"Rs 47,012.90",Travel
+2023-03-18,Premium Whisky Shop,"Rs 13,784.56",Food & Dining
+2023-03-20,Salary CTC Credit,"Rs 460,985.08",Income
+2023-03-20,Spotify Premium,Rs 119.00,Subscriptions
+2023-03-21,Spotify Premium,Rs 119.00,Subscriptions
+2023-03-22,Ajio Clothing,"Rs 1,426.89",Shopping
+2023-03-23,Rental Income,"Rs 73,860.31",Income
+2023-03-23,Myntra Fashion,"Rs 3,953.45",Shopping
+2023-03-24,Rental Income,"Rs 34,437.69",Income
+2023-03-24,Amazon Purchase,"Rs 2,898.68",Shopping
+2023-03-24,BookMyShow Tickets,Rs 560.12,Entertainment
+2023-03-24,Meesho Order,Rs 745.49,Shopping
+2023-03-24,DMart Purchase,Rs 433.27,Groceries
+2023-03-25,Annual Bonus,"Rs 282,232.47",Income
+2023-03-25,Ajio Clothing,"Rs 3,177.04",Shopping
+2023-03-26,Designer Brand Store,"Rs 98,705.85",Shopping
+2023-03-28,Swiggy Order,Rs 553.47,Food & Dining
+2023-03-29,Swiggy Order,Rs 736.65,Food & Dining
+2023-03-29,Ola Cab,Rs 397.77,Transportation
+2023-03-29,5-Star Hotel,"Rs 18,453.79",Travel
+2023-03-30,Chartered Accountant,"Rs 32,609.40",Miscellaneous
+2023-04-01,Spotify Premium,Rs 119.00,Subscriptions
+2023-04-02,Spotify Premium,Rs 119.00,Subscriptions
+2023-04-04,Luxury Watch Service,"Rs 48,690.00",Shopping
+2023-04-04,Fine Dining Restaurant,"Rs 18,632.14",Food & Dining
+2023-04-04,Ajio Clothing,"Rs 2,079.81",Shopping
+2023-04-05,Spotify Premium,Rs 119.00,Subscriptions
+2023-04-06,Parking Premium Mall,Rs 640.32,Transportation
+2023-04-06,Amazon Prime,Rs 713.06,Subscriptions
+2023-04-06,Golf Club Membership,"Rs 10,346.26",Healthcare
+2023-04-08,BMW Service Center,"Rs 38,268.94",Transportation
+2023-04-09,BMW Service Center,"Rs 48,672.68",Transportation
+2023-04-09,Interior Design Service,"Rs 30,300.06",Housing
+2023-04-09,Zomato Food Delivery,Rs 523.40,Food & Dining
+2023-04-11,Salary CTC Credit,"Rs 354,204.75",Income
+2023-04-13,Spotify Premium,Rs 119.00,Subscriptions
+2023-04-13,Fine Dining Restaurant,"Rs 3,657.79",Food & Dining
+2023-04-14,Myntra Fashion,"Rs 3,311.56",Shopping
+2023-04-14,Netflix Subscription,Rs 547.78,Subscriptions
+2023-04-15,Swiggy Order,Rs 747.33,Food & Dining
+2023-04-15,Flipkart Order,"Rs 5,627.88",Shopping
+2023-04-15,5-Star Hotel,"Rs 49,679.46",Travel
+2023-04-15,Meesho Order,Rs 865.68,Shopping
+2023-04-16,Ajio Clothing,Rs 804.64,Shopping
+2023-04-16,Flipkart Order,"Rs 4,296.91",Shopping
+2023-04-16,BigBasket Groceries,"Rs 2,040.50",Groceries
+2023-04-16,Swiggy Order,Rs 871.85,Food & Dining
+2023-04-16,Rental Income,"Rs 69,294.86",Income
+2023-04-17,Golf Club Membership,"Rs 18,345.70",Healthcare
+2023-04-17,Golf Club Membership,"Rs 18,955.33",Healthcare
+2023-04-18,Luxury Watch Service,"Rs 14,167.75",Shopping
+2023-04-20,Amazon Prime,Rs 895.59,Subscriptions
+2023-04-20,Zomato Food Delivery,Rs 266.44,Food & Dining
+2023-04-23,5-Star Hotel,"Rs 16,665.92",Travel
+2023-04-24,DMart Purchase,"Rs 2,768.20",Groceries
+2023-04-24,Amazon Prime,Rs 220.06,Subscriptions
+2023-04-24,Amazon Prime,Rs 986.40,Subscriptions
+2023-04-26,Fine Dining Restaurant,"Rs 9,535.64",Food & Dining
+2023-04-26,Stock Options,"Rs 190,290.74",Income
+2023-04-28,Golf Club Membership,"Rs 25,877.51",Healthcare
+2023-04-28,Investment Advisory Fee,"Rs 11,636.39",Miscellaneous
+2023-04-29,Amazon Prime,Rs 760.52,Subscriptions
+2023-04-30,Meesho Order,"Rs 1,289.21",Shopping
+2023-04-30,Chartered Accountant,"Rs 26,792.79",Miscellaneous
+2023-05-01,Ajio Clothing,Rs 410.72,Shopping
+2023-05-01,Parking Premium Mall,Rs 518.09,Transportation
+2023-05-02,Luxury Watch Service,"Rs 21,785.59",Shopping
+2023-05-03,Dividend Credit,"Rs 55,129.64",Income
+2023-05-03,Business Profit Transfer,"Rs 219,212.34",Income
+2023-05-04,Reliance Fresh,Rs 482.66,Groceries
+2023-05-04,Amazon Prime,Rs 267.68,Subscriptions
+2023-05-05,Amazon Purchase,"Rs 4,410.15",Shopping
+2023-05-07,BookMyShow Tickets,Rs 916.26,Entertainment
+2023-05-07,BMW Service Center,"Rs 29,719.14",Transportation
+2023-05-07,Premium Whisky Shop,"Rs 7,822.01",Food & Dining
+2023-05-09,Spotify Premium,Rs 119.00,Subscriptions
+2023-05-09,Interior Design Service,"Rs 77,061.31",Housing
+2023-05-09,BMW Service Center,"Rs 6,082.95",Transportation
+2023-05-11,Salary CTC Credit,"Rs 288,393.11",Income
+2023-05-12,Business Class Flight,"Rs 51,534.02",Travel
+2023-05-13,Reliance Fresh,"Rs 1,841.41",Groceries
+2023-05-13,Hotstar Subscription,Rs 245.46,Subscriptions
+2023-05-14,BigBasket Groceries,Rs 662.77,Groceries
+2023-05-15,BookMyShow Tickets,Rs 379.98,Entertainment
+2023-05-15,Chartered Accountant,"Rs 24,505.36",Miscellaneous
+2023-05-16,DMart Purchase,"Rs 2,323.62",Groceries
+2023-05-16,DMart Purchase,Rs 306.14,Groceries
+2023-05-17,Hotstar Subscription,Rs 442.72,Subscriptions
+2023-05-17,Security System,"Rs 13,038.67",Housing
+2023-05-18,Flipkart Order,"Rs 1,278.73",Shopping
+2023-05-18,Zomato Food Delivery,Rs 406.28,Food & Dining
+2023-05-20,Premium Gym,"Rs 4,259.63",Healthcare
+2023-05-21,Business Class Flight,"Rs 80,165.02",Travel
+2023-05-22,Annual Bonus,"Rs 344,289.89",Income
+2023-05-22,Business Class Flight,"Rs 87,447.70",Travel
+2023-05-22,Swiggy Order,Rs 538.62,Food & Dining
+2023-05-22,Swiggy Order,Rs 397.50,Food & Dining
+2023-05-22,Hotstar Subscription,Rs 873.92,Subscriptions
+2023-05-23,YouTube Premium,Rs 139.00,Subscriptions
+2023-05-24,Parking Premium Mall,Rs 796.20,Transportation
+2023-05-24,Amazon Prime,Rs 952.74,Subscriptions
+2023-05-25,Interior Design Service,"Rs 194,108.20",Housing
+2023-05-25,Designer Brand Store,"Rs 20,778.06",Shopping
+2023-05-25,Rapido Bike Taxi,Rs 49.09,Transportation
+2023-05-26,Annual Bonus,"Rs 148,213.85",Income
+2023-05-26,Designer Brand Store,"Rs 57,580.63",Shopping
+2023-05-27,Ola Cab,Rs 236.67,Transportation
+2023-05-27,Ajio Clothing,"Rs 2,276.32",Shopping
+2023-05-28,Dividend Credit,"Rs 63,969.12",Income
+2023-05-28,Premium Whisky Shop,"Rs 2,009.97",Food & Dining
+2023-05-28,Ajio Clothing,"Rs 2,180.40",Shopping
+2023-05-29,Premium Whisky Shop,"Rs 12,430.10",Food & Dining
+2023-05-29,Spotify Premium,Rs 119.00,Subscriptions
+2023-05-29,Stock Options,"Rs 161,454.52",Income
+2023-05-29,Chartered Accountant,"Rs 19,107.63",Miscellaneous
+2023-05-29,Designer Brand Store,"Rs 71,734.56",Shopping
+2023-05-30,5-Star Hotel,"Rs 36,252.39",Travel
+2023-05-31,Annual Bonus,"Rs 240,990.09",Income
+2023-06-01,Uber Ride,Rs 442.65,Transportation
+2023-06-02,Ajio Clothing,"Rs 2,151.08",Shopping
+2023-06-05,Ola Cab,Rs 193.51,Transportation
+2023-06-06,Stock Options,"Rs 247,229.73",Income
+2023-06-06,Salary CTC Credit,"Rs 334,567.17",Income
+2023-06-06,Annual Bonus,"Rs 497,437.56",Income
+2023-06-08,Netflix Subscription,Rs 328.23,Subscriptions
+2023-06-08,Swiggy Order,Rs 321.27,Food & Dining
+2023-06-09,Amazon Prime,Rs 773.84,Subscriptions
+2023-06-10,Security System,"Rs 25,255.80",Housing
+2023-06-10,Designer Brand Store,"Rs 79,131.94",Shopping
+2023-06-10,Uber Ride,Rs 361.55,Transportation
+2023-06-11,Ola Cab,Rs 95.47,Transportation
+2023-06-11,Premium Gym,"Rs 4,414.90",Healthcare
+2023-06-12,Business Class Flight,"Rs 144,530.84",Travel
+2023-06-13,Golf Club Membership,"Rs 28,600.27",Healthcare
+2023-06-13,DMart Purchase,"Rs 2,823.62",Groceries
+2023-06-16,Fine Dining Restaurant,"Rs 5,153.74",Food & Dining
+2023-06-16,Fine Dining Restaurant,"Rs 7,810.00",Food & Dining
+2023-06-17,Swiggy Order,Rs 153.44,Food & Dining
+2023-06-18,Ajio Clothing,"Rs 2,958.69",Shopping
+2023-06-19,Dividend Credit,"Rs 58,028.59",Income
+2023-06-22,Myntra Fashion,"Rs 1,962.79",Shopping
+2023-06-22,Parking Premium Mall,Rs 665.59,Transportation
+2023-06-23,Ola Cab,Rs 370.94,Transportation
+2023-06-23,BMW Service Center,"Rs 33,744.03",Transportation
+2023-06-24,Premium Gym,"Rs 3,476.37",Healthcare
+2023-06-26,Golf Club Membership,"Rs 8,037.49",Healthcare
+2023-06-26,Myntra Fashion,"Rs 1,616.39",Shopping
+2023-06-27,Netflix Subscription,Rs 475.95,Subscriptions
+2023-06-28,Rapido Bike Taxi,Rs 73.66,Transportation
+2023-06-28,Security System,"Rs 28,168.07",Housing
+2023-06-29,Premium Gym,"Rs 3,899.35",Healthcare
+2023-07-01,Amazon Purchase,"Rs 5,422.75",Shopping
+2023-07-01,Rapido Bike Taxi,Rs 55.56,Transportation
+2023-07-01,Meesho Order,"Rs 1,300.07",Shopping
+2023-07-02,Parking Premium Mall,Rs 775.61,Transportation
+2023-07-04,Business Profit Transfer,"Rs 190,589.12",Income
+2023-07-04,More Supermarket,"Rs 1,075.28",Groceries
+2023-07-05,Stock Options,"Rs 239,224.90",Income
+2023-07-07,Designer Brand Store,"Rs 80,529.01",Shopping
+2023-07-07,5-Star Hotel,"Rs 61,710.69",Travel
+2023-07-08,Zomato Food Delivery,Rs 577.94,Food & Dining
+2023-07-08,Salary CTC Credit,"Rs 565,468.19",Income
+2023-07-09,Interior Design Service,"Rs 140,425.54",Housing
+2023-07-09,Hotstar Subscription,Rs 509.89,Subscriptions
+2023-07-10,Rapido Bike Taxi,Rs 146.58,Transportation
+2023-07-10,BookMyShow Tickets,"Rs 1,030.82",Entertainment
+2023-07-12,BigBasket Groceries,"Rs 3,157.31",Groceries
+2023-07-12,Business Class Flight,"Rs 48,838.54",Travel
+2023-07-12,Luxury Watch Service,"Rs 77,717.63",Shopping
+2023-07-12,DMart Purchase,"Rs 1,214.17",Groceries
+2023-07-14,BigBasket Groceries,"Rs 3,995.13",Groceries
+2023-07-15,Reliance Fresh,Rs 353.65,Groceries
+2023-07-15,BMW Service Center,"Rs 24,954.74",Transportation
+2023-07-15,Zomato Food Delivery,Rs 614.17,Food & Dining
+2023-07-16,Hotstar Subscription,Rs 392.05,Subscriptions
+2023-07-17,Rental Income,"Rs 57,284.89",Income
+2023-07-18,BMW Service Center,"Rs 47,390.13",Transportation
+2023-07-18,Myntra Fashion,"Rs 1,821.06",Shopping
+2023-07-18,Zomato Food Delivery,Rs 397.11,Food & Dining
+2023-07-21,Investment Advisory Fee,"Rs 18,117.74",Miscellaneous
+2023-07-22,BigBasket Groceries,"Rs 2,789.51",Groceries
+2023-07-23,Rapido Bike Taxi,Rs 198.22,Transportation
+2023-07-23,Spotify Premium,Rs 119.00,Subscriptions
+2023-07-23,Rapido Bike Taxi,Rs 158.72,Transportation
+2023-07-25,Designer Brand Store,"Rs 13,983.44",Shopping
+2023-07-26,Golf Club Membership,"Rs 23,381.26",Healthcare
+2023-07-26,Uber Ride,Rs 266.46,Transportation
+2023-07-27,Spotify Premium,Rs 119.00,Subscriptions
+2023-07-28,Chartered Accountant,"Rs 12,478.43",Miscellaneous
+2023-07-28,Golf Club Membership,"Rs 20,349.79",Healthcare
+2023-07-29,Rapido Bike Taxi,Rs 122.45,Transportation
+2023-07-30,Chartered Accountant,"Rs 30,347.08",Miscellaneous
+2023-07-30,Flipkart Order,"Rs 3,878.96",Shopping
+2023-07-31,Salary CTC Credit,"Rs 258,820.08",Income
+2023-08-01,Interest Credit,"Rs 6,821.29",Income
+2023-08-01,Meesho Order,Rs 514.06,Shopping
+2023-08-03,Golf Club Membership,"Rs 5,293.64",Healthcare
+2023-08-05,Premium Gym,"Rs 3,631.58",Healthcare
+2023-08-05,Reliance Fresh,"Rs 1,565.60",Groceries
+2023-08-06,BigBasket Groceries,Rs 847.73,Groceries
+2023-08-08,DMart Purchase,"Rs 2,017.62",Groceries
+2023-08-08,Rapido Bike Taxi,Rs 145.60,Transportation
+2023-08-09,Ajio Clothing,"Rs 3,337.23",Shopping
+2023-08-09,YouTube Premium,Rs 139.00,Subscriptions
+2023-08-09,Ola Cab,Rs 333.85,Transportation
+2023-08-10,Zomato Food Delivery,Rs 762.02,Food & Dining
+2023-08-11,Netflix Subscription,Rs 338.14,Subscriptions
+2023-08-11,Rapido Bike Taxi,Rs 68.56,Transportation
+2023-08-11,Designer Brand Store,"Rs 66,584.73",Shopping
+2023-08-12,Spotify Premium,Rs 119.00,Subscriptions
+2023-08-12,Annual Bonus,"Rs 415,853.70",Income
+2023-08-13,Rapido Bike Taxi,Rs 190.27,Transportation
+2023-08-16,Chartered Accountant,"Rs 20,170.26",Miscellaneous
+2023-08-18,Rental Income,"Rs 36,595.24",Income
+2023-08-19,Salary CTC Credit,"Rs 396,320.13",Income
+2023-08-19,Luxury Watch Service,"Rs 70,616.49",Shopping
+2023-08-20,BigBasket Groceries,"Rs 3,038.38",Groceries
+2023-08-20,Interior Design Service,"Rs 99,518.91",Housing
+2023-08-24,BigBasket Groceries,"Rs 3,371.98",Groceries
+2023-08-25,Rapido Bike Taxi,Rs 148.84,Transportation
+2023-08-27,Reliance Fresh,Rs 758.80,Groceries
+2023-08-28,Netflix Subscription,Rs 202.11,Subscriptions
+2023-08-29,Business Class Flight,"Rs 143,883.08",Travel
+2023-08-30,Reliance Fresh,Rs 966.84,Groceries
+2023-08-30,Business Class Flight,"Rs 39,691.59",Travel
+2023-08-30,BigBasket Groceries,"Rs 2,115.95",Groceries
+2023-08-30,BMW Service Center,"Rs 34,808.10",Transportation
+2023-08-31,Ajio Clothing,"Rs 2,914.59",Shopping
+2023-08-31,Investment Advisory Fee,"Rs 17,947.68",Miscellaneous
+2023-09-02,BigBasket Groceries,"Rs 2,764.87",Groceries
+2023-09-02,Hotstar Subscription,Rs 152.42,Subscriptions
+2023-09-02,Fine Dining Restaurant,"Rs 4,949.31",Food & Dining
+2023-09-03,Reliance Fresh,Rs 995.59,Groceries
+2023-09-03,Business Class Flight,"Rs 45,325.48",Travel
+2023-09-04,Amazon Purchase,"Rs 4,296.70",Shopping
+2023-09-04,Fine Dining Restaurant,"Rs 8,348.54",Food & Dining
+2023-09-06,Security System,"Rs 11,559.41",Housing
+2023-09-07,DMart Purchase,"Rs 1,568.37",Groceries
+2023-09-08,BMW Service Center,"Rs 18,542.03",Transportation
+2023-09-08,Ola Cab,Rs 113.73,Transportation
+2023-09-08,Uber Ride,Rs 140.02,Transportation
+2023-09-09,BookMyShow Tickets,"Rs 1,176.90",Entertainment
+2023-09-09,Annual Bonus,"Rs 109,126.66",Income
+2023-09-10,Interest Credit,"Rs 23,230.59",Income
+2023-09-11,Ola Cab,Rs 408.74,Transportation
+2023-09-13,Rental Income,"Rs 37,967.54",Income
+2023-09-13,Interest Credit,"Rs 15,812.80",Income
+2023-09-13,Zomato Food Delivery,Rs 550.24,Food & Dining
+2023-09-14,Meesho Order,"Rs 1,137.54",Shopping
+2023-09-16,Security System,"Rs 26,538.49",Housing
+2023-09-18,Ola Cab,Rs 433.10,Transportation
+2023-09-19,Myntra Fashion,"Rs 2,151.15",Shopping
+2023-09-19,Stock Options,"Rs 225,112.98",Income
+2023-09-20,Parking Premium Mall,Rs 265.25,Transportation
+2023-09-20,BookMyShow Tickets,Rs 488.29,Entertainment
+2023-09-21,BMW Service Center,"Rs 35,997.14",Transportation
+2023-09-21,Luxury Watch Service,"Rs 50,701.08",Shopping
+2023-09-22,Uber Ride,Rs 284.24,Transportation
+2023-09-22,Golf Club Membership,"Rs 16,705.37",Healthcare
+2023-09-23,5-Star Hotel,"Rs 44,104.59",Travel
+2023-09-24,Premium Gym,"Rs 4,548.93",Healthcare
+2023-09-25,Amazon Prime,Rs 873.74,Subscriptions
+2023-09-25,More Supermarket,Rs 344.71,Groceries
+2023-09-26,5-Star Hotel,"Rs 42,511.57",Travel
+2023-09-26,Annual Bonus,"Rs 117,988.44",Income
+2023-09-26,Luxury Watch Service,"Rs 75,697.29",Shopping
+2023-09-27,Hotstar Subscription,Rs 660.06,Subscriptions
+2023-09-28,Chartered Accountant,"Rs 16,063.56",Miscellaneous
+2023-09-28,Luxury Watch Service,"Rs 39,338.91",Shopping
+2023-09-29,Flipkart Order,"Rs 4,583.11",Shopping
+2023-10-01,Myntra Fashion,"Rs 1,272.35",Shopping
+2023-10-02,5-Star Hotel,"Rs 22,710.13",Travel
+2023-10-02,Salary CTC Credit,"Rs 469,533.37",Income
+2023-10-02,Hotstar Subscription,Rs 226.92,Subscriptions
+2023-10-03,Meesho Order,"Rs 1,806.36",Shopping
+2023-10-05,Spotify Premium,Rs 119.00,Subscriptions
+2023-10-06,Stock Options,"Rs 164,960.04",Income
+2023-10-06,Stock Options,"Rs 172,328.50",Income
+2023-10-08,Ola Cab,Rs 260.17,Transportation
+2023-10-08,Business Profit Transfer,"Rs 185,615.55",Income
+2023-10-08,Zomato Food Delivery,Rs 362.27,Food & Dining
+2023-10-08,BigBasket Groceries,"Rs 1,303.19",Groceries
+2023-10-09,Flipkart Order,"Rs 2,258.23",Shopping
+2023-10-10,Hotstar Subscription,Rs 272.07,Subscriptions
+2023-10-10,DMart Purchase,"Rs 2,082.12",Groceries
+2023-10-11,Uber Ride,Rs 92.67,Transportation
+2023-10-12,More Supermarket,Rs 215.12,Groceries
+2023-10-12,Business Class Flight,"Rs 35,034.99",Travel
+2023-10-12,More Supermarket,Rs 872.21,Groceries
+2023-10-12,Business Class Flight,"Rs 88,634.24",Travel
+2023-10-14,Premium Gym,"Rs 2,772.53",Healthcare
+2023-10-14,Amazon Prime,Rs 907.26,Subscriptions
+2023-10-16,Chartered Accountant,"Rs 37,482.03",Miscellaneous
+2023-10-16,BigBasket Groceries,"Rs 3,272.35",Groceries
+2023-10-17,Annual Bonus,"Rs 338,194.78",Income
+2023-10-17,Netflix Subscription,Rs 365.50,Subscriptions
+2023-10-18,Ajio Clothing,"Rs 3,041.90",Shopping
+2023-10-18,Designer Brand Store,"Rs 90,214.98",Shopping
+2023-10-21,Fine Dining Restaurant,"Rs 9,840.07",Food & Dining
+2023-10-22,Reliance Fresh,Rs 501.53,Groceries
+2023-10-23,Parking Premium Mall,Rs 696.72,Transportation
+2023-10-24,Investment Advisory Fee,"Rs 12,505.35",Miscellaneous
+2023-10-24,Investment Advisory Fee,"Rs 5,460.67",Miscellaneous
+2023-10-24,Meesho Order,"Rs 1,624.44",Shopping
+2023-10-26,BMW Service Center,"Rs 29,424.49",Transportation
+2023-10-26,Luxury Watch Service,"Rs 57,231.40",Shopping
+2023-10-27,Security System,"Rs 10,785.36",Housing
+2023-10-28,Amazon Purchase,"Rs 4,540.21",Shopping
+2023-10-28,Stock Options,"Rs 93,551.49",Income
+2023-10-29,Luxury Watch Service,"Rs 70,249.52",Shopping
+2023-10-30,Amazon Purchase,"Rs 2,704.44",Shopping
+2023-10-31,5-Star Hotel,"Rs 17,598.29",Travel
+2023-11-02,Business Profit Transfer,"Rs 157,424.80",Income
+2023-11-02,Premium Whisky Shop,"Rs 14,791.85",Food & Dining
+2023-11-04,Golf Club Membership,"Rs 16,194.44",Healthcare
+2023-11-05,Amazon Prime,Rs 683.33,Subscriptions
+2023-11-08,Rental Income,"Rs 31,644.82",Income
+2023-11-09,Stock Options,"Rs 289,552.32",Income
+2023-11-10,Spotify Premium,Rs 119.00,Subscriptions
+2023-11-12,BookMyShow Tickets,Rs 291.42,Entertainment
+2023-11-13,BookMyShow Tickets,"Rs 1,399.53",Entertainment
+2023-11-13,Parking Premium Mall,Rs 685.85,Transportation
+2023-11-14,Stock Options,"Rs 75,983.00",Income
+2023-11-15,Spotify Premium,Rs 119.00,Subscriptions
+2023-11-16,Stock Options,"Rs 280,324.58",Income
+2023-11-16,Fine Dining Restaurant,"Rs 14,421.62",Food & Dining
+2023-11-17,BookMyShow Tickets,"Rs 1,365.89",Entertainment
+2023-11-18,Fine Dining Restaurant,"Rs 4,693.61",Food & Dining
+2023-11-19,Myntra Fashion,"Rs 1,968.34",Shopping
+2023-11-19,Golf Club Membership,"Rs 9,346.66",Healthcare
+2023-11-19,Rental Income,"Rs 36,311.76",Income
+2023-11-20,Swiggy Order,Rs 822.26,Food & Dining
+2023-11-20,BMW Service Center,"Rs 43,654.04",Transportation
+2023-11-20,Swiggy Order,Rs 590.36,Food & Dining
+2023-11-21,BMW Service Center,"Rs 15,402.23",Transportation
+2023-11-21,Chartered Accountant,"Rs 37,991.34",Miscellaneous
+2023-11-22,Business Profit Transfer,"Rs 206,215.60",Income
+2023-11-23,DMart Purchase,Rs 863.89,Groceries
+2023-11-23,Amazon Prime,Rs 280.73,Subscriptions
+2023-11-25,Rental Income,"Rs 21,824.20",Income
+2023-11-25,Flipkart Order,"Rs 4,451.74",Shopping
+2023-11-26,BookMyShow Tickets,Rs 741.73,Entertainment
+2023-11-27,Hotstar Subscription,Rs 385.65,Subscriptions
+2023-11-28,Golf Club Membership,"Rs 27,925.39",Healthcare
+2023-11-28,Netflix Subscription,Rs 159.65,Subscriptions
+2023-11-28,Rental Income,"Rs 68,510.27",Income
+2023-11-30,Rental Income,"Rs 31,225.03",Income
+2023-12-01,Golf Club Membership,"Rs 20,308.47",Healthcare
+2023-12-01,Investment Advisory Fee,"Rs 5,995.53",Miscellaneous
+2023-12-01,Swiggy Order,Rs 581.77,Food & Dining
+2023-12-02,Designer Brand Store,"Rs 5,046.00",Shopping
+2023-12-02,Premium Whisky Shop,"Rs 11,516.88",Food & Dining
+2023-12-03,Business Class Flight,"Rs 147,828.44",Travel
+2023-12-04,Hotstar Subscription,Rs 547.54,Subscriptions
+2023-12-04,Salary CTC Credit,"Rs 457,113.33",Income
+2023-12-05,BigBasket Groceries,"Rs 1,932.69",Groceries
+2023-12-07,Stock Options,"Rs 247,676.43",Income
+2023-12-07,Amazon Purchase,"Rs 4,174.51",Shopping
+2023-12-08,Investment Advisory Fee,"Rs 15,190.19",Miscellaneous
+2023-12-09,Uber Ride,Rs 187.94,Transportation
+2023-12-10,Golf Club Membership,"Rs 18,335.32",Healthcare
+2023-12-11,BigBasket Groceries,"Rs 3,394.16",Groceries
+2023-12-12,More Supermarket,Rs 291.49,Groceries
+2023-12-12,Swiggy Order,Rs 614.33,Food & Dining
+2023-12-13,Security System,"Rs 19,581.55",Housing
+2023-12-13,Parking Premium Mall,Rs 782.33,Transportation
+2023-12-13,Uber Ride,Rs 115.33,Transportation
+2023-12-14,More Supermarket,"Rs 1,108.83",Groceries
+2023-12-14,Hotstar Subscription,Rs 453.30,Subscriptions
+2023-12-15,Reliance Fresh,Rs 581.90,Groceries
+2023-12-16,Meesho Order,"Rs 1,125.89",Shopping
+2023-12-17,Rental Income,"Rs 42,882.72",Income
+2023-12-17,Premium Gym,"Rs 2,936.55",Healthcare
+2023-12-18,Uber Ride,Rs 193.28,Transportation
+2023-12-19,BigBasket Groceries,Rs 881.78,Groceries
+2023-12-19,Netflix Subscription,Rs 496.07,Subscriptions
+2023-12-19,Amazon Purchase,"Rs 4,570.99",Shopping
+2023-12-19,BMW Service Center,"Rs 33,253.83",Transportation
+2023-12-20,Investment Advisory Fee,"Rs 19,242.81",Miscellaneous
+2023-12-20,Investment Advisory Fee,"Rs 14,578.60",Miscellaneous
+2023-12-20,Spotify Premium,Rs 119.00,Subscriptions
+2023-12-20,Ola Cab,Rs 196.92,Transportation
+2023-12-21,Meesho Order,Rs 259.68,Shopping
+2023-12-22,Interest Credit,"Rs 23,968.40",Income
+2023-12-22,Interior Design Service,"Rs 126,209.02",Housing
+2023-12-22,Interior Design Service,"Rs 185,859.15",Housing
+2023-12-23,Ola Cab,Rs 336.72,Transportation
+2023-12-24,Rapido Bike Taxi,Rs 60.23,Transportation
+2023-12-24,Parking Premium Mall,Rs 679.08,Transportation
+2023-12-24,Zomato Food Delivery,Rs 762.19,Food & Dining
+2023-12-25,Golf Club Membership,"Rs 23,666.79",Healthcare
+2023-12-26,Premium Gym,"Rs 3,451.56",Healthcare
+2023-12-26,Security System,"Rs 24,922.66",Housing
+2023-12-27,Amazon Purchase,"Rs 6,779.82",Shopping
+2023-12-28,Stock Options,"Rs 91,089.78",Income
+2023-12-30,Dividend Credit,"Rs 68,382.88",Income
+2023-12-31,Parking Premium Mall,Rs 776.47,Transportation
+2024-01-01,Ola Cab,Rs 389.65,Transportation
+2024-01-02,Chartered Accountant,"Rs 19,257.24",Miscellaneous
+2024-01-03,Dividend Credit,"Rs 10,784.16",Income
+2024-01-04,Flipkart Order,"Rs 2,263.40",Shopping
+2024-01-04,Stock Options,"Rs 136,994.70",Income
+2024-01-04,Rental Income,"Rs 56,618.29",Income
+2024-01-06,Reliance Fresh,Rs 995.57,Groceries
+2024-01-07,Interest Credit,"Rs 7,771.44",Income
+2024-01-08,BigBasket Groceries,"Rs 3,410.96",Groceries
+2024-01-08,BookMyShow Tickets,Rs 290.30,Entertainment
+2024-01-08,BMW Service Center,"Rs 14,590.83",Transportation
+2024-01-09,DMart Purchase,"Rs 2,358.26",Groceries
+2024-01-10,BMW Service Center,"Rs 43,412.49",Transportation
+2024-01-10,Investment Advisory Fee,"Rs 13,760.60",Miscellaneous
+2024-01-10,Uber Ride,Rs 303.79,Transportation
+2024-01-11,BMW Service Center,"Rs 34,804.82",Transportation
+2024-01-11,Golf Club Membership,"Rs 14,740.25",Healthcare
+2024-01-12,Business Class Flight,"Rs 103,319.52",Travel
+2024-01-13,Ola Cab,Rs 384.66,Transportation
+2024-01-13,Premium Whisky Shop,"Rs 3,529.66",Food & Dining
+2024-01-14,Dividend Credit,"Rs 28,041.11",Income
+2024-01-14,Annual Bonus,"Rs 374,771.95",Income
+2024-01-14,Netflix Subscription,Rs 221.79,Subscriptions
+2024-01-17,Dividend Credit,"Rs 56,579.72",Income
+2024-01-17,Myntra Fashion,"Rs 2,215.13",Shopping
+2024-01-17,BookMyShow Tickets,Rs 368.90,Entertainment
+2024-01-17,Myntra Fashion,"Rs 3,846.07",Shopping
+2024-01-18,Salary CTC Credit,"Rs 208,923.94",Income
+2024-01-19,DMart Purchase,"Rs 1,084.91",Groceries
+2024-01-19,Ola Cab,Rs 473.74,Transportation
+2024-01-19,Security System,"Rs 23,198.46",Housing
+2024-01-20,Premium Whisky Shop,"Rs 4,999.27",Food & Dining
+2024-01-20,Ajio Clothing,"Rs 1,861.06",Shopping
+2024-01-21,Premium Gym,"Rs 2,640.18",Healthcare
+2024-01-21,Ola Cab,Rs 389.79,Transportation
+2024-01-22,Amazon Prime,Rs 409.08,Subscriptions
+2024-01-23,Designer Brand Store,"Rs 13,663.52",Shopping
+2024-01-24,Ajio Clothing,"Rs 2,752.97",Shopping
+2024-01-24,Hotstar Subscription,Rs 886.56,Subscriptions
+2024-01-24,Interior Design Service,"Rs 154,077.23",Housing
+2024-01-26,Amazon Prime,Rs 243.25,Subscriptions
+2024-01-27,Swiggy Order,Rs 724.85,Food & Dining
+2024-01-27,Chartered Accountant,"Rs 30,688.65",Miscellaneous
+2024-01-29,Interior Design Service,"Rs 130,656.85",Housing
+2024-01-29,DMart Purchase,"Rs 1,806.71",Groceries
+2024-01-30,Investment Advisory Fee,"Rs 12,795.42",Miscellaneous
+2024-01-30,Designer Brand Store,"Rs 35,657.38",Shopping
+2024-01-31,Investment Advisory Fee,"Rs 9,294.12",Miscellaneous
+2024-02-01,Rental Income,"Rs 63,048.11",Income
+2024-02-02,5-Star Hotel,"Rs 25,982.44",Travel
+2024-02-03,Amazon Prime,Rs 352.44,Subscriptions
+2024-02-03,Reliance Fresh,"Rs 1,303.89",Groceries
+2024-02-04,Designer Brand Store,"Rs 98,092.63",Shopping
+2024-02-04,Swiggy Order,Rs 883.80,Food & Dining
+2024-02-04,Annual Bonus,"Rs 300,358.97",Income
+2024-02-05,Amazon Prime,Rs 682.79,Subscriptions
+2024-02-05,Investment Advisory Fee,"Rs 7,704.55",Miscellaneous
+2024-02-07,BMW Service Center,"Rs 37,245.73",Transportation
+2024-02-07,Swiggy Order,Rs 435.25,Food & Dining
+2024-02-07,Rental Income,"Rs 77,443.25",Income
+2024-02-07,Ajio Clothing,"Rs 3,354.22",Shopping
+2024-02-07,Premium Whisky Shop,"Rs 11,175.96",Food & Dining
+2024-02-08,Fine Dining Restaurant,"Rs 10,253.20",Food & Dining
+2024-02-09,Amazon Purchase,"Rs 3,642.27",Shopping
+2024-02-11,Business Profit Transfer,"Rs 140,843.97",Income
+2024-02-11,Rapido Bike Taxi,Rs 120.33,Transportation
+2024-02-11,Myntra Fashion,Rs 689.96,Shopping
+2024-02-11,Business Profit Transfer,"Rs 149,461.39",Income
+2024-02-12,Security System,"Rs 6,599.63",Housing
+2024-02-14,Luxury Watch Service,"Rs 12,992.72",Shopping
+2024-02-14,5-Star Hotel,"Rs 18,413.90",Travel
+2024-02-14,Golf Club Membership,"Rs 5,871.76",Healthcare
+2024-02-15,Uber Ride,Rs 435.55,Transportation
+2024-02-16,Ola Cab,Rs 139.85,Transportation
+2024-02-16,Golf Club Membership,"Rs 7,445.85",Healthcare
+2024-02-18,Uber Ride,Rs 91.31,Transportation
+2024-02-19,More Supermarket,"Rs 1,462.96",Groceries
+2024-02-19,Zomato Food Delivery,Rs 754.12,Food & Dining
+2024-02-19,Ola Cab,Rs 127.67,Transportation
+2024-02-19,Meesho Order,"Rs 1,369.00",Shopping
+2024-02-22,5-Star Hotel,"Rs 49,139.55",Travel
+2024-02-22,Reliance Fresh,Rs 337.69,Groceries
+2024-02-22,Premium Whisky Shop,"Rs 12,632.93",Food & Dining
+2024-02-23,Fine Dining Restaurant,"Rs 4,119.29",Food & Dining
+2024-02-23,Flipkart Order,"Rs 5,652.42",Shopping
+2024-02-23,Swiggy Order,Rs 204.30,Food & Dining
+2024-02-25,Golf Club Membership,"Rs 10,818.31",Healthcare
+2024-02-25,Chartered Accountant,"Rs 28,146.10",Miscellaneous
+2024-02-26,Netflix Subscription,Rs 447.45,Subscriptions
+2024-02-26,Zomato Food Delivery,Rs 847.95,Food & Dining
+2024-02-26,Spotify Premium,Rs 119.00,Subscriptions
+2024-02-27,Premium Whisky Shop,"Rs 11,577.06",Food & Dining
+2024-02-27,Myntra Fashion,"Rs 1,736.78",Shopping
+2024-02-27,Spotify Premium,Rs 119.00,Subscriptions
+2024-02-28,Uber Ride,Rs 347.68,Transportation
+2024-03-02,Interior Design Service,"Rs 122,028.79",Housing
+2024-03-03,Luxury Watch Service,"Rs 24,663.81",Shopping
+2024-03-03,Luxury Watch Service,"Rs 30,379.93",Shopping
+2024-03-03,Chartered Accountant,"Rs 26,393.50",Miscellaneous
+2024-03-04,BigBasket Groceries,"Rs 3,888.27",Groceries
+2024-03-05,BookMyShow Tickets,Rs 200.52,Entertainment
+2024-03-05,5-Star Hotel,"Rs 22,897.38",Travel
+2024-03-05,Dividend Credit,"Rs 32,472.51",Income
+2024-03-07,Ajio Clothing,"Rs 3,263.16",Shopping
+2024-03-07,Fine Dining Restaurant,"Rs 8,504.38",Food & Dining
+2024-03-08,Rapido Bike Taxi,Rs 77.93,Transportation
+2024-03-08,Myntra Fashion,"Rs 1,202.31",Shopping
+2024-03-10,Annual Bonus,"Rs 357,603.57",Income
+2024-03-10,Flipkart Order,"Rs 4,576.67",Shopping
+2024-03-10,5-Star Hotel,"Rs 20,710.04",Travel
+2024-03-10,Dividend Credit,"Rs 39,995.81",Income
+2024-03-11,Ajio Clothing,"Rs 2,129.68",Shopping
+2024-03-11,Golf Club Membership,"Rs 6,418.08",Healthcare
+2024-03-12,Myntra Fashion,"Rs 1,918.86",Shopping
+2024-03-12,Zomato Food Delivery,Rs 355.99,Food & Dining
+2024-03-13,BigBasket Groceries,"Rs 2,194.58",Groceries
+2024-03-15,Premium Whisky Shop,"Rs 13,568.73",Food & Dining
+2024-03-15,BMW Service Center,"Rs 13,985.83",Transportation
+2024-03-15,Parking Premium Mall,Rs 570.69,Transportation
+2024-03-17,Reliance Fresh,"Rs 1,130.84",Groceries
+2024-03-17,Netflix Subscription,Rs 274.83,Subscriptions
+2024-03-18,YouTube Premium,Rs 139.00,Subscriptions
+2024-03-19,Fine Dining Restaurant,"Rs 14,320.47",Food & Dining
+2024-03-19,Dividend Credit,"Rs 79,072.25",Income
+2024-03-19,Myntra Fashion,"Rs 1,519.73",Shopping
+2024-03-20,Hotstar Subscription,Rs 273.05,Subscriptions
+2024-03-21,Chartered Accountant,"Rs 42,182.78",Miscellaneous
+2024-03-22,Dividend Credit,"Rs 57,665.23",Income
+2024-03-22,Luxury Watch Service,"Rs 76,842.52",Shopping
+2024-03-23,Rental Income,"Rs 73,358.56",Income
+2024-03-24,Security System,"Rs 16,997.23",Housing
+2024-03-24,Interior Design Service,"Rs 57,080.41",Housing
+2024-03-25,More Supermarket,Rs 514.86,Groceries
+2024-03-25,Amazon Purchase,"Rs 1,453.00",Shopping
+2024-03-26,5-Star Hotel,"Rs 55,274.60",Travel
+2024-03-26,Designer Brand Store,"Rs 39,106.97",Shopping
+2024-03-26,Spotify Premium,Rs 119.00,Subscriptions
+2024-03-26,Hotstar Subscription,Rs 371.21,Subscriptions
+2024-03-27,BookMyShow Tickets,"Rs 1,063.88",Entertainment
+2024-03-27,Amazon Prime,Rs 386.17,Subscriptions
+2024-03-28,Meesho Order,"Rs 1,811.46",Shopping
+2024-03-29,Myntra Fashion,"Rs 3,149.65",Shopping
+2024-03-30,Fine Dining Restaurant,"Rs 15,191.76",Food & Dining
+2024-03-31,Chartered Accountant,"Rs 27,345.04",Miscellaneous
+2024-03-31,Swiggy Order,Rs 184.26,Food & Dining
+2024-03-31,Ajio Clothing,Rs 895.15,Shopping
+2024-04-02,Business Class Flight,"Rs 75,447.34",Travel
+2024-04-02,Ajio Clothing,"Rs 1,478.30",Shopping
+2024-04-02,Amazon Purchase,"Rs 6,999.13",Shopping
+2024-04-02,Hotstar Subscription,Rs 890.82,Subscriptions
+2024-04-03,Rental Income,"Rs 64,345.73",Income
+2024-04-06,Premium Whisky Shop,"Rs 9,383.95",Food & Dining
+2024-04-07,Uber Ride,Rs 471.53,Transportation
+2024-04-08,Ajio Clothing,"Rs 2,990.49",Shopping
+2024-04-09,Ajio Clothing,Rs 488.14,Shopping
+2024-04-10,Investment Advisory Fee,"Rs 16,056.74",Miscellaneous
+2024-04-10,Chartered Accountant,"Rs 38,100.72",Miscellaneous
+2024-04-10,Spotify Premium,Rs 119.00,Subscriptions
+2024-04-10,Rapido Bike Taxi,Rs 198.28,Transportation
+2024-04-11,Netflix Subscription,Rs 204.74,Subscriptions
+2024-04-11,Zomato Food Delivery,Rs 184.37,Food & Dining
+2024-04-11,More Supermarket,Rs 290.99,Groceries
+2024-04-11,Netflix Subscription,Rs 607.05,Subscriptions
+2024-04-12,Security System,"Rs 21,574.35",Housing
+2024-04-12,Amazon Prime,Rs 446.27,Subscriptions
+2024-04-13,5-Star Hotel,"Rs 57,688.50",Travel
+2024-04-13,Zomato Food Delivery,Rs 621.66,Food & Dining
+2024-04-13,BookMyShow Tickets,"Rs 1,190.96",Entertainment
+2024-04-14,DMart Purchase,"Rs 2,294.87",Groceries
+2024-04-15,Security System,"Rs 12,323.54",Housing
+2024-04-15,Reliance Fresh,"Rs 1,011.65",Groceries
+2024-04-16,Reliance Fresh,Rs 678.30,Groceries
+2024-04-17,Security System,"Rs 20,385.76",Housing
+2024-04-17,Luxury Watch Service,"Rs 51,519.52",Shopping
+2024-04-18,DMart Purchase,"Rs 2,825.51",Groceries
+2024-04-18,Amazon Purchase,"Rs 6,707.62",Shopping
+2024-04-18,5-Star Hotel,"Rs 40,407.28",Travel
+2024-04-18,Salary CTC Credit,"Rs 293,079.98",Income
+2024-04-18,Zomato Food Delivery,Rs 688.74,Food & Dining
+2024-04-19,Security System,"Rs 18,113.19",Housing
+2024-04-19,Ola Cab,Rs 123.94,Transportation
+2024-04-21,Reliance Fresh,Rs 687.87,Groceries
+2024-04-21,Security System,"Rs 15,664.14",Housing
+2024-04-21,Zomato Food Delivery,Rs 796.83,Food & Dining
+2024-04-22,BookMyShow Tickets,Rs 335.37,Entertainment
+2024-04-23,Chartered Accountant,"Rs 26,984.72",Miscellaneous
+2024-04-23,Annual Bonus,"Rs 291,384.27",Income
+2024-04-23,Interest Credit,"Rs 8,029.03",Income
+2024-04-24,Luxury Watch Service,"Rs 43,037.83",Shopping
+2024-04-25,YouTube Premium,Rs 139.00,Subscriptions
+2024-04-27,YouTube Premium,Rs 139.00,Subscriptions
+2024-04-27,Business Class Flight,"Rs 103,055.52",Travel
+2024-04-27,Meesho Order,"Rs 1,497.65",Shopping
+2024-04-28,Rental Income,"Rs 27,805.11",Income
+2024-04-28,Myntra Fashion,Rs 644.76,Shopping
+2024-05-01,Amazon Purchase,"Rs 6,366.46",Shopping
+2024-05-02,Interior Design Service,"Rs 163,592.08",Housing
+2024-05-02,Golf Club Membership,"Rs 7,841.44",Healthcare
+2024-05-02,BookMyShow Tickets,Rs 832.12,Entertainment
+2024-05-04,Premium Gym,"Rs 4,057.74",Healthcare
+2024-05-04,Spotify Premium,Rs 119.00,Subscriptions
+2024-05-04,Interest Credit,"Rs 8,861.55",Income
+2024-05-05,Rental Income,"Rs 30,609.96",Income
+2024-05-05,Meesho Order,"Rs 1,667.28",Shopping
+2024-05-06,Swiggy Order,Rs 207.38,Food & Dining
+2024-05-06,Reliance Fresh,"Rs 1,660.70",Groceries
+2024-05-06,Reliance Fresh,"Rs 1,126.82",Groceries
+2024-05-06,Annual Bonus,"Rs 486,300.81",Income
+2024-05-07,DMart Purchase,Rs 926.71,Groceries
+2024-05-09,Chartered Accountant,"Rs 36,597.36",Miscellaneous
+2024-05-10,Premium Whisky Shop,"Rs 13,264.96",Food & Dining
+2024-05-11,Salary CTC Credit,"Rs 331,961.95",Income
+2024-05-11,Hotstar Subscription,Rs 573.97,Subscriptions
+2024-05-11,Reliance Fresh,Rs 988.54,Groceries
+2024-05-12,Spotify Premium,Rs 119.00,Subscriptions
+2024-05-12,5-Star Hotel,"Rs 26,187.97",Travel
+2024-05-14,Designer Brand Store,"Rs 48,542.56",Shopping
+2024-05-14,Security System,"Rs 18,590.30",Housing
+2024-05-15,YouTube Premium,Rs 139.00,Subscriptions
+2024-05-16,5-Star Hotel,"Rs 13,588.85",Travel
+2024-05-17,Amazon Purchase,"Rs 2,743.60",Shopping
+2024-05-18,Premium Whisky Shop,"Rs 9,862.03",Food & Dining
+2024-05-19,Zomato Food Delivery,Rs 225.86,Food & Dining
+2024-05-19,Fine Dining Restaurant,"Rs 3,393.85",Food & Dining
+2024-05-21,Uber Ride,Rs 534.37,Transportation
+2024-05-21,Netflix Subscription,Rs 248.08,Subscriptions
+2024-05-21,Flipkart Order,Rs 336.84,Shopping
+2024-05-24,Amazon Prime,Rs 319.67,Subscriptions
+2024-05-24,Parking Premium Mall,Rs 592.65,Transportation
+2024-05-25,Stock Options,"Rs 265,639.34",Income
+2024-05-25,Interior Design Service,"Rs 183,419.33",Housing
+2024-05-26,5-Star Hotel,"Rs 57,115.00",Travel
+2024-05-26,Annual Bonus,"Rs 194,348.87",Income
+2024-05-27,Myntra Fashion,"Rs 1,936.42",Shopping
+2024-05-27,Rental Income,"Rs 76,895.47",Income
+2024-05-28,Meesho Order,Rs 501.82,Shopping
+2024-05-28,Interior Design Service,"Rs 61,217.04",Housing
+2024-05-29,YouTube Premium,Rs 139.00,Subscriptions
+2024-05-30,Myntra Fashion,"Rs 3,447.08",Shopping
+2024-05-30,Hotstar Subscription,Rs 718.11,Subscriptions
+2024-06-02,Chartered Accountant,"Rs 49,680.66",Miscellaneous
+2024-06-02,YouTube Premium,Rs 139.00,Subscriptions
+2024-06-05,Luxury Watch Service,"Rs 64,278.39",Shopping
+2024-06-05,Netflix Subscription,Rs 392.71,Subscriptions
+2024-06-05,Premium Whisky Shop,"Rs 4,110.02",Food & Dining
+2024-06-06,Designer Brand Store,"Rs 99,941.41",Shopping
+2024-06-06,Stock Options,"Rs 55,569.08",Income
+2024-06-06,Amazon Purchase,"Rs 1,006.72",Shopping
+2024-06-06,Premium Gym,"Rs 4,365.98",Healthcare
+2024-06-06,Annual Bonus,"Rs 237,810.37",Income
+2024-06-08,5-Star Hotel,"Rs 49,040.18",Travel
+2024-06-08,Fine Dining Restaurant,"Rs 12,954.00",Food & Dining
+2024-06-08,DMart Purchase,"Rs 1,322.12",Groceries
+2024-06-09,Netflix Subscription,Rs 271.33,Subscriptions
+2024-06-09,Investment Advisory Fee,"Rs 14,232.70",Miscellaneous
+2024-06-11,Investment Advisory Fee,"Rs 17,685.07",Miscellaneous
+2024-06-11,Dividend Credit,"Rs 78,766.27",Income
+2024-06-11,BookMyShow Tickets,Rs 950.40,Entertainment
+2024-06-11,Premium Gym,"Rs 4,812.96",Healthcare
+2024-06-11,More Supermarket,"Rs 1,152.38",Groceries
+2024-06-12,BMW Service Center,"Rs 45,904.08",Transportation
+2024-06-13,Netflix Subscription,Rs 251.39,Subscriptions
+2024-06-13,5-Star Hotel,"Rs 45,440.45",Travel
+2024-06-14,Amazon Purchase,"Rs 2,282.65",Shopping
+2024-06-15,Stock Options,"Rs 176,109.75",Income
+2024-06-16,Security System,"Rs 19,323.32",Housing
+2024-06-16,Parking Premium Mall,Rs 235.78,Transportation
+2024-06-18,Meesho Order,Rs 694.24,Shopping
+2024-06-18,Investment Advisory Fee,"Rs 15,090.59",Miscellaneous
+2024-06-20,Uber Ride,Rs 327.87,Transportation
+2024-06-21,More Supermarket,Rs 438.92,Groceries
+2024-06-22,Amazon Purchase,"Rs 3,898.50",Shopping
+2024-06-24,Amazon Purchase,"Rs 7,733.75",Shopping
+2024-06-25,BigBasket Groceries,"Rs 2,974.62",Groceries
+2024-06-25,Swiggy Order,Rs 611.46,Food & Dining
+2024-06-25,Ajio Clothing,"Rs 1,647.95",Shopping
+2024-06-26,Netflix Subscription,Rs 260.06,Subscriptions
+2024-06-26,Ajio Clothing,"Rs 2,158.79",Shopping
+2024-06-26,Ola Cab,Rs 405.60,Transportation
+2024-06-27,Premium Gym,"Rs 4,603.51",Healthcare
+2024-06-28,Security System,"Rs 29,008.69",Housing
+2024-06-28,Reliance Fresh,"Rs 1,073.50",Groceries
+2024-06-29,Salary CTC Credit,"Rs 292,264.43",Income
+2024-06-29,BigBasket Groceries,"Rs 2,827.06",Groceries
+2024-06-30,Parking Premium Mall,Rs 333.68,Transportation
+2024-06-30,BMW Service Center,"Rs 27,867.00",Transportation
+2024-07-01,Netflix Subscription,Rs 167.89,Subscriptions
+2024-07-01,Dividend Credit,"Rs 22,788.33",Income
+2024-07-02,BigBasket Groceries,"Rs 3,129.34",Groceries
+2024-07-03,Rapido Bike Taxi,Rs 66.58,Transportation
+2024-07-03,Security System,"Rs 27,815.30",Housing
+2024-07-03,Chartered Accountant,"Rs 34,308.30",Miscellaneous
+2024-07-04,Rapido Bike Taxi,Rs 189.68,Transportation
+2024-07-05,More Supermarket,Rs 720.64,Groceries
+2024-07-08,Chartered Accountant,"Rs 46,706.48",Miscellaneous
+2024-07-08,More Supermarket,"Rs 1,555.36",Groceries
+2024-07-10,Stock Options,"Rs 144,118.40",Income
+2024-07-10,BigBasket Groceries,"Rs 2,410.34",Groceries
+2024-07-10,BookMyShow Tickets,Rs 753.65,Entertainment
+2024-07-11,BMW Service Center,"Rs 26,076.13",Transportation
+2024-07-12,Interest Credit,"Rs 26,350.54",Income
+2024-07-12,BookMyShow Tickets,"Rs 1,230.43",Entertainment
+2024-07-16,Investment Advisory Fee,"Rs 16,810.41",Miscellaneous
+2024-07-16,Designer Brand Store,"Rs 34,272.35",Shopping
+2024-07-17,Spotify Premium,Rs 119.00,Subscriptions
+2024-07-17,Premium Whisky Shop,"Rs 13,099.48",Food & Dining
+2024-07-18,Swiggy Order,Rs 761.40,Food & Dining
+2024-07-18,Salary CTC Credit,"Rs 420,512.74",Income
+2024-07-19,More Supermarket,"Rs 1,536.27",Groceries
+2024-07-20,Parking Premium Mall,Rs 733.44,Transportation
+2024-07-21,Swiggy Order,Rs 391.90,Food & Dining
+2024-07-21,Netflix Subscription,Rs 459.43,Subscriptions
+2024-07-22,BookMyShow Tickets,Rs 925.89,Entertainment
+2024-07-22,Designer Brand Store,"Rs 29,797.40",Shopping
+2024-07-24,Chartered Accountant,"Rs 35,679.04",Miscellaneous
+2024-07-25,Rental Income,"Rs 23,807.55",Income
+2024-07-25,Interior Design Service,"Rs 58,607.20",Housing
+2024-07-28,Netflix Subscription,Rs 285.14,Subscriptions
+2024-07-29,Interior Design Service,"Rs 167,978.81",Housing
+2024-07-30,Reliance Fresh,"Rs 1,656.70",Groceries
+2024-07-31,Rental Income,"Rs 65,793.51",Income
+2024-08-02,Uber Ride,Rs 580.03,Transportation
+2024-08-02,Investment Advisory Fee,"Rs 14,505.82",Miscellaneous
+2024-08-02,Chartered Accountant,"Rs 21,320.57",Miscellaneous
+2024-08-02,Spotify Premium,Rs 119.00,Subscriptions
+2024-08-03,Chartered Accountant,"Rs 31,327.07",Miscellaneous
+2024-08-06,Annual Bonus,"Rs 437,792.03",Income
+2024-08-07,Meesho Order,Rs 219.52,Shopping
+2024-08-07,Designer Brand Store,"Rs 51,191.02",Shopping
+2024-08-07,Luxury Watch Service,"Rs 30,633.24",Shopping
+2024-08-07,YouTube Premium,Rs 139.00,Subscriptions
+2024-08-07,Business Class Flight,"Rs 51,969.65",Travel
+2024-08-08,Meesho Order,Rs 680.66,Shopping
+2024-08-08,Rental Income,"Rs 53,897.48",Income
+2024-08-08,Swiggy Order,Rs 844.13,Food & Dining
+2024-08-09,Rental Income,"Rs 34,116.93",Income
+2024-08-10,Golf Club Membership,"Rs 17,834.22",Healthcare
+2024-08-10,Salary CTC Credit,"Rs 564,801.02",Income
+2024-08-10,BigBasket Groceries,"Rs 3,085.33",Groceries
+2024-08-11,Security System,"Rs 24,249.41",Housing
+2024-08-11,BMW Service Center,"Rs 47,467.03",Transportation
+2024-08-12,Annual Bonus,"Rs 294,755.54",Income
+2024-08-13,Spotify Premium,Rs 119.00,Subscriptions
+2024-08-13,Myntra Fashion,"Rs 3,889.67",Shopping
+2024-08-14,Ajio Clothing,"Rs 2,414.39",Shopping
+2024-08-15,Golf Club Membership,"Rs 18,850.09",Healthcare
+2024-08-15,Investment Advisory Fee,"Rs 9,940.77",Miscellaneous
+2024-08-15,Premium Whisky Shop,"Rs 10,848.22",Food & Dining
+2024-08-16,Amazon Prime,Rs 249.52,Subscriptions
+2024-08-17,Salary CTC Credit,"Rs 553,173.46",Income
+2024-08-18,DMart Purchase,"Rs 2,849.22",Groceries
+2024-08-19,Zomato Food Delivery,Rs 457.56,Food & Dining
+2024-08-19,Rapido Bike Taxi,Rs 146.53,Transportation
+2024-08-19,Swiggy Order,Rs 220.05,Food & Dining
+2024-08-20,Ola Cab,Rs 438.74,Transportation
+2024-08-21,Fine Dining Restaurant,"Rs 11,572.02",Food & Dining
+2024-08-21,Ola Cab,Rs 409.37,Transportation
+2024-08-21,Designer Brand Store,"Rs 14,646.89",Shopping
+2024-08-22,Stock Options,"Rs 237,723.05",Income
+2024-08-22,Swiggy Order,Rs 656.21,Food & Dining
+2024-08-22,Business Profit Transfer,"Rs 206,482.16",Income
+2024-08-22,Chartered Accountant,"Rs 37,414.67",Miscellaneous
+2024-08-23,Meesho Order,Rs 820.67,Shopping
+2024-08-24,Investment Advisory Fee,"Rs 10,183.06",Miscellaneous
+2024-08-24,Rapido Bike Taxi,Rs 84.06,Transportation
+2024-08-25,Business Profit Transfer,"Rs 53,670.66",Income
+2024-08-25,Premium Whisky Shop,"Rs 9,205.52",Food & Dining
+2024-08-25,Chartered Accountant,"Rs 38,599.17",Miscellaneous
+2024-08-27,BMW Service Center,"Rs 40,654.74",Transportation
+2024-08-28,Amazon Purchase,Rs 380.42,Shopping
+2024-08-29,Designer Brand Store,"Rs 61,065.45",Shopping
+2024-08-29,Swiggy Order,Rs 453.94,Food & Dining
+2024-08-31,Parking Premium Mall,Rs 282.08,Transportation
+2024-09-01,Spotify Premium,Rs 119.00,Subscriptions
+2024-09-01,BMW Service Center,"Rs 23,374.44",Transportation
+2024-09-02,Interior Design Service,"Rs 195,103.51",Housing
+2024-09-02,Hotstar Subscription,Rs 585.25,Subscriptions
+2024-09-02,Ola Cab,Rs 122.24,Transportation
+2024-09-04,Reliance Fresh,Rs 157.09,Groceries
+2024-09-08,Flipkart Order,"Rs 3,964.79",Shopping
+2024-09-09,DMart Purchase,"Rs 1,694.73",Groceries
+2024-09-10,Zomato Food Delivery,Rs 536.49,Food & Dining
+2024-09-11,Luxury Watch Service,"Rs 19,185.96",Shopping
+2024-09-12,Hotstar Subscription,Rs 888.86,Subscriptions
+2024-09-13,Meesho Order,Rs 301.79,Shopping
+2024-09-14,Annual Bonus,"Rs 217,877.70",Income
+2024-09-14,Security System,"Rs 25,753.28",Housing
+2024-09-16,Premium Whisky Shop,"Rs 12,550.95",Food & Dining
+2024-09-18,Uber Ride,Rs 181.68,Transportation
+2024-09-19,Myntra Fashion,"Rs 3,124.99",Shopping
+2024-09-19,Interest Credit,"Rs 10,801.72",Income
+2024-09-20,Ola Cab,Rs 206.45,Transportation
+2024-09-21,5-Star Hotel,"Rs 75,313.82",Travel
+2024-09-22,Myntra Fashion,"Rs 2,364.10",Shopping
+2024-09-24,Parking Premium Mall,Rs 297.47,Transportation
+2024-09-25,Swiggy Order,Rs 373.12,Food & Dining
+2024-09-25,BigBasket Groceries,Rs 521.36,Groceries
+2024-09-25,Zomato Food Delivery,Rs 600.65,Food & Dining
+2024-09-26,Rental Income,"Rs 73,173.36",Income
+2024-09-26,Business Class Flight,"Rs 72,336.19",Travel
+2024-09-26,Ajio Clothing,"Rs 2,112.92",Shopping
+2024-09-26,More Supermarket,Rs 673.43,Groceries
+2024-09-26,Swiggy Order,Rs 486.20,Food & Dining
+2024-09-26,DMart Purchase,"Rs 1,907.20",Groceries
+2024-09-27,Business Class Flight,"Rs 61,087.57",Travel
+2024-09-27,Zomato Food Delivery,Rs 436.11,Food & Dining
+2024-09-28,Chartered Accountant,"Rs 12,337.36",Miscellaneous
+2024-09-29,DMart Purchase,Rs 642.92,Groceries
+2024-09-29,BMW Service Center,"Rs 34,487.16",Transportation
+2024-09-30,Golf Club Membership,"Rs 17,949.88",Healthcare
+2024-09-30,Investment Advisory Fee,"Rs 19,889.22",Miscellaneous
+2024-10-01,Fine Dining Restaurant,"Rs 14,194.50",Food & Dining
+2024-10-03,Ajio Clothing,Rs 691.26,Shopping
+2024-10-03,Designer Brand Store,"Rs 52,494.78",Shopping
+2024-10-05,Reliance Fresh,"Rs 1,586.12",Groceries
+2024-10-05,Rental Income,"Rs 34,669.39",Income
+2024-10-06,Spotify Premium,Rs 119.00,Subscriptions
+2024-10-06,Premium Whisky Shop,"Rs 10,165.46",Food & Dining
+2024-10-08,5-Star Hotel,"Rs 25,974.97",Travel
+2024-10-09,Rapido Bike Taxi,Rs 127.71,Transportation
+2024-10-10,Annual Bonus,"Rs 480,532.91",Income
+2024-10-10,Security System,"Rs 22,573.64",Housing
+2024-10-11,Ajio Clothing,"Rs 1,423.51",Shopping
+2024-10-12,BMW Service Center,"Rs 29,718.45",Transportation
+2024-10-13,Investment Advisory Fee,"Rs 5,763.85",Miscellaneous
+2024-10-14,Interior Design Service,"Rs 181,738.70",Housing
+2024-10-14,5-Star Hotel,"Rs 12,041.52",Travel
+2024-10-14,Swiggy Order,Rs 297.91,Food & Dining
+2024-10-15,YouTube Premium,Rs 139.00,Subscriptions
+2024-10-15,Chartered Accountant,"Rs 25,205.13",Miscellaneous
+2024-10-16,Business Profit Transfer,"Rs 262,984.62",Income
+2024-10-16,Security System,"Rs 12,407.36",Housing
+2024-10-17,Investment Advisory Fee,"Rs 6,316.44",Miscellaneous
+2024-10-18,Reliance Fresh,Rs 837.91,Groceries
+2024-10-19,Hotstar Subscription,Rs 631.67,Subscriptions
+2024-10-20,Premium Gym,"Rs 2,517.59",Healthcare
+2024-10-21,Business Class Flight,"Rs 83,109.15",Travel
+2024-10-21,Swiggy Order,Rs 896.99,Food & Dining
+2024-10-23,Zomato Food Delivery,Rs 477.52,Food & Dining
+2024-10-25,BMW Service Center,"Rs 12,191.05",Transportation
+2024-10-25,5-Star Hotel,"Rs 46,172.09",Travel
+2024-10-25,Reliance Fresh,Rs 749.79,Groceries
+2024-10-26,Myntra Fashion,"Rs 3,545.46",Shopping
+2024-10-27,Zomato Food Delivery,Rs 478.03,Food & Dining
+2024-10-27,Uber Ride,Rs 397.85,Transportation
+2024-10-27,Uber Ride,Rs 206.58,Transportation
+2024-10-28,Flipkart Order,"Rs 5,581.62",Shopping
+2024-10-29,Salary CTC Credit,"Rs 554,312.90",Income
+2024-10-29,Annual Bonus,"Rs 453,763.36",Income
+2024-10-30,Spotify Premium,Rs 119.00,Subscriptions
+2024-10-30,Annual Bonus,"Rs 111,473.69",Income
+2024-11-01,Hotstar Subscription,Rs 243.87,Subscriptions
+2024-11-03,YouTube Premium,Rs 139.00,Subscriptions
+2024-11-07,Golf Club Membership,"Rs 5,343.50",Healthcare
+2024-11-10,Parking Premium Mall,Rs 310.05,Transportation
+2024-11-10,Spotify Premium,Rs 119.00,Subscriptions
+2024-11-11,Reliance Fresh,Rs 969.70,Groceries
+2024-11-12,Ola Cab,Rs 266.17,Transportation
+2024-11-15,Meesho Order,Rs 579.82,Shopping
+2024-11-15,Golf Club Membership,"Rs 29,959.12",Healthcare
+2024-11-17,Hotstar Subscription,Rs 746.39,Subscriptions
+2024-11-18,Security System,"Rs 22,037.01",Housing
+2024-11-20,Swiggy Order,Rs 342.61,Food & Dining
+2024-11-20,Spotify Premium,Rs 119.00,Subscriptions
+2024-11-22,Interior Design Service,"Rs 38,161.51",Housing
+2024-11-22,5-Star Hotel,"Rs 49,041.27",Travel
+2024-11-22,Meesho Order,"Rs 1,916.80",Shopping
+2024-11-23,Ola Cab,Rs 81.37,Transportation
+2024-11-24,Flipkart Order,"Rs 4,195.97",Shopping
+2024-11-25,Chartered Accountant,"Rs 11,953.27",Miscellaneous
+2024-11-27,Premium Whisky Shop,"Rs 7,232.25",Food & Dining
+2024-11-27,Hotstar Subscription,Rs 238.62,Subscriptions
+2024-11-27,Spotify Premium,Rs 119.00,Subscriptions
+2024-12-01,DMart Purchase,"Rs 3,224.41",Groceries
+2024-12-02,Ola Cab,Rs 458.98,Transportation
+2024-12-04,Dividend Credit,"Rs 37,629.62",Income
+2024-12-04,Flipkart Order,"Rs 4,782.41",Shopping
+2024-12-04,Uber Ride,Rs 470.92,Transportation
+2024-12-04,Designer Brand Store,"Rs 23,876.80",Shopping
+2024-12-06,Stock Options,"Rs 183,985.48",Income
+2024-12-06,Interior Design Service,"Rs 47,876.04",Housing
+2024-12-07,Salary CTC Credit,"Rs 265,314.08",Income
+2024-12-07,Security System,"Rs 10,804.37",Housing
+2024-12-07,Meesho Order,Rs 902.17,Shopping
+2024-12-08,Hotstar Subscription,Rs 876.67,Subscriptions
+2024-12-08,Meesho Order,"Rs 1,353.62",Shopping
+2024-12-08,Luxury Watch Service,"Rs 55,588.62",Shopping
+2024-12-09,Meesho Order,Rs 404.01,Shopping
+2024-12-10,Ajio Clothing,"Rs 1,684.53",Shopping
+2024-12-10,Luxury Watch Service,"Rs 37,430.01",Shopping
+2024-12-10,Amazon Prime,Rs 649.81,Subscriptions
+2024-12-10,Premium Gym,"Rs 4,355.03",Healthcare
+2024-12-10,BigBasket Groceries,"Rs 3,349.30",Groceries
+2024-12-11,Spotify Premium,Rs 119.00,Subscriptions
+2024-12-11,Premium Gym,"Rs 2,701.67",Healthcare
+2024-12-11,Premium Whisky Shop,"Rs 3,448.92",Food & Dining
+2024-12-11,Flipkart Order,"Rs 3,362.45",Shopping
+2024-12-13,Uber Ride,Rs 281.31,Transportation
+2024-12-14,Investment Advisory Fee,"Rs 13,966.89",Miscellaneous
+2024-12-14,Designer Brand Store,"Rs 18,202.49",Shopping
+2024-12-14,Amazon Prime,Rs 791.81,Subscriptions
+2024-12-14,5-Star Hotel,"Rs 41,640.32",Travel
+2024-12-17,Business Profit Transfer,"Rs 223,931.35",Income
+2024-12-17,Business Class Flight,"Rs 73,142.80",Travel
+2024-12-18,Amazon Prime,Rs 705.91,Subscriptions
+2024-12-18,Amazon Prime,Rs 200.04,Subscriptions
+2024-12-18,Parking Premium Mall,Rs 673.55,Transportation
+2024-12-19,Reliance Fresh,"Rs 1,269.53",Groceries
+2024-12-20,Designer Brand Store,"Rs 94,913.48",Shopping
+2024-12-20,Annual Bonus,"Rs 373,161.20",Income
+2024-12-21,Zomato Food Delivery,Rs 532.79,Food & Dining
+2024-12-23,Zomato Food Delivery,Rs 438.25,Food & Dining
+2024-12-23,Security System,"Rs 20,368.85",Housing
+2024-12-23,Reliance Fresh,Rs 769.74,Groceries
+2024-12-23,Rental Income,"Rs 35,441.70",Income
+2024-12-26,Ola Cab,Rs 320.96,Transportation
+2024-12-27,5-Star Hotel,"Rs 25,383.13",Travel
+2024-12-27,Interior Design Service,"Rs 125,421.16",Housing
+2024-12-27,Spotify Premium,Rs 119.00,Subscriptions
+2024-12-28,Chartered Accountant,"Rs 32,039.48",Miscellaneous
+2024-12-29,Designer Brand Store,"Rs 68,249.44",Shopping
+2024-12-29,Amazon Purchase,"Rs 2,739.20",Shopping
+2024-12-31,Swiggy Order,Rs 897.29,Food & Dining
+2025-01-01,Premium Gym,"Rs 2,982.11",Healthcare
+2025-01-02,Golf Club Membership,"Rs 19,916.49",Healthcare
+2025-01-02,Meesho Order,"Rs 1,504.29",Shopping
+2025-01-04,Premium Gym,"Rs 2,517.01",Healthcare
+2025-01-04,Rental Income,"Rs 26,105.58",Income
+2025-01-04,Uber Ride,Rs 216.67,Transportation
+2025-01-04,Rapido Bike Taxi,Rs 109.09,Transportation
+2025-01-05,Premium Gym,"Rs 3,497.92",Healthcare
+2025-01-05,Uber Ride,Rs 188.24,Transportation
+2025-01-06,Dividend Credit,"Rs 40,373.68",Income
+2025-01-06,Interior Design Service,"Rs 137,348.87",Housing
+2025-01-07,Amazon Purchase,"Rs 7,008.17",Shopping
+2025-01-09,Investment Advisory Fee,"Rs 10,161.33",Miscellaneous
+2025-01-11,Business Class Flight,"Rs 45,852.37",Travel
+2025-01-11,YouTube Premium,Rs 139.00,Subscriptions
+2025-01-11,Business Profit Transfer,"Rs 87,160.43",Income
+2025-01-13,Meesho Order,"Rs 1,094.12",Shopping
+2025-01-14,Luxury Watch Service,"Rs 77,329.81",Shopping
+2025-01-14,Rapido Bike Taxi,Rs 63.65,Transportation
+2025-01-16,Meesho Order,Rs 415.38,Shopping
+2025-01-16,Golf Club Membership,"Rs 11,970.72",Healthcare
+2025-01-17,YouTube Premium,Rs 139.00,Subscriptions
+2025-01-19,Salary CTC Credit,"Rs 206,050.03",Income
+2025-01-19,Annual Bonus,"Rs 213,071.11",Income
+2025-01-19,Zomato Food Delivery,Rs 264.66,Food & Dining
+2025-01-20,Premium Gym,"Rs 4,968.46",Healthcare
+2025-01-21,Business Profit Transfer,"Rs 248,861.84",Income
+2025-01-23,Rental Income,"Rs 38,929.12",Income
+2025-01-23,Reliance Fresh,"Rs 1,034.02",Groceries
+2025-01-24,Investment Advisory Fee,"Rs 6,344.71",Miscellaneous
+2025-01-26,Designer Brand Store,"Rs 72,078.03",Shopping
+2025-01-27,YouTube Premium,Rs 139.00,Subscriptions
+2025-01-28,Parking Premium Mall,Rs 630.20,Transportation
+2025-01-29,Ola Cab,Rs 283.04,Transportation
+2025-01-29,Premium Whisky Shop,"Rs 4,828.76",Food & Dining
+2025-01-30,Swiggy Order,Rs 509.40,Food & Dining
+2025-01-30,Fine Dining Restaurant,"Rs 15,684.26",Food & Dining
+2025-01-30,Dividend Credit,"Rs 51,836.40",Income
+2025-01-30,Interest Credit,"Rs 26,336.63",Income
+2025-01-30,Swiggy Order,Rs 882.04,Food & Dining
+2025-01-30,Amazon Purchase,"Rs 2,196.50",Shopping
+2025-02-01,Swiggy Order,Rs 500.21,Food & Dining
+2025-02-02,Reliance Fresh,Rs 232.66,Groceries
+2025-02-03,Netflix Subscription,Rs 294.97,Subscriptions
+2025-02-04,Meesho Order,"Rs 1,563.22",Shopping
+2025-02-05,5-Star Hotel,"Rs 35,004.11",Travel
+2025-02-05,BMW Service Center,"Rs 7,320.14",Transportation
+2025-02-05,Ola Cab,Rs 243.26,Transportation
+2025-02-07,Rental Income,"Rs 63,486.84",Income
+2025-02-07,Security System,"Rs 5,058.36",Housing
+2025-02-07,BMW Service Center,"Rs 35,151.45",Transportation
+2025-02-07,Golf Club Membership,"Rs 26,807.19",Healthcare
+2025-02-07,BigBasket Groceries,"Rs 1,527.50",Groceries
+2025-02-07,Fine Dining Restaurant,"Rs 18,345.25",Food & Dining
+2025-02-08,Netflix Subscription,Rs 503.71,Subscriptions
+2025-02-09,Interest Credit,"Rs 25,878.40",Income
+2025-02-09,Chartered Accountant,"Rs 24,201.96",Miscellaneous
+2025-02-09,Spotify Premium,Rs 119.00,Subscriptions
+2025-02-09,Designer Brand Store,"Rs 27,901.98",Shopping
+2025-02-09,Fine Dining Restaurant,"Rs 4,922.17",Food & Dining
+2025-02-10,Fine Dining Restaurant,"Rs 10,196.68",Food & Dining
+2025-02-11,Designer Brand Store,"Rs 92,619.18",Shopping
+2025-02-11,Flipkart Order,"Rs 3,116.64",Shopping
+2025-02-12,Designer Brand Store,"Rs 81,424.07",Shopping
+2025-02-14,Rental Income,"Rs 49,069.99",Income
+2025-02-14,Amazon Prime,Rs 426.21,Subscriptions
+2025-02-15,DMart Purchase,Rs 748.18,Groceries
+2025-02-15,Amazon Prime,Rs 913.20,Subscriptions
+2025-02-15,Investment Advisory Fee,"Rs 11,364.19",Miscellaneous
+2025-02-17,Flipkart Order,"Rs 3,564.05",Shopping
+2025-02-18,Reliance Fresh,"Rs 1,932.81",Groceries
+2025-02-19,Rental Income,"Rs 66,134.06",Income
+2025-02-20,Business Class Flight,"Rs 110,126.07",Travel
+2025-02-21,Amazon Prime,Rs 996.93,Subscriptions
+2025-02-21,Fine Dining Restaurant,"Rs 19,604.34",Food & Dining
+2025-02-22,Ola Cab,Rs 239.23,Transportation
+2025-02-24,Security System,"Rs 6,476.86",Housing
+2025-02-26,BigBasket Groceries,Rs 461.90,Groceries
+2025-02-26,Premium Whisky Shop,"Rs 9,616.66",Food & Dining
+2025-02-26,YouTube Premium,Rs 139.00,Subscriptions
+2025-02-26,Reliance Fresh,Rs 575.71,Groceries
+2025-02-27,Reliance Fresh,"Rs 1,659.03",Groceries
+2025-02-28,Ajio Clothing,"Rs 2,447.60",Shopping
+2025-03-01,Amazon Purchase,"Rs 6,780.73",Shopping
+2025-03-02,Rapido Bike Taxi,Rs 43.69,Transportation
+2025-03-03,Business Profit Transfer,"Rs 131,164.32",Income
+2025-03-04,Security System,"Rs 10,448.01",Housing
+2025-03-04,Premium Gym,"Rs 4,945.28",Healthcare
+2025-03-05,Golf Club Membership,"Rs 12,282.53",Healthcare
+2025-03-05,Designer Brand Store,"Rs 26,026.03",Shopping
+2025-03-06,Rapido Bike Taxi,Rs 196.19,Transportation
+2025-03-08,Investment Advisory Fee,"Rs 19,202.42",Miscellaneous
+2025-03-08,DMart Purchase,"Rs 1,772.78",Groceries
+2025-03-09,Stock Options,"Rs 155,429.24",Income
+2025-03-12,Spotify Premium,Rs 119.00,Subscriptions
+2025-03-13,Swiggy Order,Rs 881.34,Food & Dining
+2025-03-13,Designer Brand Store,"Rs 22,324.83",Shopping
+2025-03-15,Swiggy Order,Rs 698.46,Food & Dining
+2025-03-16,Swiggy Order,Rs 873.82,Food & Dining
+2025-03-17,Meesho Order,"Rs 1,708.22",Shopping
+2025-03-17,Rental Income,"Rs 22,475.26",Income
+2025-03-18,Luxury Watch Service,"Rs 57,006.88",Shopping
+2025-03-19,DMart Purchase,"Rs 1,045.57",Groceries
+2025-03-19,5-Star Hotel,"Rs 13,219.40",Travel
+2025-03-19,Annual Bonus,"Rs 363,747.13",Income
+2025-03-19,Flipkart Order,"Rs 1,801.23",Shopping
+2025-03-19,Ola Cab,Rs 422.89,Transportation
+2025-03-20,Netflix Subscription,Rs 464.06,Subscriptions
+2025-03-20,Myntra Fashion,"Rs 3,221.66",Shopping
+2025-03-20,Dividend Credit,"Rs 69,573.47",Income
+2025-03-22,Flipkart Order,"Rs 5,034.52",Shopping
+2025-03-22,YouTube Premium,Rs 139.00,Subscriptions
+2025-03-22,Rapido Bike Taxi,Rs 138.72,Transportation
+2025-03-23,Zomato Food Delivery,Rs 672.28,Food & Dining
+2025-03-23,Spotify Premium,Rs 119.00,Subscriptions
+2025-03-24,Flipkart Order,"Rs 5,383.23",Shopping
+2025-03-25,Reliance Fresh,Rs 731.11,Groceries
+2025-03-26,Dividend Credit,"Rs 65,349.04",Income
+2025-03-26,Security System,"Rs 13,577.31",Housing
+2025-03-28,BookMyShow Tickets,"Rs 1,131.11",Entertainment
+2025-03-29,Zomato Food Delivery,Rs 366.22,Food & Dining
+2025-03-31,Parking Premium Mall,Rs 360.19,Transportation
+2025-04-01,Meesho Order,Rs 990.34,Shopping
+2025-04-01,Reliance Fresh,"Rs 1,048.50",Groceries
+2025-04-01,Interior Design Service,"Rs 36,074.93",Housing
+2025-04-02,Netflix Subscription,Rs 334.83,Subscriptions
+2025-04-02,Hotstar Subscription,Rs 461.25,Subscriptions
+2025-04-04,Ola Cab,Rs 471.65,Transportation
+2025-04-05,BookMyShow Tickets,"Rs 1,389.31",Entertainment
+2025-04-05,BigBasket Groceries,"Rs 3,268.78",Groceries
+2025-04-05,Meesho Order,Rs 947.42,Shopping
+2025-04-06,Ola Cab,Rs 88.19,Transportation
+2025-04-06,Ajio Clothing,"Rs 2,854.11",Shopping
+2025-04-06,Premium Gym,"Rs 3,318.78",Healthcare
+2025-04-06,Interior Design Service,"Rs 80,048.01",Housing
+2025-04-06,Reliance Fresh,"Rs 1,410.03",Groceries
+2025-04-08,Reliance Fresh,"Rs 1,618.79",Groceries
+2025-04-09,Premium Whisky Shop,"Rs 4,277.01",Food & Dining
+2025-04-09,YouTube Premium,Rs 139.00,Subscriptions
+2025-04-10,Amazon Purchase,"Rs 2,997.91",Shopping
+2025-04-11,Uber Ride,Rs 456.24,Transportation
+2025-04-12,Fine Dining Restaurant,"Rs 17,617.98",Food & Dining
+2025-04-13,Zomato Food Delivery,Rs 516.38,Food & Dining
+2025-04-13,Luxury Watch Service,"Rs 22,717.94",Shopping
+2025-04-13,5-Star Hotel,"Rs 50,565.01",Travel
+2025-04-14,Chartered Accountant,"Rs 31,612.05",Miscellaneous
+2025-04-15,Premium Whisky Shop,"Rs 13,349.31",Food & Dining
+2025-04-17,Myntra Fashion,"Rs 2,873.77",Shopping
+2025-04-19,YouTube Premium,Rs 139.00,Subscriptions
+2025-04-19,Fine Dining Restaurant,"Rs 10,411.23",Food & Dining
+2025-04-20,Amazon Prime,Rs 951.81,Subscriptions
+2025-04-20,Netflix Subscription,Rs 374.08,Subscriptions
+2025-04-21,Hotstar Subscription,Rs 473.33,Subscriptions
+2025-04-23,5-Star Hotel,"Rs 35,428.32",Travel
+2025-04-23,Security System,"Rs 27,183.40",Housing
+2025-04-23,Uber Ride,Rs 502.38,Transportation
+2025-04-25,BookMyShow Tickets,"Rs 1,161.83",Entertainment
+2025-04-25,Ola Cab,Rs 207.70,Transportation
+2025-04-28,Zomato Food Delivery,Rs 457.39,Food & Dining
+2025-04-28,Luxury Watch Service,"Rs 71,800.68",Shopping
+2025-04-28,Interior Design Service,"Rs 123,346.77",Housing
+2025-04-28,Chartered Accountant,"Rs 15,543.01",Miscellaneous
+2025-04-30,Dividend Credit,"Rs 60,665.83",Income
+2025-05-01,Premium Gym,"Rs 4,271.59",Healthcare
+2025-05-01,Business Profit Transfer,"Rs 122,671.33",Income
+2025-05-02,Chartered Accountant,"Rs 30,397.66",Miscellaneous
+2025-05-02,More Supermarket,Rs 118.68,Groceries
+2025-05-02,BMW Service Center,"Rs 31,782.26",Transportation
+2025-05-02,Uber Ride,Rs 192.37,Transportation
+2025-05-03,Fine Dining Restaurant,"Rs 19,405.45",Food & Dining
+2025-05-03,BigBasket Groceries,"Rs 2,461.30",Groceries
+2025-05-04,Flipkart Order,"Rs 2,564.61",Shopping
+2025-05-05,YouTube Premium,Rs 139.00,Subscriptions
+2025-05-05,Business Profit Transfer,"Rs 57,154.50",Income
+2025-05-08,Parking Premium Mall,Rs 685.35,Transportation
+2025-05-09,Amazon Prime,Rs 568.55,Subscriptions
+2025-05-09,Business Profit Transfer,"Rs 256,910.52",Income
+2025-05-11,Hotstar Subscription,Rs 740.46,Subscriptions
+2025-05-11,Interior Design Service,"Rs 74,336.25",Housing
+2025-05-11,Stock Options,"Rs 252,677.17",Income
+2025-05-12,Designer Brand Store,"Rs 46,658.47",Shopping
+2025-05-12,Designer Brand Store,"Rs 30,798.70",Shopping
+2025-05-13,Premium Gym,"Rs 3,080.06",Healthcare
+2025-05-13,Amazon Prime,Rs 181.12,Subscriptions
+2025-05-13,Designer Brand Store,"Rs 5,267.14",Shopping
+2025-05-14,Dividend Credit,"Rs 50,203.29",Income
+2025-05-15,Designer Brand Store,"Rs 93,283.28",Shopping
+2025-05-17,BigBasket Groceries,"Rs 3,752.99",Groceries
+2025-05-18,Designer Brand Store,"Rs 81,681.01",Shopping
+2025-05-19,Ola Cab,Rs 384.66,Transportation
+2025-05-19,5-Star Hotel,"Rs 39,982.81",Travel
+2025-05-21,Premium Gym,"Rs 3,605.78",Healthcare
+2025-05-21,Ola Cab,Rs 94.00,Transportation
+2025-05-22,Zomato Food Delivery,Rs 488.29,Food & Dining
+2025-05-22,Designer Brand Store,"Rs 16,945.82",Shopping
+2025-05-23,Myntra Fashion,"Rs 1,070.89",Shopping
+2025-05-24,More Supermarket,"Rs 1,072.99",Groceries
+2025-05-25,Rental Income,"Rs 74,347.06",Income
+2025-05-25,Security System,"Rs 14,322.92",Housing
+2025-05-25,BigBasket Groceries,"Rs 3,354.49",Groceries
+2025-05-25,Uber Ride,Rs 134.17,Transportation
+2025-05-26,Business Class Flight,"Rs 101,704.22",Travel
+2025-05-27,BigBasket Groceries,"Rs 1,857.27",Groceries
+2025-05-27,Business Class Flight,"Rs 32,828.46",Travel
+2025-05-28,Business Profit Transfer,"Rs 166,521.71",Income
+2025-05-28,BigBasket Groceries,"Rs 3,535.54",Groceries
+2025-05-28,Rapido Bike Taxi,Rs 49.02,Transportation
+2025-05-28,Stock Options,"Rs 77,931.25",Income
+2025-05-29,Dividend Credit,"Rs 39,163.38",Income
+2025-05-30,Swiggy Order,Rs 150.71,Food & Dining
+2025-05-31,Myntra Fashion,"Rs 3,400.50",Shopping
+2025-06-01,Hotstar Subscription,Rs 821.52,Subscriptions
+2025-06-02,More Supermarket,"Rs 1,787.91",Groceries
+2025-06-02,Stock Options,"Rs 231,442.61",Income
+2025-06-03,Stock Options,"Rs 192,554.28",Income
+2025-06-03,Designer Brand Store,"Rs 25,389.84",Shopping
+2025-06-06,Premium Whisky Shop,"Rs 10,379.04",Food & Dining
+2025-06-08,Business Class Flight,"Rs 108,098.40",Travel
+2025-06-08,Rapido Bike Taxi,Rs 105.97,Transportation
+2025-06-08,Dividend Credit,"Rs 26,087.50",Income
+2025-06-08,Business Class Flight,"Rs 47,812.02",Travel
+2025-06-09,Chartered Accountant,"Rs 41,002.94",Miscellaneous
+2025-06-09,Amazon Prime,Rs 712.77,Subscriptions
+2025-06-09,Ola Cab,Rs 352.43,Transportation
+2025-06-10,Business Class Flight,"Rs 136,294.22",Travel
+2025-06-10,BigBasket Groceries,"Rs 2,089.87",Groceries
+2025-06-11,Fine Dining Restaurant,"Rs 13,005.81",Food & Dining
+2025-06-11,Luxury Watch Service,"Rs 67,028.22",Shopping
+2025-06-13,Salary CTC Credit,"Rs 407,984.43",Income
+2025-06-13,Chartered Accountant,"Rs 49,266.44",Miscellaneous
+2025-06-16,Netflix Subscription,Rs 192.85,Subscriptions
+2025-06-16,Hotstar Subscription,Rs 380.23,Subscriptions
+2025-06-16,Amazon Prime,Rs 677.09,Subscriptions
+2025-06-17,Interest Credit,"Rs 22,512.61",Income
+2025-06-17,Interior Design Service,"Rs 100,427.09",Housing
+2025-06-20,5-Star Hotel,"Rs 16,362.61",Travel
+2025-06-20,DMart Purchase,Rs 909.72,Groceries
+2025-06-22,Business Profit Transfer,"Rs 72,045.95",Income
+2025-06-23,5-Star Hotel,"Rs 49,740.29",Travel
+2025-06-23,Interior Design Service,"Rs 196,941.08",Housing
+2025-06-24,Rapido Bike Taxi,Rs 31.49,Transportation
+2025-06-25,Ola Cab,Rs 116.44,Transportation
+2025-06-25,Amazon Prime,Rs 356.67,Subscriptions
+2025-06-26,Amazon Prime,Rs 395.53,Subscriptions
+2025-06-28,Business Class Flight,"Rs 35,861.20",Travel
+2025-06-28,Spotify Premium,Rs 119.00,Subscriptions
+2025-06-29,Rental Income,"Rs 59,800.40",Income
+2025-06-29,Premium Gym,"Rs 4,837.71",Healthcare
+2025-06-29,Golf Club Membership,"Rs 6,656.88",Healthcare
+2025-06-29,Rapido Bike Taxi,Rs 134.63,Transportation
+2025-06-29,Reliance Fresh,Rs 828.79,Groceries
+2025-06-29,Golf Club Membership,"Rs 17,338.18",Healthcare
+2025-07-02,Hotstar Subscription,Rs 807.44,Subscriptions
+2025-07-02,5-Star Hotel,"Rs 17,258.38",Travel
+2025-07-02,Designer Brand Store,"Rs 81,575.18",Shopping
+2025-07-03,Rental Income,"Rs 66,901.12",Income
+2025-07-04,Spotify Premium,Rs 119.00,Subscriptions
+2025-07-05,Parking Premium Mall,Rs 623.66,Transportation
+2025-07-05,Luxury Watch Service,"Rs 51,522.95",Shopping
+2025-07-09,Salary CTC Credit,"Rs 244,678.28",Income
+2025-07-09,Zomato Food Delivery,Rs 364.33,Food & Dining
+2025-07-10,Parking Premium Mall,Rs 514.90,Transportation
+2025-07-10,Salary CTC Credit,"Rs 552,330.89",Income
+2025-07-10,Netflix Subscription,Rs 568.60,Subscriptions
+2025-07-10,Chartered Accountant,"Rs 25,685.32",Miscellaneous
+2025-07-11,Hotstar Subscription,Rs 452.86,Subscriptions
+2025-07-12,Parking Premium Mall,Rs 479.01,Transportation
+2025-07-12,Fine Dining Restaurant,"Rs 9,234.07",Food & Dining
+2025-07-13,BMW Service Center,"Rs 31,580.31",Transportation
+2025-07-13,Annual Bonus,"Rs 111,879.35",Income
+2025-07-14,Fine Dining Restaurant,"Rs 3,654.63",Food & Dining
+2025-07-15,Golf Club Membership,"Rs 24,063.11",Healthcare
+2025-07-17,5-Star Hotel,"Rs 64,846.18",Travel
+2025-07-17,Parking Premium Mall,Rs 451.26,Transportation
+2025-07-17,Reliance Fresh,Rs 262.28,Groceries
+2025-07-17,Myntra Fashion,"Rs 2,368.89",Shopping
+2025-07-18,Luxury Watch Service,"Rs 52,655.87",Shopping
+2025-07-19,More Supermarket,"Rs 1,766.05",Groceries
+2025-07-19,More Supermarket,"Rs 1,755.18",Groceries
+2025-07-20,Flipkart Order,"Rs 4,874.17",Shopping
+2025-07-20,Business Profit Transfer,"Rs 127,586.47",Income
+2025-07-21,Rental Income,"Rs 62,648.22",Income
+2025-07-21,Uber Ride,Rs 380.76,Transportation
+2025-07-22,YouTube Premium,Rs 139.00,Subscriptions
+2025-07-22,Hotstar Subscription,Rs 849.24,Subscriptions
+2025-07-24,BMW Service Center,"Rs 49,268.82",Transportation
+2025-07-24,More Supermarket,"Rs 1,048.96",Groceries
+2025-07-24,Business Profit Transfer,"Rs 150,928.76",Income
+2025-07-25,Hotstar Subscription,Rs 503.37,Subscriptions
+2025-07-25,Luxury Watch Service,"Rs 26,721.51",Shopping
+2025-07-26,Parking Premium Mall,Rs 551.39,Transportation
+2025-07-26,Hotstar Subscription,Rs 650.18,Subscriptions
+2025-07-27,Reliance Fresh,Rs 580.89,Groceries
+2025-07-27,YouTube Premium,Rs 139.00,Subscriptions
+2025-07-28,Meesho Order,Rs 634.91,Shopping
+2025-07-28,Designer Brand Store,"Rs 78,532.26",Shopping
+2025-07-29,BigBasket Groceries,"Rs 2,616.32",Groceries
+2025-07-29,Amazon Purchase,"Rs 4,721.40",Shopping
+2025-07-30,Meesho Order,Rs 679.21,Shopping
+2025-07-30,Investment Advisory Fee,"Rs 14,053.27",Miscellaneous
+2025-07-30,Annual Bonus,"Rs 143,513.43",Income
+2025-08-02,Reliance Fresh,Rs 983.48,Groceries
+2025-08-04,Hotstar Subscription,Rs 507.78,Subscriptions
+2025-08-05,Rental Income,"Rs 32,479.19",Income
+2025-08-06,BigBasket Groceries,"Rs 1,203.52",Groceries
+2025-08-07,BigBasket Groceries,"Rs 2,766.95",Groceries
+2025-08-07,Salary CTC Credit,"Rs 483,912.31",Income
+2025-08-07,Fine Dining Restaurant,"Rs 12,260.29",Food & Dining
+2025-08-10,Premium Gym,"Rs 3,222.26",Healthcare
+2025-08-10,Parking Premium Mall,Rs 608.19,Transportation
+2025-08-11,Business Class Flight,"Rs 133,515.22",Travel
+2025-08-12,Hotstar Subscription,Rs 187.51,Subscriptions
+2025-08-14,Reliance Fresh,Rs 314.66,Groceries
+2025-08-16,Amazon Purchase,"Rs 7,871.25",Shopping
+2025-08-17,Interior Design Service,"Rs 83,905.09",Housing
+2025-08-18,Amazon Purchase,"Rs 4,047.69",Shopping
+2025-08-19,Premium Whisky Shop,"Rs 14,263.20",Food & Dining
+2025-08-19,Rapido Bike Taxi,Rs 141.70,Transportation
+2025-08-21,Netflix Subscription,Rs 172.77,Subscriptions
+2025-08-21,Golf Club Membership,"Rs 27,918.05",Healthcare
+2025-08-22,Zomato Food Delivery,Rs 603.91,Food & Dining
+2025-08-23,Salary CTC Credit,"Rs 338,377.85",Income
+2025-08-24,Fine Dining Restaurant,"Rs 10,339.32",Food & Dining
+2025-08-25,Spotify Premium,Rs 119.00,Subscriptions
+2025-08-25,BMW Service Center,"Rs 15,489.61",Transportation
+2025-08-25,Chartered Accountant,"Rs 18,969.51",Miscellaneous
+2025-08-25,Zomato Food Delivery,Rs 273.87,Food & Dining
+2025-08-27,Designer Brand Store,"Rs 73,337.23",Shopping
+2025-08-28,Amazon Purchase,"Rs 2,328.35",Shopping
+2025-08-29,BigBasket Groceries,"Rs 1,011.80",Groceries
+2025-08-30,Myntra Fashion,"Rs 3,679.70",Shopping
+2025-08-30,Business Profit Transfer,"Rs 226,685.86",Income
+2025-08-30,Premium Gym,"Rs 4,167.48",Healthcare
+2025-09-01,DMart Purchase,Rs 404.52,Groceries
+2025-09-03,Spotify Premium,Rs 119.00,Subscriptions
+2025-09-04,Golf Club Membership,"Rs 25,151.00",Healthcare
+2025-09-04,Luxury Watch Service,"Rs 43,741.68",Shopping
+2025-09-05,Ajio Clothing,Rs 446.02,Shopping
+2025-09-05,Rapido Bike Taxi,Rs 161.81,Transportation
+2025-09-06,More Supermarket,Rs 183.07,Groceries
+2025-09-06,Designer Brand Store,"Rs 7,216.45",Shopping
+2025-09-06,Interest Credit,"Rs 26,485.80",Income
+2025-09-07,Golf Club Membership,"Rs 28,898.96",Healthcare
+2025-09-09,Netflix Subscription,Rs 160.38,Subscriptions
+2025-09-09,More Supermarket,Rs 511.71,Groceries
+2025-09-10,Reliance Fresh,"Rs 1,606.72",Groceries
+2025-09-11,Hotstar Subscription,Rs 232.49,Subscriptions
+2025-09-11,Fine Dining Restaurant,"Rs 11,228.45",Food & Dining
+2025-09-11,Premium Gym,"Rs 2,809.55",Healthcare
+2025-09-13,Zomato Food Delivery,Rs 427.22,Food & Dining
+2025-09-13,Investment Advisory Fee,"Rs 11,628.85",Miscellaneous
+2025-09-14,Fine Dining Restaurant,"Rs 18,732.75",Food & Dining
+2025-09-15,Spotify Premium,Rs 119.00,Subscriptions
+2025-09-15,BigBasket Groceries,Rs 575.09,Groceries
+2025-09-15,YouTube Premium,Rs 139.00,Subscriptions
+2025-09-15,More Supermarket,"Rs 1,657.97",Groceries
+2025-09-17,Stock Options,"Rs 251,680.37",Income
+2025-09-17,More Supermarket,Rs 274.99,Groceries
+2025-09-18,Amazon Purchase,"Rs 6,324.52",Shopping
+2025-09-19,Fine Dining Restaurant,"Rs 13,942.87",Food & Dining
+2025-09-19,More Supermarket,"Rs 1,063.18",Groceries
+2025-09-20,Hotstar Subscription,Rs 762.76,Subscriptions
+2025-09-20,Rental Income,"Rs 36,611.03",Income
+2025-09-21,5-Star Hotel,"Rs 48,675.99",Travel
+2025-09-22,Golf Club Membership,"Rs 29,816.19",Healthcare
+2025-09-22,Uber Ride,Rs 581.39,Transportation
+2025-09-23,BigBasket Groceries,Rs 429.13,Groceries
+2025-09-23,Golf Club Membership,"Rs 16,899.32",Healthcare
+2025-09-24,Spotify Premium,Rs 119.00,Subscriptions
+2025-09-25,Fine Dining Restaurant,"Rs 5,837.25",Food & Dining
+2025-09-25,Luxury Watch Service,"Rs 50,192.95",Shopping
+2025-09-26,Spotify Premium,Rs 119.00,Subscriptions
+2025-09-27,Premium Gym,"Rs 2,896.43",Healthcare
+2025-09-29,Uber Ride,Rs 136.81,Transportation
+2025-09-30,Annual Bonus,"Rs 308,403.85",Income
+2025-09-30,BookMyShow Tickets,"Rs 1,454.03",Entertainment
+2025-10-01,Spotify Premium,Rs 119.00,Subscriptions
+2025-10-02,Uber Ride,Rs 200.93,Transportation
+2025-10-02,BigBasket Groceries,Rs 930.56,Groceries
+2025-10-02,Flipkart Order,"Rs 4,982.20",Shopping
+2025-10-05,Business Profit Transfer,"Rs 144,751.45",Income
+2025-10-10,Fine Dining Restaurant,"Rs 5,492.55",Food & Dining
+2025-10-12,Interest Credit,"Rs 7,812.84",Income
+2025-10-13,Amazon Prime,Rs 421.52,Subscriptions
+2025-10-13,Annual Bonus,"Rs 139,340.91",Income
+2025-10-13,Swiggy Order,Rs 156.66,Food & Dining
+2025-10-14,Luxury Watch Service,"Rs 41,760.70",Shopping
+2025-10-14,Ola Cab,Rs 496.75,Transportation
+2025-10-15,Premium Whisky Shop,"Rs 3,382.75",Food & Dining
+2025-10-15,Ajio Clothing,"Rs 2,087.20",Shopping
+2025-10-15,Parking Premium Mall,Rs 635.21,Transportation
+2025-10-15,Reliance Fresh,"Rs 1,061.47",Groceries
+2025-10-16,Premium Gym,"Rs 3,401.77",Healthcare
+2025-10-16,Golf Club Membership,"Rs 23,281.57",Healthcare
+2025-10-17,Meesho Order,Rs 258.09,Shopping
+2025-10-18,Uber Ride,Rs 434.40,Transportation
+2025-10-19,5-Star Hotel,"Rs 41,436.21",Travel
+2025-10-19,Flipkart Order,Rs 792.58,Shopping
+2025-10-20,Swiggy Order,Rs 702.99,Food & Dining
+2025-10-21,Dividend Credit,"Rs 67,577.98",Income
+2025-10-21,Designer Brand Store,"Rs 67,799.80",Shopping
+2025-10-22,Uber Ride,Rs 473.33,Transportation
+2025-10-22,Meesho Order,Rs 646.80,Shopping
+2025-10-22,Meesho Order,"Rs 1,791.48",Shopping
+2025-10-24,Netflix Subscription,Rs 193.07,Subscriptions
+2025-10-25,Spotify Premium,Rs 119.00,Subscriptions
+2025-10-27,Chartered Accountant,"Rs 26,827.96",Miscellaneous
+2025-10-28,YouTube Premium,Rs 139.00,Subscriptions
+2025-10-28,Rapido Bike Taxi,Rs 147.43,Transportation
+2025-10-29,BMW Service Center,"Rs 40,053.98",Transportation
+2025-10-30,Interest Credit,"Rs 11,829.77",Income
+2025-10-30,Meesho Order,Rs 379.86,Shopping
+2025-10-30,YouTube Premium,Rs 139.00,Subscriptions
+2025-10-30,Zomato Food Delivery,Rs 743.85,Food & Dining
+2025-10-31,Amazon Purchase,"Rs 4,991.30",Shopping
+2025-10-31,Interest Credit,"Rs 9,908.37",Income
+2025-10-31,Interior Design Service,"Rs 53,485.05",Housing
+2025-10-31,More Supermarket,"Rs 1,017.05",Groceries
+2025-10-31,Hotstar Subscription,Rs 278.37,Subscriptions
+2025-11-01,Hotstar Subscription,Rs 500.82,Subscriptions
+2025-11-01,BookMyShow Tickets,"Rs 1,267.24",Entertainment
+2025-11-01,Swiggy Order,Rs 388.40,Food & Dining
+2025-11-01,Fine Dining Restaurant,"Rs 9,523.58",Food & Dining
+2025-11-02,BookMyShow Tickets,Rs 738.62,Entertainment
+2025-11-02,Chartered Accountant,"Rs 12,796.29",Miscellaneous
+2025-11-02,Zomato Food Delivery,Rs 375.66,Food & Dining
+2025-11-02,BookMyShow Tickets,"Rs 1,475.25",Entertainment
+2025-11-03,Designer Brand Store,"Rs 34,657.57",Shopping
+2025-11-03,Myntra Fashion,"Rs 2,731.68",Shopping
+2025-11-04,Ola Cab,Rs 132.60,Transportation
+2025-11-04,Amazon Purchase,"Rs 5,699.61",Shopping
+2025-11-04,Interior Design Service,"Rs 180,970.13",Housing
+2025-11-04,Flipkart Order,Rs 868.39,Shopping
+2025-11-05,Fine Dining Restaurant,"Rs 11,197.83",Food & Dining
+2025-11-06,Designer Brand Store,"Rs 70,263.44",Shopping
+2025-11-08,DMart Purchase,"Rs 2,449.75",Groceries
+2025-11-08,YouTube Premium,Rs 139.00,Subscriptions
+2025-11-11,Security System,"Rs 21,661.49",Housing
+2025-11-12,Flipkart Order,"Rs 4,429.53",Shopping
+2025-11-12,Amazon Prime,Rs 762.92,Subscriptions
+2025-11-14,Interest Credit,"Rs 22,981.05",Income
+2025-11-14,Interior Design Service,"Rs 76,137.32",Housing
+2025-11-15,YouTube Premium,Rs 139.00,Subscriptions
+2025-11-16,Rental Income,"Rs 20,900.54",Income
+2025-11-16,Uber Ride,Rs 244.55,Transportation
+2025-11-16,Investment Advisory Fee,"Rs 13,967.09",Miscellaneous
+2025-11-16,Amazon Purchase,"Rs 4,105.65",Shopping
+2025-11-16,BMW Service Center,"Rs 43,933.17",Transportation
+2025-11-16,Uber Ride,Rs 82.14,Transportation
+2025-11-17,Dividend Credit,"Rs 26,013.14",Income
+2025-11-21,Annual Bonus,"Rs 487,536.37",Income
+2025-11-22,Security System,"Rs 16,807.33",Housing
+2025-11-23,Luxury Watch Service,"Rs 12,230.33",Shopping
+2025-11-23,BigBasket Groceries,"Rs 1,573.91",Groceries
+2025-11-24,Uber Ride,Rs 312.93,Transportation
+2025-11-25,DMart Purchase,"Rs 2,196.53",Groceries
+2025-11-25,Amazon Purchase,"Rs 5,015.43",Shopping
+2025-11-26,Ola Cab,Rs 334.68,Transportation
+2025-11-26,Ajio Clothing,"Rs 1,692.54",Shopping
+2025-11-27,BookMyShow Tickets,Rs 611.93,Entertainment
+2025-11-28,Netflix Subscription,Rs 195.03,Subscriptions
+2025-11-29,Ajio Clothing,Rs 930.70,Shopping
+2025-12-01,DMart Purchase,"Rs 2,712.76",Groceries
+2025-12-01,Interest Credit,"Rs 26,746.72",Income
+2025-12-01,Rapido Bike Taxi,Rs 108.55,Transportation
+2025-12-01,Ola Cab,Rs 105.66,Transportation
+2025-12-02,BMW Service Center,"Rs 36,088.38",Transportation
+2025-12-03,Amazon Prime,Rs 657.37,Subscriptions
+2025-12-04,Designer Brand Store,"Rs 97,799.15",Shopping
+2025-12-05,Rapido Bike Taxi,Rs 101.01,Transportation
+2025-12-06,Dividend Credit,"Rs 71,743.94",Income
+2025-12-07,Annual Bonus,"Rs 420,529.55",Income
+2025-12-09,Meesho Order,"Rs 1,919.83",Shopping
+2025-12-09,Ola Cab,Rs 249.78,Transportation
+2025-12-10,Flipkart Order,"Rs 3,117.79",Shopping
+2025-12-11,Netflix Subscription,Rs 395.47,Subscriptions
+2025-12-11,Chartered Accountant,"Rs 11,613.41",Miscellaneous
+2025-12-12,Security System,"Rs 10,060.62",Housing
+2025-12-13,Amazon Prime,Rs 706.63,Subscriptions
+2025-12-16,Myntra Fashion,"Rs 3,602.25",Shopping
+2025-12-17,Swiggy Order,Rs 673.37,Food & Dining
+2025-12-17,Security System,"Rs 28,175.52",Housing
+2025-12-18,Interest Credit,"Rs 10,445.83",Income
+2025-12-20,Rapido Bike Taxi,Rs 75.16,Transportation
+2025-12-21,Premium Gym,"Rs 4,092.02",Healthcare
+2025-12-21,YouTube Premium,Rs 139.00,Subscriptions
+2025-12-22,5-Star Hotel,"Rs 67,913.42",Travel
+2025-12-22,Premium Whisky Shop,"Rs 3,876.36",Food & Dining
+2025-12-23,Zomato Food Delivery,Rs 169.71,Food & Dining
+2025-12-24,Uber Ride,Rs 569.25,Transportation
+2025-12-24,Swiggy Order,Rs 517.77,Food & Dining
+2025-12-24,Luxury Watch Service,"Rs 40,177.71",Shopping
+2025-12-24,Investment Advisory Fee,"Rs 18,057.05",Miscellaneous
+2025-12-24,Zomato Food Delivery,Rs 258.06,Food & Dining
+2025-12-25,Netflix Subscription,Rs 334.54,Subscriptions
+2025-12-27,Premium Gym,"Rs 2,906.77",Healthcare
+2025-12-28,Premium Gym,"Rs 3,031.99",Healthcare
+2025-12-29,Premium Whisky Shop,"Rs 8,001.96",Food & Dining
+2025-12-29,Rapido Bike Taxi,Rs 191.94,Transportation
+2025-12-30,Spotify Premium,Rs 119.00,Subscriptions
+2025-12-30,Amazon Purchase,"Rs 2,166.55",Shopping

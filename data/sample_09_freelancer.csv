@@ -1,0 +1,2301 @@
+date,description,amount,transaction_type,category
+2022-01-01,Hostinger Hosting,"₹4,188.78",debit,Utilities
+2022-01-02,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-01-02,Project Milestone,"₹20,172.66",credit,Income
+2022-01-02,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-01-02,Spotify Premium,₹119.00,debit,Subscriptions
+2022-01-04,PVR Cinemas,₹273.97,debit,Entertainment
+2022-01-07,Uber Ride,₹85.36,debit,Transportation
+2022-01-08,Namecheap Domain,"₹1,645.97",debit,Utilities
+2022-01-08,Amazon Prime,₹805.37,debit,Subscriptions
+2022-01-08,Equipment Purchase,"₹44,786.58",debit,Shopping
+2022-01-08,Reliance Fresh,₹854.47,debit,Groceries
+2022-01-09,BigBasket Groceries,₹733.67,debit,Groceries
+2022-01-09,YouTube Premium,₹139.00,debit,Subscriptions
+2022-01-10,Gaming Recharge,"₹1,021.40",debit,Entertainment
+2022-01-10,Zomato Food Delivery,₹152.04,debit,Food & Dining
+2022-01-10,Refund Credit,₹704.06,credit,Income
+2022-01-11,Client Payment UPI,"₹84,243.90",credit,Income
+2022-01-11,1mg Medicine Order,"₹1,149.05",debit,Healthcare
+2022-01-11,Equipment Purchase,"₹30,186.02",debit,Shopping
+2022-01-12,Equipment Purchase,"₹25,277.24",debit,Shopping
+2022-01-13,Client Payment UPI,"₹75,518.54",credit,Income
+2022-01-14,Invoice Software,"₹1,650.19",debit,Subscriptions
+2022-01-14,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-01-16,Chartered Accountant Fee,"₹4,243.45",debit,Miscellaneous
+2022-01-16,More Supermarket,"₹1,290.00",debit,Groceries
+2022-01-16,Hotstar Subscription,₹244.71,debit,Subscriptions
+2022-01-18,DMart Purchase,"₹1,701.36",debit,Groceries
+2022-01-19,Amazon Prime,₹375.79,debit,Subscriptions
+2022-01-19,YouTube Premium,₹139.00,debit,Subscriptions
+2022-01-20,Course Sale Revenue,"₹24,386.78",credit,Income
+2022-01-20,BookMyShow Tickets,"₹1,379.46",debit,Entertainment
+2022-01-21,YouTube Premium,₹139.00,debit,Subscriptions
+2022-01-21,Gym Membership,₹710.25,debit,Healthcare
+2022-01-22,Client Meeting Cab,₹858.48,debit,Transportation
+2022-01-22,Ajio Clothing,"₹3,113.94",debit,Shopping
+2022-01-23,Course Sale Revenue,"₹29,762.40",credit,Income
+2022-01-23,Invoice Software,"₹1,564.83",debit,Subscriptions
+2022-01-24,Amazon Purchase,"₹5,845.78",debit,Shopping
+2022-01-24,Client Meeting Cab,₹833.80,debit,Transportation
+2022-01-24,More Supermarket,"₹1,396.69",debit,Groceries
+2022-01-24,Royalty Credit,"₹13,136.83",credit,Income
+2022-01-24,Invoice Software,₹660.42,debit,Subscriptions
+2022-01-27,Gym Membership,"₹1,148.13",debit,Healthcare
+2022-01-28,Retainer Fee Credit,"₹27,466.37",credit,Income
+2022-01-28,Amazon Purchase,"₹6,445.35",debit,Shopping
+2022-01-30,Myntra Fashion,"₹2,624.30",debit,Shopping
+2022-01-31,Namecheap Domain,"₹1,724.41",debit,Utilities
+2022-01-31,Amazon Prime,₹779.14,debit,Subscriptions
+2022-02-02,Gym Membership,₹601.53,debit,Healthcare
+2022-02-02,Gym Membership,"₹1,369.28",debit,Healthcare
+2022-02-02,Swiggy Order,₹312.47,debit,Food & Dining
+2022-02-03,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-02-03,Apollo Pharmacy,₹683.99,debit,Healthcare
+2022-02-04,Client Payment UPI,"₹80,286.87",credit,Income
+2022-02-05,Equipment Purchase,"₹15,381.43",debit,Shopping
+2022-02-07,Project Milestone,"₹84,667.25",credit,Income
+2022-02-08,DMart Purchase,₹341.41,debit,Groceries
+2022-02-08,Ajio Clothing,"₹2,851.87",debit,Shopping
+2022-02-10,Invoice Software,"₹1,127.50",debit,Subscriptions
+2022-02-11,DMart Purchase,"₹1,364.78",debit,Groceries
+2022-02-13,Flipkart Order,"₹1,581.88",debit,Shopping
+2022-02-15,Amazon Prime,₹842.38,debit,Subscriptions
+2022-02-16,Retainer Fee Credit,"₹17,038.20",credit,Income
+2022-02-16,Retainer Fee Credit,"₹40,248.35",credit,Income
+2022-02-17,BookMyShow Tickets,₹401.28,debit,Entertainment
+2022-02-19,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-02-19,YouTube Premium,₹139.00,debit,Subscriptions
+2022-02-20,PVR Cinemas,₹629.57,debit,Entertainment
+2022-02-20,BigBasket Groceries,"₹3,968.35",debit,Groceries
+2022-02-21,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-02-22,1mg Medicine Order,₹653.85,debit,Healthcare
+2022-02-22,Gym Membership,"₹1,073.87",debit,Healthcare
+2022-02-22,Co-working Space,"₹7,875.86",debit,Housing
+2022-02-23,Canva Pro,₹499.00,debit,Subscriptions
+2022-02-23,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-02-24,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-02-24,Royalty Credit,"₹2,108.59",credit,Income
+2022-03-01,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-03-01,Project Milestone,"₹87,972.24",credit,Income
+2022-03-01,Notion Subscription,₹500.00,debit,Subscriptions
+2022-03-02,Amazon Purchase,"₹5,888.46",debit,Shopping
+2022-03-03,Gym Membership,"₹1,945.84",debit,Healthcare
+2022-03-03,Ajio Clothing,"₹2,960.25",debit,Shopping
+2022-03-04,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-03-05,More Supermarket,₹319.91,debit,Groceries
+2022-03-05,Course Sale Revenue,"₹6,034.60",credit,Income
+2022-03-05,Amazon Prime,₹370.18,debit,Subscriptions
+2022-03-07,1mg Medicine Order,"₹1,100.68",debit,Healthcare
+2022-03-08,Namecheap Domain,₹946.50,debit,Utilities
+2022-03-08,Ajio Clothing,₹869.43,debit,Shopping
+2022-03-08,Refund Credit,"₹3,175.84",credit,Income
+2022-03-09,Royalty Credit,"₹13,012.46",credit,Income
+2022-03-10,Apollo Pharmacy,"₹1,170.44",debit,Healthcare
+2022-03-11,Amazon Prime,₹189.31,debit,Subscriptions
+2022-03-11,Netflix Subscription,₹442.26,debit,Subscriptions
+2022-03-12,Invoice Software,₹662.05,debit,Subscriptions
+2022-03-13,Namecheap Domain,"₹1,635.79",debit,Utilities
+2022-03-15,Spotify Premium,₹119.00,debit,Subscriptions
+2022-03-15,Hotstar Subscription,₹320.57,debit,Subscriptions
+2022-03-18,Cashback Credit,₹325.16,credit,Income
+2022-03-18,Notion Subscription,₹500.00,debit,Subscriptions
+2022-03-18,Hotstar Subscription,₹740.34,debit,Subscriptions
+2022-03-18,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-03-19,Swiggy Order,₹706.21,debit,Food & Dining
+2022-03-19,Ola Cab,₹104.29,debit,Transportation
+2022-03-20,Amazon Prime,₹212.94,debit,Subscriptions
+2022-03-20,Equipment Purchase,"₹40,699.30",debit,Shopping
+2022-03-20,Retainer Fee Credit,"₹15,200.89",credit,Income
+2022-03-20,Hostinger Hosting,"₹1,500.61",debit,Utilities
+2022-03-20,Rapido Bike Taxi,₹85.90,debit,Transportation
+2022-03-21,Client Payment UPI,"₹27,236.17",credit,Income
+2022-03-22,Hostinger Hosting,"₹3,706.17",debit,Utilities
+2022-03-22,Cashback Credit,₹845.05,credit,Income
+2022-03-22,Client Meeting Cab,₹341.28,debit,Transportation
+2022-03-22,Client Meeting Cab,₹952.45,debit,Transportation
+2022-03-23,Equipment Purchase,"₹45,865.25",debit,Shopping
+2022-03-24,Amazon Prime,₹954.05,debit,Subscriptions
+2022-03-24,1mg Medicine Order,₹376.92,debit,Healthcare
+2022-03-25,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-03-25,1mg Medicine Order,₹466.54,debit,Healthcare
+2022-03-25,Gaming Recharge,"₹1,083.38",debit,Entertainment
+2022-03-25,Ola Cab,₹166.20,debit,Transportation
+2022-03-25,Retainer Fee Credit,"₹16,190.75",credit,Income
+2022-03-26,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-03-27,Meesho Order,₹169.16,debit,Shopping
+2022-03-27,Invoice Software,₹533.48,debit,Subscriptions
+2022-03-28,Chartered Accountant Fee,"₹10,602.99",debit,Miscellaneous
+2022-03-29,BookMyShow Tickets,₹499.94,debit,Entertainment
+2022-03-30,Equipment Purchase,"₹7,651.80",debit,Shopping
+2022-03-30,BookMyShow Tickets,"₹1,423.00",debit,Entertainment
+2022-03-31,Equipment Purchase,"₹27,318.64",debit,Shopping
+2022-04-02,Uber Ride,₹237.10,debit,Transportation
+2022-04-02,Course Sale Revenue,"₹21,994.37",credit,Income
+2022-04-03,Reliance Fresh,"₹1,516.37",debit,Groceries
+2022-04-04,Apollo Pharmacy,"₹1,964.08",debit,Healthcare
+2022-04-05,Spotify Premium,₹119.00,debit,Subscriptions
+2022-04-06,Ajio Clothing,"₹1,792.11",debit,Shopping
+2022-04-06,Course Sale Revenue,"₹20,125.98",credit,Income
+2022-04-08,Co-working Space,"₹7,796.21",debit,Housing
+2022-04-08,Gaming Recharge,₹785.65,debit,Entertainment
+2022-04-09,Zomato Food Delivery,₹154.49,debit,Food & Dining
+2022-04-09,Netflix Subscription,₹197.02,debit,Subscriptions
+2022-04-09,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-04-09,Retainer Fee Credit,"₹21,748.81",credit,Income
+2022-04-09,Uber Ride,₹399.84,debit,Transportation
+2022-04-10,Namecheap Domain,"₹1,787.29",debit,Utilities
+2022-04-10,Client Meeting Cab,₹411.01,debit,Transportation
+2022-04-11,Netflix Subscription,₹596.69,debit,Subscriptions
+2022-04-12,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-04-13,Namecheap Domain,"₹1,636.67",debit,Utilities
+2022-04-13,Equipment Purchase,"₹5,964.43",debit,Shopping
+2022-04-13,Canva Pro,₹499.00,debit,Subscriptions
+2022-04-15,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-04-16,Ajio Clothing,₹867.63,debit,Shopping
+2022-04-16,Hostinger Hosting,"₹2,479.00",debit,Utilities
+2022-04-16,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-04-17,Hotstar Subscription,₹589.60,debit,Subscriptions
+2022-04-18,Invoice Software,₹622.40,debit,Subscriptions
+2022-04-19,Rapido Bike Taxi,₹33.84,debit,Transportation
+2022-04-21,1mg Medicine Order,₹297.52,debit,Healthcare
+2022-04-22,Namecheap Domain,"₹1,232.73",debit,Utilities
+2022-04-22,Apollo Pharmacy,"₹1,555.98",debit,Healthcare
+2022-04-22,Ajio Clothing,"₹1,291.15",debit,Shopping
+2022-04-24,PVR Cinemas,₹729.58,debit,Entertainment
+2022-04-25,Amazon Prime,₹706.46,debit,Subscriptions
+2022-04-26,Uber Ride,₹500.83,debit,Transportation
+2022-04-27,Amazon Purchase,"₹7,386.63",debit,Shopping
+2022-04-27,Client Payment UPI,"₹36,740.99",credit,Income
+2022-04-27,Chartered Accountant Fee,"₹3,455.11",debit,Miscellaneous
+2022-04-28,Gaming Recharge,₹218.15,debit,Entertainment
+2022-04-28,Project Milestone,"₹60,069.56",credit,Income
+2022-04-29,Netflix Subscription,₹428.18,debit,Subscriptions
+2022-05-02,Royalty Credit,"₹4,744.82",credit,Income
+2022-05-03,Amazon Purchase,"₹6,587.41",debit,Shopping
+2022-05-04,Notion Subscription,₹500.00,debit,Subscriptions
+2022-05-06,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-05-07,Zomato Food Delivery,₹463.08,debit,Food & Dining
+2022-05-07,More Supermarket,"₹1,002.60",debit,Groceries
+2022-05-07,Ola Cab,₹232.67,debit,Transportation
+2022-05-07,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-05-08,Cashback Credit,₹349.89,credit,Income
+2022-05-09,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-05-09,Royalty Credit,"₹5,600.95",credit,Income
+2022-05-09,BigBasket Groceries,"₹3,876.89",debit,Groceries
+2022-05-10,BigBasket Groceries,"₹3,538.26",debit,Groceries
+2022-05-11,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-05-11,Hotstar Subscription,₹215.96,debit,Subscriptions
+2022-05-12,BookMyShow Tickets,₹786.71,debit,Entertainment
+2022-05-13,Co-working Space,"₹8,904.01",debit,Housing
+2022-05-14,Gym Membership,"₹1,549.33",debit,Healthcare
+2022-05-15,Rapido Bike Taxi,₹49.44,debit,Transportation
+2022-05-16,Course Sale Revenue,"₹9,721.88",credit,Income
+2022-05-17,Cashback Credit,₹449.16,credit,Income
+2022-05-18,Refund Credit,"₹3,153.48",credit,Income
+2022-05-19,YouTube Premium,₹139.00,debit,Subscriptions
+2022-05-21,Myntra Fashion,"₹2,723.31",debit,Shopping
+2022-05-21,Co-working Space,"₹3,775.85",debit,Housing
+2022-05-22,Invoice Software,"₹1,487.48",debit,Subscriptions
+2022-05-22,Netflix Subscription,₹218.70,debit,Subscriptions
+2022-05-25,Chartered Accountant Fee,"₹9,923.58",debit,Miscellaneous
+2022-05-25,1mg Medicine Order,₹215.33,debit,Healthcare
+2022-05-25,Meesho Order,₹826.87,debit,Shopping
+2022-05-27,BigBasket Groceries,"₹1,703.70",debit,Groceries
+2022-05-27,Uber Ride,₹148.30,debit,Transportation
+2022-05-27,Canva Pro,₹499.00,debit,Subscriptions
+2022-05-29,Rapido Bike Taxi,₹72.14,debit,Transportation
+2022-05-29,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-05-29,Hostinger Hosting,"₹3,755.98",debit,Utilities
+2022-06-01,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-06-02,Client Meeting Cab,₹231.82,debit,Transportation
+2022-06-03,Netflix Subscription,₹469.52,debit,Subscriptions
+2022-06-04,Cashback Credit,₹493.20,credit,Income
+2022-06-04,Canva Pro,₹499.00,debit,Subscriptions
+2022-06-04,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-06-06,BookMyShow Tickets,₹757.64,debit,Entertainment
+2022-06-07,Reliance Fresh,₹946.79,debit,Groceries
+2022-06-07,Course Sale Revenue,"₹4,541.24",credit,Income
+2022-06-08,1mg Medicine Order,₹819.41,debit,Healthcare
+2022-06-09,Hostinger Hosting,"₹3,025.29",debit,Utilities
+2022-06-10,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-06-11,Swiggy Order,₹811.98,debit,Food & Dining
+2022-06-11,Spotify Premium,₹119.00,debit,Subscriptions
+2022-06-13,Retainer Fee Credit,"₹34,180.56",credit,Income
+2022-06-13,Ajio Clothing,₹870.03,debit,Shopping
+2022-06-15,Client Payment UPI,"₹114,452.42",credit,Income
+2022-06-15,Chartered Accountant Fee,"₹9,797.27",debit,Miscellaneous
+2022-06-16,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-06-16,1mg Medicine Order,"₹1,049.60",debit,Healthcare
+2022-06-16,Swiggy Order,₹832.24,debit,Food & Dining
+2022-06-17,Gym Membership,₹993.37,debit,Healthcare
+2022-06-18,Myntra Fashion,"₹2,906.29",debit,Shopping
+2022-06-19,Hostinger Hosting,"₹2,385.43",debit,Utilities
+2022-06-20,1mg Medicine Order,₹266.68,debit,Healthcare
+2022-06-21,BookMyShow Tickets,"₹1,249.25",debit,Entertainment
+2022-06-22,Hotstar Subscription,₹590.78,debit,Subscriptions
+2022-06-22,Notion Subscription,₹500.00,debit,Subscriptions
+2022-06-22,BigBasket Groceries,"₹1,934.91",debit,Groceries
+2022-06-22,Invoice Software,₹738.59,debit,Subscriptions
+2022-06-23,Amazon Purchase,"₹1,052.19",debit,Shopping
+2022-06-24,Zomato Food Delivery,₹832.24,debit,Food & Dining
+2022-06-24,DMart Purchase,"₹1,606.32",debit,Groceries
+2022-06-24,Notion Subscription,₹500.00,debit,Subscriptions
+2022-06-24,Equipment Purchase,"₹10,159.32",debit,Shopping
+2022-06-25,Chartered Accountant Fee,"₹6,681.35",debit,Miscellaneous
+2022-06-25,Royalty Credit,"₹13,547.49",credit,Income
+2022-06-25,Amazon Purchase,"₹2,671.63",debit,Shopping
+2022-06-25,Retainer Fee Credit,"₹30,321.78",credit,Income
+2022-06-25,DMart Purchase,₹613.89,debit,Groceries
+2022-06-26,Hotstar Subscription,₹776.52,debit,Subscriptions
+2022-06-27,Amazon Prime,₹992.55,debit,Subscriptions
+2022-06-27,Reliance Fresh,"₹1,235.84",debit,Groceries
+2022-06-28,PVR Cinemas,₹784.35,debit,Entertainment
+2022-06-28,Uber Ride,₹417.47,debit,Transportation
+2022-06-29,Amazon Purchase,"₹3,609.29",debit,Shopping
+2022-06-29,Swiggy Order,₹126.86,debit,Food & Dining
+2022-06-30,Rapido Bike Taxi,₹152.37,debit,Transportation
+2022-06-30,Gaming Recharge,₹558.68,debit,Entertainment
+2022-07-01,Hostinger Hosting,"₹1,898.44",debit,Utilities
+2022-07-02,Equipment Purchase,"₹38,270.45",debit,Shopping
+2022-07-02,Hotstar Subscription,₹439.04,debit,Subscriptions
+2022-07-02,Client Payment UPI,"₹72,664.34",credit,Income
+2022-07-05,Spotify Premium,₹119.00,debit,Subscriptions
+2022-07-05,Reliance Fresh,₹440.32,debit,Groceries
+2022-07-08,1mg Medicine Order,₹652.94,debit,Healthcare
+2022-07-09,Hotstar Subscription,₹242.97,debit,Subscriptions
+2022-07-10,Gym Membership,₹598.52,debit,Healthcare
+2022-07-12,Equipment Purchase,"₹46,411.17",debit,Shopping
+2022-07-12,Netflix Subscription,₹584.80,debit,Subscriptions
+2022-07-13,Swiggy Order,₹394.49,debit,Food & Dining
+2022-07-13,Gym Membership,"₹1,003.99",debit,Healthcare
+2022-07-13,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-07-13,Apollo Pharmacy,"₹1,290.53",debit,Healthcare
+2022-07-14,Co-working Space,"₹6,499.80",debit,Housing
+2022-07-14,Ola Cab,₹97.11,debit,Transportation
+2022-07-16,BigBasket Groceries,"₹1,495.17",debit,Groceries
+2022-07-18,Co-working Space,"₹7,709.70",debit,Housing
+2022-07-18,Course Sale Revenue,"₹4,984.45",credit,Income
+2022-07-18,Co-working Space,"₹7,315.12",debit,Housing
+2022-07-19,Netflix Subscription,₹487.57,debit,Subscriptions
+2022-07-19,Apollo Pharmacy,₹857.14,debit,Healthcare
+2022-07-19,Spotify Premium,₹119.00,debit,Subscriptions
+2022-07-19,Hostinger Hosting,"₹4,587.53",debit,Utilities
+2022-07-20,Netflix Subscription,₹502.38,debit,Subscriptions
+2022-07-21,Reliance Fresh,"₹1,465.01",debit,Groceries
+2022-07-22,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-07-22,Hotstar Subscription,₹783.85,debit,Subscriptions
+2022-07-22,Uber Ride,₹319.10,debit,Transportation
+2022-07-23,PVR Cinemas,₹653.01,debit,Entertainment
+2022-07-24,Client Meeting Cab,₹236.01,debit,Transportation
+2022-07-25,Gym Membership,"₹1,365.24",debit,Healthcare
+2022-07-26,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-07-26,Flipkart Order,"₹4,239.25",debit,Shopping
+2022-07-27,Ajio Clothing,₹872.56,debit,Shopping
+2022-07-27,More Supermarket,"₹1,596.96",debit,Groceries
+2022-07-28,BookMyShow Tickets,"₹1,069.94",debit,Entertainment
+2022-07-28,Uber Ride,₹179.00,debit,Transportation
+2022-07-28,1mg Medicine Order,"₹1,244.33",debit,Healthcare
+2022-07-29,Client Payment UPI,"₹57,855.49",credit,Income
+2022-07-29,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-07-29,Rapido Bike Taxi,₹101.66,debit,Transportation
+2022-07-30,Meesho Order,"₹1,650.31",debit,Shopping
+2022-07-31,Gaming Recharge,"₹1,396.50",debit,Entertainment
+2022-08-01,More Supermarket,"₹1,140.41",debit,Groceries
+2022-08-01,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-08-02,Project Milestone,"₹68,075.86",credit,Income
+2022-08-02,Flipkart Order,"₹5,248.46",debit,Shopping
+2022-08-03,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-08-03,BigBasket Groceries,"₹2,114.25",debit,Groceries
+2022-08-03,Meesho Order,₹356.38,debit,Shopping
+2022-08-03,Co-working Space,"₹6,270.17",debit,Housing
+2022-08-03,BigBasket Groceries,"₹3,756.30",debit,Groceries
+2022-08-04,Retainer Fee Credit,"₹22,066.80",credit,Income
+2022-08-04,Rapido Bike Taxi,₹127.46,debit,Transportation
+2022-08-05,Client Meeting Cab,₹796.00,debit,Transportation
+2022-08-05,PVR Cinemas,₹487.71,debit,Entertainment
+2022-08-05,Hostinger Hosting,"₹4,490.44",debit,Utilities
+2022-08-06,Uber Ride,₹417.51,debit,Transportation
+2022-08-06,PVR Cinemas,₹354.19,debit,Entertainment
+2022-08-07,Gaming Recharge,"₹1,807.82",debit,Entertainment
+2022-08-07,Chartered Accountant Fee,"₹3,479.55",debit,Miscellaneous
+2022-08-07,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-08-08,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-08-09,PVR Cinemas,₹578.16,debit,Entertainment
+2022-08-09,Netflix Subscription,₹448.48,debit,Subscriptions
+2022-08-10,Client Payment UPI,"₹41,648.62",credit,Income
+2022-08-11,Ajio Clothing,"₹3,240.36",debit,Shopping
+2022-08-12,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-08-12,Course Sale Revenue,"₹29,880.73",credit,Income
+2022-08-13,Meesho Order,₹843.63,debit,Shopping
+2022-08-16,Chartered Accountant Fee,"₹3,064.23",debit,Miscellaneous
+2022-08-16,Uber Ride,₹491.67,debit,Transportation
+2022-08-17,Retainer Fee Credit,"₹14,512.80",credit,Income
+2022-08-18,Gym Membership,₹695.39,debit,Healthcare
+2022-08-19,Gym Membership,"₹2,017.93",debit,Healthcare
+2022-08-20,Canva Pro,₹499.00,debit,Subscriptions
+2022-08-21,Hotstar Subscription,₹815.68,debit,Subscriptions
+2022-08-22,Invoice Software,"₹1,320.30",debit,Subscriptions
+2022-08-22,Royalty Credit,"₹11,671.46",credit,Income
+2022-08-23,Invoice Software,"₹1,144.35",debit,Subscriptions
+2022-08-24,BigBasket Groceries,"₹3,967.22",debit,Groceries
+2022-08-26,YouTube Premium,₹139.00,debit,Subscriptions
+2022-08-26,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-08-27,Zomato Food Delivery,₹357.16,debit,Food & Dining
+2022-08-27,Myntra Fashion,"₹3,783.46",debit,Shopping
+2022-08-27,Reliance Fresh,₹196.17,debit,Groceries
+2022-08-28,Invoice Software,₹734.00,debit,Subscriptions
+2022-08-29,Swiggy Order,₹752.69,debit,Food & Dining
+2022-08-30,Swiggy Order,₹180.52,debit,Food & Dining
+2022-08-30,Flipkart Order,"₹3,920.95",debit,Shopping
+2022-08-30,Course Sale Revenue,"₹23,078.67",credit,Income
+2022-08-30,Spotify Premium,₹119.00,debit,Subscriptions
+2022-08-30,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-08-30,Hostinger Hosting,"₹4,000.18",debit,Utilities
+2022-08-31,Gym Membership,"₹2,059.03",debit,Healthcare
+2022-09-01,Royalty Credit,"₹9,012.02",credit,Income
+2022-09-02,Project Milestone,"₹70,967.51",credit,Income
+2022-09-03,Equipment Purchase,"₹33,453.93",debit,Shopping
+2022-09-03,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-09-04,Reliance Fresh,₹433.83,debit,Groceries
+2022-09-04,Project Milestone,"₹87,380.85",credit,Income
+2022-09-04,Notion Subscription,₹500.00,debit,Subscriptions
+2022-09-05,Hostinger Hosting,"₹2,566.56",debit,Utilities
+2022-09-05,Amazon Prime,₹498.30,debit,Subscriptions
+2022-09-06,Gym Membership,"₹2,489.18",debit,Healthcare
+2022-09-07,Ajio Clothing,₹948.19,debit,Shopping
+2022-09-07,Course Sale Revenue,"₹2,842.81",credit,Income
+2022-09-07,Amazon Prime,₹504.84,debit,Subscriptions
+2022-09-08,Namecheap Domain,₹823.55,debit,Utilities
+2022-09-09,BookMyShow Tickets,₹984.39,debit,Entertainment
+2022-09-10,YouTube Premium,₹139.00,debit,Subscriptions
+2022-09-10,BookMyShow Tickets,"₹1,428.65",debit,Entertainment
+2022-09-11,Myntra Fashion,"₹2,115.30",debit,Shopping
+2022-09-11,Namecheap Domain,"₹1,023.66",debit,Utilities
+2022-09-11,Amazon Purchase,"₹5,457.16",debit,Shopping
+2022-09-11,Refund Credit,₹591.09,credit,Income
+2022-09-11,Apollo Pharmacy,"₹1,191.49",debit,Healthcare
+2022-09-12,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-09-13,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-09-14,Project Milestone,"₹45,835.33",credit,Income
+2022-09-16,Chartered Accountant Fee,"₹3,880.83",debit,Miscellaneous
+2022-09-16,Namecheap Domain,"₹1,190.04",debit,Utilities
+2022-09-17,Gaming Recharge,₹628.67,debit,Entertainment
+2022-09-17,Swiggy Order,₹839.67,debit,Food & Dining
+2022-09-17,BigBasket Groceries,"₹2,633.97",debit,Groceries
+2022-09-19,Reliance Fresh,₹773.42,debit,Groceries
+2022-09-19,Netflix Subscription,₹544.05,debit,Subscriptions
+2022-09-19,More Supermarket,₹469.25,debit,Groceries
+2022-09-19,Amazon Prime,₹963.45,debit,Subscriptions
+2022-09-19,Canva Pro,₹499.00,debit,Subscriptions
+2022-09-19,Refund Credit,"₹2,973.40",credit,Income
+2022-09-19,Cashback Credit,₹52.22,credit,Income
+2022-09-20,Swiggy Order,₹292.68,debit,Food & Dining
+2022-09-21,Uber Ride,₹242.18,debit,Transportation
+2022-09-21,Amazon Prime,₹609.94,debit,Subscriptions
+2022-09-22,Amazon Purchase,"₹1,021.36",debit,Shopping
+2022-09-22,Namecheap Domain,₹946.89,debit,Utilities
+2022-09-23,Retainer Fee Credit,"₹38,160.34",credit,Income
+2022-09-23,Zomato Food Delivery,₹546.99,debit,Food & Dining
+2022-09-23,Uber Ride,₹398.72,debit,Transportation
+2022-09-23,Myntra Fashion,"₹3,237.10",debit,Shopping
+2022-09-24,Zomato Food Delivery,₹169.09,debit,Food & Dining
+2022-09-25,Namecheap Domain,"₹1,210.39",debit,Utilities
+2022-09-26,Namecheap Domain,"₹1,625.32",debit,Utilities
+2022-09-26,1mg Medicine Order,₹320.34,debit,Healthcare
+2022-09-28,Course Sale Revenue,"₹13,699.27",credit,Income
+2022-09-29,Hostinger Hosting,"₹1,260.95",debit,Utilities
+2022-09-29,Gaming Recharge,₹106.85,debit,Entertainment
+2022-09-30,Royalty Credit,"₹13,062.52",credit,Income
+2022-09-30,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2022-09-30,Amazon Purchase,"₹3,452.91",debit,Shopping
+2022-10-01,Equipment Purchase,"₹9,999.31",debit,Shopping
+2022-10-01,Netflix Subscription,₹500.95,debit,Subscriptions
+2022-10-01,BookMyShow Tickets,"₹1,499.06",debit,Entertainment
+2022-10-02,Uber Ride,₹128.98,debit,Transportation
+2022-10-02,Zomato Food Delivery,₹453.38,debit,Food & Dining
+2022-10-02,Chartered Accountant Fee,"₹7,405.15",debit,Miscellaneous
+2022-10-03,Royalty Credit,"₹16,502.63",credit,Income
+2022-10-03,Notion Subscription,₹500.00,debit,Subscriptions
+2022-10-04,DMart Purchase,₹313.83,debit,Groceries
+2022-10-04,Hostinger Hosting,"₹3,595.57",debit,Utilities
+2022-10-05,Uber Ride,₹392.22,debit,Transportation
+2022-10-05,Royalty Credit,"₹11,808.03",credit,Income
+2022-10-05,Canva Pro,₹499.00,debit,Subscriptions
+2022-10-05,Gym Membership,₹690.27,debit,Healthcare
+2022-10-06,1mg Medicine Order,"₹1,240.19",debit,Healthcare
+2022-10-06,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-10-07,Client Meeting Cab,₹463.54,debit,Transportation
+2022-10-08,Zomato Food Delivery,₹795.24,debit,Food & Dining
+2022-10-08,Amazon Purchase,"₹1,004.52",debit,Shopping
+2022-10-09,Amazon Prime,₹242.16,debit,Subscriptions
+2022-10-10,Apollo Pharmacy,₹999.09,debit,Healthcare
+2022-10-10,Reliance Fresh,"₹1,329.61",debit,Groceries
+2022-10-10,Uber Ride,₹80.43,debit,Transportation
+2022-10-11,DMart Purchase,"₹2,302.06",debit,Groceries
+2022-10-11,Gaming Recharge,₹271.13,debit,Entertainment
+2022-10-12,Cashback Credit,₹362.15,credit,Income
+2022-10-12,Apollo Pharmacy,"₹1,447.18",debit,Healthcare
+2022-10-13,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-10-14,Namecheap Domain,"₹1,271.60",debit,Utilities
+2022-10-14,Equipment Purchase,"₹14,080.50",debit,Shopping
+2022-10-15,DMart Purchase,"₹3,201.01",debit,Groceries
+2022-10-16,Uber Ride,₹355.24,debit,Transportation
+2022-10-17,Gaming Recharge,₹79.89,debit,Entertainment
+2022-10-18,Reliance Fresh,"₹1,068.79",debit,Groceries
+2022-10-18,Hostinger Hosting,"₹4,214.64",debit,Utilities
+2022-10-19,Namecheap Domain,"₹1,072.30",debit,Utilities
+2022-10-19,Netflix Subscription,₹167.35,debit,Subscriptions
+2022-10-20,Client Payment UPI,"₹22,279.76",credit,Income
+2022-10-20,Hotstar Subscription,₹581.71,debit,Subscriptions
+2022-10-22,YouTube Premium,₹139.00,debit,Subscriptions
+2022-10-22,Zomato Food Delivery,₹306.80,debit,Food & Dining
+2022-10-22,Gym Membership,"₹1,708.26",debit,Healthcare
+2022-10-23,Meesho Order,₹693.25,debit,Shopping
+2022-10-23,Swiggy Order,₹783.35,debit,Food & Dining
+2022-10-23,Hostinger Hosting,"₹2,083.12",debit,Utilities
+2022-10-23,Co-working Space,"₹3,429.96",debit,Housing
+2022-10-24,Co-working Space,"₹8,750.38",debit,Housing
+2022-10-24,BookMyShow Tickets,₹715.96,debit,Entertainment
+2022-10-24,Notion Subscription,₹500.00,debit,Subscriptions
+2022-10-25,Apollo Pharmacy,"₹1,217.16",debit,Healthcare
+2022-10-26,Gym Membership,"₹1,300.60",debit,Healthcare
+2022-10-28,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-10-29,1mg Medicine Order,"₹1,252.76",debit,Healthcare
+2022-10-29,Client Meeting Cab,₹234.33,debit,Transportation
+2022-10-30,BookMyShow Tickets,₹640.75,debit,Entertainment
+2022-11-01,Co-working Space,"₹10,195.29",debit,Housing
+2022-11-02,More Supermarket,₹939.23,debit,Groceries
+2022-11-02,Ola Cab,₹204.98,debit,Transportation
+2022-11-06,DMart Purchase,"₹1,133.68",debit,Groceries
+2022-11-06,DMart Purchase,"₹3,015.88",debit,Groceries
+2022-11-07,Course Sale Revenue,"₹20,025.33",credit,Income
+2022-11-07,Client Meeting Cab,₹904.21,debit,Transportation
+2022-11-08,Netflix Subscription,₹410.57,debit,Subscriptions
+2022-11-09,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-11-10,Amazon Prime,₹594.82,debit,Subscriptions
+2022-11-10,DMart Purchase,₹536.93,debit,Groceries
+2022-11-11,Client Meeting Cab,₹588.31,debit,Transportation
+2022-11-12,Uber Ride,₹318.17,debit,Transportation
+2022-11-12,Myntra Fashion,₹765.79,debit,Shopping
+2022-11-13,Amazon Prime,₹984.65,debit,Subscriptions
+2022-11-13,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-11-14,Amazon Prime,₹949.12,debit,Subscriptions
+2022-11-15,Rapido Bike Taxi,₹54.15,debit,Transportation
+2022-11-15,PVR Cinemas,₹375.09,debit,Entertainment
+2022-11-16,Rapido Bike Taxi,₹61.28,debit,Transportation
+2022-11-17,Flipkart Order,₹927.87,debit,Shopping
+2022-11-17,Project Milestone,"₹62,329.91",credit,Income
+2022-11-18,Gaming Recharge,₹963.43,debit,Entertainment
+2022-11-18,More Supermarket,₹414.00,debit,Groceries
+2022-11-19,Refund Credit,"₹3,627.00",credit,Income
+2022-11-19,Invoice Software,₹865.77,debit,Subscriptions
+2022-11-19,Cashback Credit,₹159.84,credit,Income
+2022-11-22,Amazon Prime,₹761.79,debit,Subscriptions
+2022-11-23,Swiggy Order,₹291.97,debit,Food & Dining
+2022-11-24,Namecheap Domain,"₹1,887.15",debit,Utilities
+2022-11-24,Chartered Accountant Fee,"₹3,703.84",debit,Miscellaneous
+2022-11-25,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-11-25,Rapido Bike Taxi,₹42.45,debit,Transportation
+2022-11-26,Zomato Food Delivery,₹256.31,debit,Food & Dining
+2022-11-27,Notion Subscription,₹500.00,debit,Subscriptions
+2022-11-28,More Supermarket,"₹1,266.73",debit,Groceries
+2022-11-28,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2022-11-30,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-12-01,Retainer Fee Credit,"₹44,131.84",credit,Income
+2022-12-02,Course Sale Revenue,"₹29,801.29",credit,Income
+2022-12-02,Reliance Fresh,"₹1,418.32",debit,Groceries
+2022-12-03,Client Payment UPI,"₹88,356.21",credit,Income
+2022-12-04,Amazon Purchase,"₹6,170.01",debit,Shopping
+2022-12-04,Equipment Purchase,"₹8,628.72",debit,Shopping
+2022-12-04,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-12-05,Zomato Food Delivery,₹348.33,debit,Food & Dining
+2022-12-05,Tally Software,"₹9,000.00",debit,Subscriptions
+2022-12-05,Equipment Purchase,"₹10,577.39",debit,Shopping
+2022-12-07,Netflix Subscription,₹359.73,debit,Subscriptions
+2022-12-07,Meesho Order,"₹1,390.58",debit,Shopping
+2022-12-08,Gaming Recharge,₹434.32,debit,Entertainment
+2022-12-09,1mg Medicine Order,₹728.56,debit,Healthcare
+2022-12-10,Rapido Bike Taxi,₹68.38,debit,Transportation
+2022-12-10,DMart Purchase,"₹2,748.52",debit,Groceries
+2022-12-11,Hostinger Hosting,"₹2,919.33",debit,Utilities
+2022-12-11,Project Milestone,"₹69,598.87",credit,Income
+2022-12-11,Apollo Pharmacy,₹349.56,debit,Healthcare
+2022-12-12,Hotstar Subscription,₹692.65,debit,Subscriptions
+2022-12-12,Royalty Credit,"₹4,687.58",credit,Income
+2022-12-12,Uber Ride,₹588.37,debit,Transportation
+2022-12-12,Retainer Fee Credit,"₹31,166.82",credit,Income
+2022-12-13,Equipment Purchase,"₹12,163.12",debit,Shopping
+2022-12-13,Notion Subscription,₹500.00,debit,Subscriptions
+2022-12-14,Meesho Order,₹761.62,debit,Shopping
+2022-12-14,Refund Credit,"₹2,873.91",credit,Income
+2022-12-15,Rapido Bike Taxi,₹108.91,debit,Transportation
+2022-12-16,Flipkart Order,"₹1,977.30",debit,Shopping
+2022-12-18,Meesho Order,₹530.81,debit,Shopping
+2022-12-19,More Supermarket,₹711.80,debit,Groceries
+2022-12-19,Notion Subscription,₹500.00,debit,Subscriptions
+2022-12-19,Amazon Prime,₹691.23,debit,Subscriptions
+2022-12-19,Retainer Fee Credit,"₹15,166.37",credit,Income
+2022-12-19,Chartered Accountant Fee,"₹13,465.39",debit,Miscellaneous
+2022-12-20,Invoice Software,"₹1,836.46",debit,Subscriptions
+2022-12-20,Client Payment UPI,"₹24,135.81",credit,Income
+2022-12-22,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2022-12-22,Course Sale Revenue,"₹14,005.64",credit,Income
+2022-12-23,Refund Credit,"₹1,825.16",credit,Income
+2022-12-23,Cashback Credit,₹83.40,credit,Income
+2022-12-23,DMart Purchase,"₹1,321.47",debit,Groceries
+2022-12-26,Swiggy Order,₹695.75,debit,Food & Dining
+2022-12-29,Myntra Fashion,"₹3,118.11",debit,Shopping
+2022-12-29,Hotstar Subscription,₹515.96,debit,Subscriptions
+2022-12-30,Meesho Order,"₹1,215.10",debit,Shopping
+2022-12-30,Netflix Subscription,₹221.73,debit,Subscriptions
+2022-12-30,Client Payment UPI,"₹57,758.26",credit,Income
+2022-12-31,Reliance Fresh,₹533.47,debit,Groceries
+2023-01-02,Notion Subscription,₹500.00,debit,Subscriptions
+2023-01-03,Notion Subscription,₹500.00,debit,Subscriptions
+2023-01-04,DMart Purchase,"₹3,239.89",debit,Groceries
+2023-01-04,Namecheap Domain,"₹1,602.10",debit,Utilities
+2023-01-04,Invoice Software,₹572.05,debit,Subscriptions
+2023-01-05,Ola Cab,₹421.34,debit,Transportation
+2023-01-07,Namecheap Domain,"₹1,135.06",debit,Utilities
+2023-01-07,Ola Cab,₹401.88,debit,Transportation
+2023-01-08,Canva Pro,₹499.00,debit,Subscriptions
+2023-01-08,Retainer Fee Credit,"₹32,527.22",credit,Income
+2023-01-08,Client Meeting Cab,₹300.37,debit,Transportation
+2023-01-08,Refund Credit,"₹3,976.43",credit,Income
+2023-01-09,Canva Pro,₹499.00,debit,Subscriptions
+2023-01-09,Amazon Purchase,"₹2,153.74",debit,Shopping
+2023-01-11,1mg Medicine Order,₹655.85,debit,Healthcare
+2023-01-11,Course Sale Revenue,"₹27,999.01",credit,Income
+2023-01-12,Ajio Clothing,"₹1,989.38",debit,Shopping
+2023-01-12,Client Payment UPI,"₹37,943.54",credit,Income
+2023-01-13,Chartered Accountant Fee,"₹13,103.45",debit,Miscellaneous
+2023-01-14,Myntra Fashion,"₹3,155.46",debit,Shopping
+2023-01-14,Gym Membership,"₹2,242.58",debit,Healthcare
+2023-01-14,Project Milestone,"₹93,593.66",credit,Income
+2023-01-15,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-01-15,Meesho Order,₹781.98,debit,Shopping
+2023-01-16,Royalty Credit,"₹14,123.67",credit,Income
+2023-01-17,Amazon Prime,₹217.46,debit,Subscriptions
+2023-01-17,PVR Cinemas,₹744.17,debit,Entertainment
+2023-01-18,Invoice Software,"₹1,622.18",debit,Subscriptions
+2023-01-18,Notion Subscription,₹500.00,debit,Subscriptions
+2023-01-19,Myntra Fashion,"₹3,510.50",debit,Shopping
+2023-01-19,Spotify Premium,₹119.00,debit,Subscriptions
+2023-01-19,More Supermarket,₹426.75,debit,Groceries
+2023-01-19,Retainer Fee Credit,"₹30,170.88",credit,Income
+2023-01-22,Royalty Credit,"₹2,540.91",credit,Income
+2023-01-22,Royalty Credit,"₹17,529.91",credit,Income
+2023-01-22,Apollo Pharmacy,"₹1,230.01",debit,Healthcare
+2023-01-23,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-01-23,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-01-23,Hotstar Subscription,₹362.31,debit,Subscriptions
+2023-01-24,BigBasket Groceries,"₹3,772.35",debit,Groceries
+2023-01-25,Hostinger Hosting,"₹3,167.59",debit,Utilities
+2023-01-25,YouTube Premium,₹139.00,debit,Subscriptions
+2023-01-28,Ajio Clothing,"₹3,261.86",debit,Shopping
+2023-01-28,BookMyShow Tickets,₹755.02,debit,Entertainment
+2023-01-28,Rapido Bike Taxi,₹52.32,debit,Transportation
+2023-01-29,Myntra Fashion,"₹2,502.85",debit,Shopping
+2023-01-29,Netflix Subscription,₹408.91,debit,Subscriptions
+2023-01-31,Netflix Subscription,₹163.93,debit,Subscriptions
+2023-01-31,Amazon Prime,₹379.05,debit,Subscriptions
+2023-01-31,Meesho Order,"₹1,284.05",debit,Shopping
+2023-02-01,Gaming Recharge,₹454.52,debit,Entertainment
+2023-02-02,Uber Ride,₹456.05,debit,Transportation
+2023-02-02,Chartered Accountant Fee,"₹3,341.41",debit,Miscellaneous
+2023-02-02,Ajio Clothing,"₹3,197.56",debit,Shopping
+2023-02-03,BookMyShow Tickets,"₹1,091.36",debit,Entertainment
+2023-02-05,Netflix Subscription,₹514.17,debit,Subscriptions
+2023-02-05,Swiggy Order,₹813.46,debit,Food & Dining
+2023-02-06,Amazon Purchase,"₹6,700.56",debit,Shopping
+2023-02-06,Royalty Credit,"₹15,621.35",credit,Income
+2023-02-06,Zomato Food Delivery,₹198.71,debit,Food & Dining
+2023-02-08,Netflix Subscription,₹521.46,debit,Subscriptions
+2023-02-08,Uber Ride,₹253.35,debit,Transportation
+2023-02-09,Refund Credit,"₹4,212.56",credit,Income
+2023-02-09,Client Payment UPI,"₹19,681.20",credit,Income
+2023-02-10,More Supermarket,₹985.84,debit,Groceries
+2023-02-11,Client Payment UPI,"₹130,388.06",credit,Income
+2023-02-12,1mg Medicine Order,₹946.59,debit,Healthcare
+2023-02-13,Retainer Fee Credit,"₹14,221.13",credit,Income
+2023-02-13,Amazon Prime,₹598.15,debit,Subscriptions
+2023-02-13,Invoice Software,₹653.61,debit,Subscriptions
+2023-02-13,Invoice Software,"₹1,785.51",debit,Subscriptions
+2023-02-14,Gaming Recharge,₹438.06,debit,Entertainment
+2023-02-15,Royalty Credit,"₹15,150.37",credit,Income
+2023-02-15,Zomato Food Delivery,₹254.47,debit,Food & Dining
+2023-02-15,Royalty Credit,"₹1,664.79",credit,Income
+2023-02-17,BigBasket Groceries,"₹2,728.21",debit,Groceries
+2023-02-17,Ola Cab,₹235.68,debit,Transportation
+2023-02-17,Course Sale Revenue,"₹2,426.26",credit,Income
+2023-02-17,Gaming Recharge,"₹1,086.52",debit,Entertainment
+2023-02-18,Gaming Recharge,₹806.49,debit,Entertainment
+2023-02-19,Equipment Purchase,"₹10,678.59",debit,Shopping
+2023-02-19,Reliance Fresh,₹429.31,debit,Groceries
+2023-02-20,Flipkart Order,"₹4,138.52",debit,Shopping
+2023-02-21,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-02-21,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-02-23,Notion Subscription,₹500.00,debit,Subscriptions
+2023-02-23,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-02-23,Namecheap Domain,"₹1,838.35",debit,Utilities
+2023-02-24,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-02-24,Cashback Credit,₹926.82,credit,Income
+2023-02-25,Myntra Fashion,"₹3,993.96",debit,Shopping
+2023-02-25,PVR Cinemas,₹777.15,debit,Entertainment
+2023-02-25,Apollo Pharmacy,"₹1,169.94",debit,Healthcare
+2023-02-25,Ola Cab,₹124.07,debit,Transportation
+2023-02-26,1mg Medicine Order,"₹1,210.17",debit,Healthcare
+2023-02-26,Canva Pro,₹499.00,debit,Subscriptions
+2023-02-26,Myntra Fashion,₹753.34,debit,Shopping
+2023-02-26,Hotstar Subscription,₹402.61,debit,Subscriptions
+2023-02-27,Reliance Fresh,₹998.28,debit,Groceries
+2023-02-27,BookMyShow Tickets,"₹1,055.04",debit,Entertainment
+2023-02-28,Retainer Fee Credit,"₹40,990.35",credit,Income
+2023-02-28,More Supermarket,₹351.80,debit,Groceries
+2023-02-28,Course Sale Revenue,"₹15,251.37",credit,Income
+2023-02-28,Swiggy Order,₹553.45,debit,Food & Dining
+2023-03-01,1mg Medicine Order,₹303.60,debit,Healthcare
+2023-03-01,Equipment Purchase,"₹22,810.82",debit,Shopping
+2023-03-02,Ola Cab,₹217.98,debit,Transportation
+2023-03-03,YouTube Premium,₹139.00,debit,Subscriptions
+2023-03-03,Ajio Clothing,"₹3,075.24",debit,Shopping
+2023-03-04,Hotstar Subscription,₹685.94,debit,Subscriptions
+2023-03-04,Gym Membership,"₹2,174.98",debit,Healthcare
+2023-03-04,Netflix Subscription,₹377.93,debit,Subscriptions
+2023-03-05,Gaming Recharge,₹945.71,debit,Entertainment
+2023-03-05,Invoice Software,"₹1,581.08",debit,Subscriptions
+2023-03-05,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-03-06,Refund Credit,"₹4,155.60",credit,Income
+2023-03-07,Royalty Credit,"₹12,999.02",credit,Income
+2023-03-07,Amazon Purchase,"₹6,208.15",debit,Shopping
+2023-03-07,Course Sale Revenue,"₹12,653.28",credit,Income
+2023-03-09,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-03-10,Flipkart Order,"₹4,734.54",debit,Shopping
+2023-03-10,Co-working Space,"₹3,901.41",debit,Housing
+2023-03-10,Canva Pro,₹499.00,debit,Subscriptions
+2023-03-11,Myntra Fashion,"₹2,286.57",debit,Shopping
+2023-03-12,Cashback Credit,₹243.35,credit,Income
+2023-03-12,Course Sale Revenue,"₹17,381.81",credit,Income
+2023-03-12,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-03-13,Client Payment UPI,"₹97,471.83",credit,Income
+2023-03-13,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-03-14,Ajio Clothing,"₹1,699.82",debit,Shopping
+2023-03-14,Hostinger Hosting,"₹4,272.68",debit,Utilities
+2023-03-14,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-03-14,Hotstar Subscription,₹545.10,debit,Subscriptions
+2023-03-14,More Supermarket,"₹1,332.84",debit,Groceries
+2023-03-14,PVR Cinemas,₹251.36,debit,Entertainment
+2023-03-15,Notion Subscription,₹500.00,debit,Subscriptions
+2023-03-16,Rapido Bike Taxi,₹178.87,debit,Transportation
+2023-03-16,Netflix Subscription,₹345.19,debit,Subscriptions
+2023-03-18,PVR Cinemas,₹794.68,debit,Entertainment
+2023-03-19,Invoice Software,₹634.55,debit,Subscriptions
+2023-03-19,Retainer Fee Credit,"₹13,972.76",credit,Income
+2023-03-20,Ajio Clothing,₹693.40,debit,Shopping
+2023-03-20,PVR Cinemas,₹678.08,debit,Entertainment
+2023-03-21,Flipkart Order,"₹1,496.82",debit,Shopping
+2023-03-21,Royalty Credit,"₹5,478.22",credit,Income
+2023-03-21,Project Milestone,"₹46,909.23",credit,Income
+2023-03-22,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-03-22,Amazon Prime,₹224.79,debit,Subscriptions
+2023-03-23,Chartered Accountant Fee,"₹6,758.34",debit,Miscellaneous
+2023-03-24,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-03-24,Flipkart Order,"₹5,641.29",debit,Shopping
+2023-03-27,Co-working Space,"₹6,328.42",debit,Housing
+2023-03-27,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-03-27,More Supermarket,₹191.26,debit,Groceries
+2023-03-28,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-03-29,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-03-30,Chartered Accountant Fee,"₹5,194.19",debit,Miscellaneous
+2023-03-31,Zomato Food Delivery,₹734.03,debit,Food & Dining
+2023-04-01,Gaming Recharge,"₹1,957.51",debit,Entertainment
+2023-04-01,Chartered Accountant Fee,"₹8,866.72",debit,Miscellaneous
+2023-04-03,Course Sale Revenue,"₹26,305.96",credit,Income
+2023-04-03,Hotstar Subscription,₹583.85,debit,Subscriptions
+2023-04-04,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-04-04,PVR Cinemas,₹351.34,debit,Entertainment
+2023-04-05,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-04-05,Canva Pro,₹499.00,debit,Subscriptions
+2023-04-06,YouTube Premium,₹139.00,debit,Subscriptions
+2023-04-06,Namecheap Domain,"₹1,494.99",debit,Utilities
+2023-04-06,Gym Membership,"₹1,004.75",debit,Healthcare
+2023-04-07,Project Milestone,"₹20,239.13",credit,Income
+2023-04-08,Refund Credit,"₹2,705.68",credit,Income
+2023-04-09,Flipkart Order,"₹5,792.82",debit,Shopping
+2023-04-10,Amazon Purchase,₹908.85,debit,Shopping
+2023-04-11,Invoice Software,"₹1,422.60",debit,Subscriptions
+2023-04-11,Myntra Fashion,"₹3,995.27",debit,Shopping
+2023-04-11,Myntra Fashion,"₹3,170.20",debit,Shopping
+2023-04-12,Hotstar Subscription,₹424.61,debit,Subscriptions
+2023-04-13,Namecheap Domain,"₹1,477.36",debit,Utilities
+2023-04-14,Refund Credit,"₹1,264.47",credit,Income
+2023-04-14,Namecheap Domain,₹985.07,debit,Utilities
+2023-04-17,Apollo Pharmacy,"₹1,260.23",debit,Healthcare
+2023-04-17,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-04-18,Rapido Bike Taxi,₹88.43,debit,Transportation
+2023-04-18,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-04-19,Apollo Pharmacy,₹136.86,debit,Healthcare
+2023-04-19,DMart Purchase,"₹1,186.59",debit,Groceries
+2023-04-19,Notion Subscription,₹500.00,debit,Subscriptions
+2023-04-20,Course Sale Revenue,"₹23,316.34",credit,Income
+2023-04-20,Co-working Space,"₹3,939.80",debit,Housing
+2023-04-21,Reliance Fresh,₹319.30,debit,Groceries
+2023-04-22,Course Sale Revenue,"₹16,172.19",credit,Income
+2023-04-23,Uber Ride,₹356.71,debit,Transportation
+2023-04-24,Amazon Prime,₹511.13,debit,Subscriptions
+2023-04-24,Client Meeting Cab,₹303.23,debit,Transportation
+2023-04-24,Cashback Credit,₹971.67,credit,Income
+2023-04-24,Notion Subscription,₹500.00,debit,Subscriptions
+2023-04-25,Ajio Clothing,"₹3,147.73",debit,Shopping
+2023-04-25,Co-working Space,"₹3,993.55",debit,Housing
+2023-04-25,Meesho Order,"₹1,710.90",debit,Shopping
+2023-04-25,BigBasket Groceries,"₹3,217.75",debit,Groceries
+2023-04-26,Uber Ride,₹417.93,debit,Transportation
+2023-04-26,1mg Medicine Order,₹592.69,debit,Healthcare
+2023-04-26,Hotstar Subscription,₹731.86,debit,Subscriptions
+2023-04-26,Chartered Accountant Fee,"₹14,016.28",debit,Miscellaneous
+2023-04-26,Uber Ride,₹225.02,debit,Transportation
+2023-04-26,More Supermarket,₹524.23,debit,Groceries
+2023-04-29,Meesho Order,"₹1,582.85",debit,Shopping
+2023-04-29,Flipkart Order,"₹2,678.72",debit,Shopping
+2023-04-30,DMart Purchase,"₹1,026.16",debit,Groceries
+2023-04-30,Invoice Software,"₹1,116.43",debit,Subscriptions
+2023-04-30,Rapido Bike Taxi,₹79.68,debit,Transportation
+2023-05-01,Co-working Space,"₹10,358.90",debit,Housing
+2023-05-01,Namecheap Domain,"₹1,868.86",debit,Utilities
+2023-05-01,Client Payment UPI,"₹50,216.31",credit,Income
+2023-05-01,Flipkart Order,"₹1,988.52",debit,Shopping
+2023-05-01,Equipment Purchase,"₹48,606.09",debit,Shopping
+2023-05-02,YouTube Premium,₹139.00,debit,Subscriptions
+2023-05-02,Hotstar Subscription,₹171.79,debit,Subscriptions
+2023-05-02,Uber Ride,₹115.61,debit,Transportation
+2023-05-03,Canva Pro,₹499.00,debit,Subscriptions
+2023-05-04,Netflix Subscription,₹471.97,debit,Subscriptions
+2023-05-04,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-05-04,Invoice Software,"₹1,900.00",debit,Subscriptions
+2023-05-05,Ola Cab,₹342.18,debit,Transportation
+2023-05-06,YouTube Premium,₹139.00,debit,Subscriptions
+2023-05-08,Flipkart Order,"₹5,300.34",debit,Shopping
+2023-05-09,Ajio Clothing,"₹2,405.53",debit,Shopping
+2023-05-09,Flipkart Order,"₹5,947.30",debit,Shopping
+2023-05-09,More Supermarket,₹966.29,debit,Groceries
+2023-05-09,Namecheap Domain,"₹1,023.23",debit,Utilities
+2023-05-11,Uber Ride,₹566.96,debit,Transportation
+2023-05-12,Amazon Purchase,"₹5,777.69",debit,Shopping
+2023-05-12,Amazon Prime,₹907.21,debit,Subscriptions
+2023-05-13,Equipment Purchase,"₹23,889.73",debit,Shopping
+2023-05-13,Hotstar Subscription,₹333.03,debit,Subscriptions
+2023-05-13,Refund Credit,"₹3,366.80",credit,Income
+2023-05-13,YouTube Premium,₹139.00,debit,Subscriptions
+2023-05-13,Course Sale Revenue,"₹6,087.74",credit,Income
+2023-05-14,BookMyShow Tickets,"₹1,181.32",debit,Entertainment
+2023-05-14,Amazon Prime,₹205.04,debit,Subscriptions
+2023-05-14,Ajio Clothing,"₹2,069.85",debit,Shopping
+2023-05-15,Royalty Credit,"₹6,777.54",credit,Income
+2023-05-15,Amazon Prime,₹610.70,debit,Subscriptions
+2023-05-17,PVR Cinemas,₹760.24,debit,Entertainment
+2023-05-17,DMart Purchase,"₹2,550.85",debit,Groceries
+2023-05-17,Gym Membership,₹814.90,debit,Healthcare
+2023-05-18,Hostinger Hosting,"₹3,933.19",debit,Utilities
+2023-05-19,Retainer Fee Credit,"₹19,526.80",credit,Income
+2023-05-19,BookMyShow Tickets,₹805.46,debit,Entertainment
+2023-05-19,Spotify Premium,₹119.00,debit,Subscriptions
+2023-05-20,More Supermarket,₹304.71,debit,Groceries
+2023-05-20,BigBasket Groceries,"₹2,308.51",debit,Groceries
+2023-05-22,Invoice Software,"₹1,173.55",debit,Subscriptions
+2023-05-22,Client Meeting Cab,₹889.59,debit,Transportation
+2023-05-22,Royalty Credit,"₹2,064.88",credit,Income
+2023-05-22,Retainer Fee Credit,"₹28,686.28",credit,Income
+2023-05-25,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-05-25,Meesho Order,"₹1,890.17",debit,Shopping
+2023-05-26,Ola Cab,₹198.70,debit,Transportation
+2023-05-26,Ola Cab,₹217.45,debit,Transportation
+2023-05-26,Spotify Premium,₹119.00,debit,Subscriptions
+2023-05-27,Equipment Purchase,"₹17,706.80",debit,Shopping
+2023-05-28,Apollo Pharmacy,"₹1,846.27",debit,Healthcare
+2023-05-28,Co-working Space,"₹8,062.02",debit,Housing
+2023-05-28,Reliance Fresh,₹669.24,debit,Groceries
+2023-05-29,Apollo Pharmacy,"₹1,576.35",debit,Healthcare
+2023-05-29,Swiggy Order,₹878.96,debit,Food & Dining
+2023-05-30,Canva Pro,₹499.00,debit,Subscriptions
+2023-05-31,Apollo Pharmacy,₹353.30,debit,Healthcare
+2023-05-31,Equipment Purchase,"₹35,327.56",debit,Shopping
+2023-06-01,Retainer Fee Credit,"₹25,196.62",credit,Income
+2023-06-01,Namecheap Domain,"₹1,681.79",debit,Utilities
+2023-06-02,Gym Membership,"₹2,310.95",debit,Healthcare
+2023-06-03,Meesho Order,"₹1,975.96",debit,Shopping
+2023-06-03,Meesho Order,"₹1,273.72",debit,Shopping
+2023-06-03,Uber Ride,₹350.91,debit,Transportation
+2023-06-04,BookMyShow Tickets,₹584.39,debit,Entertainment
+2023-06-04,Refund Credit,"₹3,058.92",credit,Income
+2023-06-06,Course Sale Revenue,"₹17,692.65",credit,Income
+2023-06-06,Reliance Fresh,"₹1,224.92",debit,Groceries
+2023-06-07,Equipment Purchase,"₹10,727.09",debit,Shopping
+2023-06-08,Invoice Software,"₹1,070.46",debit,Subscriptions
+2023-06-09,Rapido Bike Taxi,₹169.32,debit,Transportation
+2023-06-10,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-06-11,Spotify Premium,₹119.00,debit,Subscriptions
+2023-06-12,PVR Cinemas,₹273.77,debit,Entertainment
+2023-06-13,PVR Cinemas,₹463.22,debit,Entertainment
+2023-06-14,Zomato Food Delivery,₹292.55,debit,Food & Dining
+2023-06-14,Course Sale Revenue,"₹28,697.70",credit,Income
+2023-06-15,Gaming Recharge,₹998.60,debit,Entertainment
+2023-06-15,Flipkart Order,"₹2,196.65",debit,Shopping
+2023-06-16,Myntra Fashion,"₹3,293.69",debit,Shopping
+2023-06-16,Canva Pro,₹499.00,debit,Subscriptions
+2023-06-16,Canva Pro,₹499.00,debit,Subscriptions
+2023-06-16,Spotify Premium,₹119.00,debit,Subscriptions
+2023-06-16,Amazon Purchase,"₹2,173.11",debit,Shopping
+2023-06-18,Course Sale Revenue,"₹15,016.42",credit,Income
+2023-06-20,Swiggy Order,₹798.98,debit,Food & Dining
+2023-06-21,Uber Ride,₹545.24,debit,Transportation
+2023-06-21,Canva Pro,₹499.00,debit,Subscriptions
+2023-06-22,Gaming Recharge,₹175.17,debit,Entertainment
+2023-06-25,Myntra Fashion,"₹3,765.48",debit,Shopping
+2023-06-25,Royalty Credit,"₹6,550.72",credit,Income
+2023-06-25,Invoice Software,"₹1,122.62",debit,Subscriptions
+2023-06-26,Notion Subscription,₹500.00,debit,Subscriptions
+2023-06-26,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-06-26,Cashback Credit,₹263.10,credit,Income
+2023-06-27,Retainer Fee Credit,"₹14,732.90",credit,Income
+2023-06-27,Notion Subscription,₹500.00,debit,Subscriptions
+2023-06-30,Retainer Fee Credit,"₹37,292.39",credit,Income
+2023-06-30,Ajio Clothing,"₹2,758.24",debit,Shopping
+2023-06-30,Rapido Bike Taxi,₹66.09,debit,Transportation
+2023-06-30,DMart Purchase,"₹1,104.69",debit,Groceries
+2023-07-01,Cashback Credit,₹532.55,credit,Income
+2023-07-01,Client Meeting Cab,₹721.75,debit,Transportation
+2023-07-02,Equipment Purchase,"₹30,938.72",debit,Shopping
+2023-07-02,BigBasket Groceries,"₹3,974.55",debit,Groceries
+2023-07-02,Gaming Recharge,₹148.74,debit,Entertainment
+2023-07-02,Amazon Purchase,"₹3,821.34",debit,Shopping
+2023-07-03,Myntra Fashion,"₹3,580.27",debit,Shopping
+2023-07-03,Rapido Bike Taxi,₹103.23,debit,Transportation
+2023-07-04,Chartered Accountant Fee,"₹8,436.70",debit,Miscellaneous
+2023-07-05,Gym Membership,₹630.79,debit,Healthcare
+2023-07-05,Project Milestone,"₹29,273.31",credit,Income
+2023-07-05,Amazon Purchase,₹783.17,debit,Shopping
+2023-07-07,Canva Pro,₹499.00,debit,Subscriptions
+2023-07-07,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-07-08,Meesho Order,"₹1,785.97",debit,Shopping
+2023-07-08,Equipment Purchase,"₹26,687.48",debit,Shopping
+2023-07-09,Equipment Purchase,"₹16,406.06",debit,Shopping
+2023-07-11,Myntra Fashion,₹839.85,debit,Shopping
+2023-07-12,Amazon Purchase,"₹5,398.33",debit,Shopping
+2023-07-13,YouTube Premium,₹139.00,debit,Subscriptions
+2023-07-14,Rapido Bike Taxi,₹68.63,debit,Transportation
+2023-07-14,Client Meeting Cab,₹571.73,debit,Transportation
+2023-07-15,Uber Ride,₹334.97,debit,Transportation
+2023-07-16,Swiggy Order,₹712.90,debit,Food & Dining
+2023-07-18,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-07-19,More Supermarket,"₹1,130.80",debit,Groceries
+2023-07-20,Project Milestone,"₹74,843.69",credit,Income
+2023-07-20,Co-working Space,"₹10,041.09",debit,Housing
+2023-07-20,Refund Credit,₹533.43,credit,Income
+2023-07-21,Invoice Software,₹976.92,debit,Subscriptions
+2023-07-22,Amazon Prime,₹222.93,debit,Subscriptions
+2023-07-24,Myntra Fashion,"₹2,892.67",debit,Shopping
+2023-07-24,Client Meeting Cab,₹357.76,debit,Transportation
+2023-07-24,Amazon Prime,₹391.31,debit,Subscriptions
+2023-07-24,Retainer Fee Credit,"₹11,770.00",credit,Income
+2023-07-24,Co-working Space,"₹5,521.98",debit,Housing
+2023-07-25,Ajio Clothing,₹814.75,debit,Shopping
+2023-07-26,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-07-26,Refund Credit,"₹1,467.84",credit,Income
+2023-07-26,Co-working Space,"₹6,855.26",debit,Housing
+2023-07-28,Namecheap Domain,"₹1,368.31",debit,Utilities
+2023-07-29,Amazon Prime,₹233.03,debit,Subscriptions
+2023-07-30,Gaming Recharge,"₹1,258.89",debit,Entertainment
+2023-07-30,Netflix Subscription,₹340.00,debit,Subscriptions
+2023-07-30,PVR Cinemas,₹455.28,debit,Entertainment
+2023-07-30,Refund Credit,"₹3,268.52",credit,Income
+2023-07-31,Invoice Software,"₹1,107.43",debit,Subscriptions
+2023-08-01,Invoice Software,"₹1,050.74",debit,Subscriptions
+2023-08-01,Equipment Purchase,"₹8,453.83",debit,Shopping
+2023-08-02,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-08-02,Hostinger Hosting,"₹3,500.86",debit,Utilities
+2023-08-02,BookMyShow Tickets,"₹1,075.53",debit,Entertainment
+2023-08-02,Refund Credit,"₹3,087.35",credit,Income
+2023-08-03,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-08-03,Client Meeting Cab,₹936.61,debit,Transportation
+2023-08-04,Swiggy Order,₹883.33,debit,Food & Dining
+2023-08-04,BookMyShow Tickets,₹591.25,debit,Entertainment
+2023-08-04,Flipkart Order,"₹4,652.28",debit,Shopping
+2023-08-05,BigBasket Groceries,"₹2,027.31",debit,Groceries
+2023-08-05,Myntra Fashion,₹524.81,debit,Shopping
+2023-08-07,Royalty Credit,"₹13,816.85",credit,Income
+2023-08-07,Co-working Space,"₹4,042.43",debit,Housing
+2023-08-07,Apollo Pharmacy,₹462.17,debit,Healthcare
+2023-08-08,Canva Pro,₹499.00,debit,Subscriptions
+2023-08-08,Netflix Subscription,₹508.14,debit,Subscriptions
+2023-08-09,Gaming Recharge,"₹1,560.74",debit,Entertainment
+2023-08-09,Gym Membership,"₹2,023.63",debit,Healthcare
+2023-08-09,Hotstar Subscription,₹514.12,debit,Subscriptions
+2023-08-10,Myntra Fashion,"₹1,791.77",debit,Shopping
+2023-08-12,Canva Pro,₹499.00,debit,Subscriptions
+2023-08-13,Equipment Purchase,"₹21,435.63",debit,Shopping
+2023-08-14,1mg Medicine Order,"₹1,404.30",debit,Healthcare
+2023-08-14,Zomato Food Delivery,₹606.79,debit,Food & Dining
+2023-08-15,Co-working Space,"₹3,430.99",debit,Housing
+2023-08-16,Canva Pro,₹499.00,debit,Subscriptions
+2023-08-17,Refund Credit,"₹1,298.76",credit,Income
+2023-08-18,BigBasket Groceries,"₹2,344.12",debit,Groceries
+2023-08-18,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-08-19,Swiggy Order,₹145.32,debit,Food & Dining
+2023-08-19,Namecheap Domain,"₹1,575.45",debit,Utilities
+2023-08-20,Notion Subscription,₹500.00,debit,Subscriptions
+2023-08-20,Zomato Food Delivery,₹660.14,debit,Food & Dining
+2023-08-20,Project Milestone,"₹83,957.85",credit,Income
+2023-08-21,Flipkart Order,"₹5,977.66",debit,Shopping
+2023-08-21,Reliance Fresh,₹407.95,debit,Groceries
+2023-08-23,PVR Cinemas,₹341.21,debit,Entertainment
+2023-08-24,Gym Membership,₹727.81,debit,Healthcare
+2023-08-24,Zomato Food Delivery,₹681.53,debit,Food & Dining
+2023-08-24,Chartered Accountant Fee,"₹5,237.13",debit,Miscellaneous
+2023-08-24,Flipkart Order,"₹3,110.25",debit,Shopping
+2023-08-25,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-08-25,Cashback Credit,₹467.62,credit,Income
+2023-08-26,More Supermarket,₹678.72,debit,Groceries
+2023-08-27,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-08-27,Retainer Fee Credit,"₹39,878.98",credit,Income
+2023-08-28,Invoice Software,"₹1,908.80",debit,Subscriptions
+2023-08-29,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-08-29,Canva Pro,₹499.00,debit,Subscriptions
+2023-08-30,Ajio Clothing,₹591.93,debit,Shopping
+2023-08-30,BookMyShow Tickets,"₹1,362.06",debit,Entertainment
+2023-08-30,More Supermarket,"₹1,631.16",debit,Groceries
+2023-08-31,Gym Membership,₹662.87,debit,Healthcare
+2023-08-31,Amazon Purchase,"₹7,316.46",debit,Shopping
+2023-09-01,Ajio Clothing,"₹2,966.01",debit,Shopping
+2023-09-01,Gym Membership,"₹1,723.84",debit,Healthcare
+2023-09-01,Refund Credit,"₹2,329.50",credit,Income
+2023-09-02,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-09-03,YouTube Premium,₹139.00,debit,Subscriptions
+2023-09-06,Namecheap Domain,"₹1,937.92",debit,Utilities
+2023-09-06,Co-working Space,"₹8,342.78",debit,Housing
+2023-09-06,Project Milestone,"₹86,976.63",credit,Income
+2023-09-06,Refund Credit,"₹4,440.60",credit,Income
+2023-09-07,Ola Cab,₹325.77,debit,Transportation
+2023-09-08,Meesho Order,"₹1,937.95",debit,Shopping
+2023-09-11,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-09-11,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-09-12,Refund Credit,"₹3,351.49",credit,Income
+2023-09-12,Ola Cab,₹289.28,debit,Transportation
+2023-09-13,Course Sale Revenue,"₹19,565.39",credit,Income
+2023-09-13,YouTube Premium,₹139.00,debit,Subscriptions
+2023-09-14,Swiggy Order,₹194.17,debit,Food & Dining
+2023-09-14,Flipkart Order,"₹4,925.78",debit,Shopping
+2023-09-14,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-09-14,Spotify Premium,₹119.00,debit,Subscriptions
+2023-09-14,Amazon Prime,₹489.24,debit,Subscriptions
+2023-09-16,Ola Cab,₹381.37,debit,Transportation
+2023-09-17,Zomato Food Delivery,₹225.28,debit,Food & Dining
+2023-09-18,Refund Credit,"₹1,825.59",credit,Income
+2023-09-18,Notion Subscription,₹500.00,debit,Subscriptions
+2023-09-18,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-09-18,1mg Medicine Order,₹244.82,debit,Healthcare
+2023-09-19,Netflix Subscription,₹538.77,debit,Subscriptions
+2023-09-20,Equipment Purchase,"₹44,408.11",debit,Shopping
+2023-09-21,Rapido Bike Taxi,₹77.72,debit,Transportation
+2023-09-21,Retainer Fee Credit,"₹20,405.31",credit,Income
+2023-09-22,Co-working Space,"₹6,103.43",debit,Housing
+2023-09-22,Client Meeting Cab,₹913.73,debit,Transportation
+2023-09-23,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-09-23,More Supermarket,₹338.19,debit,Groceries
+2023-09-24,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-09-24,Flipkart Order,₹446.55,debit,Shopping
+2023-09-24,More Supermarket,₹462.88,debit,Groceries
+2023-09-25,Invoice Software,₹834.30,debit,Subscriptions
+2023-09-25,1mg Medicine Order,"₹1,287.42",debit,Healthcare
+2023-09-25,Hostinger Hosting,"₹1,013.74",debit,Utilities
+2023-09-26,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-09-26,Equipment Purchase,"₹47,284.59",debit,Shopping
+2023-09-27,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-09-27,Spotify Premium,₹119.00,debit,Subscriptions
+2023-09-28,Ajio Clothing,"₹3,454.10",debit,Shopping
+2023-09-28,Hostinger Hosting,"₹3,402.44",debit,Utilities
+2023-09-29,More Supermarket,"₹1,717.99",debit,Groceries
+2023-10-01,DMart Purchase,"₹1,821.51",debit,Groceries
+2023-10-01,Gaming Recharge,₹321.47,debit,Entertainment
+2023-10-01,Retainer Fee Credit,"₹48,517.90",credit,Income
+2023-10-01,Rapido Bike Taxi,₹131.71,debit,Transportation
+2023-10-02,Rapido Bike Taxi,₹182.82,debit,Transportation
+2023-10-02,Invoice Software,"₹1,841.96",debit,Subscriptions
+2023-10-02,Royalty Credit,"₹15,698.81",credit,Income
+2023-10-03,Apollo Pharmacy,₹679.32,debit,Healthcare
+2023-10-04,Spotify Premium,₹119.00,debit,Subscriptions
+2023-10-04,Canva Pro,₹499.00,debit,Subscriptions
+2023-10-04,Co-working Space,"₹11,841.58",debit,Housing
+2023-10-06,Rapido Bike Taxi,₹31.81,debit,Transportation
+2023-10-07,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-10-07,Invoice Software,"₹1,598.24",debit,Subscriptions
+2023-10-09,Equipment Purchase,"₹14,331.79",debit,Shopping
+2023-10-10,PVR Cinemas,₹381.00,debit,Entertainment
+2023-10-10,Co-working Space,"₹6,920.81",debit,Housing
+2023-10-11,Ola Cab,₹135.93,debit,Transportation
+2023-10-12,Gaming Recharge,₹463.91,debit,Entertainment
+2023-10-14,Notion Subscription,₹500.00,debit,Subscriptions
+2023-10-15,Spotify Premium,₹119.00,debit,Subscriptions
+2023-10-16,Spotify Premium,₹119.00,debit,Subscriptions
+2023-10-16,Spotify Premium,₹119.00,debit,Subscriptions
+2023-10-17,More Supermarket,₹784.25,debit,Groceries
+2023-10-18,Retainer Fee Credit,"₹24,294.91",credit,Income
+2023-10-18,Hostinger Hosting,"₹4,560.55",debit,Utilities
+2023-10-19,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-10-20,Hostinger Hosting,"₹2,296.50",debit,Utilities
+2023-10-20,Client Payment UPI,"₹48,620.87",credit,Income
+2023-10-25,Co-working Space,"₹4,398.46",debit,Housing
+2023-10-25,Namecheap Domain,"₹1,189.44",debit,Utilities
+2023-10-25,Myntra Fashion,"₹1,602.67",debit,Shopping
+2023-10-26,Uber Ride,₹400.32,debit,Transportation
+2023-10-26,Zomato Food Delivery,₹803.37,debit,Food & Dining
+2023-10-28,Refund Credit,"₹2,317.19",credit,Income
+2023-10-28,Ola Cab,₹350.85,debit,Transportation
+2023-10-28,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-10-30,YouTube Premium,₹139.00,debit,Subscriptions
+2023-10-30,Client Payment UPI,"₹93,883.43",credit,Income
+2023-10-31,YouTube Premium,₹139.00,debit,Subscriptions
+2023-11-02,Refund Credit,"₹2,201.45",credit,Income
+2023-11-03,Hotstar Subscription,₹723.21,debit,Subscriptions
+2023-11-04,Meesho Order,₹712.47,debit,Shopping
+2023-11-05,Gaming Recharge,₹672.36,debit,Entertainment
+2023-11-06,PVR Cinemas,₹299.80,debit,Entertainment
+2023-11-08,Gym Membership,"₹1,488.77",debit,Healthcare
+2023-11-08,Royalty Credit,"₹12,099.15",credit,Income
+2023-11-09,Retainer Fee Credit,"₹16,890.50",credit,Income
+2023-11-11,Cashback Credit,₹873.56,credit,Income
+2023-11-12,Spotify Premium,₹119.00,debit,Subscriptions
+2023-11-12,Zomato Food Delivery,₹763.24,debit,Food & Dining
+2023-11-13,Rapido Bike Taxi,₹80.88,debit,Transportation
+2023-11-13,Gym Membership,"₹1,313.63",debit,Healthcare
+2023-11-14,Rapido Bike Taxi,₹78.67,debit,Transportation
+2023-11-15,Ajio Clothing,"₹1,901.37",debit,Shopping
+2023-11-16,More Supermarket,"₹1,396.39",debit,Groceries
+2023-11-17,BookMyShow Tickets,"₹1,388.16",debit,Entertainment
+2023-11-19,Client Payment UPI,"₹116,554.93",credit,Income
+2023-11-19,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-11-19,BookMyShow Tickets,₹907.67,debit,Entertainment
+2023-11-21,Spotify Premium,₹119.00,debit,Subscriptions
+2023-11-21,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-11-21,Royalty Credit,"₹7,729.32",credit,Income
+2023-11-23,Chartered Accountant Fee,"₹4,191.01",debit,Miscellaneous
+2023-11-23,Ola Cab,₹104.38,debit,Transportation
+2023-11-23,Namecheap Domain,"₹1,338.95",debit,Utilities
+2023-11-27,DMart Purchase,"₹2,845.03",debit,Groceries
+2023-11-27,Hostinger Hosting,"₹3,487.67",debit,Utilities
+2023-11-28,Hostinger Hosting,"₹3,507.93",debit,Utilities
+2023-11-29,Amazon Prime,₹544.53,debit,Subscriptions
+2023-11-29,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-11-30,Uber Ride,₹269.57,debit,Transportation
+2023-11-30,Swiggy Order,₹815.34,debit,Food & Dining
+2023-11-30,Gaming Recharge,"₹1,750.14",debit,Entertainment
+2023-12-01,Canva Pro,₹499.00,debit,Subscriptions
+2023-12-01,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-12-01,Spotify Premium,₹119.00,debit,Subscriptions
+2023-12-01,Uber Ride,₹501.05,debit,Transportation
+2023-12-01,Reliance Fresh,"₹1,412.01",debit,Groceries
+2023-12-02,Myntra Fashion,"₹2,298.82",debit,Shopping
+2023-12-04,Retainer Fee Credit,"₹21,730.06",credit,Income
+2023-12-04,PVR Cinemas,₹530.41,debit,Entertainment
+2023-12-04,Ajio Clothing,"₹1,260.49",debit,Shopping
+2023-12-04,Reliance Fresh,₹618.92,debit,Groceries
+2023-12-04,Course Sale Revenue,"₹27,625.57",credit,Income
+2023-12-05,Zomato Food Delivery,₹666.18,debit,Food & Dining
+2023-12-05,Cashback Credit,₹474.17,credit,Income
+2023-12-06,Rapido Bike Taxi,₹116.42,debit,Transportation
+2023-12-06,BigBasket Groceries,"₹1,444.66",debit,Groceries
+2023-12-06,Uber Ride,₹597.09,debit,Transportation
+2023-12-07,Ajio Clothing,"₹1,609.45",debit,Shopping
+2023-12-08,Hostinger Hosting,"₹1,244.06",debit,Utilities
+2023-12-08,Ajio Clothing,"₹2,082.72",debit,Shopping
+2023-12-09,1mg Medicine Order,₹720.28,debit,Healthcare
+2023-12-10,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2023-12-11,Zomato Food Delivery,₹372.91,debit,Food & Dining
+2023-12-11,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-12-12,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-12-12,Hostinger Hosting,"₹3,120.85",debit,Utilities
+2023-12-13,Ola Cab,₹123.54,debit,Transportation
+2023-12-14,Gaming Recharge,"₹1,940.51",debit,Entertainment
+2023-12-15,Retainer Fee Credit,"₹20,479.97",credit,Income
+2023-12-15,Flipkart Order,"₹5,982.29",debit,Shopping
+2023-12-16,Gym Membership,"₹2,319.95",debit,Healthcare
+2023-12-17,PVR Cinemas,₹312.29,debit,Entertainment
+2023-12-17,Amazon Purchase,₹441.23,debit,Shopping
+2023-12-18,Gym Membership,₹520.24,debit,Healthcare
+2023-12-19,Cashback Credit,₹926.07,credit,Income
+2023-12-19,Notion Subscription,₹500.00,debit,Subscriptions
+2023-12-20,Tally Software,"₹9,000.00",debit,Subscriptions
+2023-12-21,DMart Purchase,"₹3,173.27",debit,Groceries
+2023-12-22,Gym Membership,"₹1,351.06",debit,Healthcare
+2023-12-22,1mg Medicine Order,₹126.58,debit,Healthcare
+2023-12-23,Meesho Order,₹624.20,debit,Shopping
+2023-12-24,Zomato Food Delivery,₹623.87,debit,Food & Dining
+2023-12-26,Ola Cab,₹250.30,debit,Transportation
+2023-12-26,BigBasket Groceries,"₹1,936.11",debit,Groceries
+2023-12-26,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2023-12-26,Netflix Subscription,₹549.70,debit,Subscriptions
+2023-12-29,Meesho Order,₹906.11,debit,Shopping
+2023-12-29,Rapido Bike Taxi,₹190.98,debit,Transportation
+2023-12-30,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2023-12-31,Client Meeting Cab,₹423.44,debit,Transportation
+2024-01-01,Client Payment UPI,"₹71,692.93",credit,Income
+2024-01-03,BookMyShow Tickets,₹254.79,debit,Entertainment
+2024-01-03,Flipkart Order,"₹1,680.20",debit,Shopping
+2024-01-04,BookMyShow Tickets,₹512.63,debit,Entertainment
+2024-01-05,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-01-05,Rapido Bike Taxi,₹176.78,debit,Transportation
+2024-01-05,Royalty Credit,"₹8,601.81",credit,Income
+2024-01-06,Client Meeting Cab,₹962.30,debit,Transportation
+2024-01-06,Royalty Credit,"₹9,974.73",credit,Income
+2024-01-06,More Supermarket,"₹1,661.55",debit,Groceries
+2024-01-06,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-01-07,Gym Membership,"₹2,364.31",debit,Healthcare
+2024-01-07,Amazon Purchase,"₹3,238.83",debit,Shopping
+2024-01-07,Zomato Food Delivery,₹717.51,debit,Food & Dining
+2024-01-08,Client Meeting Cab,₹379.24,debit,Transportation
+2024-01-09,Hostinger Hosting,"₹4,937.66",debit,Utilities
+2024-01-09,Amazon Prime,₹588.54,debit,Subscriptions
+2024-01-10,Uber Ride,₹229.55,debit,Transportation
+2024-01-10,PVR Cinemas,₹446.41,debit,Entertainment
+2024-01-10,Chartered Accountant Fee,"₹9,334.92",debit,Miscellaneous
+2024-01-11,Zomato Food Delivery,₹540.78,debit,Food & Dining
+2024-01-12,Netflix Subscription,₹463.32,debit,Subscriptions
+2024-01-12,More Supermarket,₹135.02,debit,Groceries
+2024-01-12,Retainer Fee Credit,"₹21,549.34",credit,Income
+2024-01-13,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-01-13,Swiggy Order,₹875.78,debit,Food & Dining
+2024-01-13,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-01-14,Amazon Purchase,"₹1,446.69",debit,Shopping
+2024-01-14,Flipkart Order,"₹5,546.14",debit,Shopping
+2024-01-15,Netflix Subscription,₹627.05,debit,Subscriptions
+2024-01-15,Client Meeting Cab,₹838.63,debit,Transportation
+2024-01-15,BookMyShow Tickets,₹639.36,debit,Entertainment
+2024-01-15,Amazon Purchase,"₹4,330.78",debit,Shopping
+2024-01-16,PVR Cinemas,₹387.15,debit,Entertainment
+2024-01-16,Notion Subscription,₹500.00,debit,Subscriptions
+2024-01-16,BigBasket Groceries,₹670.66,debit,Groceries
+2024-01-16,Project Milestone,"₹40,845.94",credit,Income
+2024-01-17,Refund Credit,"₹1,838.61",credit,Income
+2024-01-17,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-01-17,Uber Ride,₹548.64,debit,Transportation
+2024-01-17,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-01-18,Gaming Recharge,₹863.30,debit,Entertainment
+2024-01-18,Chartered Accountant Fee,"₹14,766.80",debit,Miscellaneous
+2024-01-18,Gaming Recharge,"₹1,194.40",debit,Entertainment
+2024-01-19,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-01-20,Flipkart Order,"₹4,696.24",debit,Shopping
+2024-01-20,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-01-20,1mg Medicine Order,"₹1,155.98",debit,Healthcare
+2024-01-21,1mg Medicine Order,₹717.33,debit,Healthcare
+2024-01-21,Flipkart Order,"₹1,191.58",debit,Shopping
+2024-01-21,Flipkart Order,"₹5,609.05",debit,Shopping
+2024-01-21,Namecheap Domain,"₹1,024.16",debit,Utilities
+2024-01-23,1mg Medicine Order,₹680.28,debit,Healthcare
+2024-01-23,Netflix Subscription,₹351.77,debit,Subscriptions
+2024-01-24,Course Sale Revenue,"₹14,418.93",credit,Income
+2024-01-26,Flipkart Order,"₹1,173.03",debit,Shopping
+2024-01-27,Invoice Software,"₹1,597.18",debit,Subscriptions
+2024-01-27,Canva Pro,₹499.00,debit,Subscriptions
+2024-01-28,Hotstar Subscription,₹766.95,debit,Subscriptions
+2024-01-28,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-01-30,Spotify Premium,₹119.00,debit,Subscriptions
+2024-01-31,Gym Membership,"₹1,591.93",debit,Healthcare
+2024-01-31,Reliance Fresh,"₹1,111.26",debit,Groceries
+2024-02-01,Swiggy Order,₹132.25,debit,Food & Dining
+2024-02-02,Meesho Order,"₹1,746.48",debit,Shopping
+2024-02-03,Myntra Fashion,"₹3,224.01",debit,Shopping
+2024-02-03,BookMyShow Tickets,"₹1,128.97",debit,Entertainment
+2024-02-04,Client Payment UPI,"₹82,497.47",credit,Income
+2024-02-05,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-02-05,Royalty Credit,"₹13,276.41",credit,Income
+2024-02-06,More Supermarket,₹196.47,debit,Groceries
+2024-02-06,Reliance Fresh,"₹1,172.94",debit,Groceries
+2024-02-06,Equipment Purchase,"₹18,918.46",debit,Shopping
+2024-02-06,DMart Purchase,"₹1,020.09",debit,Groceries
+2024-02-06,BigBasket Groceries,"₹3,536.70",debit,Groceries
+2024-02-07,Retainer Fee Credit,"₹20,474.62",credit,Income
+2024-02-07,Spotify Premium,₹119.00,debit,Subscriptions
+2024-02-08,YouTube Premium,₹139.00,debit,Subscriptions
+2024-02-08,Project Milestone,"₹37,688.46",credit,Income
+2024-02-09,Hostinger Hosting,"₹1,339.11",debit,Utilities
+2024-02-11,BookMyShow Tickets,"₹1,225.75",debit,Entertainment
+2024-02-13,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-02-13,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-02-15,Swiggy Order,₹534.68,debit,Food & Dining
+2024-02-17,Refund Credit,"₹1,766.56",credit,Income
+2024-02-18,BigBasket Groceries,"₹1,859.91",debit,Groceries
+2024-02-20,1mg Medicine Order,₹399.05,debit,Healthcare
+2024-02-20,More Supermarket,₹312.11,debit,Groceries
+2024-02-20,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-02-20,Gym Membership,"₹1,006.51",debit,Healthcare
+2024-02-20,Client Payment UPI,"₹65,071.87",credit,Income
+2024-02-20,Reliance Fresh,"₹1,669.15",debit,Groceries
+2024-02-21,Myntra Fashion,"₹3,373.32",debit,Shopping
+2024-02-21,BookMyShow Tickets,₹875.14,debit,Entertainment
+2024-02-22,Spotify Premium,₹119.00,debit,Subscriptions
+2024-02-22,Hostinger Hosting,"₹1,423.12",debit,Utilities
+2024-02-24,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-02-25,Project Milestone,"₹95,657.49",credit,Income
+2024-02-25,Project Milestone,"₹41,750.48",credit,Income
+2024-02-26,PVR Cinemas,₹714.24,debit,Entertainment
+2024-02-26,BigBasket Groceries,"₹3,530.45",debit,Groceries
+2024-02-27,Co-working Space,"₹11,467.55",debit,Housing
+2024-02-28,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-02-28,Spotify Premium,₹119.00,debit,Subscriptions
+2024-02-29,YouTube Premium,₹139.00,debit,Subscriptions
+2024-02-29,Invoice Software,"₹1,613.39",debit,Subscriptions
+2024-03-01,Gaming Recharge,₹61.75,debit,Entertainment
+2024-03-01,Cashback Credit,₹221.81,credit,Income
+2024-03-02,More Supermarket,"₹1,790.70",debit,Groceries
+2024-03-02,Gaming Recharge,₹983.16,debit,Entertainment
+2024-03-02,Gym Membership,"₹1,719.06",debit,Healthcare
+2024-03-04,Rapido Bike Taxi,₹116.32,debit,Transportation
+2024-03-04,DMart Purchase,"₹1,435.61",debit,Groceries
+2024-03-04,Ajio Clothing,"₹1,633.81",debit,Shopping
+2024-03-04,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-03-05,Reliance Fresh,₹641.98,debit,Groceries
+2024-03-05,Reliance Fresh,₹490.54,debit,Groceries
+2024-03-05,Ola Cab,₹325.60,debit,Transportation
+2024-03-06,Invoice Software,"₹1,980.40",debit,Subscriptions
+2024-03-07,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-03-09,1mg Medicine Order,₹856.16,debit,Healthcare
+2024-03-09,Course Sale Revenue,"₹17,886.40",credit,Income
+2024-03-10,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-03-11,Ola Cab,₹145.73,debit,Transportation
+2024-03-11,Notion Subscription,₹500.00,debit,Subscriptions
+2024-03-12,Spotify Premium,₹119.00,debit,Subscriptions
+2024-03-13,Myntra Fashion,"₹2,889.72",debit,Shopping
+2024-03-13,Refund Credit,"₹2,762.88",credit,Income
+2024-03-13,Ola Cab,₹461.49,debit,Transportation
+2024-03-14,Hotstar Subscription,₹329.11,debit,Subscriptions
+2024-03-14,Notion Subscription,₹500.00,debit,Subscriptions
+2024-03-14,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-03-15,Canva Pro,₹499.00,debit,Subscriptions
+2024-03-15,Hotstar Subscription,₹215.13,debit,Subscriptions
+2024-03-15,Amazon Prime,₹613.45,debit,Subscriptions
+2024-03-17,Gym Membership,"₹2,429.91",debit,Healthcare
+2024-03-17,Swiggy Order,₹898.59,debit,Food & Dining
+2024-03-17,Amazon Prime,₹977.81,debit,Subscriptions
+2024-03-17,PVR Cinemas,₹436.68,debit,Entertainment
+2024-03-18,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-03-18,Notion Subscription,₹500.00,debit,Subscriptions
+2024-03-19,YouTube Premium,₹139.00,debit,Subscriptions
+2024-03-22,Royalty Credit,"₹1,954.89",credit,Income
+2024-03-22,Retainer Fee Credit,"₹28,826.59",credit,Income
+2024-03-23,Gaming Recharge,₹211.59,debit,Entertainment
+2024-03-25,Invoice Software,₹532.68,debit,Subscriptions
+2024-03-26,Gaming Recharge,"₹1,578.09",debit,Entertainment
+2024-03-26,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-03-26,Netflix Subscription,₹496.56,debit,Subscriptions
+2024-03-27,Refund Credit,"₹2,184.47",credit,Income
+2024-03-27,Project Milestone,"₹63,356.12",credit,Income
+2024-03-27,Retainer Fee Credit,"₹37,339.11",credit,Income
+2024-03-28,Retainer Fee Credit,"₹15,602.23",credit,Income
+2024-03-28,Swiggy Order,₹486.43,debit,Food & Dining
+2024-03-30,Spotify Premium,₹119.00,debit,Subscriptions
+2024-03-30,BigBasket Groceries,"₹1,635.76",debit,Groceries
+2024-03-31,Retainer Fee Credit,"₹16,880.46",credit,Income
+2024-04-01,Meesho Order,₹816.59,debit,Shopping
+2024-04-01,Zomato Food Delivery,₹206.54,debit,Food & Dining
+2024-04-02,Notion Subscription,₹500.00,debit,Subscriptions
+2024-04-02,Netflix Subscription,₹160.74,debit,Subscriptions
+2024-04-02,Equipment Purchase,"₹19,162.66",debit,Shopping
+2024-04-03,Swiggy Order,₹471.95,debit,Food & Dining
+2024-04-03,PVR Cinemas,₹557.23,debit,Entertainment
+2024-04-04,Myntra Fashion,₹545.89,debit,Shopping
+2024-04-05,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-04-05,Reliance Fresh,₹483.13,debit,Groceries
+2024-04-06,Royalty Credit,"₹19,094.38",credit,Income
+2024-04-07,Refund Credit,"₹2,579.29",credit,Income
+2024-04-07,Canva Pro,₹499.00,debit,Subscriptions
+2024-04-08,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-04-08,Hostinger Hosting,"₹4,959.75",debit,Utilities
+2024-04-09,Apollo Pharmacy,"₹1,695.11",debit,Healthcare
+2024-04-09,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-04-09,Netflix Subscription,₹269.24,debit,Subscriptions
+2024-04-09,Ola Cab,₹135.13,debit,Transportation
+2024-04-10,Swiggy Order,₹295.56,debit,Food & Dining
+2024-04-10,Myntra Fashion,"₹3,993.10",debit,Shopping
+2024-04-11,Canva Pro,₹499.00,debit,Subscriptions
+2024-04-11,Course Sale Revenue,"₹10,980.93",credit,Income
+2024-04-11,Ola Cab,₹476.89,debit,Transportation
+2024-04-12,BookMyShow Tickets,₹791.20,debit,Entertainment
+2024-04-12,Retainer Fee Credit,"₹41,771.79",credit,Income
+2024-04-13,Hotstar Subscription,₹192.50,debit,Subscriptions
+2024-04-17,Retainer Fee Credit,"₹35,925.53",credit,Income
+2024-04-17,Co-working Space,"₹11,374.85",debit,Housing
+2024-04-17,Swiggy Order,₹511.05,debit,Food & Dining
+2024-04-17,Hostinger Hosting,"₹1,670.99",debit,Utilities
+2024-04-17,Netflix Subscription,₹606.61,debit,Subscriptions
+2024-04-18,Flipkart Order,"₹5,986.10",debit,Shopping
+2024-04-18,Ola Cab,₹91.35,debit,Transportation
+2024-04-18,BigBasket Groceries,"₹1,779.10",debit,Groceries
+2024-04-21,Client Meeting Cab,₹708.12,debit,Transportation
+2024-04-21,Netflix Subscription,₹152.40,debit,Subscriptions
+2024-04-21,1mg Medicine Order,"₹1,354.64",debit,Healthcare
+2024-04-22,Meesho Order,"₹1,707.83",debit,Shopping
+2024-04-23,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-04-23,Client Meeting Cab,₹830.88,debit,Transportation
+2024-04-26,Client Payment UPI,"₹76,834.41",credit,Income
+2024-04-26,DMart Purchase,₹557.87,debit,Groceries
+2024-04-28,Client Payment UPI,"₹63,534.64",credit,Income
+2024-05-01,Royalty Credit,"₹15,697.17",credit,Income
+2024-05-01,Ola Cab,₹123.74,debit,Transportation
+2024-05-02,Co-working Space,"₹5,008.51",debit,Housing
+2024-05-03,Meesho Order,"₹1,772.48",debit,Shopping
+2024-05-03,DMart Purchase,₹966.74,debit,Groceries
+2024-05-04,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-05-04,Uber Ride,₹371.88,debit,Transportation
+2024-05-05,Invoice Software,"₹1,583.99",debit,Subscriptions
+2024-05-05,Ajio Clothing,"₹2,144.97",debit,Shopping
+2024-05-05,Ola Cab,₹339.29,debit,Transportation
+2024-05-06,Spotify Premium,₹119.00,debit,Subscriptions
+2024-05-06,Client Payment UPI,"₹127,303.79",credit,Income
+2024-05-08,Refund Credit,₹825.18,credit,Income
+2024-05-08,Course Sale Revenue,"₹21,360.28",credit,Income
+2024-05-09,BookMyShow Tickets,₹294.15,debit,Entertainment
+2024-05-10,Uber Ride,₹291.75,debit,Transportation
+2024-05-11,Namecheap Domain,"₹1,495.78",debit,Utilities
+2024-05-13,Flipkart Order,"₹5,115.36",debit,Shopping
+2024-05-13,Hostinger Hosting,"₹2,619.33",debit,Utilities
+2024-05-14,Invoice Software,"₹1,152.56",debit,Subscriptions
+2024-05-14,Canva Pro,₹499.00,debit,Subscriptions
+2024-05-15,Co-working Space,"₹6,995.24",debit,Housing
+2024-05-15,Namecheap Domain,"₹1,873.43",debit,Utilities
+2024-05-15,Flipkart Order,"₹3,053.51",debit,Shopping
+2024-05-16,Myntra Fashion,"₹2,739.35",debit,Shopping
+2024-05-16,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-05-17,BookMyShow Tickets,₹905.20,debit,Entertainment
+2024-05-17,Canva Pro,₹499.00,debit,Subscriptions
+2024-05-18,YouTube Premium,₹139.00,debit,Subscriptions
+2024-05-18,Amazon Prime,₹832.72,debit,Subscriptions
+2024-05-19,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-05-20,Client Meeting Cab,₹750.04,debit,Transportation
+2024-05-20,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-05-21,Project Milestone,"₹48,430.50",credit,Income
+2024-05-22,Ola Cab,₹359.53,debit,Transportation
+2024-05-23,Invoice Software,₹784.53,debit,Subscriptions
+2024-05-23,Notion Subscription,₹500.00,debit,Subscriptions
+2024-05-24,Cashback Credit,₹937.68,credit,Income
+2024-05-25,Project Milestone,"₹35,627.99",credit,Income
+2024-05-26,Client Payment UPI,"₹91,742.16",credit,Income
+2024-05-28,Netflix Subscription,₹503.09,debit,Subscriptions
+2024-05-29,BookMyShow Tickets,₹923.16,debit,Entertainment
+2024-05-29,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-05-30,Gaming Recharge,₹958.37,debit,Entertainment
+2024-05-30,PVR Cinemas,₹444.42,debit,Entertainment
+2024-06-01,Amazon Purchase,₹467.29,debit,Shopping
+2024-06-03,Uber Ride,₹257.24,debit,Transportation
+2024-06-04,Notion Subscription,₹500.00,debit,Subscriptions
+2024-06-04,Zomato Food Delivery,₹669.12,debit,Food & Dining
+2024-06-04,Cashback Credit,₹403.59,credit,Income
+2024-06-05,DMart Purchase,"₹2,949.17",debit,Groceries
+2024-06-05,Client Meeting Cab,₹407.92,debit,Transportation
+2024-06-05,Rapido Bike Taxi,₹107.75,debit,Transportation
+2024-06-05,Uber Ride,₹364.35,debit,Transportation
+2024-06-05,DMart Purchase,"₹3,324.06",debit,Groceries
+2024-06-06,Uber Ride,₹466.44,debit,Transportation
+2024-06-08,Cashback Credit,₹618.90,credit,Income
+2024-06-09,YouTube Premium,₹139.00,debit,Subscriptions
+2024-06-10,Meesho Order,"₹1,274.72",debit,Shopping
+2024-06-10,Canva Pro,₹499.00,debit,Subscriptions
+2024-06-11,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-06-11,Netflix Subscription,₹208.91,debit,Subscriptions
+2024-06-11,Gaming Recharge,"₹1,009.46",debit,Entertainment
+2024-06-12,Zomato Food Delivery,₹529.36,debit,Food & Dining
+2024-06-12,1mg Medicine Order,₹769.28,debit,Healthcare
+2024-06-12,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-06-12,Notion Subscription,₹500.00,debit,Subscriptions
+2024-06-13,Zomato Food Delivery,₹816.75,debit,Food & Dining
+2024-06-14,Royalty Credit,"₹9,697.78",credit,Income
+2024-06-16,Cashback Credit,₹803.77,credit,Income
+2024-06-17,DMart Purchase,"₹2,076.10",debit,Groceries
+2024-06-17,Swiggy Order,₹283.19,debit,Food & Dining
+2024-06-17,Spotify Premium,₹119.00,debit,Subscriptions
+2024-06-18,Flipkart Order,"₹3,732.12",debit,Shopping
+2024-06-18,Ajio Clothing,"₹1,405.69",debit,Shopping
+2024-06-18,Invoice Software,"₹1,071.64",debit,Subscriptions
+2024-06-19,Netflix Subscription,₹160.89,debit,Subscriptions
+2024-06-19,Notion Subscription,₹500.00,debit,Subscriptions
+2024-06-19,Amazon Prime,₹935.81,debit,Subscriptions
+2024-06-20,Hotstar Subscription,₹835.86,debit,Subscriptions
+2024-06-21,Project Milestone,"₹23,036.25",credit,Income
+2024-06-22,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-06-23,Co-working Space,"₹7,269.33",debit,Housing
+2024-06-23,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-06-26,Course Sale Revenue,"₹14,513.33",credit,Income
+2024-06-26,Invoice Software,"₹1,224.32",debit,Subscriptions
+2024-06-27,Invoice Software,₹529.61,debit,Subscriptions
+2024-06-27,YouTube Premium,₹139.00,debit,Subscriptions
+2024-06-28,Uber Ride,₹81.68,debit,Transportation
+2024-06-29,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-06-29,Notion Subscription,₹500.00,debit,Subscriptions
+2024-06-29,Project Milestone,"₹39,285.64",credit,Income
+2024-06-29,Rapido Bike Taxi,₹97.80,debit,Transportation
+2024-06-30,Co-working Space,"₹4,487.70",debit,Housing
+2024-06-30,Namecheap Domain,"₹1,458.44",debit,Utilities
+2024-07-02,Canva Pro,₹499.00,debit,Subscriptions
+2024-07-02,Uber Ride,₹154.51,debit,Transportation
+2024-07-03,Invoice Software,"₹1,003.77",debit,Subscriptions
+2024-07-03,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-07-03,Rapido Bike Taxi,₹111.23,debit,Transportation
+2024-07-04,Namecheap Domain,"₹1,812.04",debit,Utilities
+2024-07-04,Swiggy Order,₹764.07,debit,Food & Dining
+2024-07-05,Gym Membership,"₹1,607.61",debit,Healthcare
+2024-07-05,Cashback Credit,₹700.78,credit,Income
+2024-07-05,Amazon Purchase,"₹6,668.38",debit,Shopping
+2024-07-06,Chartered Accountant Fee,"₹6,422.74",debit,Miscellaneous
+2024-07-07,Refund Credit,"₹4,046.81",credit,Income
+2024-07-08,Zomato Food Delivery,₹451.18,debit,Food & Dining
+2024-07-08,Hotstar Subscription,₹595.76,debit,Subscriptions
+2024-07-08,BigBasket Groceries,"₹2,803.03",debit,Groceries
+2024-07-09,Client Payment UPI,"₹88,328.27",credit,Income
+2024-07-10,Cashback Credit,₹246.51,credit,Income
+2024-07-10,Amazon Prime,₹657.03,debit,Subscriptions
+2024-07-11,More Supermarket,₹465.98,debit,Groceries
+2024-07-11,Gaming Recharge,"₹1,238.74",debit,Entertainment
+2024-07-12,Ola Cab,₹99.00,debit,Transportation
+2024-07-14,Uber Ride,₹177.68,debit,Transportation
+2024-07-14,YouTube Premium,₹139.00,debit,Subscriptions
+2024-07-14,Project Milestone,"₹50,610.02",credit,Income
+2024-07-16,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-07-16,Ajio Clothing,"₹1,016.29",debit,Shopping
+2024-07-17,Royalty Credit,"₹6,133.97",credit,Income
+2024-07-18,Reliance Fresh,"₹1,051.03",debit,Groceries
+2024-07-19,YouTube Premium,₹139.00,debit,Subscriptions
+2024-07-19,Namecheap Domain,"₹1,133.52",debit,Utilities
+2024-07-19,Ajio Clothing,"₹2,219.73",debit,Shopping
+2024-07-19,Gaming Recharge,₹341.45,debit,Entertainment
+2024-07-20,Hostinger Hosting,"₹1,016.85",debit,Utilities
+2024-07-21,Netflix Subscription,₹279.37,debit,Subscriptions
+2024-07-21,Apollo Pharmacy,"₹1,441.43",debit,Healthcare
+2024-07-21,Ola Cab,₹426.27,debit,Transportation
+2024-07-21,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-07-22,BigBasket Groceries,"₹1,366.85",debit,Groceries
+2024-07-22,Co-working Space,"₹7,036.68",debit,Housing
+2024-07-22,1mg Medicine Order,₹430.90,debit,Healthcare
+2024-07-23,Myntra Fashion,"₹3,666.43",debit,Shopping
+2024-07-23,Chartered Accountant Fee,"₹5,567.28",debit,Miscellaneous
+2024-07-24,Gaming Recharge,₹196.65,debit,Entertainment
+2024-07-25,Refund Credit,"₹3,452.83",credit,Income
+2024-07-25,Meesho Order,"₹1,748.71",debit,Shopping
+2024-07-25,YouTube Premium,₹139.00,debit,Subscriptions
+2024-07-25,Flipkart Order,"₹1,029.03",debit,Shopping
+2024-07-26,Invoice Software,₹613.50,debit,Subscriptions
+2024-07-27,Amazon Purchase,"₹4,992.28",debit,Shopping
+2024-07-27,Refund Credit,"₹1,164.09",credit,Income
+2024-07-28,Amazon Prime,₹295.35,debit,Subscriptions
+2024-07-28,Uber Ride,₹193.61,debit,Transportation
+2024-07-29,More Supermarket,"₹1,722.44",debit,Groceries
+2024-07-30,Chartered Accountant Fee,"₹11,003.04",debit,Miscellaneous
+2024-07-30,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-07-30,BigBasket Groceries,₹588.36,debit,Groceries
+2024-07-30,Namecheap Domain,"₹1,502.75",debit,Utilities
+2024-07-31,Namecheap Domain,₹867.00,debit,Utilities
+2024-07-31,YouTube Premium,₹139.00,debit,Subscriptions
+2024-08-01,Zomato Food Delivery,₹581.84,debit,Food & Dining
+2024-08-02,Client Payment UPI,"₹109,167.46",credit,Income
+2024-08-02,Amazon Prime,₹791.11,debit,Subscriptions
+2024-08-02,Swiggy Order,₹303.58,debit,Food & Dining
+2024-08-02,Meesho Order,₹823.57,debit,Shopping
+2024-08-03,Swiggy Order,₹442.88,debit,Food & Dining
+2024-08-03,Gaming Recharge,"₹1,643.51",debit,Entertainment
+2024-08-04,Meesho Order,"₹1,882.16",debit,Shopping
+2024-08-05,PVR Cinemas,₹455.51,debit,Entertainment
+2024-08-05,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-08-06,Netflix Subscription,₹527.25,debit,Subscriptions
+2024-08-06,Client Meeting Cab,₹710.70,debit,Transportation
+2024-08-06,Amazon Prime,₹341.61,debit,Subscriptions
+2024-08-07,Client Payment UPI,"₹54,388.20",credit,Income
+2024-08-08,Ola Cab,₹354.99,debit,Transportation
+2024-08-08,Client Payment UPI,"₹143,033.57",credit,Income
+2024-08-11,Meesho Order,₹504.86,debit,Shopping
+2024-08-11,Refund Credit,"₹4,307.01",credit,Income
+2024-08-11,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-08-12,Client Payment UPI,"₹109,021.12",credit,Income
+2024-08-12,Gaming Recharge,"₹1,224.16",debit,Entertainment
+2024-08-14,Namecheap Domain,"₹1,678.60",debit,Utilities
+2024-08-14,Gym Membership,"₹1,779.61",debit,Healthcare
+2024-08-15,Uber Ride,₹200.81,debit,Transportation
+2024-08-17,Cashback Credit,₹576.25,credit,Income
+2024-08-18,PVR Cinemas,₹699.60,debit,Entertainment
+2024-08-18,Retainer Fee Credit,"₹12,777.59",credit,Income
+2024-08-18,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-08-19,Chartered Accountant Fee,"₹4,218.12",debit,Miscellaneous
+2024-08-19,Cashback Credit,₹225.54,credit,Income
+2024-08-21,BookMyShow Tickets,"₹1,349.00",debit,Entertainment
+2024-08-24,Uber Ride,₹189.83,debit,Transportation
+2024-08-24,Flipkart Order,"₹2,874.81",debit,Shopping
+2024-08-25,1mg Medicine Order,₹261.49,debit,Healthcare
+2024-08-26,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-08-26,Rapido Bike Taxi,₹75.78,debit,Transportation
+2024-08-26,Royalty Credit,"₹4,035.71",credit,Income
+2024-08-26,BookMyShow Tickets,"₹1,438.06",debit,Entertainment
+2024-08-27,Swiggy Order,₹557.63,debit,Food & Dining
+2024-08-27,Royalty Credit,"₹7,906.10",credit,Income
+2024-08-27,Invoice Software,"₹1,079.54",debit,Subscriptions
+2024-08-27,BigBasket Groceries,"₹2,783.35",debit,Groceries
+2024-08-27,BigBasket Groceries,"₹3,064.50",debit,Groceries
+2024-08-28,More Supermarket,₹210.06,debit,Groceries
+2024-08-28,DMart Purchase,"₹1,236.71",debit,Groceries
+2024-08-28,Invoice Software,"₹1,626.28",debit,Subscriptions
+2024-08-28,Myntra Fashion,"₹2,437.76",debit,Shopping
+2024-08-29,Gaming Recharge,₹709.27,debit,Entertainment
+2024-08-30,Gym Membership,"₹2,385.57",debit,Healthcare
+2024-08-31,Gym Membership,₹827.88,debit,Healthcare
+2024-08-31,Rapido Bike Taxi,₹130.36,debit,Transportation
+2024-09-01,Myntra Fashion,"₹2,301.35",debit,Shopping
+2024-09-03,Equipment Purchase,"₹17,769.96",debit,Shopping
+2024-09-04,DMart Purchase,"₹2,740.17",debit,Groceries
+2024-09-05,Flipkart Order,₹940.77,debit,Shopping
+2024-09-05,Equipment Purchase,"₹49,316.82",debit,Shopping
+2024-09-05,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-09-06,Refund Credit,"₹1,218.26",credit,Income
+2024-09-06,Hostinger Hosting,"₹4,219.24",debit,Utilities
+2024-09-07,Canva Pro,₹499.00,debit,Subscriptions
+2024-09-07,1mg Medicine Order,₹933.06,debit,Healthcare
+2024-09-08,Cashback Credit,₹591.95,credit,Income
+2024-09-08,Netflix Subscription,₹605.37,debit,Subscriptions
+2024-09-09,BookMyShow Tickets,"₹1,062.80",debit,Entertainment
+2024-09-09,Gym Membership,"₹1,172.59",debit,Healthcare
+2024-09-09,Ajio Clothing,"₹2,021.68",debit,Shopping
+2024-09-11,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-09-11,Invoice Software,₹856.10,debit,Subscriptions
+2024-09-12,BigBasket Groceries,"₹1,961.77",debit,Groceries
+2024-09-13,Client Meeting Cab,₹714.20,debit,Transportation
+2024-09-14,More Supermarket,"₹1,046.84",debit,Groceries
+2024-09-15,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-09-15,More Supermarket,₹514.64,debit,Groceries
+2024-09-16,Reliance Fresh,"₹1,487.48",debit,Groceries
+2024-09-16,Ola Cab,₹229.48,debit,Transportation
+2024-09-17,Retainer Fee Credit,"₹12,277.91",credit,Income
+2024-09-17,Invoice Software,₹662.77,debit,Subscriptions
+2024-09-18,Invoice Software,₹906.98,debit,Subscriptions
+2024-09-18,Course Sale Revenue,"₹12,723.66",credit,Income
+2024-09-18,BigBasket Groceries,"₹2,245.20",debit,Groceries
+2024-09-19,Retainer Fee Credit,"₹46,927.18",credit,Income
+2024-09-19,Amazon Purchase,"₹3,410.38",debit,Shopping
+2024-09-19,Uber Ride,₹257.10,debit,Transportation
+2024-09-20,Reliance Fresh,₹183.64,debit,Groceries
+2024-09-20,BigBasket Groceries,"₹2,299.88",debit,Groceries
+2024-09-21,PVR Cinemas,₹596.78,debit,Entertainment
+2024-09-21,Ajio Clothing,"₹2,943.33",debit,Shopping
+2024-09-22,Namecheap Domain,₹845.83,debit,Utilities
+2024-09-24,1mg Medicine Order,₹140.78,debit,Healthcare
+2024-09-24,Notion Subscription,₹500.00,debit,Subscriptions
+2024-09-25,Client Payment UPI,"₹145,711.14",credit,Income
+2024-09-25,Chartered Accountant Fee,"₹11,760.30",debit,Miscellaneous
+2024-09-25,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-09-26,Project Milestone,"₹74,838.82",credit,Income
+2024-09-26,Ajio Clothing,"₹2,499.09",debit,Shopping
+2024-09-27,Apollo Pharmacy,₹658.45,debit,Healthcare
+2024-09-28,Zomato Food Delivery,₹779.30,debit,Food & Dining
+2024-09-28,Invoice Software,"₹1,586.59",debit,Subscriptions
+2024-09-29,Equipment Purchase,"₹5,217.25",debit,Shopping
+2024-09-29,Retainer Fee Credit,"₹44,449.82",credit,Income
+2024-09-30,1mg Medicine Order,₹714.21,debit,Healthcare
+2024-09-30,Uber Ride,₹385.50,debit,Transportation
+2024-10-01,Notion Subscription,₹500.00,debit,Subscriptions
+2024-10-01,Refund Credit,"₹4,176.44",credit,Income
+2024-10-02,Notion Subscription,₹500.00,debit,Subscriptions
+2024-10-03,1mg Medicine Order,"₹1,378.21",debit,Healthcare
+2024-10-03,Ajio Clothing,"₹1,440.26",debit,Shopping
+2024-10-03,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-10-04,Ola Cab,₹316.31,debit,Transportation
+2024-10-04,Notion Subscription,₹500.00,debit,Subscriptions
+2024-10-04,Gaming Recharge,₹61.46,debit,Entertainment
+2024-10-04,Hostinger Hosting,"₹2,230.85",debit,Utilities
+2024-10-05,Meesho Order,₹739.56,debit,Shopping
+2024-10-05,YouTube Premium,₹139.00,debit,Subscriptions
+2024-10-05,Royalty Credit,"₹2,255.95",credit,Income
+2024-10-06,Hotstar Subscription,₹250.75,debit,Subscriptions
+2024-10-07,Amazon Prime,₹572.86,debit,Subscriptions
+2024-10-07,Uber Ride,₹494.84,debit,Transportation
+2024-10-09,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-10-09,Meesho Order,"₹1,862.87",debit,Shopping
+2024-10-10,Hostinger Hosting,"₹1,008.08",debit,Utilities
+2024-10-10,Ajio Clothing,"₹2,975.68",debit,Shopping
+2024-10-11,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-10-11,Cashback Credit,₹635.56,credit,Income
+2024-10-13,Chartered Accountant Fee,"₹14,150.64",debit,Miscellaneous
+2024-10-14,Equipment Purchase,"₹13,140.32",debit,Shopping
+2024-10-15,Gym Membership,"₹2,327.20",debit,Healthcare
+2024-10-15,Amazon Purchase,"₹6,939.83",debit,Shopping
+2024-10-15,Amazon Purchase,"₹3,483.64",debit,Shopping
+2024-10-17,Client Meeting Cab,₹679.03,debit,Transportation
+2024-10-17,PVR Cinemas,₹573.77,debit,Entertainment
+2024-10-17,PVR Cinemas,₹729.97,debit,Entertainment
+2024-10-18,Ajio Clothing,₹598.91,debit,Shopping
+2024-10-18,1mg Medicine Order,₹673.33,debit,Healthcare
+2024-10-19,Chartered Accountant Fee,"₹9,419.36",debit,Miscellaneous
+2024-10-19,BookMyShow Tickets,₹251.89,debit,Entertainment
+2024-10-20,Canva Pro,₹499.00,debit,Subscriptions
+2024-10-21,Canva Pro,₹499.00,debit,Subscriptions
+2024-10-21,Rapido Bike Taxi,₹112.54,debit,Transportation
+2024-10-21,Gym Membership,"₹2,008.23",debit,Healthcare
+2024-10-23,Namecheap Domain,"₹1,921.09",debit,Utilities
+2024-10-23,Equipment Purchase,"₹18,536.92",debit,Shopping
+2024-10-24,Client Payment UPI,"₹130,807.21",credit,Income
+2024-10-26,YouTube Premium,₹139.00,debit,Subscriptions
+2024-10-26,Amazon Prime,₹794.23,debit,Subscriptions
+2024-10-27,Netflix Subscription,₹472.06,debit,Subscriptions
+2024-10-28,Royalty Credit,"₹17,217.00",credit,Income
+2024-10-28,Retainer Fee Credit,"₹23,636.91",credit,Income
+2024-10-28,Equipment Purchase,"₹25,723.69",debit,Shopping
+2024-10-29,Course Sale Revenue,"₹5,503.88",credit,Income
+2024-10-29,Myntra Fashion,₹503.62,debit,Shopping
+2024-10-30,Invoice Software,"₹1,460.10",debit,Subscriptions
+2024-11-01,Notion Subscription,₹500.00,debit,Subscriptions
+2024-11-01,Rapido Bike Taxi,₹141.16,debit,Transportation
+2024-11-02,Uber Ride,₹428.20,debit,Transportation
+2024-11-02,Notion Subscription,₹500.00,debit,Subscriptions
+2024-11-02,DMart Purchase,"₹2,687.34",debit,Groceries
+2024-11-02,Meesho Order,₹939.60,debit,Shopping
+2024-11-04,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-11-06,Cashback Credit,₹864.36,credit,Income
+2024-11-07,Ajio Clothing,"₹3,089.93",debit,Shopping
+2024-11-08,Invoice Software,"₹1,290.99",debit,Subscriptions
+2024-11-08,Invoice Software,"₹1,325.50",debit,Subscriptions
+2024-11-11,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-11-12,Canva Pro,₹499.00,debit,Subscriptions
+2024-11-12,More Supermarket,"₹1,034.75",debit,Groceries
+2024-11-12,Ola Cab,₹385.18,debit,Transportation
+2024-11-14,Chartered Accountant Fee,"₹11,407.42",debit,Miscellaneous
+2024-11-15,BookMyShow Tickets,₹590.27,debit,Entertainment
+2024-11-16,Zomato Food Delivery,₹251.43,debit,Food & Dining
+2024-11-17,DMart Purchase,"₹1,558.50",debit,Groceries
+2024-11-18,Namecheap Domain,"₹1,676.72",debit,Utilities
+2024-11-20,Gaming Recharge,"₹1,789.02",debit,Entertainment
+2024-11-21,Hostinger Hosting,"₹2,029.63",debit,Utilities
+2024-11-22,Swiggy Order,₹849.49,debit,Food & Dining
+2024-11-24,PVR Cinemas,₹475.13,debit,Entertainment
+2024-11-24,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2024-11-24,Refund Credit,"₹1,951.00",credit,Income
+2024-11-25,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2024-11-25,Myntra Fashion,"₹2,309.56",debit,Shopping
+2024-11-27,Amazon Prime,₹510.87,debit,Subscriptions
+2024-11-27,Invoice Software,₹676.64,debit,Subscriptions
+2024-11-27,Zomato Food Delivery,₹399.36,debit,Food & Dining
+2024-11-29,Invoice Software,"₹1,669.46",debit,Subscriptions
+2024-11-30,Spotify Premium,₹119.00,debit,Subscriptions
+2024-12-01,Cashback Credit,₹400.37,credit,Income
+2024-12-01,Gaming Recharge,"₹1,446.62",debit,Entertainment
+2024-12-01,Uber Ride,₹443.57,debit,Transportation
+2024-12-02,Refund Credit,"₹2,580.56",credit,Income
+2024-12-03,BigBasket Groceries,"₹1,981.57",debit,Groceries
+2024-12-03,Ajio Clothing,₹813.93,debit,Shopping
+2024-12-04,Hotstar Subscription,₹745.43,debit,Subscriptions
+2024-12-04,Namecheap Domain,₹827.48,debit,Utilities
+2024-12-05,Client Meeting Cab,₹525.27,debit,Transportation
+2024-12-06,DMart Purchase,"₹2,492.30",debit,Groceries
+2024-12-06,Co-working Space,"₹3,780.86",debit,Housing
+2024-12-06,Royalty Credit,"₹17,150.98",credit,Income
+2024-12-06,Uber Ride,₹113.50,debit,Transportation
+2024-12-07,Ajio Clothing,"₹3,266.86",debit,Shopping
+2024-12-07,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-12-08,Amazon Purchase,₹497.23,debit,Shopping
+2024-12-08,BigBasket Groceries,₹544.54,debit,Groceries
+2024-12-09,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-12-09,Royalty Credit,"₹19,083.67",credit,Income
+2024-12-09,Hotstar Subscription,₹677.60,debit,Subscriptions
+2024-12-10,Hotstar Subscription,₹340.13,debit,Subscriptions
+2024-12-10,Project Milestone,"₹74,810.57",credit,Income
+2024-12-10,Meesho Order,"₹1,875.30",debit,Shopping
+2024-12-10,More Supermarket,₹581.13,debit,Groceries
+2024-12-11,Notion Subscription,₹500.00,debit,Subscriptions
+2024-12-11,Gym Membership,"₹1,431.90",debit,Healthcare
+2024-12-11,Amazon Purchase,"₹6,869.23",debit,Shopping
+2024-12-12,Client Meeting Cab,₹704.48,debit,Transportation
+2024-12-12,YouTube Premium,₹139.00,debit,Subscriptions
+2024-12-13,Tally Software,"₹9,000.00",debit,Subscriptions
+2024-12-14,Uber Ride,₹299.94,debit,Transportation
+2024-12-15,Spotify Premium,₹119.00,debit,Subscriptions
+2024-12-15,Course Sale Revenue,"₹17,177.77",credit,Income
+2024-12-15,DMart Purchase,"₹2,245.91",debit,Groceries
+2024-12-19,Chartered Accountant Fee,"₹6,890.17",debit,Miscellaneous
+2024-12-19,Co-working Space,"₹4,156.01",debit,Housing
+2024-12-20,Reliance Fresh,"₹1,933.85",debit,Groceries
+2024-12-20,Refund Credit,₹761.75,credit,Income
+2024-12-21,BigBasket Groceries,"₹2,501.66",debit,Groceries
+2024-12-21,Hotstar Subscription,₹170.79,debit,Subscriptions
+2024-12-22,PVR Cinemas,₹469.91,debit,Entertainment
+2024-12-22,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2024-12-23,Invoice Software,"₹1,488.49",debit,Subscriptions
+2024-12-23,BookMyShow Tickets,₹259.89,debit,Entertainment
+2024-12-24,Uber Ride,₹183.44,debit,Transportation
+2024-12-25,Netflix Subscription,₹324.89,debit,Subscriptions
+2024-12-25,Hotstar Subscription,₹636.19,debit,Subscriptions
+2024-12-25,Chartered Accountant Fee,"₹3,862.00",debit,Miscellaneous
+2024-12-25,Canva Pro,₹499.00,debit,Subscriptions
+2024-12-27,YouTube Premium,₹139.00,debit,Subscriptions
+2024-12-28,Flipkart Order,"₹3,183.55",debit,Shopping
+2024-12-28,Royalty Credit,"₹13,905.11",credit,Income
+2024-12-31,DMart Purchase,"₹2,094.53",debit,Groceries
+2024-12-31,Myntra Fashion,"₹1,980.98",debit,Shopping
+2024-12-31,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-01-01,Project Milestone,"₹93,856.62",credit,Income
+2025-01-01,Course Sale Revenue,"₹7,290.23",credit,Income
+2025-01-03,Retainer Fee Credit,"₹33,584.26",credit,Income
+2025-01-03,DMart Purchase,"₹3,469.04",debit,Groceries
+2025-01-03,DMart Purchase,₹369.28,debit,Groceries
+2025-01-04,Gym Membership,₹582.41,debit,Healthcare
+2025-01-04,Apollo Pharmacy,₹536.38,debit,Healthcare
+2025-01-05,Uber Ride,₹116.22,debit,Transportation
+2025-01-07,Hotstar Subscription,₹705.80,debit,Subscriptions
+2025-01-07,Chartered Accountant Fee,"₹4,143.01",debit,Miscellaneous
+2025-01-08,Notion Subscription,₹500.00,debit,Subscriptions
+2025-01-08,Hostinger Hosting,"₹2,441.75",debit,Utilities
+2025-01-09,Chartered Accountant Fee,"₹7,670.28",debit,Miscellaneous
+2025-01-10,Refund Credit,"₹3,132.25",credit,Income
+2025-01-10,Hotstar Subscription,₹342.20,debit,Subscriptions
+2025-01-10,Zomato Food Delivery,₹186.77,debit,Food & Dining
+2025-01-12,DMart Purchase,"₹1,229.03",debit,Groceries
+2025-01-12,Meesho Order,"₹1,348.77",debit,Shopping
+2025-01-13,More Supermarket,"₹1,558.21",debit,Groceries
+2025-01-14,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-01-15,Flipkart Order,"₹5,498.41",debit,Shopping
+2025-01-17,Zomato Food Delivery,₹556.10,debit,Food & Dining
+2025-01-17,Course Sale Revenue,"₹24,562.24",credit,Income
+2025-01-18,Uber Ride,₹428.05,debit,Transportation
+2025-01-19,DMart Purchase,₹393.98,debit,Groceries
+2025-01-19,Flipkart Order,₹980.59,debit,Shopping
+2025-01-19,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-01-20,Project Milestone,"₹63,878.45",credit,Income
+2025-01-20,Course Sale Revenue,"₹21,477.08",credit,Income
+2025-01-21,Canva Pro,₹499.00,debit,Subscriptions
+2025-01-21,1mg Medicine Order,₹539.15,debit,Healthcare
+2025-01-21,Namecheap Domain,"₹1,290.03",debit,Utilities
+2025-01-23,Meesho Order,"₹1,801.00",debit,Shopping
+2025-01-23,Uber Ride,₹343.87,debit,Transportation
+2025-01-23,Spotify Premium,₹119.00,debit,Subscriptions
+2025-01-24,Royalty Credit,"₹11,758.89",credit,Income
+2025-01-24,Netflix Subscription,₹249.12,debit,Subscriptions
+2025-01-24,Gym Membership,₹768.94,debit,Healthcare
+2025-01-25,Namecheap Domain,"₹1,308.58",debit,Utilities
+2025-01-25,Client Payment UPI,"₹82,439.22",credit,Income
+2025-01-25,Flipkart Order,"₹5,607.85",debit,Shopping
+2025-01-26,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-01-26,Client Payment UPI,"₹35,772.49",credit,Income
+2025-01-26,Uber Ride,₹574.96,debit,Transportation
+2025-01-27,Client Payment UPI,"₹41,293.72",credit,Income
+2025-01-27,Refund Credit,"₹4,300.36",credit,Income
+2025-01-27,Swiggy Order,₹773.54,debit,Food & Dining
+2025-01-27,PVR Cinemas,₹363.47,debit,Entertainment
+2025-01-28,Hotstar Subscription,₹751.59,debit,Subscriptions
+2025-01-29,Royalty Credit,"₹2,289.97",credit,Income
+2025-01-29,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-01-29,BigBasket Groceries,₹587.49,debit,Groceries
+2025-01-30,Royalty Credit,"₹11,403.92",credit,Income
+2025-01-31,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-02-01,Reliance Fresh,"₹1,050.86",debit,Groceries
+2025-02-01,Course Sale Revenue,"₹22,087.83",credit,Income
+2025-02-03,Project Milestone,"₹95,313.50",credit,Income
+2025-02-03,BookMyShow Tickets,₹725.15,debit,Entertainment
+2025-02-03,Ajio Clothing,"₹1,617.05",debit,Shopping
+2025-02-04,Uber Ride,₹511.95,debit,Transportation
+2025-02-04,Ola Cab,₹492.24,debit,Transportation
+2025-02-04,Canva Pro,₹499.00,debit,Subscriptions
+2025-02-04,Course Sale Revenue,"₹11,811.41",credit,Income
+2025-02-05,Spotify Premium,₹119.00,debit,Subscriptions
+2025-02-06,Netflix Subscription,₹420.46,debit,Subscriptions
+2025-02-06,Apollo Pharmacy,"₹1,395.95",debit,Healthcare
+2025-02-06,Gym Membership,"₹2,328.75",debit,Healthcare
+2025-02-07,Amazon Purchase,"₹4,386.59",debit,Shopping
+2025-02-09,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-02-09,Ajio Clothing,"₹2,577.10",debit,Shopping
+2025-02-10,Amazon Prime,₹979.28,debit,Subscriptions
+2025-02-10,Course Sale Revenue,"₹11,115.50",credit,Income
+2025-02-10,Swiggy Order,₹291.71,debit,Food & Dining
+2025-02-10,Rapido Bike Taxi,₹169.15,debit,Transportation
+2025-02-11,Equipment Purchase,"₹21,931.29",debit,Shopping
+2025-02-11,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-02-12,Rapido Bike Taxi,₹138.48,debit,Transportation
+2025-02-13,Co-working Space,"₹4,314.51",debit,Housing
+2025-02-14,Myntra Fashion,"₹3,757.47",debit,Shopping
+2025-02-14,Gaming Recharge,"₹1,756.33",debit,Entertainment
+2025-02-14,YouTube Premium,₹139.00,debit,Subscriptions
+2025-02-15,Ola Cab,₹209.41,debit,Transportation
+2025-02-18,More Supermarket,₹919.24,debit,Groceries
+2025-02-18,Zomato Food Delivery,₹841.88,debit,Food & Dining
+2025-02-19,Rapido Bike Taxi,₹103.23,debit,Transportation
+2025-02-20,Reliance Fresh,₹512.56,debit,Groceries
+2025-02-21,BigBasket Groceries,"₹1,995.99",debit,Groceries
+2025-02-22,Namecheap Domain,"₹1,946.48",debit,Utilities
+2025-02-22,Amazon Purchase,"₹6,688.09",debit,Shopping
+2025-02-22,Amazon Purchase,"₹1,399.00",debit,Shopping
+2025-02-22,More Supermarket,₹679.78,debit,Groceries
+2025-02-22,Ajio Clothing,₹733.61,debit,Shopping
+2025-02-23,1mg Medicine Order,₹589.20,debit,Healthcare
+2025-02-23,Hostinger Hosting,"₹3,765.54",debit,Utilities
+2025-02-24,Client Payment UPI,"₹119,228.09",credit,Income
+2025-03-01,Gaming Recharge,"₹1,449.68",debit,Entertainment
+2025-03-03,Project Milestone,"₹96,128.40",credit,Income
+2025-03-04,PVR Cinemas,₹696.01,debit,Entertainment
+2025-03-04,Amazon Prime,₹194.36,debit,Subscriptions
+2025-03-05,Zomato Food Delivery,₹837.01,debit,Food & Dining
+2025-03-06,Spotify Premium,₹119.00,debit,Subscriptions
+2025-03-06,Gym Membership,₹868.48,debit,Healthcare
+2025-03-06,YouTube Premium,₹139.00,debit,Subscriptions
+2025-03-09,Canva Pro,₹499.00,debit,Subscriptions
+2025-03-09,PVR Cinemas,₹537.53,debit,Entertainment
+2025-03-10,Netflix Subscription,₹461.69,debit,Subscriptions
+2025-03-10,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-03-10,Uber Ride,₹271.37,debit,Transportation
+2025-03-12,More Supermarket,₹497.62,debit,Groceries
+2025-03-12,Namecheap Domain,₹908.66,debit,Utilities
+2025-03-13,Gaming Recharge,₹348.33,debit,Entertainment
+2025-03-14,Myntra Fashion,"₹3,905.09",debit,Shopping
+2025-03-14,Flipkart Order,"₹4,199.79",debit,Shopping
+2025-03-14,1mg Medicine Order,₹804.70,debit,Healthcare
+2025-03-15,Ajio Clothing,₹904.88,debit,Shopping
+2025-03-15,Netflix Subscription,₹648.07,debit,Subscriptions
+2025-03-16,Refund Credit,"₹3,078.93",credit,Income
+2025-03-16,Equipment Purchase,"₹16,619.53",debit,Shopping
+2025-03-16,Canva Pro,₹499.00,debit,Subscriptions
+2025-03-17,Canva Pro,₹499.00,debit,Subscriptions
+2025-03-17,Namecheap Domain,₹887.06,debit,Utilities
+2025-03-18,Canva Pro,₹499.00,debit,Subscriptions
+2025-03-19,Ajio Clothing,₹883.40,debit,Shopping
+2025-03-19,Netflix Subscription,₹149.73,debit,Subscriptions
+2025-03-20,Refund Credit,"₹4,491.96",credit,Income
+2025-03-21,Swiggy Order,₹107.19,debit,Food & Dining
+2025-03-23,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-03-23,Hostinger Hosting,"₹2,166.45",debit,Utilities
+2025-03-24,Namecheap Domain,"₹1,610.71",debit,Utilities
+2025-03-24,Rapido Bike Taxi,₹154.35,debit,Transportation
+2025-03-25,Namecheap Domain,"₹1,318.97",debit,Utilities
+2025-03-25,Amazon Purchase,"₹4,363.77",debit,Shopping
+2025-03-26,Flipkart Order,"₹1,536.39",debit,Shopping
+2025-03-27,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-03-27,Amazon Prime,₹625.54,debit,Subscriptions
+2025-03-28,Uber Ride,₹287.84,debit,Transportation
+2025-03-29,BigBasket Groceries,"₹2,960.02",debit,Groceries
+2025-03-29,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-03-30,BookMyShow Tickets,₹619.16,debit,Entertainment
+2025-03-30,Course Sale Revenue,"₹27,602.39",credit,Income
+2025-03-30,Project Milestone,"₹29,366.21",credit,Income
+2025-03-31,Hostinger Hosting,"₹2,841.32",debit,Utilities
+2025-03-31,Canva Pro,₹499.00,debit,Subscriptions
+2025-04-01,Co-working Space,"₹4,291.17",debit,Housing
+2025-04-01,Amazon Purchase,"₹5,906.41",debit,Shopping
+2025-04-02,Project Milestone,"₹96,014.89",credit,Income
+2025-04-03,Namecheap Domain,"₹1,883.51",debit,Utilities
+2025-04-03,Amazon Prime,₹774.66,debit,Subscriptions
+2025-04-03,Royalty Credit,"₹17,912.71",credit,Income
+2025-04-04,More Supermarket,"₹1,427.63",debit,Groceries
+2025-04-05,Namecheap Domain,"₹1,628.90",debit,Utilities
+2025-04-05,Refund Credit,₹600.25,credit,Income
+2025-04-06,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-04-06,Netflix Subscription,₹604.81,debit,Subscriptions
+2025-04-08,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-04-08,Flipkart Order,₹883.97,debit,Shopping
+2025-04-08,Royalty Credit,"₹18,108.59",credit,Income
+2025-04-09,Client Payment UPI,"₹107,740.62",credit,Income
+2025-04-11,PVR Cinemas,₹299.34,debit,Entertainment
+2025-04-11,DMart Purchase,"₹1,884.18",debit,Groceries
+2025-04-11,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-04-12,Apollo Pharmacy,₹117.16,debit,Healthcare
+2025-04-12,BookMyShow Tickets,₹426.95,debit,Entertainment
+2025-04-13,Swiggy Order,₹716.63,debit,Food & Dining
+2025-04-13,Invoice Software,"₹1,188.90",debit,Subscriptions
+2025-04-13,Gym Membership,"₹2,083.84",debit,Healthcare
+2025-04-14,More Supermarket,"₹1,481.45",debit,Groceries
+2025-04-14,Project Milestone,"₹77,930.18",credit,Income
+2025-04-15,Client Payment UPI,"₹74,560.86",credit,Income
+2025-04-17,Co-working Space,"₹10,151.65",debit,Housing
+2025-04-17,Hostinger Hosting,"₹2,061.28",debit,Utilities
+2025-04-18,Myntra Fashion,"₹1,620.80",debit,Shopping
+2025-04-20,YouTube Premium,₹139.00,debit,Subscriptions
+2025-04-20,Amazon Purchase,₹766.28,debit,Shopping
+2025-04-21,Spotify Premium,₹119.00,debit,Subscriptions
+2025-04-23,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-04-23,More Supermarket,₹752.71,debit,Groceries
+2025-04-23,Cashback Credit,₹278.62,credit,Income
+2025-04-24,Notion Subscription,₹500.00,debit,Subscriptions
+2025-04-24,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-04-25,Invoice Software,"₹1,261.99",debit,Subscriptions
+2025-04-26,Meesho Order,"₹1,255.07",debit,Shopping
+2025-04-26,DMart Purchase,"₹1,346.31",debit,Groceries
+2025-04-27,Amazon Prime,₹834.26,debit,Subscriptions
+2025-04-28,Apollo Pharmacy,"₹1,384.35",debit,Healthcare
+2025-04-29,Royalty Credit,"₹1,170.84",credit,Income
+2025-04-29,Spotify Premium,₹119.00,debit,Subscriptions
+2025-04-30,BigBasket Groceries,"₹1,657.87",debit,Groceries
+2025-04-30,Namecheap Domain,₹836.66,debit,Utilities
+2025-04-30,Canva Pro,₹499.00,debit,Subscriptions
+2025-04-30,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-05-01,Rapido Bike Taxi,₹181.68,debit,Transportation
+2025-05-01,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-05-02,Uber Ride,₹353.76,debit,Transportation
+2025-05-02,Flipkart Order,"₹1,891.52",debit,Shopping
+2025-05-02,Rapido Bike Taxi,₹35.21,debit,Transportation
+2025-05-02,Swiggy Order,₹219.58,debit,Food & Dining
+2025-05-06,DMart Purchase,"₹1,558.01",debit,Groceries
+2025-05-07,Ajio Clothing,"₹1,870.27",debit,Shopping
+2025-05-08,Equipment Purchase,"₹31,779.53",debit,Shopping
+2025-05-09,Amazon Prime,₹687.75,debit,Subscriptions
+2025-05-10,Client Meeting Cab,₹443.41,debit,Transportation
+2025-05-10,Project Milestone,"₹84,848.62",credit,Income
+2025-05-11,BigBasket Groceries,"₹2,532.84",debit,Groceries
+2025-05-12,YouTube Premium,₹139.00,debit,Subscriptions
+2025-05-12,Uber Ride,₹210.80,debit,Transportation
+2025-05-13,Uber Ride,₹228.70,debit,Transportation
+2025-05-13,Hostinger Hosting,"₹1,692.00",debit,Utilities
+2025-05-13,Myntra Fashion,"₹2,376.71",debit,Shopping
+2025-05-14,Gaming Recharge,₹929.21,debit,Entertainment
+2025-05-14,Royalty Credit,"₹4,260.96",credit,Income
+2025-05-15,Course Sale Revenue,"₹23,693.94",credit,Income
+2025-05-15,Amazon Purchase,₹985.17,debit,Shopping
+2025-05-15,Zomato Food Delivery,₹244.94,debit,Food & Dining
+2025-05-15,Invoice Software,"₹1,610.95",debit,Subscriptions
+2025-05-17,Amazon Purchase,₹923.55,debit,Shopping
+2025-05-17,Notion Subscription,₹500.00,debit,Subscriptions
+2025-05-18,YouTube Premium,₹139.00,debit,Subscriptions
+2025-05-18,Hostinger Hosting,"₹3,379.51",debit,Utilities
+2025-05-18,Royalty Credit,"₹14,713.08",credit,Income
+2025-05-19,Amazon Purchase,₹425.88,debit,Shopping
+2025-05-19,Refund Credit,"₹1,059.48",credit,Income
+2025-05-20,Notion Subscription,₹500.00,debit,Subscriptions
+2025-05-21,Rapido Bike Taxi,₹58.55,debit,Transportation
+2025-05-22,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-05-24,Namecheap Domain,"₹1,509.52",debit,Utilities
+2025-05-25,Cashback Credit,₹897.21,credit,Income
+2025-05-25,BookMyShow Tickets,"₹1,258.39",debit,Entertainment
+2025-05-26,Flipkart Order,"₹1,283.68",debit,Shopping
+2025-05-26,PVR Cinemas,₹759.10,debit,Entertainment
+2025-05-26,Equipment Purchase,"₹45,355.28",debit,Shopping
+2025-05-26,Ola Cab,₹100.00,debit,Transportation
+2025-05-26,Gaming Recharge,"₹1,632.72",debit,Entertainment
+2025-05-27,Myntra Fashion,"₹2,862.22",debit,Shopping
+2025-05-27,Client Meeting Cab,₹798.36,debit,Transportation
+2025-05-27,YouTube Premium,₹139.00,debit,Subscriptions
+2025-05-28,Ajio Clothing,"₹3,391.17",debit,Shopping
+2025-05-30,Apollo Pharmacy,"₹1,828.01",debit,Healthcare
+2025-05-30,Namecheap Domain,"₹1,238.28",debit,Utilities
+2025-05-30,Flipkart Order,"₹2,254.22",debit,Shopping
+2025-05-31,PVR Cinemas,₹618.62,debit,Entertainment
+2025-05-31,Namecheap Domain,₹949.55,debit,Utilities
+2025-05-31,1mg Medicine Order,"₹1,301.41",debit,Healthcare
+2025-06-01,Hostinger Hosting,"₹3,078.55",debit,Utilities
+2025-06-03,PVR Cinemas,₹409.34,debit,Entertainment
+2025-06-04,Flipkart Order,"₹1,677.04",debit,Shopping
+2025-06-04,Rapido Bike Taxi,₹154.35,debit,Transportation
+2025-06-05,Course Sale Revenue,"₹25,237.08",credit,Income
+2025-06-05,Amazon Purchase,"₹5,244.74",debit,Shopping
+2025-06-05,Retainer Fee Credit,"₹41,829.69",credit,Income
+2025-06-06,Course Sale Revenue,"₹18,626.36",credit,Income
+2025-06-06,Equipment Purchase,"₹5,606.62",debit,Shopping
+2025-06-06,Amazon Prime,₹327.08,debit,Subscriptions
+2025-06-07,More Supermarket,₹446.33,debit,Groceries
+2025-06-08,Co-working Space,"₹4,374.09",debit,Housing
+2025-06-08,Hotstar Subscription,₹328.55,debit,Subscriptions
+2025-06-09,Ola Cab,₹330.35,debit,Transportation
+2025-06-09,Refund Credit,"₹4,182.43",credit,Income
+2025-06-09,Retainer Fee Credit,"₹35,796.45",credit,Income
+2025-06-09,Client Meeting Cab,₹960.29,debit,Transportation
+2025-06-10,Gym Membership,"₹1,620.99",debit,Healthcare
+2025-06-10,PVR Cinemas,₹456.05,debit,Entertainment
+2025-06-11,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-06-12,Chartered Accountant Fee,"₹13,954.95",debit,Miscellaneous
+2025-06-12,Rapido Bike Taxi,₹166.94,debit,Transportation
+2025-06-12,BigBasket Groceries,"₹2,228.17",debit,Groceries
+2025-06-12,Project Milestone,"₹70,326.45",credit,Income
+2025-06-12,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-06-14,Chartered Accountant Fee,"₹7,026.88",debit,Miscellaneous
+2025-06-16,Notion Subscription,₹500.00,debit,Subscriptions
+2025-06-16,Amazon Prime,₹247.86,debit,Subscriptions
+2025-06-17,Course Sale Revenue,"₹18,470.52",credit,Income
+2025-06-18,Client Payment UPI,"₹62,331.51",credit,Income
+2025-06-18,Ajio Clothing,"₹3,418.03",debit,Shopping
+2025-06-19,Cashback Credit,₹193.06,credit,Income
+2025-06-20,Royalty Credit,"₹14,973.57",credit,Income
+2025-06-21,Chartered Accountant Fee,"₹11,369.27",debit,Miscellaneous
+2025-06-22,Amazon Prime,₹595.40,debit,Subscriptions
+2025-06-22,1mg Medicine Order,"₹1,216.83",debit,Healthcare
+2025-06-23,PVR Cinemas,₹727.87,debit,Entertainment
+2025-06-23,Canva Pro,₹499.00,debit,Subscriptions
+2025-06-23,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-06-24,Uber Ride,₹435.28,debit,Transportation
+2025-06-25,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-06-26,Reliance Fresh,₹568.18,debit,Groceries
+2025-06-27,Chartered Accountant Fee,"₹5,897.75",debit,Miscellaneous
+2025-06-27,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-06-27,Invoice Software,₹655.26,debit,Subscriptions
+2025-06-27,PVR Cinemas,₹766.36,debit,Entertainment
+2025-06-27,Amazon Prime,₹631.96,debit,Subscriptions
+2025-06-27,Client Meeting Cab,₹731.49,debit,Transportation
+2025-06-29,Spotify Premium,₹119.00,debit,Subscriptions
+2025-06-29,Spotify Premium,₹119.00,debit,Subscriptions
+2025-06-30,YouTube Premium,₹139.00,debit,Subscriptions
+2025-07-01,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-07-01,Namecheap Domain,"₹1,921.89",debit,Utilities
+2025-07-02,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-07-02,Spotify Premium,₹119.00,debit,Subscriptions
+2025-07-03,Namecheap Domain,₹917.56,debit,Utilities
+2025-07-03,YouTube Premium,₹139.00,debit,Subscriptions
+2025-07-03,Cashback Credit,₹469.46,credit,Income
+2025-07-04,Amazon Purchase,"₹1,603.73",debit,Shopping
+2025-07-04,Invoice Software,₹583.50,debit,Subscriptions
+2025-07-05,Flipkart Order,"₹5,371.12",debit,Shopping
+2025-07-06,Project Milestone,"₹56,909.37",credit,Income
+2025-07-06,Amazon Prime,₹505.37,debit,Subscriptions
+2025-07-07,Gaming Recharge,₹244.79,debit,Entertainment
+2025-07-07,DMart Purchase,"₹2,059.77",debit,Groceries
+2025-07-08,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-07-08,1mg Medicine Order,"₹1,273.71",debit,Healthcare
+2025-07-08,Meesho Order,₹879.22,debit,Shopping
+2025-07-09,Myntra Fashion,"₹2,457.44",debit,Shopping
+2025-07-10,Amazon Purchase,"₹7,079.59",debit,Shopping
+2025-07-10,Ajio Clothing,"₹3,387.21",debit,Shopping
+2025-07-11,Royalty Credit,"₹18,282.63",credit,Income
+2025-07-12,Zomato Food Delivery,₹617.04,debit,Food & Dining
+2025-07-12,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-07-12,1mg Medicine Order,₹514.46,debit,Healthcare
+2025-07-13,1mg Medicine Order,₹819.36,debit,Healthcare
+2025-07-14,Refund Credit,₹771.00,credit,Income
+2025-07-15,Zomato Food Delivery,₹281.44,debit,Food & Dining
+2025-07-15,Amazon Purchase,"₹6,689.57",debit,Shopping
+2025-07-15,Apollo Pharmacy,₹209.30,debit,Healthcare
+2025-07-16,Zomato Food Delivery,₹797.72,debit,Food & Dining
+2025-07-16,Client Payment UPI,"₹48,166.16",credit,Income
+2025-07-16,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-07-16,Notion Subscription,₹500.00,debit,Subscriptions
+2025-07-17,Retainer Fee Credit,"₹12,372.00",credit,Income
+2025-07-17,Apollo Pharmacy,₹418.67,debit,Healthcare
+2025-07-18,Ola Cab,₹225.56,debit,Transportation
+2025-07-19,Royalty Credit,"₹7,759.53",credit,Income
+2025-07-21,Hotstar Subscription,₹180.80,debit,Subscriptions
+2025-07-21,Spotify Premium,₹119.00,debit,Subscriptions
+2025-07-22,Gaming Recharge,₹260.16,debit,Entertainment
+2025-07-22,Uber Ride,₹435.51,debit,Transportation
+2025-07-22,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-07-22,Equipment Purchase,"₹17,295.51",debit,Shopping
+2025-07-22,Gym Membership,"₹1,844.32",debit,Healthcare
+2025-07-23,Equipment Purchase,"₹13,700.88",debit,Shopping
+2025-07-24,Apollo Pharmacy,"₹1,533.99",debit,Healthcare
+2025-07-24,Reliance Fresh,"₹1,282.89",debit,Groceries
+2025-07-24,Zomato Food Delivery,₹133.88,debit,Food & Dining
+2025-07-25,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-07-27,Cashback Credit,₹59.06,credit,Income
+2025-07-28,Hotstar Subscription,₹318.70,debit,Subscriptions
+2025-07-28,Amazon Purchase,"₹4,471.74",debit,Shopping
+2025-07-29,Rapido Bike Taxi,₹175.96,debit,Transportation
+2025-07-30,Canva Pro,₹499.00,debit,Subscriptions
+2025-08-01,Chartered Accountant Fee,"₹13,629.37",debit,Miscellaneous
+2025-08-02,Namecheap Domain,"₹1,242.39",debit,Utilities
+2025-08-03,Rapido Bike Taxi,₹194.91,debit,Transportation
+2025-08-04,Client Payment UPI,"₹131,270.22",credit,Income
+2025-08-04,Amazon Prime,₹347.98,debit,Subscriptions
+2025-08-06,Invoice Software,"₹1,117.01",debit,Subscriptions
+2025-08-07,PVR Cinemas,₹449.57,debit,Entertainment
+2025-08-07,Apollo Pharmacy,₹250.57,debit,Healthcare
+2025-08-07,Hotstar Subscription,₹558.34,debit,Subscriptions
+2025-08-08,Equipment Purchase,"₹21,116.48",debit,Shopping
+2025-08-09,YouTube Premium,₹139.00,debit,Subscriptions
+2025-08-12,Royalty Credit,"₹12,176.84",credit,Income
+2025-08-12,Retainer Fee Credit,"₹32,692.58",credit,Income
+2025-08-14,Rapido Bike Taxi,₹153.55,debit,Transportation
+2025-08-15,Spotify Premium,₹119.00,debit,Subscriptions
+2025-08-16,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-08-16,Myntra Fashion,"₹3,913.07",debit,Shopping
+2025-08-17,Hotstar Subscription,₹825.58,debit,Subscriptions
+2025-08-18,Apollo Pharmacy,"₹1,943.24",debit,Healthcare
+2025-08-19,Refund Credit,"₹1,322.48",credit,Income
+2025-08-20,Meesho Order,"₹1,079.43",debit,Shopping
+2025-08-21,Course Sale Revenue,"₹13,151.57",credit,Income
+2025-08-21,Refund Credit,"₹2,129.70",credit,Income
+2025-08-22,1mg Medicine Order,"₹1,230.52",debit,Healthcare
+2025-08-23,Royalty Credit,"₹18,067.18",credit,Income
+2025-08-23,Project Milestone,"₹87,513.01",credit,Income
+2025-08-24,Canva Pro,₹499.00,debit,Subscriptions
+2025-08-25,Equipment Purchase,"₹28,507.33",debit,Shopping
+2025-08-25,Hostinger Hosting,"₹2,215.76",debit,Utilities
+2025-08-25,YouTube Premium,₹139.00,debit,Subscriptions
+2025-08-26,Hostinger Hosting,"₹2,400.85",debit,Utilities
+2025-08-29,Chartered Accountant Fee,"₹6,142.07",debit,Miscellaneous
+2025-08-29,DMart Purchase,"₹2,986.85",debit,Groceries
+2025-08-29,Invoice Software,"₹1,724.65",debit,Subscriptions
+2025-08-30,DMart Purchase,"₹2,072.44",debit,Groceries
+2025-08-31,Co-working Space,"₹5,055.73",debit,Housing
+2025-08-31,Amazon Prime,₹383.51,debit,Subscriptions
+2025-08-31,Zoom Pro,"₹1,300.00",debit,Subscriptions
+2025-08-31,Royalty Credit,"₹1,464.77",credit,Income
+2025-09-01,Namecheap Domain,₹990.99,debit,Utilities
+2025-09-02,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-09-02,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-09-04,Reliance Fresh,₹891.55,debit,Groceries
+2025-09-05,Canva Pro,₹499.00,debit,Subscriptions
+2025-09-05,Invoice Software,"₹1,463.69",debit,Subscriptions
+2025-09-06,Retainer Fee Credit,"₹27,162.50",credit,Income
+2025-09-07,Course Sale Revenue,"₹8,776.59",credit,Income
+2025-09-07,YouTube Premium,₹139.00,debit,Subscriptions
+2025-09-08,Hostinger Hosting,"₹2,233.57",debit,Utilities
+2025-09-09,Reliance Fresh,"₹1,976.00",debit,Groceries
+2025-09-10,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-09-10,Reliance Fresh,₹456.29,debit,Groceries
+2025-09-10,Zomato Food Delivery,₹587.41,debit,Food & Dining
+2025-09-11,More Supermarket,₹961.83,debit,Groceries
+2025-09-11,Chartered Accountant Fee,"₹5,450.87",debit,Miscellaneous
+2025-09-12,More Supermarket,"₹1,775.11",debit,Groceries
+2025-09-14,Flipkart Order,"₹1,007.99",debit,Shopping
+2025-09-14,BigBasket Groceries,"₹3,794.85",debit,Groceries
+2025-09-14,More Supermarket,₹676.79,debit,Groceries
+2025-09-15,Amazon Purchase,"₹6,796.19",debit,Shopping
+2025-09-15,Flipkart Order,"₹2,104.73",debit,Shopping
+2025-09-16,Client Meeting Cab,₹352.28,debit,Transportation
+2025-09-17,Retainer Fee Credit,"₹44,071.37",credit,Income
+2025-09-17,YouTube Premium,₹139.00,debit,Subscriptions
+2025-09-17,Netflix Subscription,₹238.78,debit,Subscriptions
+2025-09-17,Cashback Credit,₹251.34,credit,Income
+2025-09-17,Gaming Recharge,₹113.92,debit,Entertainment
+2025-09-18,Rapido Bike Taxi,₹87.63,debit,Transportation
+2025-09-18,Netflix Subscription,₹293.69,debit,Subscriptions
+2025-09-18,Amazon Prime,₹540.35,debit,Subscriptions
+2025-09-19,Refund Credit,"₹3,348.88",credit,Income
+2025-09-21,Refund Credit,"₹1,114.86",credit,Income
+2025-09-21,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-09-21,Client Meeting Cab,₹375.23,debit,Transportation
+2025-09-22,Ola Cab,₹193.25,debit,Transportation
+2025-09-23,Course Sale Revenue,"₹8,550.10",credit,Income
+2025-09-23,Spotify Premium,₹119.00,debit,Subscriptions
+2025-09-23,Swiggy Order,₹303.97,debit,Food & Dining
+2025-09-25,Meesho Order,₹861.76,debit,Shopping
+2025-09-25,Hotstar Subscription,₹578.35,debit,Subscriptions
+2025-09-26,Namecheap Domain,"₹1,211.20",debit,Utilities
+2025-09-27,Reliance Fresh,"₹1,094.77",debit,Groceries
+2025-09-28,Chartered Accountant Fee,"₹11,217.90",debit,Miscellaneous
+2025-09-28,Client Meeting Cab,₹924.72,debit,Transportation
+2025-09-29,Meesho Order,₹260.60,debit,Shopping
+2025-09-30,Amazon Prime,₹184.86,debit,Subscriptions
+2025-09-30,BookMyShow Tickets,₹856.41,debit,Entertainment
+2025-10-03,Chartered Accountant Fee,"₹13,498.75",debit,Miscellaneous
+2025-10-03,Rapido Bike Taxi,₹60.49,debit,Transportation
+2025-10-04,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-10-04,PVR Cinemas,₹578.98,debit,Entertainment
+2025-10-06,Equipment Purchase,"₹43,314.73",debit,Shopping
+2025-10-06,YouTube Premium,₹139.00,debit,Subscriptions
+2025-10-06,Client Meeting Cab,₹572.37,debit,Transportation
+2025-10-07,Zomato Food Delivery,₹279.24,debit,Food & Dining
+2025-10-08,Course Sale Revenue,"₹19,381.32",credit,Income
+2025-10-08,Swiggy Order,₹475.41,debit,Food & Dining
+2025-10-08,Hotstar Subscription,₹488.73,debit,Subscriptions
+2025-10-11,Hotstar Subscription,₹181.11,debit,Subscriptions
+2025-10-11,Equipment Purchase,"₹21,119.00",debit,Shopping
+2025-10-12,Ajio Clothing,"₹2,807.18",debit,Shopping
+2025-10-12,Amazon Purchase,"₹7,866.59",debit,Shopping
+2025-10-12,Netflix Subscription,₹474.83,debit,Subscriptions
+2025-10-13,Apollo Pharmacy,"₹1,901.95",debit,Healthcare
+2025-10-14,Chartered Accountant Fee,"₹7,798.02",debit,Miscellaneous
+2025-10-16,Flipkart Order,"₹1,145.23",debit,Shopping
+2025-10-16,BookMyShow Tickets,"₹1,375.23",debit,Entertainment
+2025-10-17,Meesho Order,"₹1,387.69",debit,Shopping
+2025-10-17,Cashback Credit,₹56.81,credit,Income
+2025-10-18,Chartered Accountant Fee,"₹7,134.34",debit,Miscellaneous
+2025-10-19,More Supermarket,₹679.17,debit,Groceries
+2025-10-20,Equipment Purchase,"₹34,497.96",debit,Shopping
+2025-10-20,Refund Credit,"₹1,506.18",credit,Income
+2025-10-22,BookMyShow Tickets,₹597.30,debit,Entertainment
+2025-10-24,Chartered Accountant Fee,"₹8,613.64",debit,Miscellaneous
+2025-10-24,Hostinger Hosting,"₹4,918.39",debit,Utilities
+2025-10-24,BigBasket Groceries,"₹1,972.00",debit,Groceries
+2025-10-25,Namecheap Domain,"₹1,513.48",debit,Utilities
+2025-10-27,Ajio Clothing,"₹2,539.39",debit,Shopping
+2025-10-27,More Supermarket,₹311.87,debit,Groceries
+2025-10-31,Co-working Space,"₹11,718.15",debit,Housing
+2025-11-01,BookMyShow Tickets,₹253.86,debit,Entertainment
+2025-11-01,Canva Pro,₹499.00,debit,Subscriptions
+2025-11-01,Amazon Prime,₹188.84,debit,Subscriptions
+2025-11-02,Client Meeting Cab,₹950.49,debit,Transportation
+2025-11-02,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-11-03,Course Sale Revenue,"₹19,583.94",credit,Income
+2025-11-05,Hostinger Hosting,"₹3,126.66",debit,Utilities
+2025-11-05,1mg Medicine Order,₹346.76,debit,Healthcare
+2025-11-07,Uber Ride,₹481.15,debit,Transportation
+2025-11-07,Hotstar Subscription,₹569.98,debit,Subscriptions
+2025-11-08,More Supermarket,₹173.36,debit,Groceries
+2025-11-08,DMart Purchase,₹320.04,debit,Groceries
+2025-11-09,Equipment Purchase,"₹13,973.90",debit,Shopping
+2025-11-09,Notion Subscription,₹500.00,debit,Subscriptions
+2025-11-09,Cashback Credit,₹261.56,credit,Income
+2025-11-10,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-11-11,Course Sale Revenue,"₹27,752.92",credit,Income
+2025-11-11,Rapido Bike Taxi,₹95.38,debit,Transportation
+2025-11-12,Swiggy Order,₹891.96,debit,Food & Dining
+2025-11-15,Co-working Space,"₹11,562.16",debit,Housing
+2025-11-15,Zomato Food Delivery,₹794.83,debit,Food & Dining
+2025-11-15,Equipment Purchase,"₹15,262.63",debit,Shopping
+2025-11-16,PVR Cinemas,₹609.56,debit,Entertainment
+2025-11-16,Myntra Fashion,"₹3,662.65",debit,Shopping
+2025-11-17,Gym Membership,₹735.43,debit,Healthcare
+2025-11-18,Zomato Food Delivery,₹157.31,debit,Food & Dining
+2025-11-18,Ola Cab,₹433.27,debit,Transportation
+2025-11-20,Meesho Order,"₹1,481.20",debit,Shopping
+2025-11-21,Gym Membership,"₹1,272.57",debit,Healthcare
+2025-11-22,Flipkart Order,"₹2,367.88",debit,Shopping
+2025-11-22,Course Sale Revenue,"₹3,909.48",credit,Income
+2025-11-23,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-11-23,Reliance Fresh,₹503.55,debit,Groceries
+2025-11-23,Apollo Pharmacy,"₹1,457.13",debit,Healthcare
+2025-11-23,Canva Pro,₹499.00,debit,Subscriptions
+2025-11-24,YouTube Premium,₹139.00,debit,Subscriptions
+2025-11-24,Apollo Pharmacy,"₹1,987.45",debit,Healthcare
+2025-11-25,Spotify Premium,₹119.00,debit,Subscriptions
+2025-11-27,Equipment Purchase,"₹5,888.02",debit,Shopping
+2025-11-27,Client Meeting Cab,₹815.80,debit,Transportation
+2025-11-28,Refund Credit,"₹3,788.97",credit,Income
+2025-11-28,Amazon Prime,₹514.83,debit,Subscriptions
+2025-11-28,Rapido Bike Taxi,₹34.23,debit,Transportation
+2025-11-29,Gaming Recharge,"₹1,144.20",debit,Entertainment
+2025-11-30,Refund Credit,"₹3,461.41",credit,Income
+2025-11-30,Client Payment UPI,"₹29,099.25",credit,Income
+2025-11-30,Cashback Credit,₹771.37,credit,Income
+2025-12-02,Meesho Order,"₹1,313.92",debit,Shopping
+2025-12-02,Gym Membership,"₹2,250.17",debit,Healthcare
+2025-12-03,DMart Purchase,"₹1,617.30",debit,Groceries
+2025-12-03,Flipkart Order,"₹3,850.56",debit,Shopping
+2025-12-03,Reliance Fresh,₹385.80,debit,Groceries
+2025-12-05,Namecheap Domain,₹902.76,debit,Utilities
+2025-12-05,YouTube Premium,₹139.00,debit,Subscriptions
+2025-12-07,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-12-08,Retainer Fee Credit,"₹30,831.45",credit,Income
+2025-12-09,Flipkart Order,"₹1,017.77",debit,Shopping
+2025-12-09,1mg Medicine Order,"₹1,372.71",debit,Healthcare
+2025-12-10,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-12-10,Swiggy Order,₹410.16,debit,Food & Dining
+2025-12-11,PVR Cinemas,₹759.30,debit,Entertainment
+2025-12-12,Hostinger Hosting,"₹3,281.85",debit,Utilities
+2025-12-12,Amazon Purchase,"₹6,940.57",debit,Shopping
+2025-12-12,YouTube Premium,₹139.00,debit,Subscriptions
+2025-12-13,Ola Cab,₹314.56,debit,Transportation
+2025-12-13,Course Sale Revenue,"₹22,151.63",credit,Income
+2025-12-16,DMart Purchase,"₹1,226.00",debit,Groceries
+2025-12-17,Amazon Purchase,"₹1,459.39",debit,Shopping
+2025-12-19,Notion Subscription,₹500.00,debit,Subscriptions
+2025-12-19,Refund Credit,"₹2,106.59",credit,Income
+2025-12-20,Amazon Purchase,₹972.71,debit,Shopping
+2025-12-20,DMart Purchase,"₹1,732.02",debit,Groceries
+2025-12-22,Spotify Premium,₹119.00,debit,Subscriptions
+2025-12-22,YouTube Premium,₹139.00,debit,Subscriptions
+2025-12-22,Hostinger Hosting,"₹3,850.22",debit,Utilities
+2025-12-23,Namecheap Domain,₹992.26,debit,Utilities
+2025-12-24,Zomato Food Delivery,₹294.67,debit,Food & Dining
+2025-12-24,Adobe Creative Cloud,"₹1,675.00",debit,Subscriptions
+2025-12-24,Myntra Fashion,"₹1,607.07",debit,Shopping
+2025-12-24,Tally Software,"₹9,000.00",debit,Subscriptions
+2025-12-25,Amazon Prime,₹825.91,debit,Subscriptions
+2025-12-25,Canva Pro,₹499.00,debit,Subscriptions
+2025-12-26,Retainer Fee Credit,"₹24,442.00",credit,Income
+2025-12-27,Hostinger Hosting,"₹1,245.89",debit,Utilities
+2025-12-27,Myntra Fashion,"₹1,525.27",debit,Shopping
+2025-12-27,Amazon Prime,₹220.09,debit,Subscriptions
+2025-12-27,Gaming Recharge,"₹1,232.44",debit,Entertainment
+2025-12-27,Meesho Order,"₹1,230.55",debit,Shopping
+2025-12-28,Namecheap Domain,"₹1,138.11",debit,Utilities
+2025-12-29,Equipment Purchase,"₹7,220.54",debit,Shopping
+2025-12-30,Canva Pro,₹499.00,debit,Subscriptions
+2025-12-30,Course Sale Revenue,"₹22,618.47",credit,Income
+2025-12-30,LinkedIn Premium,"₹2,499.00",debit,Subscriptions
+2025-12-30,Client Meeting Cab,₹639.78,debit,Transportation
+2025-12-31,Ajio Clothing,₹952.02,debit,Shopping
+2025-12-31,Chartered Accountant Fee,"₹4,468.19",debit,Miscellaneous

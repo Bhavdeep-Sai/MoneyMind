@@ -1,0 +1,2001 @@
+date,description,amount,transaction_type,category
+2023-01-01,Dividend Credit,"Rs 4,191.34",credit,Investment
+2023-01-01,Electricity Bill,"Rs 4,567.00",debit,Utilities
+2023-01-02,Insurance Premium,"Rs 4,913.64",debit,Insurance
+2023-01-02,School Fees,"Rs 9,363.70",debit,Education
+2023-01-02,Rental Income,"Rs 10,835.47",credit,Rental
+2023-01-02,MedPlus Medical Store,"Rs 1,227.96",debit,Healthcare
+2023-01-02,Amazon Purchase,Rs 758.62,debit,Shopping
+2023-01-02,BigBasket Groceries,"Rs 1,456.85",debit,Groceries
+2023-01-04,PVR Cinemas,Rs 251.09,debit,Entertainment
+2023-01-04,Amazon Purchase,"Rs 4,310.15",debit,Shopping
+2023-01-04,Coffee Shop,Rs 466.46,debit,Food & Dining
+2023-01-05,Hotel Stay,"Rs 2,880.45",debit,Travel
+2023-01-05,Amazon Purchase,"Rs 5,810.01",debit,Shopping
+2023-01-05,School Fees,"Rs 12,795.28",debit,Education
+2023-01-05,Maintenance Charges,"Rs 2,135.91",debit,Housing
+2023-01-06,Freelance Payment,"Rs 14,612.08",credit,Freelance
+2023-01-06,Spa & Wellness,"Rs 2,984.29",debit,Personal Care
+2023-01-06,Transfer Received,"Rs 33,219.16",credit,Transfer
+2023-01-06,Gym Membership,"Rs 1,064.05",debit,Healthcare
+2023-01-06,Electricity Bill,"Rs 4,024.26",debit,Utilities
+2023-01-07,Amazon Purchase,"Rs 7,067.62",debit,Shopping
+2023-01-08,Restaurant Dinner,"Rs 2,229.34",debit,Food & Dining
+2023-01-08,Coffee Shop,Rs 411.21,debit,Food & Dining
+2023-01-08,Airtel Mobile Bill,Rs 896.53,debit,Utilities
+2023-01-09,Electricity Bill,"Rs 3,052.48",debit,Utilities
+2023-01-09,Hotel Stay,"Rs 6,222.99",debit,Travel
+2023-01-10,Swiggy Order,Rs 252.31,debit,Food & Dining
+2023-01-10,Zomato Food Delivery,Rs 169.48,debit,Food & Dining
+2023-01-10,Freelance Payment,"Rs 22,539.60",credit,Freelance
+2023-01-12,Restaurant Dinner,"Rs 2,909.24",debit,Food & Dining
+2023-01-12,Metro Card Recharge,Rs 963.08,debit,Transport
+2023-01-13,Airtel Mobile Bill,Rs 726.52,debit,Utilities
+2023-01-13,Metro Card Recharge,Rs 613.55,debit,Transport
+2023-01-14,MedPlus Medical Store,Rs 587.68,debit,Healthcare
+2023-01-15,Water Bill,Rs 528.22,debit,Utilities
+2023-01-15,Book Purchase,Rs 263.93,debit,Education
+2023-01-15,Transfer Received,"Rs 22,874.13",credit,Transfer
+2023-01-15,Dividend Credit,"Rs 1,659.80",credit,Investment
+2023-01-17,Amazon Purchase,Rs 285.40,debit,Shopping
+2023-01-17,Uber Ride,Rs 123.16,debit,Transport
+2023-01-17,Water Bill,Rs 261.83,debit,Utilities
+2023-01-18,Flipkart Order,"Rs 4,466.32",debit,Shopping
+2023-01-19,Electricity Bill,"Rs 3,193.48",debit,Utilities
+2023-01-19,DMart Purchase,"Rs 2,340.09",debit,Groceries
+2023-01-20,BigBasket Groceries,"Rs 1,062.32",debit,Groceries
+2023-01-20,Spa & Wellness,"Rs 1,028.15",debit,Personal Care
+2023-01-20,Apollo Pharmacy,Rs 689.31,debit,Healthcare
+2023-01-21,Reliance Fresh,"Rs 1,195.33",debit,Groceries
+2023-01-22,DMart Purchase,"Rs 2,746.47",debit,Groceries
+2023-01-22,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-01-22,Hair Salon,Rs 766.14,debit,Personal Care
+2023-01-22,Gym Membership,"Rs 2,413.28",debit,Healthcare
+2023-01-23,Water Bill,Rs 549.98,debit,Utilities
+2023-01-23,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-01-23,Apollo Pharmacy,Rs 364.39,debit,Healthcare
+2023-01-24,Metro Card Recharge,Rs 778.85,debit,Transport
+2023-01-25,Swiggy Order,Rs 516.93,debit,Food & Dining
+2023-01-25,Refund Credit,"Rs 2,678.33",credit,Refund
+2023-01-25,Myntra Fashion,"Rs 3,000.87",debit,Shopping
+2023-01-27,Interest Credit,"Rs 2,482.30",credit,Interest
+2023-01-28,Petrol/Diesel,"Rs 2,926.48",debit,Transport
+2023-01-28,Uber Ride,Rs 215.32,debit,Transport
+2023-01-29,Bonus Credit,"Rs 13,297.31",credit,Bonus
+2023-01-29,MedPlus Medical Store,"Rs 1,083.36",debit,Healthcare
+2023-01-29,Ola Cab,Rs 246.51,debit,Transport
+2023-01-30,PVR Cinemas,Rs 328.61,debit,Entertainment
+2023-01-31,Electricity Bill,"Rs 3,491.85",debit,Utilities
+2023-02-01,Zomato Food Delivery,Rs 281.71,debit,Food & Dining
+2023-02-02,Uber Ride,Rs 382.41,debit,Transport
+2023-02-02,Uber Ride,Rs 87.09,debit,Transport
+2023-02-02,Flipkart Order,"Rs 2,402.50",debit,Shopping
+2023-02-02,Myntra Fashion,"Rs 3,623.74",debit,Shopping
+2023-02-03,Online Course,"Rs 2,785.89",debit,Education
+2023-02-03,Freelance Payment,"Rs 9,561.31",credit,Freelance
+2023-02-03,Airtel Mobile Bill,Rs 933.35,debit,Utilities
+2023-02-04,Airtel Mobile Bill,Rs 818.34,debit,Utilities
+2023-02-04,Netflix Subscription,Rs 607.16,debit,Entertainment
+2023-02-06,Coffee Shop,Rs 128.06,debit,Food & Dining
+2023-02-07,Reliance Fresh,"Rs 1,660.63",debit,Groceries
+2023-02-07,MedPlus Medical Store,Rs 937.97,debit,Healthcare
+2023-02-07,Myntra Fashion,Rs 702.79,debit,Shopping
+2023-02-08,ATM Withdrawal,Rs 703.21,debit,Others
+2023-02-08,Flipkart Order,"Rs 1,258.74",debit,Shopping
+2023-02-09,DMart Purchase,"Rs 1,520.20",debit,Groceries
+2023-02-09,Rental Income,"Rs 20,501.75",credit,Rental
+2023-02-09,Hotel Stay,"Rs 5,814.96",debit,Travel
+2023-02-09,Flipkart Order,"Rs 2,503.61",debit,Shopping
+2023-02-10,Metro Card Recharge,Rs 593.12,debit,Transport
+2023-02-10,Book Purchase,Rs 642.24,debit,Education
+2023-02-10,Netflix Subscription,Rs 364.64,debit,Entertainment
+2023-02-11,Flipkart Order,"Rs 3,749.07",debit,Shopping
+2023-02-11,Gym Membership,"Rs 2,092.17",debit,Healthcare
+2023-02-12,Transfer Received,"Rs 19,468.26",credit,Transfer
+2023-02-12,Travel Booking,"Rs 18,200.05",debit,Travel
+2023-02-12,Electricity Bill,"Rs 1,583.60",debit,Utilities
+2023-02-13,Insurance Premium,"Rs 5,864.36",debit,Insurance
+2023-02-14,Gym Membership,"Rs 1,877.48",debit,Healthcare
+2023-02-14,House Rent,"Rs 17,466.31",debit,Housing
+2023-02-14,PVR Cinemas,Rs 391.57,debit,Entertainment
+2023-02-14,Maintenance Charges,Rs 907.72,debit,Housing
+2023-02-14,Insurance Premium,"Rs 4,368.77",debit,Insurance
+2023-02-15,House Rent,"Rs 9,808.09",debit,Housing
+2023-02-15,Swiggy Order,Rs 564.94,debit,Food & Dining
+2023-02-16,DMart Purchase,"Rs 3,309.96",debit,Groceries
+2023-02-16,Hair Salon,Rs 747.63,debit,Personal Care
+2023-02-17,Myntra Fashion,"Rs 1,324.48",debit,Shopping
+2023-02-17,DMart Purchase,"Rs 2,294.06",debit,Groceries
+2023-02-17,Reliance Fresh,"Rs 1,628.82",debit,Groceries
+2023-02-19,Flipkart Order,"Rs 1,840.99",debit,Shopping
+2023-02-19,House Rent,"Rs 14,155.67",debit,Housing
+2023-02-20,DMart Purchase,Rs 663.09,debit,Groceries
+2023-02-21,Online Course,"Rs 2,589.95",debit,Education
+2023-02-21,Apollo Pharmacy,Rs 982.85,debit,Healthcare
+2023-02-21,Spa & Wellness,"Rs 1,018.68",debit,Personal Care
+2023-02-21,Travel Booking,"Rs 10,198.92",debit,Travel
+2023-02-22,ATM Withdrawal,"Rs 1,508.88",debit,Others
+2023-02-23,Reliance Fresh,Rs 877.60,debit,Groceries
+2023-02-24,Netflix Subscription,Rs 425.89,debit,Entertainment
+2023-02-25,Netflix Subscription,Rs 263.00,debit,Entertainment
+2023-02-26,Travel Booking,"Rs 3,999.23",debit,Travel
+2023-02-26,Hotel Stay,"Rs 3,707.21",debit,Travel
+2023-02-26,Dividend Credit,"Rs 8,947.61",credit,Investment
+2023-02-26,Uber Ride,Rs 198.92,debit,Transport
+2023-02-26,Maintenance Charges,Rs 684.03,debit,Housing
+2023-02-27,House Rent,"Rs 24,241.01",debit,Housing
+2023-02-27,Insurance Premium,"Rs 2,866.41",debit,Insurance
+2023-02-28,DMart Purchase,"Rs 1,406.60",debit,Groceries
+2023-03-01,Transfer Received,"Rs 1,842.49",credit,Transfer
+2023-03-01,MedPlus Medical Store,Rs 724.05,debit,Healthcare
+2023-03-01,DMart Purchase,Rs 431.46,debit,Groceries
+2023-03-02,Freelance Payment,"Rs 12,239.82",credit,Freelance
+2023-03-02,Metro Card Recharge,Rs 765.66,debit,Transport
+2023-03-02,Jio Recharge,Rs 276.70,debit,Utilities
+2023-03-04,Maintenance Charges,Rs 909.17,debit,Housing
+2023-03-04,Flipkart Order,"Rs 2,587.56",debit,Shopping
+2023-03-04,Cashback Credit,Rs 917.23,credit,Cashback
+2023-03-04,Water Bill,Rs 205.69,debit,Utilities
+2023-03-06,Interest Credit,"Rs 1,047.66",credit,Interest
+2023-03-06,PVR Cinemas,Rs 684.52,debit,Entertainment
+2023-03-06,BigBasket Groceries,"Rs 1,980.77",debit,Groceries
+2023-03-07,Interest Credit,Rs 834.10,credit,Interest
+2023-03-07,Book Purchase,"Rs 1,122.27",debit,Education
+2023-03-07,Insurance Premium,"Rs 3,422.26",debit,Insurance
+2023-03-07,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-03-08,Insurance Premium,"Rs 2,285.55",debit,Insurance
+2023-03-09,Insurance Premium,"Rs 4,913.01",debit,Insurance
+2023-03-09,DMart Purchase,"Rs 1,931.83",debit,Groceries
+2023-03-09,BigBasket Groceries,"Rs 3,541.83",debit,Groceries
+2023-03-09,Spa & Wellness,"Rs 2,112.93",debit,Personal Care
+2023-03-10,Coffee Shop,Rs 323.98,debit,Food & Dining
+2023-03-10,House Rent,"Rs 9,225.33",debit,Housing
+2023-03-11,Petrol/Diesel,"Rs 1,908.04",debit,Transport
+2023-03-11,Coffee Shop,Rs 470.00,debit,Food & Dining
+2023-03-12,Netflix Subscription,Rs 229.12,debit,Entertainment
+2023-03-12,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-03-12,Myntra Fashion,Rs 572.77,debit,Shopping
+2023-03-14,Hotel Stay,"Rs 2,140.63",debit,Travel
+2023-03-17,Ola Cab,Rs 260.06,debit,Transport
+2023-03-17,Uber Ride,Rs 241.45,debit,Transport
+2023-03-18,Airtel Mobile Bill,Rs 808.55,debit,Utilities
+2023-03-18,Online Course,"Rs 4,452.41",debit,Education
+2023-03-18,Book Purchase,"Rs 1,227.40",debit,Education
+2023-03-19,House Rent,"Rs 14,027.31",debit,Housing
+2023-03-19,Freelance Payment,"Rs 27,911.52",credit,Freelance
+2023-03-20,Swiggy Order,Rs 309.93,debit,Food & Dining
+2023-03-21,ATM Withdrawal,"Rs 4,238.57",debit,Others
+2023-03-22,Amazon Purchase,"Rs 1,947.21",debit,Shopping
+2023-03-22,Online Course,"Rs 3,873.42",debit,Education
+2023-03-23,Petrol/Diesel,"Rs 3,703.68",debit,Transport
+2023-03-23,ATM Withdrawal,"Rs 4,647.02",debit,Others
+2023-03-23,PVR Cinemas,Rs 504.52,debit,Entertainment
+2023-03-23,Myntra Fashion,Rs 926.98,debit,Shopping
+2023-03-25,Transfer Received,"Rs 14,589.17",credit,Transfer
+2023-03-25,Petrol/Diesel,"Rs 3,670.54",debit,Transport
+2023-03-25,ATM Withdrawal,"Rs 2,232.76",debit,Others
+2023-03-25,Book Purchase,Rs 881.45,debit,Education
+2023-03-25,Metro Card Recharge,Rs 619.21,debit,Transport
+2023-03-25,School Fees,"Rs 8,299.22",debit,Education
+2023-03-26,Book Purchase,Rs 424.84,debit,Education
+2023-03-26,Amazon Purchase,"Rs 4,875.98",debit,Shopping
+2023-03-27,MedPlus Medical Store,Rs 696.24,debit,Healthcare
+2023-03-27,PVR Cinemas,Rs 524.62,debit,Entertainment
+2023-03-29,Jio Recharge,Rs 374.99,debit,Utilities
+2023-03-30,Rental Income,"Rs 15,788.52",credit,Rental
+2023-03-30,Online Course,"Rs 3,763.85",debit,Education
+2023-03-31,Netflix Subscription,Rs 556.59,debit,Entertainment
+2023-03-31,Ola Cab,Rs 225.93,debit,Transport
+2023-04-01,DMart Purchase,"Rs 1,367.45",debit,Groceries
+2023-04-01,Jio Recharge,Rs 383.10,debit,Utilities
+2023-04-02,BigBasket Groceries,"Rs 1,779.12",debit,Groceries
+2023-04-03,House Rent,"Rs 24,089.08",debit,Housing
+2023-04-04,Uber Ride,Rs 423.64,debit,Transport
+2023-04-05,Airtel Mobile Bill,Rs 757.56,debit,Utilities
+2023-04-05,Amazon Purchase,"Rs 6,113.68",debit,Shopping
+2023-04-07,Ola Cab,Rs 179.77,debit,Transport
+2023-04-07,Apollo Pharmacy,Rs 613.40,debit,Healthcare
+2023-04-08,School Fees,"Rs 2,773.50",debit,Education
+2023-04-08,Netflix Subscription,Rs 595.82,debit,Entertainment
+2023-04-09,Travel Booking,"Rs 13,323.87",debit,Travel
+2023-04-09,Electricity Bill,"Rs 1,391.41",debit,Utilities
+2023-04-10,Ola Cab,Rs 233.08,debit,Transport
+2023-04-10,Dividend Credit,"Rs 10,001.82",credit,Investment
+2023-04-10,Refund Credit,"Rs 4,335.13",credit,Refund
+2023-04-11,Maintenance Charges,"Rs 2,734.66",debit,Housing
+2023-04-11,Hotel Stay,"Rs 3,983.51",debit,Travel
+2023-04-12,Book Purchase,"Rs 1,408.93",debit,Education
+2023-04-13,PVR Cinemas,Rs 443.03,debit,Entertainment
+2023-04-15,Spa & Wellness,"Rs 1,058.61",debit,Personal Care
+2023-04-17,Zomato Food Delivery,Rs 741.92,debit,Food & Dining
+2023-04-17,PVR Cinemas,Rs 376.60,debit,Entertainment
+2023-04-17,Hair Salon,"Rs 1,303.40",debit,Personal Care
+2023-04-17,BookMyShow Tickets,Rs 620.00,debit,Entertainment
+2023-04-17,Reliance Fresh,Rs 470.77,debit,Groceries
+2023-04-18,Water Bill,Rs 305.62,debit,Utilities
+2023-04-20,Netflix Subscription,Rs 497.85,debit,Entertainment
+2023-04-21,MedPlus Medical Store,Rs 503.81,debit,Healthcare
+2023-04-23,PVR Cinemas,Rs 731.62,debit,Entertainment
+2023-04-24,Book Purchase,Rs 589.98,debit,Education
+2023-04-24,Book Purchase,Rs 728.55,debit,Education
+2023-04-26,Refund Credit,"Rs 1,718.52",credit,Refund
+2023-04-26,Netflix Subscription,Rs 449.69,debit,Entertainment
+2023-04-26,House Rent,"Rs 24,031.68",debit,Housing
+2023-04-27,Flipkart Order,"Rs 5,535.64",debit,Shopping
+2023-04-27,Ola Cab,Rs 291.58,debit,Transport
+2023-04-27,Airtel Mobile Bill,Rs 350.60,debit,Utilities
+2023-04-29,Travel Booking,"Rs 12,716.82",debit,Travel
+2023-04-29,Airtel Mobile Bill,Rs 557.72,debit,Utilities
+2023-04-29,Apollo Pharmacy,Rs 632.30,debit,Healthcare
+2023-04-29,Flipkart Order,"Rs 3,343.68",debit,Shopping
+2023-04-30,Dividend Credit,"Rs 9,890.26",credit,Investment
+2023-04-30,Uber Ride,Rs 376.91,debit,Transport
+2023-05-01,MedPlus Medical Store,Rs 987.51,debit,Healthcare
+2023-05-02,Myntra Fashion,"Rs 1,960.13",debit,Shopping
+2023-05-03,Ola Cab,Rs 155.36,debit,Transport
+2023-05-03,Amazon Purchase,"Rs 1,639.76",debit,Shopping
+2023-05-04,Petrol/Diesel,Rs 552.66,debit,Transport
+2023-05-04,Bonus Credit,"Rs 12,185.74",credit,Bonus
+2023-05-06,Flipkart Order,"Rs 5,286.29",debit,Shopping
+2023-05-06,Freelance Payment,"Rs 8,660.67",credit,Freelance
+2023-05-06,MedPlus Medical Store,Rs 342.46,debit,Healthcare
+2023-05-06,Online Course,"Rs 4,776.59",debit,Education
+2023-05-08,BookMyShow Tickets,Rs 336.54,debit,Entertainment
+2023-05-09,Petrol/Diesel,Rs 595.11,debit,Transport
+2023-05-09,Interest Credit,"Rs 2,276.49",credit,Interest
+2023-05-09,Electricity Bill,"Rs 2,984.67",debit,Utilities
+2023-05-11,Insurance Premium,"Rs 4,952.70",debit,Insurance
+2023-05-11,Metro Card Recharge,Rs 914.90,debit,Transport
+2023-05-12,Water Bill,Rs 782.44,debit,Utilities
+2023-05-13,Electricity Bill,"Rs 3,264.08",debit,Utilities
+2023-05-13,Cashback Credit,Rs 616.79,credit,Cashback
+2023-05-14,Restaurant Dinner,"Rs 2,973.20",debit,Food & Dining
+2023-05-14,Book Purchase,Rs 250.61,debit,Education
+2023-05-15,Uber Ride,Rs 454.10,debit,Transport
+2023-05-15,School Fees,"Rs 13,652.20",debit,Education
+2023-05-15,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-05-15,Maintenance Charges,"Rs 1,707.32",debit,Housing
+2023-05-15,Flipkart Order,"Rs 5,534.92",debit,Shopping
+2023-05-16,BigBasket Groceries,"Rs 1,485.50",debit,Groceries
+2023-05-17,Maintenance Charges,"Rs 2,337.66",debit,Housing
+2023-05-17,Gym Membership,"Rs 2,164.14",debit,Healthcare
+2023-05-17,Hotel Stay,"Rs 5,735.46",debit,Travel
+2023-05-18,Coffee Shop,Rs 386.02,debit,Food & Dining
+2023-05-19,PVR Cinemas,Rs 768.69,debit,Entertainment
+2023-05-19,Netflix Subscription,Rs 499.69,debit,Entertainment
+2023-05-20,Salary Credit,"Rs 61,755.14",credit,Salary
+2023-05-20,Transfer Received,"Rs 43,335.18",credit,Transfer
+2023-05-21,Swiggy Order,Rs 418.35,debit,Food & Dining
+2023-05-21,Coffee Shop,Rs 452.01,debit,Food & Dining
+2023-05-21,Hair Salon,Rs 343.10,debit,Personal Care
+2023-05-23,Jio Recharge,Rs 337.38,debit,Utilities
+2023-05-23,Apollo Pharmacy,Rs 336.20,debit,Healthcare
+2023-05-24,Flipkart Order,"Rs 3,664.32",debit,Shopping
+2023-05-24,Hair Salon,"Rs 1,145.90",debit,Personal Care
+2023-05-25,Online Course,"Rs 2,392.66",debit,Education
+2023-05-25,Dividend Credit,"Rs 5,456.28",credit,Investment
+2023-05-26,Hotel Stay,"Rs 5,616.37",debit,Travel
+2023-05-26,Online Course,"Rs 1,701.96",debit,Education
+2023-05-27,Uber Ride,Rs 588.28,debit,Transport
+2023-05-27,Metro Card Recharge,Rs 854.99,debit,Transport
+2023-05-27,MedPlus Medical Store,Rs 814.57,debit,Healthcare
+2023-05-28,Water Bill,Rs 734.74,debit,Utilities
+2023-05-28,Gym Membership,Rs 858.41,debit,Healthcare
+2023-05-28,House Rent,"Rs 27,150.27",debit,Housing
+2023-05-30,Bonus Credit,"Rs 9,604.70",credit,Bonus
+2023-05-31,Maintenance Charges,"Rs 1,772.21",debit,Housing
+2023-05-31,House Rent,"Rs 24,042.28",debit,Housing
+2023-06-01,Ola Cab,Rs 128.59,debit,Transport
+2023-06-02,Reliance Fresh,Rs 759.66,debit,Groceries
+2023-06-02,Insurance Premium,"Rs 6,914.20",debit,Insurance
+2023-06-03,Freelance Payment,"Rs 19,373.02",credit,Freelance
+2023-06-04,Travel Booking,"Rs 14,597.18",debit,Travel
+2023-06-05,Reliance Fresh,"Rs 1,040.99",debit,Groceries
+2023-06-06,Spa & Wellness,"Rs 1,323.79",debit,Personal Care
+2023-06-06,Airtel Mobile Bill,Rs 628.27,debit,Utilities
+2023-06-06,BookMyShow Tickets,Rs 211.26,debit,Entertainment
+2023-06-06,Freelance Payment,"Rs 24,932.32",credit,Freelance
+2023-06-06,Netflix Subscription,Rs 551.78,debit,Entertainment
+2023-06-07,BookMyShow Tickets,"Rs 1,107.28",debit,Entertainment
+2023-06-08,Reliance Fresh,Rs 233.87,debit,Groceries
+2023-06-08,Maintenance Charges,"Rs 2,651.11",debit,Housing
+2023-06-08,Flipkart Order,"Rs 4,783.87",debit,Shopping
+2023-06-09,Airtel Mobile Bill,Rs 916.48,debit,Utilities
+2023-06-09,Transfer Received,"Rs 28,817.13",credit,Transfer
+2023-06-09,Zomato Food Delivery,Rs 634.06,debit,Food & Dining
+2023-06-11,Interest Credit,"Rs 2,526.89",credit,Interest
+2023-06-12,Myntra Fashion,"Rs 2,037.46",debit,Shopping
+2023-06-12,Zomato Food Delivery,Rs 234.77,debit,Food & Dining
+2023-06-13,Hotel Stay,"Rs 6,916.41",debit,Travel
+2023-06-13,Amazon Purchase,"Rs 1,615.87",debit,Shopping
+2023-06-13,Cashback Credit,Rs 336.58,credit,Cashback
+2023-06-13,Insurance Premium,"Rs 3,139.61",debit,Insurance
+2023-06-14,Book Purchase,Rs 523.80,debit,Education
+2023-06-14,Coffee Shop,Rs 150.88,debit,Food & Dining
+2023-06-14,Insurance Premium,"Rs 9,374.40",debit,Insurance
+2023-06-16,Apollo Pharmacy,Rs 617.13,debit,Healthcare
+2023-06-18,Online Course,"Rs 4,294.43",debit,Education
+2023-06-18,PVR Cinemas,Rs 432.32,debit,Entertainment
+2023-06-18,Reliance Fresh,Rs 192.38,debit,Groceries
+2023-06-18,MedPlus Medical Store,"Rs 1,305.52",debit,Healthcare
+2023-06-19,Rental Income,"Rs 13,972.69",credit,Rental
+2023-06-23,Flipkart Order,"Rs 2,593.97",debit,Shopping
+2023-06-26,Metro Card Recharge,Rs 523.37,debit,Transport
+2023-06-27,Interest Credit,"Rs 1,001.26",credit,Interest
+2023-06-27,Spa & Wellness,"Rs 2,049.31",debit,Personal Care
+2023-06-27,Hotel Stay,"Rs 9,348.24",debit,Travel
+2023-06-29,School Fees,"Rs 5,457.76",debit,Education
+2023-06-30,Swiggy Order,Rs 356.17,debit,Food & Dining
+2023-06-30,Amazon Purchase,"Rs 1,233.66",debit,Shopping
+2023-06-30,Gym Membership,Rs 987.75,debit,Healthcare
+2023-06-30,Reliance Fresh,"Rs 1,803.35",debit,Groceries
+2023-06-30,House Rent,"Rs 17,799.55",debit,Housing
+2023-07-01,MedPlus Medical Store,"Rs 1,294.86",debit,Healthcare
+2023-07-01,Petrol/Diesel,"Rs 3,726.18",debit,Transport
+2023-07-02,Reliance Fresh,Rs 674.82,debit,Groceries
+2023-07-03,Bonus Credit,"Rs 47,592.68",credit,Bonus
+2023-07-04,Freelance Payment,"Rs 15,154.84",credit,Freelance
+2023-07-04,Travel Booking,"Rs 4,692.46",debit,Travel
+2023-07-04,Travel Booking,"Rs 8,112.52",debit,Travel
+2023-07-05,Ola Cab,Rs 255.51,debit,Transport
+2023-07-05,Salary Credit,"Rs 90,449.74",credit,Salary
+2023-07-05,Myntra Fashion,Rs 700.15,debit,Shopping
+2023-07-06,School Fees,"Rs 9,026.40",debit,Education
+2023-07-06,Transfer Received,"Rs 21,864.04",credit,Transfer
+2023-07-06,Maintenance Charges,"Rs 2,758.55",debit,Housing
+2023-07-07,Myntra Fashion,"Rs 3,722.28",debit,Shopping
+2023-07-07,Uber Ride,Rs 460.82,debit,Transport
+2023-07-09,Water Bill,Rs 719.39,debit,Utilities
+2023-07-10,Cashback Credit,Rs 549.68,credit,Cashback
+2023-07-10,Travel Booking,"Rs 3,158.69",debit,Travel
+2023-07-10,Gym Membership,"Rs 1,581.74",debit,Healthcare
+2023-07-11,Dividend Credit,"Rs 6,352.50",credit,Investment
+2023-07-11,PVR Cinemas,Rs 455.81,debit,Entertainment
+2023-07-12,Flipkart Order,Rs 872.09,debit,Shopping
+2023-07-12,Ola Cab,Rs 212.62,debit,Transport
+2023-07-12,House Rent,"Rs 12,993.47",debit,Housing
+2023-07-12,Reliance Fresh,"Rs 1,350.31",debit,Groceries
+2023-07-13,ATM Withdrawal,"Rs 4,776.88",debit,Others
+2023-07-13,Bonus Credit,"Rs 35,028.45",credit,Bonus
+2023-07-14,Insurance Premium,"Rs 6,966.19",debit,Insurance
+2023-07-15,Ola Cab,Rs 133.01,debit,Transport
+2023-07-15,Online Course,"Rs 1,671.83",debit,Education
+2023-07-15,Interest Credit,Rs 568.27,credit,Interest
+2023-07-15,PVR Cinemas,Rs 755.27,debit,Entertainment
+2023-07-16,Reliance Fresh,Rs 530.01,debit,Groceries
+2023-07-16,Spa & Wellness,"Rs 2,173.60",debit,Personal Care
+2023-07-17,Dividend Credit,"Rs 12,621.46",credit,Investment
+2023-07-18,Cashback Credit,Rs 515.68,credit,Cashback
+2023-07-18,Airtel Mobile Bill,Rs 671.75,debit,Utilities
+2023-07-20,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-07-20,Airtel Mobile Bill,Rs 947.36,debit,Utilities
+2023-07-21,Rental Income,"Rs 20,301.54",credit,Rental
+2023-07-21,Hair Salon,Rs 717.57,debit,Personal Care
+2023-07-21,Hotel Stay,"Rs 5,561.53",debit,Travel
+2023-07-21,PVR Cinemas,Rs 271.05,debit,Entertainment
+2023-07-22,Airtel Mobile Bill,Rs 885.44,debit,Utilities
+2023-07-22,DMart Purchase,"Rs 2,809.36",debit,Groceries
+2023-07-23,Netflix Subscription,Rs 449.12,debit,Entertainment
+2023-07-24,Insurance Premium,"Rs 5,706.95",debit,Insurance
+2023-07-24,Insurance Premium,"Rs 5,323.81",debit,Insurance
+2023-07-24,PVR Cinemas,Rs 404.22,debit,Entertainment
+2023-07-24,Hair Salon,"Rs 1,387.32",debit,Personal Care
+2023-07-24,BigBasket Groceries,"Rs 1,987.51",debit,Groceries
+2023-07-24,Insurance Premium,"Rs 2,279.81",debit,Insurance
+2023-07-24,Book Purchase,Rs 209.06,debit,Education
+2023-07-25,Netflix Subscription,Rs 161.77,debit,Entertainment
+2023-07-25,Insurance Premium,"Rs 8,174.28",debit,Insurance
+2023-07-25,Insurance Premium,"Rs 2,266.47",debit,Insurance
+2023-07-25,PVR Cinemas,Rs 494.51,debit,Entertainment
+2023-07-26,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-07-27,Spa & Wellness,"Rs 2,435.28",debit,Personal Care
+2023-07-28,Dividend Credit,"Rs 1,856.05",credit,Investment
+2023-07-28,MedPlus Medical Store,Rs 572.78,debit,Healthcare
+2023-07-28,Jio Recharge,Rs 399.95,debit,Utilities
+2023-07-28,Online Course,"Rs 3,350.83",debit,Education
+2023-07-30,Myntra Fashion,"Rs 2,954.27",debit,Shopping
+2023-07-30,Swiggy Order,Rs 777.89,debit,Food & Dining
+2023-07-30,Hotel Stay,"Rs 7,398.28",debit,Travel
+2023-07-30,Apollo Pharmacy,Rs 184.96,debit,Healthcare
+2023-07-31,Petrol/Diesel,"Rs 3,700.70",debit,Transport
+2023-08-01,Swiggy Order,Rs 440.12,debit,Food & Dining
+2023-08-01,Spa & Wellness,"Rs 1,567.85",debit,Personal Care
+2023-08-03,Airtel Mobile Bill,Rs 343.72,debit,Utilities
+2023-08-03,Metro Card Recharge,Rs 985.76,debit,Transport
+2023-08-04,Ola Cab,Rs 287.67,debit,Transport
+2023-08-04,Petrol/Diesel,"Rs 1,267.11",debit,Transport
+2023-08-06,Amazon Purchase,"Rs 2,693.42",debit,Shopping
+2023-08-06,Book Purchase,"Rs 1,279.17",debit,Education
+2023-08-06,Maintenance Charges,"Rs 2,323.34",debit,Housing
+2023-08-06,Rental Income,"Rs 17,449.74",credit,Rental
+2023-08-07,Ola Cab,Rs 402.95,debit,Transport
+2023-08-07,Metro Card Recharge,Rs 539.43,debit,Transport
+2023-08-08,Restaurant Dinner,Rs 782.40,debit,Food & Dining
+2023-08-09,BookMyShow Tickets,Rs 521.69,debit,Entertainment
+2023-08-12,Metro Card Recharge,Rs 653.10,debit,Transport
+2023-08-12,DMart Purchase,"Rs 1,524.22",debit,Groceries
+2023-08-13,Spa & Wellness,"Rs 1,228.94",debit,Personal Care
+2023-08-13,Salary Credit,"Rs 109,309.44",credit,Salary
+2023-08-13,Hotel Stay,"Rs 7,580.86",debit,Travel
+2023-08-13,Rental Income,"Rs 17,868.98",credit,Rental
+2023-08-14,Transfer Received,"Rs 16,095.21",credit,Transfer
+2023-08-14,Petrol/Diesel,"Rs 3,653.62",debit,Transport
+2023-08-14,DMart Purchase,"Rs 2,253.31",debit,Groceries
+2023-08-15,Maintenance Charges,"Rs 2,394.75",debit,Housing
+2023-08-15,Airtel Mobile Bill,Rs 939.32,debit,Utilities
+2023-08-16,Swiggy Order,Rs 461.31,debit,Food & Dining
+2023-08-16,Metro Card Recharge,Rs 297.69,debit,Transport
+2023-08-16,Interest Credit,Rs 850.02,credit,Interest
+2023-08-17,Travel Booking,"Rs 17,480.58",debit,Travel
+2023-08-17,Online Course,"Rs 2,881.78",debit,Education
+2023-08-18,Amazon Purchase,"Rs 4,641.94",debit,Shopping
+2023-08-19,Apollo Pharmacy,"Rs 1,197.99",debit,Healthcare
+2023-08-19,Petrol/Diesel,"Rs 2,578.10",debit,Transport
+2023-08-20,Coffee Shop,Rs 210.08,debit,Food & Dining
+2023-08-21,BigBasket Groceries,"Rs 2,199.90",debit,Groceries
+2023-08-21,Netflix Subscription,Rs 390.28,debit,Entertainment
+2023-08-21,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-08-22,Amazon Purchase,Rs 844.41,debit,Shopping
+2023-08-22,Coffee Shop,Rs 353.84,debit,Food & Dining
+2023-08-22,Swiggy Order,Rs 449.71,debit,Food & Dining
+2023-08-23,Book Purchase,Rs 986.44,debit,Education
+2023-08-23,Online Course,"Rs 3,571.73",debit,Education
+2023-08-24,MedPlus Medical Store,Rs 356.47,debit,Healthcare
+2023-08-25,Reliance Fresh,Rs 560.55,debit,Groceries
+2023-08-25,Book Purchase,"Rs 1,193.15",debit,Education
+2023-08-26,Flipkart Order,"Rs 4,761.34",debit,Shopping
+2023-08-27,Travel Booking,"Rs 11,008.57",debit,Travel
+2023-08-27,Hotel Stay,"Rs 8,158.07",debit,Travel
+2023-08-28,Ola Cab,Rs 344.51,debit,Transport
+2023-08-30,Apollo Pharmacy,Rs 761.32,debit,Healthcare
+2023-08-31,Petrol/Diesel,"Rs 2,939.44",debit,Transport
+2023-08-31,Transfer Received,"Rs 40,764.84",credit,Transfer
+2023-09-01,Travel Booking,"Rs 19,025.12",debit,Travel
+2023-09-02,Interest Credit,"Rs 1,895.28",credit,Interest
+2023-09-03,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-09-04,Refund Credit,"Rs 3,202.28",credit,Refund
+2023-09-05,Metro Card Recharge,Rs 478.29,debit,Transport
+2023-09-05,Apollo Pharmacy,"Rs 1,442.56",debit,Healthcare
+2023-09-06,Uber Ride,Rs 490.46,debit,Transport
+2023-09-06,Netflix Subscription,Rs 399.06,debit,Entertainment
+2023-09-06,Coffee Shop,Rs 177.97,debit,Food & Dining
+2023-09-06,Gym Membership,"Rs 2,213.68",debit,Healthcare
+2023-09-06,Coffee Shop,Rs 261.54,debit,Food & Dining
+2023-09-07,Ola Cab,Rs 481.09,debit,Transport
+2023-09-08,MedPlus Medical Store,Rs 863.57,debit,Healthcare
+2023-09-08,Coffee Shop,Rs 409.18,debit,Food & Dining
+2023-09-08,Rental Income,"Rs 6,767.45",credit,Rental
+2023-09-10,BookMyShow Tickets,"Rs 1,345.44",debit,Entertainment
+2023-09-10,Petrol/Diesel,"Rs 2,455.29",debit,Transport
+2023-09-11,Electricity Bill,"Rs 4,996.60",debit,Utilities
+2023-09-12,Zomato Food Delivery,Rs 188.25,debit,Food & Dining
+2023-09-12,Jio Recharge,Rs 427.76,debit,Utilities
+2023-09-13,Hotel Stay,"Rs 3,211.98",debit,Travel
+2023-09-13,Dividend Credit,"Rs 12,229.01",credit,Investment
+2023-09-14,Water Bill,Rs 598.66,debit,Utilities
+2023-09-14,Insurance Premium,"Rs 8,294.42",debit,Insurance
+2023-09-14,Restaurant Dinner,"Rs 1,545.85",debit,Food & Dining
+2023-09-15,Flipkart Order,"Rs 2,161.93",debit,Shopping
+2023-09-16,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-09-16,Uber Ride,Rs 585.01,debit,Transport
+2023-09-16,Restaurant Dinner,"Rs 2,248.50",debit,Food & Dining
+2023-09-16,Coffee Shop,Rs 287.24,debit,Food & Dining
+2023-09-16,BookMyShow Tickets,"Rs 1,235.79",debit,Entertainment
+2023-09-18,School Fees,"Rs 2,892.37",debit,Education
+2023-09-19,Hotel Stay,"Rs 2,718.26",debit,Travel
+2023-09-19,Dividend Credit,"Rs 14,655.04",credit,Investment
+2023-09-20,Flipkart Order,"Rs 5,107.07",debit,Shopping
+2023-09-21,Book Purchase,"Rs 1,290.63",debit,Education
+2023-09-22,Jio Recharge,Rs 513.68,debit,Utilities
+2023-09-23,ATM Withdrawal,"Rs 4,582.47",debit,Others
+2023-09-24,BigBasket Groceries,"Rs 3,838.65",debit,Groceries
+2023-09-24,PVR Cinemas,Rs 349.14,debit,Entertainment
+2023-09-24,School Fees,"Rs 14,790.09",debit,Education
+2023-09-24,MedPlus Medical Store,"Rs 1,340.55",debit,Healthcare
+2023-09-25,Bonus Credit,"Rs 6,962.54",credit,Bonus
+2023-09-25,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-09-25,Transfer Received,"Rs 8,582.13",credit,Transfer
+2023-09-26,Freelance Payment,"Rs 15,181.77",credit,Freelance
+2023-09-27,Myntra Fashion,Rs 824.95,debit,Shopping
+2023-09-27,DMart Purchase,"Rs 1,763.73",debit,Groceries
+2023-09-27,Hair Salon,Rs 935.62,debit,Personal Care
+2023-09-27,Travel Booking,"Rs 16,414.12",debit,Travel
+2023-09-27,Restaurant Dinner,"Rs 1,039.68",debit,Food & Dining
+2023-09-28,Transfer Received,"Rs 2,305.96",credit,Transfer
+2023-09-28,Electricity Bill,Rs 877.71,debit,Utilities
+2023-09-28,Myntra Fashion,"Rs 2,563.18",debit,Shopping
+2023-09-28,BigBasket Groceries,Rs 479.33,debit,Groceries
+2023-09-29,Ola Cab,Rs 217.26,debit,Transport
+2023-09-30,Coffee Shop,Rs 201.42,debit,Food & Dining
+2023-09-30,Rental Income,"Rs 23,344.54",credit,Rental
+2023-10-02,Amazon Purchase,"Rs 1,312.61",debit,Shopping
+2023-10-02,Zomato Food Delivery,Rs 626.11,debit,Food & Dining
+2023-10-02,Swiggy Order,Rs 302.66,debit,Food & Dining
+2023-10-02,Amazon Purchase,"Rs 3,355.08",debit,Shopping
+2023-10-03,ATM Withdrawal,"Rs 2,714.62",debit,Others
+2023-10-03,BigBasket Groceries,"Rs 1,265.83",debit,Groceries
+2023-10-04,Freelance Payment,"Rs 7,759.47",credit,Freelance
+2023-10-05,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-10-05,Swiggy Order,Rs 330.65,debit,Food & Dining
+2023-10-08,Bonus Credit,"Rs 38,622.50",credit,Bonus
+2023-10-08,Hotel Stay,"Rs 3,976.11",debit,Travel
+2023-10-08,School Fees,"Rs 8,758.87",debit,Education
+2023-10-09,BigBasket Groceries,Rs 505.55,debit,Groceries
+2023-10-10,Zomato Food Delivery,Rs 751.89,debit,Food & Dining
+2023-10-10,Maintenance Charges,Rs 774.85,debit,Housing
+2023-10-10,Ola Cab,Rs 336.82,debit,Transport
+2023-10-11,Flipkart Order,"Rs 1,541.96",debit,Shopping
+2023-10-11,Myntra Fashion,Rs 594.73,debit,Shopping
+2023-10-12,Book Purchase,Rs 276.29,debit,Education
+2023-10-13,Apollo Pharmacy,Rs 187.57,debit,Healthcare
+2023-10-13,Freelance Payment,"Rs 23,674.90",credit,Freelance
+2023-10-14,Apollo Pharmacy,"Rs 1,001.30",debit,Healthcare
+2023-10-14,Water Bill,Rs 600.33,debit,Utilities
+2023-10-15,School Fees,"Rs 9,428.03",debit,Education
+2023-10-16,Dividend Credit,"Rs 10,604.15",credit,Investment
+2023-10-17,Zomato Food Delivery,Rs 216.32,debit,Food & Dining
+2023-10-17,MedPlus Medical Store,Rs 910.21,debit,Healthcare
+2023-10-17,Travel Booking,"Rs 18,650.99",debit,Travel
+2023-10-18,Salary Credit,"Rs 98,863.99",credit,Salary
+2023-10-18,Cashback Credit,Rs 368.39,credit,Cashback
+2023-10-19,Airtel Mobile Bill,Rs 862.01,debit,Utilities
+2023-10-20,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-10-21,Zomato Food Delivery,Rs 594.48,debit,Food & Dining
+2023-10-21,Amazon Purchase,"Rs 3,325.03",debit,Shopping
+2023-10-21,Swiggy Order,Rs 326.79,debit,Food & Dining
+2023-10-22,Hair Salon,Rs 476.51,debit,Personal Care
+2023-10-22,Apollo Pharmacy,Rs 525.42,debit,Healthcare
+2023-10-22,BookMyShow Tickets,Rs 778.12,debit,Entertainment
+2023-10-23,Restaurant Dinner,"Rs 2,967.70",debit,Food & Dining
+2023-10-23,Electricity Bill,"Rs 2,126.88",debit,Utilities
+2023-10-24,Airtel Mobile Bill,Rs 504.20,debit,Utilities
+2023-10-25,DMart Purchase,"Rs 1,992.61",debit,Groceries
+2023-10-26,Rental Income,"Rs 22,281.89",credit,Rental
+2023-10-27,Myntra Fashion,"Rs 1,586.32",debit,Shopping
+2023-10-27,School Fees,"Rs 9,042.15",debit,Education
+2023-10-28,BigBasket Groceries,"Rs 2,023.86",debit,Groceries
+2023-10-28,BigBasket Groceries,"Rs 3,839.36",debit,Groceries
+2023-10-28,Petrol/Diesel,"Rs 3,375.96",debit,Transport
+2023-10-28,Airtel Mobile Bill,Rs 575.02,debit,Utilities
+2023-10-29,Hair Salon,Rs 967.31,debit,Personal Care
+2023-10-29,Hotel Stay,"Rs 4,895.19",debit,Travel
+2023-10-31,Swiggy Order,Rs 217.72,debit,Food & Dining
+2023-10-31,Maintenance Charges,"Rs 2,756.66",debit,Housing
+2023-11-01,Maintenance Charges,"Rs 1,895.84",debit,Housing
+2023-11-01,BigBasket Groceries,"Rs 1,066.56",debit,Groceries
+2023-11-01,Metro Card Recharge,Rs 539.71,debit,Transport
+2023-11-01,Travel Booking,"Rs 11,440.01",debit,Travel
+2023-11-02,Coffee Shop,Rs 139.11,debit,Food & Dining
+2023-11-02,Netflix Subscription,Rs 437.43,debit,Entertainment
+2023-11-03,Insurance Premium,"Rs 1,217.20",debit,Insurance
+2023-11-04,Swiggy Order,Rs 144.67,debit,Food & Dining
+2023-11-05,Petrol/Diesel,"Rs 2,039.11",debit,Transport
+2023-11-06,Interest Credit,"Rs 1,083.83",credit,Interest
+2023-11-06,Freelance Payment,"Rs 21,785.61",credit,Freelance
+2023-11-07,Netflix Subscription,Rs 453.04,debit,Entertainment
+2023-11-08,Flipkart Order,"Rs 4,207.41",debit,Shopping
+2023-11-08,BookMyShow Tickets,Rs 228.05,debit,Entertainment
+2023-11-08,Spa & Wellness,"Rs 1,389.60",debit,Personal Care
+2023-11-08,Airtel Mobile Bill,Rs 961.41,debit,Utilities
+2023-11-09,Hair Salon,"Rs 1,413.43",debit,Personal Care
+2023-11-10,Amazon Purchase,"Rs 1,836.01",debit,Shopping
+2023-11-11,Coffee Shop,Rs 283.88,debit,Food & Dining
+2023-11-12,Gym Membership,"Rs 2,223.15",debit,Healthcare
+2023-11-12,PVR Cinemas,Rs 272.95,debit,Entertainment
+2023-11-13,Uber Ride,Rs 476.46,debit,Transport
+2023-11-13,ATM Withdrawal,"Rs 1,615.77",debit,Others
+2023-11-14,Insurance Premium,"Rs 3,499.46",debit,Insurance
+2023-11-15,School Fees,"Rs 13,121.80",debit,Education
+2023-11-16,Airtel Mobile Bill,Rs 328.77,debit,Utilities
+2023-11-16,Book Purchase,Rs 673.50,debit,Education
+2023-11-16,Electricity Bill,"Rs 2,129.96",debit,Utilities
+2023-11-16,Rental Income,"Rs 16,566.02",credit,Rental
+2023-11-17,PVR Cinemas,Rs 636.55,debit,Entertainment
+2023-11-17,Petrol/Diesel,"Rs 3,495.48",debit,Transport
+2023-11-17,ATM Withdrawal,"Rs 1,005.17",debit,Others
+2023-11-18,Petrol/Diesel,"Rs 1,022.93",debit,Transport
+2023-11-18,Insurance Premium,"Rs 8,250.23",debit,Insurance
+2023-11-18,Hair Salon,Rs 828.74,debit,Personal Care
+2023-11-19,Insurance Premium,"Rs 4,347.54",debit,Insurance
+2023-11-20,Spa & Wellness,"Rs 2,213.27",debit,Personal Care
+2023-11-21,Insurance Premium,"Rs 9,121.47",debit,Insurance
+2023-11-21,Gym Membership,"Rs 1,171.07",debit,Healthcare
+2023-11-21,Spa & Wellness,"Rs 1,186.34",debit,Personal Care
+2023-11-22,BigBasket Groceries,"Rs 2,470.78",debit,Groceries
+2023-11-22,Maintenance Charges,Rs 521.56,debit,Housing
+2023-11-22,Rental Income,"Rs 9,517.81",credit,Rental
+2023-11-22,Netflix Subscription,Rs 507.45,debit,Entertainment
+2023-11-22,DMart Purchase,"Rs 3,246.80",debit,Groceries
+2023-11-23,Insurance Premium,"Rs 8,807.20",debit,Insurance
+2023-11-23,Swiggy Order,Rs 157.59,debit,Food & Dining
+2023-11-24,Apollo Pharmacy,Rs 754.44,debit,Healthcare
+2023-11-25,Myntra Fashion,"Rs 2,818.91",debit,Shopping
+2023-11-25,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-11-26,Coffee Shop,Rs 204.22,debit,Food & Dining
+2023-11-27,Book Purchase,"Rs 1,170.48",debit,Education
+2023-11-28,Airtel Mobile Bill,Rs 757.04,debit,Utilities
+2023-11-29,Book Purchase,Rs 972.66,debit,Education
+2023-12-01,Reliance Fresh,"Rs 1,536.49",debit,Groceries
+2023-12-01,Book Purchase,"Rs 1,147.17",debit,Education
+2023-12-03,Water Bill,Rs 406.68,debit,Utilities
+2023-12-05,Reliance Fresh,Rs 944.47,debit,Groceries
+2023-12-06,Freelance Payment,"Rs 15,112.24",credit,Freelance
+2023-12-07,Spa & Wellness,"Rs 2,215.80",debit,Personal Care
+2023-12-07,BigBasket Groceries,"Rs 1,609.18",debit,Groceries
+2023-12-07,Maintenance Charges,Rs 696.14,debit,Housing
+2023-12-07,Interest Credit,"Rs 1,305.68",credit,Interest
+2023-12-08,Spotify Premium,Rs 119.00,debit,Entertainment
+2023-12-08,Gym Membership,"Rs 2,265.94",debit,Healthcare
+2023-12-08,Insurance Premium,"Rs 6,971.95",debit,Insurance
+2023-12-10,Netflix Subscription,Rs 264.91,debit,Entertainment
+2023-12-11,Maintenance Charges,"Rs 1,571.00",debit,Housing
+2023-12-12,Apollo Pharmacy,Rs 946.06,debit,Healthcare
+2023-12-12,Water Bill,Rs 384.82,debit,Utilities
+2023-12-13,Travel Booking,"Rs 15,606.90",debit,Travel
+2023-12-13,MedPlus Medical Store,Rs 326.81,debit,Healthcare
+2023-12-13,Metro Card Recharge,Rs 209.13,debit,Transport
+2023-12-15,Interest Credit,"Rs 1,201.91",credit,Interest
+2023-12-16,Apollo Pharmacy,"Rs 1,748.67",debit,Healthcare
+2023-12-17,Zomato Food Delivery,Rs 433.17,debit,Food & Dining
+2023-12-18,Netflix Subscription,Rs 242.09,debit,Entertainment
+2023-12-18,Water Bill,Rs 294.64,debit,Utilities
+2023-12-18,Dividend Credit,"Rs 12,234.66",credit,Investment
+2023-12-18,Electricity Bill,"Rs 1,195.04",debit,Utilities
+2023-12-19,Refund Credit,"Rs 3,367.64",credit,Refund
+2023-12-19,Transfer Received,"Rs 14,040.15",credit,Transfer
+2023-12-19,School Fees,"Rs 5,569.76",debit,Education
+2023-12-20,Airtel Mobile Bill,Rs 658.91,debit,Utilities
+2023-12-21,Travel Booking,"Rs 9,740.87",debit,Travel
+2023-12-21,Netflix Subscription,Rs 200.40,debit,Entertainment
+2023-12-22,Zomato Food Delivery,Rs 520.68,debit,Food & Dining
+2023-12-23,Salary Credit,"Rs 116,105.27",credit,Salary
+2023-12-23,Travel Booking,"Rs 2,085.81",debit,Travel
+2023-12-23,Reliance Fresh,Rs 843.00,debit,Groceries
+2023-12-25,Swiggy Order,Rs 523.84,debit,Food & Dining
+2023-12-25,Water Bill,Rs 282.98,debit,Utilities
+2023-12-25,Transfer Received,"Rs 34,032.60",credit,Transfer
+2023-12-25,Rental Income,"Rs 23,445.47",credit,Rental
+2023-12-26,Interest Credit,"Rs 1,104.65",credit,Interest
+2023-12-27,Myntra Fashion,"Rs 2,187.51",debit,Shopping
+2023-12-27,Metro Card Recharge,Rs 683.30,debit,Transport
+2023-12-27,PVR Cinemas,Rs 650.14,debit,Entertainment
+2023-12-28,Flipkart Order,"Rs 3,460.56",debit,Shopping
+2023-12-29,Maintenance Charges,"Rs 2,211.24",debit,Housing
+2023-12-29,Restaurant Dinner,"Rs 2,345.88",debit,Food & Dining
+2023-12-30,Bonus Credit,"Rs 42,635.93",credit,Bonus
+2023-12-30,Travel Booking,"Rs 17,107.50",debit,Travel
+2023-12-30,Coffee Shop,Rs 235.79,debit,Food & Dining
+2023-12-30,BookMyShow Tickets,Rs 551.21,debit,Entertainment
+2023-12-31,PVR Cinemas,Rs 768.36,debit,Entertainment
+2024-01-02,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-01-02,BigBasket Groceries,"Rs 2,769.37",debit,Groceries
+2024-01-02,Airtel Mobile Bill,Rs 535.93,debit,Utilities
+2024-01-03,Myntra Fashion,"Rs 2,932.53",debit,Shopping
+2024-01-03,Apollo Pharmacy,"Rs 1,505.42",debit,Healthcare
+2024-01-04,Ola Cab,Rs 333.52,debit,Transport
+2024-01-05,Swiggy Order,Rs 311.76,debit,Food & Dining
+2024-01-05,Swiggy Order,Rs 472.05,debit,Food & Dining
+2024-01-06,Netflix Subscription,Rs 430.31,debit,Entertainment
+2024-01-06,Coffee Shop,Rs 394.82,debit,Food & Dining
+2024-01-06,Myntra Fashion,"Rs 3,228.13",debit,Shopping
+2024-01-06,Jio Recharge,Rs 311.07,debit,Utilities
+2024-01-08,PVR Cinemas,Rs 611.46,debit,Entertainment
+2024-01-08,Restaurant Dinner,"Rs 2,436.26",debit,Food & Dining
+2024-01-08,Restaurant Dinner,Rs 575.97,debit,Food & Dining
+2024-01-09,Coffee Shop,Rs 420.66,debit,Food & Dining
+2024-01-10,Travel Booking,"Rs 2,119.33",debit,Travel
+2024-01-11,Maintenance Charges,Rs 936.29,debit,Housing
+2024-01-12,House Rent,"Rs 29,963.04",debit,Housing
+2024-01-12,Airtel Mobile Bill,Rs 491.54,debit,Utilities
+2024-01-12,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-01-12,Reliance Fresh,Rs 411.51,debit,Groceries
+2024-01-13,Myntra Fashion,"Rs 3,653.34",debit,Shopping
+2024-01-14,BigBasket Groceries,Rs 707.74,debit,Groceries
+2024-01-15,Restaurant Dinner,"Rs 1,824.46",debit,Food & Dining
+2024-01-16,Water Bill,Rs 692.80,debit,Utilities
+2024-01-16,Metro Card Recharge,Rs 347.62,debit,Transport
+2024-01-16,Hair Salon,"Rs 1,301.83",debit,Personal Care
+2024-01-16,Water Bill,Rs 713.22,debit,Utilities
+2024-01-17,Zomato Food Delivery,Rs 212.40,debit,Food & Dining
+2024-01-17,Dividend Credit,"Rs 5,097.90",credit,Investment
+2024-01-18,Uber Ride,Rs 105.76,debit,Transport
+2024-01-19,Dividend Credit,"Rs 6,818.63",credit,Investment
+2024-01-20,MedPlus Medical Store,Rs 866.83,debit,Healthcare
+2024-01-20,Rental Income,"Rs 20,271.96",credit,Rental
+2024-01-20,Petrol/Diesel,"Rs 3,858.57",debit,Transport
+2024-01-22,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-01-22,Petrol/Diesel,"Rs 2,276.91",debit,Transport
+2024-01-23,PVR Cinemas,Rs 701.46,debit,Entertainment
+2024-01-24,Insurance Premium,"Rs 1,602.76",debit,Insurance
+2024-01-26,Maintenance Charges,"Rs 2,085.73",debit,Housing
+2024-01-26,Swiggy Order,Rs 474.62,debit,Food & Dining
+2024-01-26,Insurance Premium,"Rs 8,919.59",debit,Insurance
+2024-01-27,Online Course,Rs 558.73,debit,Education
+2024-01-27,Reliance Fresh,Rs 657.71,debit,Groceries
+2024-01-27,Airtel Mobile Bill,Rs 771.18,debit,Utilities
+2024-01-28,Zomato Food Delivery,Rs 771.90,debit,Food & Dining
+2024-01-29,Refund Credit,"Rs 2,601.52",credit,Refund
+2024-01-30,Maintenance Charges,"Rs 1,371.40",debit,Housing
+2024-01-31,Hotel Stay,"Rs 7,477.19",debit,Travel
+2024-01-31,Ola Cab,Rs 381.06,debit,Transport
+2024-02-01,Swiggy Order,Rs 745.47,debit,Food & Dining
+2024-02-02,Uber Ride,Rs 541.85,debit,Transport
+2024-02-03,Amazon Purchase,"Rs 6,458.18",debit,Shopping
+2024-02-04,Transfer Received,"Rs 22,155.12",credit,Transfer
+2024-02-06,Salary Credit,"Rs 44,223.51",credit,Salary
+2024-02-06,BigBasket Groceries,"Rs 3,330.76",debit,Groceries
+2024-02-07,Book Purchase,Rs 810.83,debit,Education
+2024-02-07,BigBasket Groceries,"Rs 2,136.42",debit,Groceries
+2024-02-07,Freelance Payment,"Rs 12,231.89",credit,Freelance
+2024-02-07,Bonus Credit,"Rs 19,300.82",credit,Bonus
+2024-02-08,Apollo Pharmacy,"Rs 1,374.71",debit,Healthcare
+2024-02-08,BookMyShow Tickets,Rs 937.29,debit,Entertainment
+2024-02-08,BigBasket Groceries,"Rs 3,561.49",debit,Groceries
+2024-02-09,Apollo Pharmacy,Rs 912.99,debit,Healthcare
+2024-02-09,Salary Credit,"Rs 95,628.72",credit,Salary
+2024-02-09,House Rent,"Rs 19,121.46",debit,Housing
+2024-02-10,Amazon Purchase,Rs 296.96,debit,Shopping
+2024-02-10,Travel Booking,"Rs 3,774.94",debit,Travel
+2024-02-11,Online Course,"Rs 1,011.35",debit,Education
+2024-02-14,BookMyShow Tickets,"Rs 1,468.86",debit,Entertainment
+2024-02-15,House Rent,"Rs 14,652.00",debit,Housing
+2024-02-15,Cashback Credit,Rs 356.26,credit,Cashback
+2024-02-16,DMart Purchase,"Rs 3,193.35",debit,Groceries
+2024-02-17,Flipkart Order,"Rs 5,051.55",debit,Shopping
+2024-02-17,Insurance Premium,"Rs 9,505.64",debit,Insurance
+2024-02-17,Transfer Received,"Rs 37,976.12",credit,Transfer
+2024-02-18,Restaurant Dinner,"Rs 2,771.59",debit,Food & Dining
+2024-02-20,Metro Card Recharge,Rs 401.05,debit,Transport
+2024-02-20,BookMyShow Tickets,"Rs 1,484.86",debit,Entertainment
+2024-02-20,Travel Booking,"Rs 7,223.89",debit,Travel
+2024-02-20,MedPlus Medical Store,Rs 698.95,debit,Healthcare
+2024-02-20,Salary Credit,"Rs 85,971.95",credit,Salary
+2024-02-21,MedPlus Medical Store,Rs 474.38,debit,Healthcare
+2024-02-21,House Rent,"Rs 21,686.95",debit,Housing
+2024-02-21,PVR Cinemas,Rs 482.57,debit,Entertainment
+2024-02-22,Airtel Mobile Bill,Rs 686.48,debit,Utilities
+2024-02-23,Flipkart Order,"Rs 1,161.66",debit,Shopping
+2024-02-23,Reliance Fresh,Rs 956.47,debit,Groceries
+2024-02-24,Airtel Mobile Bill,Rs 643.27,debit,Utilities
+2024-02-25,PVR Cinemas,Rs 417.57,debit,Entertainment
+2024-02-25,Electricity Bill,"Rs 3,040.61",debit,Utilities
+2024-02-25,Restaurant Dinner,Rs 775.22,debit,Food & Dining
+2024-02-26,Book Purchase,"Rs 1,083.25",debit,Education
+2024-02-27,Insurance Premium,"Rs 7,182.67",debit,Insurance
+2024-02-27,Hair Salon,Rs 449.74,debit,Personal Care
+2024-02-27,Airtel Mobile Bill,Rs 735.84,debit,Utilities
+2024-02-29,Metro Card Recharge,Rs 877.25,debit,Transport
+2024-02-29,Petrol/Diesel,"Rs 2,637.44",debit,Transport
+2024-03-01,PVR Cinemas,Rs 282.67,debit,Entertainment
+2024-03-02,Coffee Shop,Rs 279.87,debit,Food & Dining
+2024-03-02,Flipkart Order,"Rs 3,520.13",debit,Shopping
+2024-03-02,Dividend Credit,"Rs 1,090.44",credit,Investment
+2024-03-02,Bonus Credit,"Rs 33,921.52",credit,Bonus
+2024-03-03,Book Purchase,Rs 438.60,debit,Education
+2024-03-03,School Fees,"Rs 9,198.45",debit,Education
+2024-03-03,Book Purchase,"Rs 1,382.66",debit,Education
+2024-03-03,Metro Card Recharge,Rs 646.89,debit,Transport
+2024-03-04,Coffee Shop,Rs 402.96,debit,Food & Dining
+2024-03-05,Airtel Mobile Bill,Rs 807.24,debit,Utilities
+2024-03-05,Reliance Fresh,"Rs 1,703.09",debit,Groceries
+2024-03-06,BookMyShow Tickets,Rs 587.75,debit,Entertainment
+2024-03-06,Airtel Mobile Bill,Rs 454.86,debit,Utilities
+2024-03-09,Apollo Pharmacy,"Rs 1,029.88",debit,Healthcare
+2024-03-10,Coffee Shop,Rs 385.65,debit,Food & Dining
+2024-03-10,Restaurant Dinner,Rs 557.98,debit,Food & Dining
+2024-03-11,Swiggy Order,Rs 508.72,debit,Food & Dining
+2024-03-12,Hair Salon,"Rs 1,303.87",debit,Personal Care
+2024-03-12,Myntra Fashion,"Rs 2,672.04",debit,Shopping
+2024-03-15,DMart Purchase,"Rs 3,391.23",debit,Groceries
+2024-03-16,Gym Membership,"Rs 2,092.24",debit,Healthcare
+2024-03-16,Netflix Subscription,Rs 388.80,debit,Entertainment
+2024-03-17,Water Bill,Rs 326.77,debit,Utilities
+2024-03-18,Coffee Shop,Rs 428.55,debit,Food & Dining
+2024-03-18,Swiggy Order,Rs 398.37,debit,Food & Dining
+2024-03-19,Jio Recharge,Rs 493.85,debit,Utilities
+2024-03-19,Amazon Purchase,"Rs 7,909.81",debit,Shopping
+2024-03-19,MedPlus Medical Store,Rs 694.07,debit,Healthcare
+2024-03-19,Hotel Stay,"Rs 4,656.17",debit,Travel
+2024-03-19,ATM Withdrawal,"Rs 4,007.34",debit,Others
+2024-03-20,Dividend Credit,"Rs 2,159.81",credit,Investment
+2024-03-20,Book Purchase,Rs 615.63,debit,Education
+2024-03-20,Insurance Premium,"Rs 1,834.57",debit,Insurance
+2024-03-21,Spa & Wellness,"Rs 2,371.40",debit,Personal Care
+2024-03-21,MedPlus Medical Store,Rs 92.32,debit,Healthcare
+2024-03-22,Rental Income,"Rs 11,805.27",credit,Rental
+2024-03-22,Jio Recharge,Rs 390.91,debit,Utilities
+2024-03-22,Myntra Fashion,"Rs 1,009.25",debit,Shopping
+2024-03-23,Metro Card Recharge,Rs 704.17,debit,Transport
+2024-03-24,Amazon Purchase,"Rs 7,144.49",debit,Shopping
+2024-03-26,School Fees,"Rs 2,404.66",debit,Education
+2024-03-26,Insurance Premium,"Rs 1,356.56",debit,Insurance
+2024-03-26,Uber Ride,Rs 560.38,debit,Transport
+2024-03-26,Online Course,"Rs 1,855.84",debit,Education
+2024-03-27,Bonus Credit,"Rs 46,079.36",credit,Bonus
+2024-03-27,BigBasket Groceries,"Rs 1,268.85",debit,Groceries
+2024-03-27,DMart Purchase,Rs 474.32,debit,Groceries
+2024-03-27,Petrol/Diesel,Rs 722.65,debit,Transport
+2024-03-27,Freelance Payment,"Rs 5,908.40",credit,Freelance
+2024-03-28,Zomato Food Delivery,Rs 408.01,debit,Food & Dining
+2024-03-29,Hair Salon,Rs 502.18,debit,Personal Care
+2024-03-30,BigBasket Groceries,"Rs 2,660.49",debit,Groceries
+2024-03-31,Water Bill,Rs 780.89,debit,Utilities
+2024-03-31,Uber Ride,Rs 465.55,debit,Transport
+2024-03-31,Electricity Bill,"Rs 1,906.31",debit,Utilities
+2024-03-31,Jio Recharge,Rs 455.01,debit,Utilities
+2024-04-01,PVR Cinemas,Rs 790.67,debit,Entertainment
+2024-04-01,ATM Withdrawal,Rs 811.00,debit,Others
+2024-04-01,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-04-01,House Rent,"Rs 21,438.03",debit,Housing
+2024-04-02,Dividend Credit,"Rs 11,584.12",credit,Investment
+2024-04-03,Netflix Subscription,Rs 624.07,debit,Entertainment
+2024-04-05,Hair Salon,Rs 731.67,debit,Personal Care
+2024-04-05,Interest Credit,"Rs 2,978.27",credit,Interest
+2024-04-05,Restaurant Dinner,"Rs 1,548.24",debit,Food & Dining
+2024-04-07,Hair Salon,"Rs 1,038.68",debit,Personal Care
+2024-04-08,Water Bill,Rs 397.14,debit,Utilities
+2024-04-09,Jio Recharge,Rs 539.33,debit,Utilities
+2024-04-09,DMart Purchase,"Rs 2,726.18",debit,Groceries
+2024-04-10,House Rent,"Rs 21,768.07",debit,Housing
+2024-04-13,Airtel Mobile Bill,Rs 627.18,debit,Utilities
+2024-04-13,Maintenance Charges,"Rs 2,137.29",debit,Housing
+2024-04-14,Hotel Stay,"Rs 9,317.94",debit,Travel
+2024-04-14,House Rent,"Rs 25,915.72",debit,Housing
+2024-04-15,Ola Cab,Rs 155.27,debit,Transport
+2024-04-15,Metro Card Recharge,Rs 218.05,debit,Transport
+2024-04-16,Maintenance Charges,Rs 524.83,debit,Housing
+2024-04-16,DMart Purchase,"Rs 1,596.43",debit,Groceries
+2024-04-16,Bonus Credit,"Rs 36,782.47",credit,Bonus
+2024-04-16,Gym Membership,Rs 917.37,debit,Healthcare
+2024-04-16,Reliance Fresh,"Rs 1,713.50",debit,Groceries
+2024-04-17,ATM Withdrawal,"Rs 4,893.90",debit,Others
+2024-04-17,Bonus Credit,"Rs 38,869.64",credit,Bonus
+2024-04-17,Electricity Bill,"Rs 1,070.77",debit,Utilities
+2024-04-17,Airtel Mobile Bill,Rs 387.77,debit,Utilities
+2024-04-17,Reliance Fresh,"Rs 1,543.57",debit,Groceries
+2024-04-17,Freelance Payment,"Rs 22,945.81",credit,Freelance
+2024-04-17,Travel Booking,"Rs 13,372.47",debit,Travel
+2024-04-18,Bonus Credit,"Rs 29,357.77",credit,Bonus
+2024-04-19,School Fees,"Rs 11,433.18",debit,Education
+2024-04-19,Interest Credit,"Rs 1,935.63",credit,Interest
+2024-04-19,Petrol/Diesel,"Rs 2,408.33",debit,Transport
+2024-04-19,ATM Withdrawal,"Rs 3,157.68",debit,Others
+2024-04-20,Flipkart Order,"Rs 5,681.68",debit,Shopping
+2024-04-20,Cashback Credit,Rs 993.66,credit,Cashback
+2024-04-21,Interest Credit,"Rs 2,849.99",credit,Interest
+2024-04-21,Spa & Wellness,"Rs 2,051.10",debit,Personal Care
+2024-04-22,Book Purchase,"Rs 1,158.80",debit,Education
+2024-04-22,Flipkart Order,"Rs 3,496.53",debit,Shopping
+2024-04-23,House Rent,"Rs 25,163.79",debit,Housing
+2024-04-23,Refund Credit,"Rs 4,816.31",credit,Refund
+2024-04-23,Metro Card Recharge,Rs 274.62,debit,Transport
+2024-04-24,Refund Credit,"Rs 1,354.39",credit,Refund
+2024-04-25,ATM Withdrawal,"Rs 2,434.99",debit,Others
+2024-04-25,DMart Purchase,"Rs 2,426.09",debit,Groceries
+2024-04-25,Electricity Bill,Rs 867.53,debit,Utilities
+2024-04-25,Cashback Credit,Rs 544.99,credit,Cashback
+2024-04-25,Airtel Mobile Bill,Rs 930.25,debit,Utilities
+2024-04-26,Maintenance Charges,"Rs 2,470.52",debit,Housing
+2024-04-26,House Rent,"Rs 28,896.05",debit,Housing
+2024-04-27,School Fees,"Rs 11,207.64",debit,Education
+2024-04-28,Swiggy Order,Rs 129.89,debit,Food & Dining
+2024-04-29,Restaurant Dinner,Rs 743.59,debit,Food & Dining
+2024-04-29,Insurance Premium,"Rs 8,085.95",debit,Insurance
+2024-04-29,School Fees,"Rs 7,787.21",debit,Education
+2024-04-30,Metro Card Recharge,Rs 315.50,debit,Transport
+2024-05-01,Airtel Mobile Bill,Rs 779.96,debit,Utilities
+2024-05-01,Bonus Credit,"Rs 10,963.16",credit,Bonus
+2024-05-02,Electricity Bill,"Rs 1,888.00",debit,Utilities
+2024-05-03,Transfer Received,"Rs 23,888.67",credit,Transfer
+2024-05-04,Zomato Food Delivery,Rs 334.32,debit,Food & Dining
+2024-05-05,Reliance Fresh,"Rs 1,470.03",debit,Groceries
+2024-05-06,Book Purchase,Rs 745.86,debit,Education
+2024-05-07,Spa & Wellness,"Rs 1,569.58",debit,Personal Care
+2024-05-08,BigBasket Groceries,"Rs 1,234.96",debit,Groceries
+2024-05-09,Online Course,"Rs 1,192.90",debit,Education
+2024-05-09,Zomato Food Delivery,Rs 753.29,debit,Food & Dining
+2024-05-10,Transfer Received,"Rs 17,141.72",credit,Transfer
+2024-05-10,Interest Credit,"Rs 1,039.19",credit,Interest
+2024-05-11,Jio Recharge,Rs 445.58,debit,Utilities
+2024-05-12,Electricity Bill,"Rs 4,329.68",debit,Utilities
+2024-05-13,Dividend Credit,"Rs 9,152.16",credit,Investment
+2024-05-15,DMart Purchase,"Rs 3,267.58",debit,Groceries
+2024-05-15,Refund Credit,"Rs 2,586.53",credit,Refund
+2024-05-15,Insurance Premium,"Rs 1,647.45",debit,Insurance
+2024-05-15,House Rent,"Rs 22,585.20",debit,Housing
+2024-05-15,House Rent,"Rs 16,088.15",debit,Housing
+2024-05-16,Dividend Credit,"Rs 7,635.77",credit,Investment
+2024-05-17,Netflix Subscription,Rs 296.27,debit,Entertainment
+2024-05-17,Uber Ride,Rs 538.59,debit,Transport
+2024-05-17,Petrol/Diesel,"Rs 3,385.65",debit,Transport
+2024-05-18,DMart Purchase,"Rs 1,148.66",debit,Groceries
+2024-05-18,BookMyShow Tickets,Rs 900.37,debit,Entertainment
+2024-05-18,Coffee Shop,Rs 282.88,debit,Food & Dining
+2024-05-18,Swiggy Order,Rs 601.78,debit,Food & Dining
+2024-05-18,Myntra Fashion,"Rs 1,145.07",debit,Shopping
+2024-05-18,Freelance Payment,"Rs 14,769.79",credit,Freelance
+2024-05-19,Netflix Subscription,Rs 445.05,debit,Entertainment
+2024-05-19,Flipkart Order,"Rs 2,463.78",debit,Shopping
+2024-05-19,BigBasket Groceries,"Rs 3,211.33",debit,Groceries
+2024-05-22,School Fees,"Rs 9,697.82",debit,Education
+2024-05-24,Cashback Credit,Rs 618.76,credit,Cashback
+2024-05-25,Jio Recharge,Rs 326.24,debit,Utilities
+2024-05-26,BookMyShow Tickets,"Rs 1,227.76",debit,Entertainment
+2024-05-27,Electricity Bill,"Rs 4,425.57",debit,Utilities
+2024-05-27,Flipkart Order,"Rs 5,121.38",debit,Shopping
+2024-05-27,Freelance Payment,"Rs 20,627.81",credit,Freelance
+2024-05-29,Myntra Fashion,"Rs 3,897.62",debit,Shopping
+2024-05-29,DMart Purchase,Rs 542.31,debit,Groceries
+2024-05-30,MedPlus Medical Store,Rs 215.82,debit,Healthcare
+2024-05-30,School Fees,"Rs 14,958.62",debit,Education
+2024-05-30,Reliance Fresh,Rs 730.81,debit,Groceries
+2024-06-01,Myntra Fashion,"Rs 3,654.38",debit,Shopping
+2024-06-02,Water Bill,Rs 734.39,debit,Utilities
+2024-06-02,Apollo Pharmacy,Rs 583.33,debit,Healthcare
+2024-06-03,Electricity Bill,"Rs 3,922.62",debit,Utilities
+2024-06-03,Zomato Food Delivery,Rs 870.60,debit,Food & Dining
+2024-06-03,PVR Cinemas,Rs 674.32,debit,Entertainment
+2024-06-03,Metro Card Recharge,Rs 203.85,debit,Transport
+2024-06-04,ATM Withdrawal,"Rs 2,583.86",debit,Others
+2024-06-05,Amazon Purchase,"Rs 2,893.94",debit,Shopping
+2024-06-05,Travel Booking,"Rs 9,823.84",debit,Travel
+2024-06-06,PVR Cinemas,Rs 631.70,debit,Entertainment
+2024-06-07,Swiggy Order,Rs 215.86,debit,Food & Dining
+2024-06-07,PVR Cinemas,Rs 384.91,debit,Entertainment
+2024-06-07,Petrol/Diesel,"Rs 1,902.85",debit,Transport
+2024-06-07,Hotel Stay,"Rs 4,934.10",debit,Travel
+2024-06-08,Myntra Fashion,Rs 566.83,debit,Shopping
+2024-06-08,PVR Cinemas,Rs 372.99,debit,Entertainment
+2024-06-08,Maintenance Charges,"Rs 2,907.71",debit,Housing
+2024-06-09,Swiggy Order,Rs 710.27,debit,Food & Dining
+2024-06-10,Reliance Fresh,Rs 391.91,debit,Groceries
+2024-06-12,Transfer Received,"Rs 10,883.57",credit,Transfer
+2024-06-12,Restaurant Dinner,"Rs 2,222.07",debit,Food & Dining
+2024-06-12,Metro Card Recharge,Rs 797.77,debit,Transport
+2024-06-13,Bonus Credit,"Rs 43,043.05",credit,Bonus
+2024-06-13,DMart Purchase,"Rs 1,920.41",debit,Groceries
+2024-06-14,DMart Purchase,"Rs 3,384.49",debit,Groceries
+2024-06-15,Travel Booking,"Rs 17,326.22",debit,Travel
+2024-06-15,Reliance Fresh,"Rs 1,816.07",debit,Groceries
+2024-06-16,Swiggy Order,Rs 147.89,debit,Food & Dining
+2024-06-16,Transfer Received,"Rs 29,847.69",credit,Transfer
+2024-06-17,Transfer Received,"Rs 22,808.91",credit,Transfer
+2024-06-18,Flipkart Order,"Rs 2,433.86",debit,Shopping
+2024-06-18,Coffee Shop,Rs 132.54,debit,Food & Dining
+2024-06-18,Ola Cab,Rs 152.19,debit,Transport
+2024-06-18,Reliance Fresh,"Rs 1,675.91",debit,Groceries
+2024-06-18,Airtel Mobile Bill,Rs 878.33,debit,Utilities
+2024-06-19,Metro Card Recharge,Rs 720.97,debit,Transport
+2024-06-19,Uber Ride,Rs 194.83,debit,Transport
+2024-06-21,ATM Withdrawal,"Rs 2,344.96",debit,Others
+2024-06-21,Hair Salon,Rs 373.54,debit,Personal Care
+2024-06-21,Amazon Purchase,"Rs 6,258.22",debit,Shopping
+2024-06-22,BigBasket Groceries,"Rs 3,328.99",debit,Groceries
+2024-06-23,Hair Salon,Rs 891.03,debit,Personal Care
+2024-06-23,Online Course,"Rs 2,349.02",debit,Education
+2024-06-24,House Rent,"Rs 10,558.83",debit,Housing
+2024-06-25,Zomato Food Delivery,Rs 161.95,debit,Food & Dining
+2024-06-25,Refund Credit,"Rs 4,234.37",credit,Refund
+2024-06-26,Petrol/Diesel,Rs 581.88,debit,Transport
+2024-06-26,ATM Withdrawal,"Rs 2,013.49",debit,Others
+2024-06-27,Salary Credit,"Rs 116,401.07",credit,Salary
+2024-06-30,BigBasket Groceries,"Rs 3,143.76",debit,Groceries
+2024-06-30,Travel Booking,"Rs 7,254.61",debit,Travel
+2024-06-30,Ola Cab,Rs 243.47,debit,Transport
+2024-06-30,Ola Cab,Rs 180.29,debit,Transport
+2024-07-01,Spa & Wellness,"Rs 2,337.54",debit,Personal Care
+2024-07-01,Coffee Shop,Rs 345.86,debit,Food & Dining
+2024-07-02,Amazon Purchase,"Rs 1,979.75",debit,Shopping
+2024-07-02,School Fees,"Rs 9,124.69",debit,Education
+2024-07-02,Water Bill,Rs 536.94,debit,Utilities
+2024-07-02,Insurance Premium,"Rs 4,080.17",debit,Insurance
+2024-07-02,Apollo Pharmacy,"Rs 1,281.75",debit,Healthcare
+2024-07-03,Bonus Credit,"Rs 39,795.57",credit,Bonus
+2024-07-03,Ola Cab,Rs 461.44,debit,Transport
+2024-07-04,Jio Recharge,Rs 531.38,debit,Utilities
+2024-07-05,Gym Membership,Rs 547.27,debit,Healthcare
+2024-07-05,BigBasket Groceries,Rs 784.66,debit,Groceries
+2024-07-05,Flipkart Order,"Rs 5,284.34",debit,Shopping
+2024-07-06,Myntra Fashion,"Rs 3,840.22",debit,Shopping
+2024-07-07,Spa & Wellness,"Rs 1,272.55",debit,Personal Care
+2024-07-08,Zomato Food Delivery,Rs 242.73,debit,Food & Dining
+2024-07-08,DMart Purchase,"Rs 2,660.99",debit,Groceries
+2024-07-09,Amazon Purchase,"Rs 2,881.17",debit,Shopping
+2024-07-09,Jio Recharge,Rs 405.13,debit,Utilities
+2024-07-09,Gym Membership,"Rs 2,250.01",debit,Healthcare
+2024-07-10,Travel Booking,"Rs 15,364.98",debit,Travel
+2024-07-10,Restaurant Dinner,"Rs 2,566.40",debit,Food & Dining
+2024-07-11,Spa & Wellness,"Rs 2,509.77",debit,Personal Care
+2024-07-11,Uber Ride,Rs 475.94,debit,Transport
+2024-07-11,Interest Credit,"Rs 1,306.68",credit,Interest
+2024-07-12,Electricity Bill,"Rs 2,044.32",debit,Utilities
+2024-07-12,Insurance Premium,"Rs 6,649.19",debit,Insurance
+2024-07-12,Petrol/Diesel,"Rs 2,950.23",debit,Transport
+2024-07-12,Airtel Mobile Bill,Rs 413.51,debit,Utilities
+2024-07-13,Uber Ride,Rs 123.16,debit,Transport
+2024-07-15,Myntra Fashion,"Rs 2,837.23",debit,Shopping
+2024-07-16,Dividend Credit,"Rs 1,071.31",credit,Investment
+2024-07-17,Transfer Received,"Rs 17,343.63",credit,Transfer
+2024-07-17,Amazon Purchase,"Rs 1,228.16",debit,Shopping
+2024-07-18,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-07-19,Salary Credit,"Rs 56,788.53",credit,Salary
+2024-07-19,Restaurant Dinner,"Rs 1,074.90",debit,Food & Dining
+2024-07-19,Myntra Fashion,"Rs 3,526.94",debit,Shopping
+2024-07-20,DMart Purchase,"Rs 2,729.17",debit,Groceries
+2024-07-20,Coffee Shop,Rs 252.67,debit,Food & Dining
+2024-07-20,Refund Credit,Rs 964.03,credit,Refund
+2024-07-21,Petrol/Diesel,"Rs 3,654.52",debit,Transport
+2024-07-21,Airtel Mobile Bill,Rs 721.81,debit,Utilities
+2024-07-21,PVR Cinemas,Rs 656.64,debit,Entertainment
+2024-07-22,BigBasket Groceries,"Rs 1,253.44",debit,Groceries
+2024-07-22,Online Course,Rs 775.51,debit,Education
+2024-07-22,Restaurant Dinner,"Rs 1,368.76",debit,Food & Dining
+2024-07-23,MedPlus Medical Store,"Rs 1,232.65",debit,Healthcare
+2024-07-23,Rental Income,"Rs 9,642.14",credit,Rental
+2024-07-23,Zomato Food Delivery,Rs 623.66,debit,Food & Dining
+2024-07-24,Water Bill,Rs 624.89,debit,Utilities
+2024-07-26,Apollo Pharmacy,"Rs 1,720.34",debit,Healthcare
+2024-07-26,Petrol/Diesel,Rs 525.63,debit,Transport
+2024-07-26,DMart Purchase,"Rs 1,058.56",debit,Groceries
+2024-07-27,Restaurant Dinner,"Rs 2,580.47",debit,Food & Dining
+2024-07-27,Ola Cab,Rs 110.04,debit,Transport
+2024-07-28,Zomato Food Delivery,Rs 485.54,debit,Food & Dining
+2024-07-29,BigBasket Groceries,"Rs 2,202.25",debit,Groceries
+2024-07-29,Transfer Received,"Rs 14,757.45",credit,Transfer
+2024-07-30,House Rent,"Rs 12,952.84",debit,Housing
+2024-08-02,Coffee Shop,Rs 491.75,debit,Food & Dining
+2024-08-03,Coffee Shop,Rs 95.57,debit,Food & Dining
+2024-08-04,BigBasket Groceries,"Rs 2,926.95",debit,Groceries
+2024-08-05,BigBasket Groceries,"Rs 1,105.59",debit,Groceries
+2024-08-06,PVR Cinemas,Rs 593.08,debit,Entertainment
+2024-08-06,Zomato Food Delivery,Rs 679.40,debit,Food & Dining
+2024-08-06,Coffee Shop,Rs 360.12,debit,Food & Dining
+2024-08-07,House Rent,"Rs 11,043.42",debit,Housing
+2024-08-08,Maintenance Charges,"Rs 2,317.39",debit,Housing
+2024-08-09,Myntra Fashion,Rs 916.40,debit,Shopping
+2024-08-09,Uber Ride,Rs 166.25,debit,Transport
+2024-08-11,Travel Booking,"Rs 16,513.25",debit,Travel
+2024-08-11,Restaurant Dinner,"Rs 2,634.57",debit,Food & Dining
+2024-08-12,House Rent,"Rs 13,336.87",debit,Housing
+2024-08-13,Water Bill,Rs 502.03,debit,Utilities
+2024-08-13,House Rent,"Rs 13,015.53",debit,Housing
+2024-08-14,ATM Withdrawal,"Rs 2,318.67",debit,Others
+2024-08-14,PVR Cinemas,Rs 446.99,debit,Entertainment
+2024-08-15,Jio Recharge,Rs 441.85,debit,Utilities
+2024-08-16,Water Bill,Rs 702.72,debit,Utilities
+2024-08-17,Petrol/Diesel,"Rs 1,941.64",debit,Transport
+2024-08-17,Swiggy Order,Rs 316.73,debit,Food & Dining
+2024-08-17,Transfer Received,"Rs 3,424.32",credit,Transfer
+2024-08-17,House Rent,"Rs 13,371.66",debit,Housing
+2024-08-17,BookMyShow Tickets,Rs 795.53,debit,Entertainment
+2024-08-18,MedPlus Medical Store,Rs 408.15,debit,Healthcare
+2024-08-18,Cashback Credit,Rs 153.89,credit,Cashback
+2024-08-20,Coffee Shop,Rs 270.44,debit,Food & Dining
+2024-08-21,Uber Ride,Rs 505.77,debit,Transport
+2024-08-21,DMart Purchase,"Rs 1,431.43",debit,Groceries
+2024-08-22,PVR Cinemas,Rs 304.26,debit,Entertainment
+2024-08-22,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-08-23,DMart Purchase,"Rs 2,385.89",debit,Groceries
+2024-08-23,Flipkart Order,"Rs 1,515.74",debit,Shopping
+2024-08-23,Petrol/Diesel,"Rs 3,108.75",debit,Transport
+2024-08-24,Jio Recharge,Rs 252.18,debit,Utilities
+2024-08-24,Interest Credit,"Rs 1,028.22",credit,Interest
+2024-08-27,Myntra Fashion,"Rs 1,543.90",debit,Shopping
+2024-08-27,Spa & Wellness,"Rs 1,041.52",debit,Personal Care
+2024-08-27,Freelance Payment,"Rs 12,393.07",credit,Freelance
+2024-08-28,School Fees,"Rs 11,858.92",debit,Education
+2024-08-28,Amazon Purchase,"Rs 4,887.53",debit,Shopping
+2024-08-28,House Rent,"Rs 19,077.49",debit,Housing
+2024-08-29,Myntra Fashion,"Rs 3,152.19",debit,Shopping
+2024-08-29,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-08-31,DMart Purchase,"Rs 1,914.24",debit,Groceries
+2024-08-31,BigBasket Groceries,"Rs 2,537.20",debit,Groceries
+2024-08-31,Bonus Credit,"Rs 9,152.12",credit,Bonus
+2024-09-01,Online Course,"Rs 2,285.27",debit,Education
+2024-09-01,Insurance Premium,"Rs 7,398.85",debit,Insurance
+2024-09-02,Electricity Bill,"Rs 1,446.31",debit,Utilities
+2024-09-02,School Fees,"Rs 12,309.67",debit,Education
+2024-09-02,Rental Income,"Rs 20,087.62",credit,Rental
+2024-09-02,School Fees,"Rs 8,304.46",debit,Education
+2024-09-03,Zomato Food Delivery,Rs 288.74,debit,Food & Dining
+2024-09-04,Book Purchase,"Rs 1,274.74",debit,Education
+2024-09-05,Dividend Credit,"Rs 11,015.83",credit,Investment
+2024-09-06,Zomato Food Delivery,Rs 203.52,debit,Food & Dining
+2024-09-06,Rental Income,"Rs 6,379.45",credit,Rental
+2024-09-07,Gym Membership,"Rs 1,402.31",debit,Healthcare
+2024-09-09,Jio Recharge,Rs 481.27,debit,Utilities
+2024-09-09,Spa & Wellness,"Rs 2,649.20",debit,Personal Care
+2024-09-10,Maintenance Charges,Rs 518.97,debit,Housing
+2024-09-10,Airtel Mobile Bill,Rs 311.77,debit,Utilities
+2024-09-13,Hair Salon,"Rs 1,491.45",debit,Personal Care
+2024-09-13,Transfer Received,"Rs 37,357.14",credit,Transfer
+2024-09-14,PVR Cinemas,Rs 573.46,debit,Entertainment
+2024-09-14,Airtel Mobile Bill,Rs 419.84,debit,Utilities
+2024-09-14,Petrol/Diesel,"Rs 1,971.11",debit,Transport
+2024-09-15,Bonus Credit,"Rs 8,816.65",credit,Bonus
+2024-09-15,Apollo Pharmacy,Rs 530.61,debit,Healthcare
+2024-09-15,Coffee Shop,Rs 130.53,debit,Food & Dining
+2024-09-15,Coffee Shop,Rs 205.33,debit,Food & Dining
+2024-09-15,Maintenance Charges,"Rs 1,281.66",debit,Housing
+2024-09-15,Freelance Payment,"Rs 8,763.55",credit,Freelance
+2024-09-16,Apollo Pharmacy,"Rs 1,720.52",debit,Healthcare
+2024-09-16,PVR Cinemas,Rs 518.40,debit,Entertainment
+2024-09-17,Ola Cab,Rs 218.92,debit,Transport
+2024-09-18,House Rent,"Rs 26,918.41",debit,Housing
+2024-09-18,Coffee Shop,Rs 326.74,debit,Food & Dining
+2024-09-18,PVR Cinemas,Rs 631.00,debit,Entertainment
+2024-09-19,Ola Cab,Rs 492.63,debit,Transport
+2024-09-21,Amazon Purchase,"Rs 5,744.41",debit,Shopping
+2024-09-21,MedPlus Medical Store,Rs 382.76,debit,Healthcare
+2024-09-21,Online Course,"Rs 2,483.72",debit,Education
+2024-09-22,Rental Income,"Rs 11,840.16",credit,Rental
+2024-09-22,Maintenance Charges,"Rs 2,253.88",debit,Housing
+2024-09-23,Rental Income,"Rs 9,446.12",credit,Rental
+2024-09-23,Uber Ride,Rs 109.16,debit,Transport
+2024-09-24,Zomato Food Delivery,Rs 267.51,debit,Food & Dining
+2024-09-24,Electricity Bill,"Rs 1,472.22",debit,Utilities
+2024-09-26,Zomato Food Delivery,Rs 469.16,debit,Food & Dining
+2024-09-26,Ola Cab,Rs 134.84,debit,Transport
+2024-09-26,Netflix Subscription,Rs 297.27,debit,Entertainment
+2024-09-26,Apollo Pharmacy,Rs 921.21,debit,Healthcare
+2024-09-27,Spa & Wellness,"Rs 2,919.48",debit,Personal Care
+2024-09-27,Gym Membership,"Rs 2,363.20",debit,Healthcare
+2024-09-28,Bonus Credit,"Rs 45,555.85",credit,Bonus
+2024-09-29,Travel Booking,"Rs 11,673.11",debit,Travel
+2024-09-29,Flipkart Order,"Rs 2,010.47",debit,Shopping
+2024-09-30,Online Course,"Rs 2,764.07",debit,Education
+2024-10-01,Apollo Pharmacy,Rs 283.10,debit,Healthcare
+2024-10-01,ATM Withdrawal,"Rs 3,171.74",debit,Others
+2024-10-02,Electricity Bill,"Rs 1,532.40",debit,Utilities
+2024-10-02,Restaurant Dinner,"Rs 2,327.70",debit,Food & Dining
+2024-10-02,Reliance Fresh,Rs 886.06,debit,Groceries
+2024-10-03,MedPlus Medical Store,Rs 474.60,debit,Healthcare
+2024-10-03,MedPlus Medical Store,Rs 214.49,debit,Healthcare
+2024-10-04,Hotel Stay,"Rs 2,157.85",debit,Travel
+2024-10-04,Dividend Credit,"Rs 4,931.44",credit,Investment
+2024-10-05,Jio Recharge,Rs 363.60,debit,Utilities
+2024-10-05,Myntra Fashion,"Rs 2,377.42",debit,Shopping
+2024-10-06,Refund Credit,"Rs 2,977.25",credit,Refund
+2024-10-06,Maintenance Charges,"Rs 2,167.39",debit,Housing
+2024-10-07,Electricity Bill,"Rs 1,056.55",debit,Utilities
+2024-10-07,Swiggy Order,Rs 584.28,debit,Food & Dining
+2024-10-07,Zomato Food Delivery,Rs 419.65,debit,Food & Dining
+2024-10-08,Hair Salon,"Rs 1,084.53",debit,Personal Care
+2024-10-09,Uber Ride,Rs 156.63,debit,Transport
+2024-10-09,Online Course,"Rs 3,925.31",debit,Education
+2024-10-12,Book Purchase,Rs 466.04,debit,Education
+2024-10-12,Online Course,Rs 994.06,debit,Education
+2024-10-12,Petrol/Diesel,"Rs 3,871.63",debit,Transport
+2024-10-13,BigBasket Groceries,"Rs 2,729.60",debit,Groceries
+2024-10-13,Refund Credit,Rs 647.52,credit,Refund
+2024-10-14,Gym Membership,"Rs 1,758.35",debit,Healthcare
+2024-10-15,Amazon Purchase,"Rs 4,408.69",debit,Shopping
+2024-10-15,Amazon Purchase,"Rs 4,666.82",debit,Shopping
+2024-10-16,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-10-16,Zomato Food Delivery,Rs 728.34,debit,Food & Dining
+2024-10-17,Book Purchase,Rs 958.58,debit,Education
+2024-10-17,PVR Cinemas,Rs 459.76,debit,Entertainment
+2024-10-17,DMart Purchase,"Rs 3,216.81",debit,Groceries
+2024-10-18,Hair Salon,Rs 375.47,debit,Personal Care
+2024-10-18,Coffee Shop,Rs 126.58,debit,Food & Dining
+2024-10-18,Hair Salon,"Rs 1,324.71",debit,Personal Care
+2024-10-18,BookMyShow Tickets,Rs 276.55,debit,Entertainment
+2024-10-19,Amazon Purchase,"Rs 1,267.16",debit,Shopping
+2024-10-19,Ola Cab,Rs 238.98,debit,Transport
+2024-10-20,Insurance Premium,"Rs 8,120.95",debit,Insurance
+2024-10-20,Electricity Bill,"Rs 4,922.23",debit,Utilities
+2024-10-21,Netflix Subscription,Rs 556.74,debit,Entertainment
+2024-10-21,Online Course,"Rs 2,729.46",debit,Education
+2024-10-21,House Rent,"Rs 10,328.51",debit,Housing
+2024-10-22,Airtel Mobile Bill,Rs 698.70,debit,Utilities
+2024-10-22,Jio Recharge,Rs 491.98,debit,Utilities
+2024-10-23,PVR Cinemas,Rs 674.94,debit,Entertainment
+2024-10-23,Amazon Purchase,"Rs 6,361.29",debit,Shopping
+2024-10-23,Apollo Pharmacy,"Rs 1,257.53",debit,Healthcare
+2024-10-23,Airtel Mobile Bill,Rs 362.24,debit,Utilities
+2024-10-24,Interest Credit,"Rs 2,357.38",credit,Interest
+2024-10-24,Myntra Fashion,"Rs 3,120.33",debit,Shopping
+2024-10-25,Water Bill,Rs 446.49,debit,Utilities
+2024-10-25,Cashback Credit,Rs 682.28,credit,Cashback
+2024-10-26,Freelance Payment,"Rs 11,254.27",credit,Freelance
+2024-10-27,Book Purchase,Rs 495.62,debit,Education
+2024-10-27,Gym Membership,"Rs 1,124.11",debit,Healthcare
+2024-10-27,Netflix Subscription,Rs 589.49,debit,Entertainment
+2024-10-27,Dividend Credit,"Rs 11,334.24",credit,Investment
+2024-10-27,ATM Withdrawal,"Rs 4,625.50",debit,Others
+2024-10-27,Ola Cab,Rs 283.77,debit,Transport
+2024-10-28,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-10-29,Electricity Bill,"Rs 3,069.40",debit,Utilities
+2024-10-29,Restaurant Dinner,"Rs 2,798.51",debit,Food & Dining
+2024-10-30,Gym Membership,Rs 613.23,debit,Healthcare
+2024-10-30,DMart Purchase,"Rs 2,862.31",debit,Groceries
+2024-10-30,Hair Salon,Rs 604.95,debit,Personal Care
+2024-10-31,Metro Card Recharge,Rs 938.28,debit,Transport
+2024-10-31,Hotel Stay,"Rs 3,137.14",debit,Travel
+2024-11-01,Metro Card Recharge,Rs 437.70,debit,Transport
+2024-11-01,Myntra Fashion,"Rs 1,103.93",debit,Shopping
+2024-11-02,Ola Cab,Rs 415.89,debit,Transport
+2024-11-03,House Rent,"Rs 10,790.43",debit,Housing
+2024-11-03,School Fees,"Rs 5,202.56",debit,Education
+2024-11-03,Swiggy Order,Rs 715.16,debit,Food & Dining
+2024-11-04,Amazon Purchase,Rs 456.32,debit,Shopping
+2024-11-04,Freelance Payment,"Rs 6,096.41",credit,Freelance
+2024-11-05,Uber Ride,Rs 281.35,debit,Transport
+2024-11-05,Maintenance Charges,"Rs 1,578.54",debit,Housing
+2024-11-06,ATM Withdrawal,Rs 908.22,debit,Others
+2024-11-08,Reliance Fresh,Rs 356.60,debit,Groceries
+2024-11-09,Book Purchase,"Rs 1,321.92",debit,Education
+2024-11-09,Ola Cab,Rs 109.95,debit,Transport
+2024-11-09,Zomato Food Delivery,Rs 703.82,debit,Food & Dining
+2024-11-09,Amazon Purchase,"Rs 2,545.17",debit,Shopping
+2024-11-10,Freelance Payment,"Rs 22,165.47",credit,Freelance
+2024-11-10,Maintenance Charges,"Rs 2,787.42",debit,Housing
+2024-11-10,Myntra Fashion,"Rs 2,575.50",debit,Shopping
+2024-11-11,Coffee Shop,Rs 367.81,debit,Food & Dining
+2024-11-11,BigBasket Groceries,"Rs 1,289.79",debit,Groceries
+2024-11-11,Dividend Credit,"Rs 2,522.26",credit,Investment
+2024-11-13,Coffee Shop,Rs 211.48,debit,Food & Dining
+2024-11-13,Myntra Fashion,"Rs 3,151.93",debit,Shopping
+2024-11-13,Netflix Subscription,Rs 643.25,debit,Entertainment
+2024-11-14,School Fees,"Rs 6,750.94",debit,Education
+2024-11-16,PVR Cinemas,Rs 707.46,debit,Entertainment
+2024-11-16,Uber Ride,Rs 252.21,debit,Transport
+2024-11-17,Travel Booking,"Rs 16,830.47",debit,Travel
+2024-11-17,Netflix Subscription,Rs 460.95,debit,Entertainment
+2024-11-17,House Rent,"Rs 28,018.98",debit,Housing
+2024-11-19,School Fees,"Rs 12,965.20",debit,Education
+2024-11-20,DMart Purchase,"Rs 3,311.25",debit,Groceries
+2024-11-20,MedPlus Medical Store,Rs 889.11,debit,Healthcare
+2024-11-20,Reliance Fresh,Rs 563.01,debit,Groceries
+2024-11-21,Uber Ride,Rs 265.14,debit,Transport
+2024-11-22,Uber Ride,Rs 418.32,debit,Transport
+2024-11-22,Zomato Food Delivery,Rs 711.41,debit,Food & Dining
+2024-11-23,Refund Credit,"Rs 1,555.93",credit,Refund
+2024-11-23,Restaurant Dinner,Rs 730.93,debit,Food & Dining
+2024-11-23,Water Bill,Rs 415.30,debit,Utilities
+2024-11-24,Uber Ride,Rs 312.65,debit,Transport
+2024-11-24,House Rent,"Rs 11,586.21",debit,Housing
+2024-11-24,Netflix Subscription,Rs 469.48,debit,Entertainment
+2024-11-24,Transfer Received,"Rs 21,696.50",credit,Transfer
+2024-11-25,Spotify Premium,Rs 119.00,debit,Entertainment
+2024-11-25,BookMyShow Tickets,"Rs 1,197.61",debit,Entertainment
+2024-11-25,Myntra Fashion,"Rs 1,513.73",debit,Shopping
+2024-11-25,Book Purchase,Rs 329.96,debit,Education
+2024-11-27,Transfer Received,"Rs 22,627.63",credit,Transfer
+2024-11-27,Dividend Credit,"Rs 12,670.93",credit,Investment
+2024-11-28,Maintenance Charges,"Rs 2,847.70",debit,Housing
+2024-11-28,PVR Cinemas,Rs 277.76,debit,Entertainment
+2024-11-29,Hotel Stay,"Rs 2,685.42",debit,Travel
+2024-11-29,Coffee Shop,Rs 414.27,debit,Food & Dining
+2024-11-30,MedPlus Medical Store,"Rs 1,045.72",debit,Healthcare
+2024-11-30,Insurance Premium,"Rs 9,388.04",debit,Insurance
+2024-12-01,Gym Membership,"Rs 1,763.84",debit,Healthcare
+2024-12-01,BookMyShow Tickets,"Rs 1,324.39",debit,Entertainment
+2024-12-02,Ola Cab,Rs 483.66,debit,Transport
+2024-12-02,Restaurant Dinner,"Rs 1,016.94",debit,Food & Dining
+2024-12-03,Petrol/Diesel,Rs 558.72,debit,Transport
+2024-12-04,Interest Credit,"Rs 2,898.55",credit,Interest
+2024-12-04,Bonus Credit,"Rs 14,189.11",credit,Bonus
+2024-12-05,Airtel Mobile Bill,Rs 882.01,debit,Utilities
+2024-12-06,DMart Purchase,"Rs 2,605.44",debit,Groceries
+2024-12-06,Jio Recharge,Rs 269.20,debit,Utilities
+2024-12-06,Interest Credit,Rs 905.13,credit,Interest
+2024-12-06,House Rent,"Rs 21,193.41",debit,Housing
+2024-12-06,House Rent,"Rs 26,592.76",debit,Housing
+2024-12-07,Maintenance Charges,"Rs 1,960.87",debit,Housing
+2024-12-07,Book Purchase,"Rs 1,315.36",debit,Education
+2024-12-07,Interest Credit,"Rs 2,336.01",credit,Interest
+2024-12-08,MedPlus Medical Store,Rs 774.39,debit,Healthcare
+2024-12-09,Electricity Bill,"Rs 2,550.68",debit,Utilities
+2024-12-11,Gym Membership,"Rs 1,575.09",debit,Healthcare
+2024-12-13,Online Course,"Rs 3,674.86",debit,Education
+2024-12-14,MedPlus Medical Store,Rs 372.93,debit,Healthcare
+2024-12-15,Airtel Mobile Bill,Rs 844.87,debit,Utilities
+2024-12-15,PVR Cinemas,Rs 620.89,debit,Entertainment
+2024-12-15,Myntra Fashion,"Rs 3,310.57",debit,Shopping
+2024-12-16,Hotel Stay,"Rs 8,094.47",debit,Travel
+2024-12-16,Apollo Pharmacy,"Rs 1,485.53",debit,Healthcare
+2024-12-17,Refund Credit,Rs 613.57,credit,Refund
+2024-12-18,Water Bill,Rs 731.79,debit,Utilities
+2024-12-18,Bonus Credit,"Rs 43,315.98",credit,Bonus
+2024-12-19,Salary Credit,"Rs 50,513.06",credit,Salary
+2024-12-19,DMart Purchase,Rs 271.73,debit,Groceries
+2024-12-20,Gym Membership,"Rs 2,292.19",debit,Healthcare
+2024-12-21,Gym Membership,Rs 574.08,debit,Healthcare
+2024-12-21,Flipkart Order,"Rs 3,442.23",debit,Shopping
+2024-12-22,Maintenance Charges,"Rs 2,503.58",debit,Housing
+2024-12-22,Book Purchase,"Rs 1,450.50",debit,Education
+2024-12-22,Rental Income,"Rs 23,651.93",credit,Rental
+2024-12-23,Reliance Fresh,"Rs 1,851.99",debit,Groceries
+2024-12-23,Dividend Credit,"Rs 10,870.45",credit,Investment
+2024-12-25,Bonus Credit,"Rs 36,443.72",credit,Bonus
+2024-12-26,Online Course,"Rs 3,874.32",debit,Education
+2024-12-27,Ola Cab,Rs 377.57,debit,Transport
+2024-12-27,Cashback Credit,Rs 383.20,credit,Cashback
+2024-12-28,Spa & Wellness,"Rs 1,415.13",debit,Personal Care
+2024-12-28,BookMyShow Tickets,Rs 547.80,debit,Entertainment
+2024-12-29,Online Course,"Rs 1,637.13",debit,Education
+2024-12-30,Gym Membership,"Rs 1,649.66",debit,Healthcare
+2024-12-30,DMart Purchase,"Rs 1,304.21",debit,Groceries
+2024-12-30,Ola Cab,Rs 479.00,debit,Transport
+2024-12-30,Restaurant Dinner,Rs 518.24,debit,Food & Dining
+2024-12-31,DMart Purchase,"Rs 3,241.21",debit,Groceries
+2024-12-31,Book Purchase,"Rs 1,027.65",debit,Education
+2024-12-31,Spa & Wellness,Rs 635.35,debit,Personal Care
+2025-01-01,Dividend Credit,"Rs 14,454.19",credit,Investment
+2025-01-01,School Fees,"Rs 4,249.77",debit,Education
+2025-01-01,Myntra Fashion,"Rs 1,347.59",debit,Shopping
+2025-01-01,Insurance Premium,"Rs 9,241.99",debit,Insurance
+2025-01-01,PVR Cinemas,Rs 556.40,debit,Entertainment
+2025-01-03,School Fees,"Rs 6,038.85",debit,Education
+2025-01-04,BookMyShow Tickets,Rs 735.06,debit,Entertainment
+2025-01-04,Maintenance Charges,Rs 749.69,debit,Housing
+2025-01-04,Jio Recharge,Rs 199.02,debit,Utilities
+2025-01-04,Restaurant Dinner,"Rs 1,633.00",debit,Food & Dining
+2025-01-05,Water Bill,Rs 504.01,debit,Utilities
+2025-01-07,MedPlus Medical Store,Rs 388.16,debit,Healthcare
+2025-01-07,Airtel Mobile Bill,Rs 860.92,debit,Utilities
+2025-01-08,Metro Card Recharge,Rs 773.15,debit,Transport
+2025-01-08,Airtel Mobile Bill,Rs 397.08,debit,Utilities
+2025-01-08,Hair Salon,"Rs 1,279.49",debit,Personal Care
+2025-01-09,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-01-09,DMart Purchase,"Rs 1,433.51",debit,Groceries
+2025-01-09,Swiggy Order,Rs 602.88,debit,Food & Dining
+2025-01-10,Refund Credit,"Rs 4,028.34",credit,Refund
+2025-01-10,Zomato Food Delivery,Rs 322.01,debit,Food & Dining
+2025-01-10,Online Course,"Rs 2,203.06",debit,Education
+2025-01-10,Gym Membership,"Rs 1,797.28",debit,Healthcare
+2025-01-11,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-01-11,Reliance Fresh,"Rs 1,359.20",debit,Groceries
+2025-01-11,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-01-14,Swiggy Order,Rs 196.51,debit,Food & Dining
+2025-01-14,BigBasket Groceries,"Rs 3,756.68",debit,Groceries
+2025-01-15,Transfer Received,"Rs 38,575.34",credit,Transfer
+2025-01-16,ATM Withdrawal,"Rs 4,951.23",debit,Others
+2025-01-16,Swiggy Order,Rs 414.00,debit,Food & Dining
+2025-01-16,Amazon Purchase,"Rs 4,013.88",debit,Shopping
+2025-01-16,Netflix Subscription,Rs 639.56,debit,Entertainment
+2025-01-17,School Fees,"Rs 6,548.27",debit,Education
+2025-01-17,Zomato Food Delivery,Rs 739.68,debit,Food & Dining
+2025-01-17,Zomato Food Delivery,Rs 494.14,debit,Food & Dining
+2025-01-17,Freelance Payment,"Rs 19,137.41",credit,Freelance
+2025-01-18,Jio Recharge,Rs 571.14,debit,Utilities
+2025-01-20,Book Purchase,"Rs 1,327.27",debit,Education
+2025-01-20,Amazon Purchase,"Rs 4,680.93",debit,Shopping
+2025-01-20,Water Bill,Rs 766.99,debit,Utilities
+2025-01-20,Interest Credit,"Rs 1,882.44",credit,Interest
+2025-01-24,Metro Card Recharge,Rs 581.02,debit,Transport
+2025-01-24,Water Bill,Rs 716.11,debit,Utilities
+2025-01-24,Airtel Mobile Bill,Rs 300.72,debit,Utilities
+2025-01-26,House Rent,"Rs 19,027.47",debit,Housing
+2025-01-26,MedPlus Medical Store,"Rs 1,482.09",debit,Healthcare
+2025-01-26,MedPlus Medical Store,Rs 649.05,debit,Healthcare
+2025-01-27,School Fees,"Rs 12,051.13",debit,Education
+2025-01-27,MedPlus Medical Store,"Rs 1,468.87",debit,Healthcare
+2025-01-29,Electricity Bill,"Rs 1,145.50",debit,Utilities
+2025-01-29,School Fees,"Rs 3,384.44",debit,Education
+2025-01-29,Transfer Received,"Rs 19,681.20",credit,Transfer
+2025-01-29,Travel Booking,"Rs 6,805.91",debit,Travel
+2025-02-01,Airtel Mobile Bill,Rs 787.51,debit,Utilities
+2025-02-01,DMart Purchase,"Rs 3,125.78",debit,Groceries
+2025-02-02,Zomato Food Delivery,Rs 770.51,debit,Food & Dining
+2025-02-03,Refund Credit,"Rs 3,340.19",credit,Refund
+2025-02-04,Zomato Food Delivery,Rs 576.74,debit,Food & Dining
+2025-02-05,Refund Credit,"Rs 2,289.09",credit,Refund
+2025-02-05,Swiggy Order,Rs 147.50,debit,Food & Dining
+2025-02-05,Water Bill,Rs 590.04,debit,Utilities
+2025-02-06,Myntra Fashion,"Rs 2,504.05",debit,Shopping
+2025-02-07,Petrol/Diesel,"Rs 1,248.28",debit,Transport
+2025-02-07,Hotel Stay,"Rs 8,635.78",debit,Travel
+2025-02-08,PVR Cinemas,Rs 620.92,debit,Entertainment
+2025-02-08,Gym Membership,"Rs 2,123.79",debit,Healthcare
+2025-02-09,Amazon Purchase,"Rs 2,832.96",debit,Shopping
+2025-02-10,Online Course,Rs 502.46,debit,Education
+2025-02-10,Amazon Purchase,"Rs 4,486.77",debit,Shopping
+2025-02-10,Rental Income,"Rs 12,531.46",credit,Rental
+2025-02-11,Myntra Fashion,"Rs 2,173.82",debit,Shopping
+2025-02-11,Salary Credit,"Rs 71,080.58",credit,Salary
+2025-02-11,Jio Recharge,Rs 233.41,debit,Utilities
+2025-02-11,Hotel Stay,"Rs 3,574.30",debit,Travel
+2025-02-11,DMart Purchase,"Rs 3,390.57",debit,Groceries
+2025-02-12,Spa & Wellness,"Rs 1,247.89",debit,Personal Care
+2025-02-12,Salary Credit,"Rs 47,648.46",credit,Salary
+2025-02-12,Gym Membership,"Rs 1,915.44",debit,Healthcare
+2025-02-13,Amazon Purchase,"Rs 1,376.36",debit,Shopping
+2025-02-13,Restaurant Dinner,"Rs 2,638.98",debit,Food & Dining
+2025-02-14,Flipkart Order,"Rs 2,682.72",debit,Shopping
+2025-02-14,Rental Income,"Rs 15,742.28",credit,Rental
+2025-02-15,Swiggy Order,Rs 450.14,debit,Food & Dining
+2025-02-15,Uber Ride,Rs 330.33,debit,Transport
+2025-02-16,Interest Credit,"Rs 2,437.54",credit,Interest
+2025-02-16,Petrol/Diesel,"Rs 1,186.97",debit,Transport
+2025-02-17,Flipkart Order,"Rs 5,834.12",debit,Shopping
+2025-02-17,Maintenance Charges,Rs 777.52,debit,Housing
+2025-02-17,Transfer Received,"Rs 2,405.32",credit,Transfer
+2025-02-17,Maintenance Charges,"Rs 2,354.11",debit,Housing
+2025-02-18,DMart Purchase,Rs 256.99,debit,Groceries
+2025-02-19,Book Purchase,Rs 985.61,debit,Education
+2025-02-19,Rental Income,"Rs 17,802.30",credit,Rental
+2025-02-19,MedPlus Medical Store,Rs 185.18,debit,Healthcare
+2025-02-20,House Rent,"Rs 15,832.33",debit,Housing
+2025-02-20,Online Course,"Rs 2,947.11",debit,Education
+2025-02-20,Zomato Food Delivery,Rs 532.68,debit,Food & Dining
+2025-02-20,Coffee Shop,Rs 398.67,debit,Food & Dining
+2025-02-21,BookMyShow Tickets,"Rs 1,450.14",debit,Entertainment
+2025-02-21,Rental Income,"Rs 20,744.09",credit,Rental
+2025-02-21,School Fees,"Rs 9,580.12",debit,Education
+2025-02-21,BookMyShow Tickets,Rs 864.57,debit,Entertainment
+2025-02-23,Electricity Bill,"Rs 3,213.42",debit,Utilities
+2025-02-24,Myntra Fashion,"Rs 2,978.59",debit,Shopping
+2025-02-25,Swiggy Order,Rs 169.27,debit,Food & Dining
+2025-02-26,Metro Card Recharge,Rs 641.19,debit,Transport
+2025-02-26,Transfer Received,"Rs 15,759.14",credit,Transfer
+2025-02-26,Travel Booking,"Rs 18,634.29",debit,Travel
+2025-02-27,Netflix Subscription,Rs 548.90,debit,Entertainment
+2025-02-27,Book Purchase,Rs 805.12,debit,Education
+2025-02-27,Flipkart Order,"Rs 4,310.39",debit,Shopping
+2025-02-28,Maintenance Charges,"Rs 2,169.11",debit,Housing
+2025-03-01,Restaurant Dinner,"Rs 1,076.46",debit,Food & Dining
+2025-03-01,Netflix Subscription,Rs 363.27,debit,Entertainment
+2025-03-02,Gym Membership,Rs 935.09,debit,Healthcare
+2025-03-03,Reliance Fresh,"Rs 1,094.88",debit,Groceries
+2025-03-03,Restaurant Dinner,Rs 977.89,debit,Food & Dining
+2025-03-04,Coffee Shop,Rs 480.14,debit,Food & Dining
+2025-03-04,MedPlus Medical Store,"Rs 1,233.48",debit,Healthcare
+2025-03-04,ATM Withdrawal,"Rs 3,122.21",debit,Others
+2025-03-04,Hair Salon,"Rs 1,405.06",debit,Personal Care
+2025-03-04,PVR Cinemas,Rs 412.82,debit,Entertainment
+2025-03-05,Myntra Fashion,"Rs 3,161.96",debit,Shopping
+2025-03-06,Hair Salon,"Rs 1,436.33",debit,Personal Care
+2025-03-06,Myntra Fashion,"Rs 1,542.34",debit,Shopping
+2025-03-06,Insurance Premium,"Rs 9,792.62",debit,Insurance
+2025-03-07,Water Bill,Rs 269.78,debit,Utilities
+2025-03-07,Cashback Credit,Rs 357.43,credit,Cashback
+2025-03-08,Hotel Stay,"Rs 1,612.05",debit,Travel
+2025-03-08,Rental Income,"Rs 20,705.34",credit,Rental
+2025-03-08,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-03-08,Ola Cab,Rs 243.34,debit,Transport
+2025-03-09,Petrol/Diesel,"Rs 3,256.37",debit,Transport
+2025-03-09,House Rent,"Rs 25,795.75",debit,Housing
+2025-03-09,Travel Booking,"Rs 5,133.91",debit,Travel
+2025-03-10,ATM Withdrawal,"Rs 1,445.44",debit,Others
+2025-03-11,MedPlus Medical Store,Rs 536.23,debit,Healthcare
+2025-03-11,Ola Cab,Rs 395.52,debit,Transport
+2025-03-11,Metro Card Recharge,Rs 950.62,debit,Transport
+2025-03-12,DMart Purchase,"Rs 1,203.84",debit,Groceries
+2025-03-12,Swiggy Order,Rs 423.66,debit,Food & Dining
+2025-03-14,MedPlus Medical Store,Rs 935.23,debit,Healthcare
+2025-03-14,DMart Purchase,"Rs 1,660.65",debit,Groceries
+2025-03-14,Jio Recharge,Rs 477.65,debit,Utilities
+2025-03-16,Insurance Premium,"Rs 6,415.66",debit,Insurance
+2025-03-16,Petrol/Diesel,"Rs 2,136.58",debit,Transport
+2025-03-16,DMart Purchase,"Rs 2,159.31",debit,Groceries
+2025-03-17,Jio Recharge,Rs 465.77,debit,Utilities
+2025-03-19,Ola Cab,Rs 429.34,debit,Transport
+2025-03-19,Online Course,Rs 551.89,debit,Education
+2025-03-20,Netflix Subscription,Rs 634.14,debit,Entertainment
+2025-03-20,Gym Membership,"Rs 1,511.25",debit,Healthcare
+2025-03-20,Transfer Received,"Rs 30,866.01",credit,Transfer
+2025-03-22,Uber Ride,Rs 124.65,debit,Transport
+2025-03-22,BigBasket Groceries,"Rs 1,256.91",debit,Groceries
+2025-03-23,Myntra Fashion,"Rs 1,966.71",debit,Shopping
+2025-03-23,Netflix Subscription,Rs 378.95,debit,Entertainment
+2025-03-24,Rental Income,"Rs 8,621.67",credit,Rental
+2025-03-24,Refund Credit,"Rs 4,949.65",credit,Refund
+2025-03-25,BigBasket Groceries,Rs 524.04,debit,Groceries
+2025-03-26,Jio Recharge,Rs 412.83,debit,Utilities
+2025-03-26,Transfer Received,"Rs 45,518.83",credit,Transfer
+2025-03-27,Book Purchase,Rs 728.74,debit,Education
+2025-03-28,Electricity Bill,"Rs 3,439.04",debit,Utilities
+2025-03-28,Amazon Purchase,"Rs 1,069.22",debit,Shopping
+2025-03-28,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-03-28,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-03-28,DMart Purchase,Rs 486.32,debit,Groceries
+2025-03-28,House Rent,"Rs 8,916.48",debit,Housing
+2025-03-28,ATM Withdrawal,"Rs 1,484.65",debit,Others
+2025-03-29,Rental Income,"Rs 20,976.40",credit,Rental
+2025-03-29,Book Purchase,"Rs 1,123.15",debit,Education
+2025-03-31,Refund Credit,"Rs 3,871.58",credit,Refund
+2025-03-31,School Fees,"Rs 8,074.49",debit,Education
+2025-04-01,Zomato Food Delivery,Rs 770.92,debit,Food & Dining
+2025-04-02,Transfer Received,"Rs 21,770.31",credit,Transfer
+2025-04-02,Online Course,Rs 632.86,debit,Education
+2025-04-02,MedPlus Medical Store,Rs 372.25,debit,Healthcare
+2025-04-02,Netflix Subscription,Rs 241.04,debit,Entertainment
+2025-04-02,Dividend Credit,"Rs 2,173.86",credit,Investment
+2025-04-03,Swiggy Order,Rs 432.20,debit,Food & Dining
+2025-04-03,Netflix Subscription,Rs 449.32,debit,Entertainment
+2025-04-03,Petrol/Diesel,"Rs 3,224.04",debit,Transport
+2025-04-03,Metro Card Recharge,Rs 868.53,debit,Transport
+2025-04-04,Online Course,"Rs 1,335.90",debit,Education
+2025-04-04,Swiggy Order,Rs 323.26,debit,Food & Dining
+2025-04-04,Transfer Received,"Rs 38,897.21",credit,Transfer
+2025-04-05,Cashback Credit,Rs 808.78,credit,Cashback
+2025-04-05,DMart Purchase,"Rs 2,900.07",debit,Groceries
+2025-04-06,Hotel Stay,"Rs 9,432.96",debit,Travel
+2025-04-06,Gym Membership,"Rs 2,391.73",debit,Healthcare
+2025-04-06,School Fees,"Rs 13,150.21",debit,Education
+2025-04-07,BigBasket Groceries,"Rs 1,660.65",debit,Groceries
+2025-04-08,Water Bill,Rs 639.50,debit,Utilities
+2025-04-08,School Fees,"Rs 6,291.27",debit,Education
+2025-04-08,Petrol/Diesel,"Rs 1,057.39",debit,Transport
+2025-04-09,Ola Cab,Rs 169.97,debit,Transport
+2025-04-10,Airtel Mobile Bill,Rs 612.06,debit,Utilities
+2025-04-10,Jio Recharge,Rs 368.30,debit,Utilities
+2025-04-10,BookMyShow Tickets,Rs 977.20,debit,Entertainment
+2025-04-10,Flipkart Order,"Rs 1,017.58",debit,Shopping
+2025-04-11,Swiggy Order,Rs 490.23,debit,Food & Dining
+2025-04-11,Dividend Credit,"Rs 5,946.47",credit,Investment
+2025-04-11,Airtel Mobile Bill,Rs 454.96,debit,Utilities
+2025-04-12,Myntra Fashion,"Rs 1,859.38",debit,Shopping
+2025-04-12,Swiggy Order,Rs 199.95,debit,Food & Dining
+2025-04-12,Spa & Wellness,"Rs 1,697.66",debit,Personal Care
+2025-04-12,Jio Recharge,Rs 227.78,debit,Utilities
+2025-04-14,MedPlus Medical Store,"Rs 1,456.70",debit,Healthcare
+2025-04-14,ATM Withdrawal,"Rs 1,863.86",debit,Others
+2025-04-15,Maintenance Charges,"Rs 1,442.39",debit,Housing
+2025-04-15,Refund Credit,"Rs 1,063.05",credit,Refund
+2025-04-15,Maintenance Charges,"Rs 2,119.10",debit,Housing
+2025-04-15,Reliance Fresh,Rs 461.10,debit,Groceries
+2025-04-16,Hotel Stay,"Rs 5,160.21",debit,Travel
+2025-04-16,Refund Credit,"Rs 4,233.71",credit,Refund
+2025-04-16,ATM Withdrawal,"Rs 1,482.99",debit,Others
+2025-04-16,Swiggy Order,Rs 296.46,debit,Food & Dining
+2025-04-17,Reliance Fresh,Rs 732.82,debit,Groceries
+2025-04-17,Apollo Pharmacy,"Rs 1,020.50",debit,Healthcare
+2025-04-18,Restaurant Dinner,"Rs 1,325.46",debit,Food & Dining
+2025-04-18,Travel Booking,"Rs 2,332.50",debit,Travel
+2025-04-19,Gym Membership,"Rs 2,337.12",debit,Healthcare
+2025-04-20,Water Bill,Rs 333.28,debit,Utilities
+2025-04-20,Hotel Stay,"Rs 8,013.48",debit,Travel
+2025-04-20,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-04-20,PVR Cinemas,Rs 657.91,debit,Entertainment
+2025-04-21,Rental Income,"Rs 12,501.24",credit,Rental
+2025-04-21,Flipkart Order,Rs 363.15,debit,Shopping
+2025-04-21,School Fees,"Rs 14,555.55",debit,Education
+2025-04-22,Gym Membership,"Rs 2,261.62",debit,Healthcare
+2025-04-23,Water Bill,Rs 214.84,debit,Utilities
+2025-04-23,House Rent,"Rs 10,777.29",debit,Housing
+2025-04-23,Ola Cab,Rs 355.82,debit,Transport
+2025-04-23,Flipkart Order,"Rs 2,271.21",debit,Shopping
+2025-04-25,Reliance Fresh,"Rs 1,641.61",debit,Groceries
+2025-04-25,Zomato Food Delivery,Rs 252.32,debit,Food & Dining
+2025-04-26,Metro Card Recharge,Rs 396.00,debit,Transport
+2025-04-26,Reliance Fresh,Rs 348.88,debit,Groceries
+2025-04-27,ATM Withdrawal,"Rs 2,425.82",debit,Others
+2025-04-27,Apollo Pharmacy,"Rs 1,993.43",debit,Healthcare
+2025-04-27,BigBasket Groceries,Rs 305.53,debit,Groceries
+2025-04-27,Metro Card Recharge,Rs 774.88,debit,Transport
+2025-04-29,Freelance Payment,"Rs 27,115.65",credit,Freelance
+2025-04-29,Water Bill,Rs 699.75,debit,Utilities
+2025-04-29,Gym Membership,"Rs 1,150.19",debit,Healthcare
+2025-04-29,Dividend Credit,"Rs 11,463.01",credit,Investment
+2025-04-30,Hair Salon,"Rs 1,223.77",debit,Personal Care
+2025-05-01,Zomato Food Delivery,Rs 776.54,debit,Food & Dining
+2025-05-03,Book Purchase,"Rs 1,433.22",debit,Education
+2025-05-03,School Fees,"Rs 5,855.79",debit,Education
+2025-05-04,Amazon Purchase,"Rs 3,352.75",debit,Shopping
+2025-05-05,Online Course,Rs 677.95,debit,Education
+2025-05-05,Insurance Premium,"Rs 9,245.71",debit,Insurance
+2025-05-05,Interest Credit,"Rs 1,859.54",credit,Interest
+2025-05-05,Ola Cab,Rs 382.38,debit,Transport
+2025-05-06,Jio Recharge,Rs 437.47,debit,Utilities
+2025-05-06,Ola Cab,Rs 268.56,debit,Transport
+2025-05-06,ATM Withdrawal,"Rs 4,690.49",debit,Others
+2025-05-06,Insurance Premium,"Rs 8,332.43",debit,Insurance
+2025-05-07,Metro Card Recharge,Rs 679.05,debit,Transport
+2025-05-07,Insurance Premium,"Rs 9,359.28",debit,Insurance
+2025-05-07,Travel Booking,"Rs 5,575.28",debit,Travel
+2025-05-08,Reliance Fresh,"Rs 1,814.39",debit,Groceries
+2025-05-09,Coffee Shop,Rs 250.16,debit,Food & Dining
+2025-05-09,Uber Ride,Rs 291.57,debit,Transport
+2025-05-10,Apollo Pharmacy,Rs 959.46,debit,Healthcare
+2025-05-10,Book Purchase,"Rs 1,340.44",debit,Education
+2025-05-11,Maintenance Charges,"Rs 1,289.52",debit,Housing
+2025-05-12,Gym Membership,"Rs 1,061.22",debit,Healthcare
+2025-05-12,Zomato Food Delivery,Rs 193.15,debit,Food & Dining
+2025-05-12,Reliance Fresh,"Rs 1,664.97",debit,Groceries
+2025-05-13,Refund Credit,"Rs 2,766.84",credit,Refund
+2025-05-13,Salary Credit,"Rs 75,879.46",credit,Salary
+2025-05-15,BigBasket Groceries,"Rs 2,316.74",debit,Groceries
+2025-05-15,Transfer Received,"Rs 3,059.61",credit,Transfer
+2025-05-17,Refund Credit,"Rs 3,363.37",credit,Refund
+2025-05-17,ATM Withdrawal,"Rs 4,567.26",debit,Others
+2025-05-17,Cashback Credit,Rs 395.31,credit,Cashback
+2025-05-17,Netflix Subscription,Rs 433.92,debit,Entertainment
+2025-05-18,Online Course,"Rs 2,949.15",debit,Education
+2025-05-19,Maintenance Charges,"Rs 2,923.11",debit,Housing
+2025-05-20,Gym Membership,"Rs 1,277.02",debit,Healthcare
+2025-05-20,BigBasket Groceries,"Rs 3,311.98",debit,Groceries
+2025-05-20,Swiggy Order,Rs 245.13,debit,Food & Dining
+2025-05-20,DMart Purchase,"Rs 2,509.71",debit,Groceries
+2025-05-20,Travel Booking,"Rs 13,571.05",debit,Travel
+2025-05-21,Dividend Credit,"Rs 1,370.30",credit,Investment
+2025-05-21,Hotel Stay,"Rs 7,633.89",debit,Travel
+2025-05-22,Dividend Credit,"Rs 12,710.96",credit,Investment
+2025-05-22,Maintenance Charges,Rs 971.31,debit,Housing
+2025-05-24,Hair Salon,Rs 340.84,debit,Personal Care
+2025-05-24,School Fees,"Rs 5,683.93",debit,Education
+2025-05-24,Swiggy Order,Rs 739.46,debit,Food & Dining
+2025-05-25,Cashback Credit,Rs 854.11,credit,Cashback
+2025-05-25,Zomato Food Delivery,Rs 171.79,debit,Food & Dining
+2025-05-25,Freelance Payment,"Rs 23,590.98",credit,Freelance
+2025-05-26,Reliance Fresh,"Rs 1,301.41",debit,Groceries
+2025-05-26,Flipkart Order,"Rs 2,416.13",debit,Shopping
+2025-05-26,BookMyShow Tickets,Rs 517.71,debit,Entertainment
+2025-05-26,Maintenance Charges,Rs 941.99,debit,Housing
+2025-05-26,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-05-27,Swiggy Order,Rs 411.72,debit,Food & Dining
+2025-05-27,Hair Salon,Rs 626.13,debit,Personal Care
+2025-05-27,Salary Credit,"Rs 58,231.49",credit,Salary
+2025-05-27,Uber Ride,Rs 102.23,debit,Transport
+2025-05-27,Airtel Mobile Bill,Rs 552.65,debit,Utilities
+2025-05-28,Apollo Pharmacy,Rs 740.99,debit,Healthcare
+2025-05-28,Restaurant Dinner,"Rs 2,563.52",debit,Food & Dining
+2025-05-28,Hair Salon,"Rs 1,100.13",debit,Personal Care
+2025-05-28,Reliance Fresh,"Rs 1,143.56",debit,Groceries
+2025-05-31,Online Course,"Rs 2,277.49",debit,Education
+2025-05-31,Refund Credit,Rs 843.81,credit,Refund
+2025-06-02,DMart Purchase,"Rs 2,129.18",debit,Groceries
+2025-06-03,Ola Cab,Rs 102.02,debit,Transport
+2025-06-03,Travel Booking,"Rs 14,957.02",debit,Travel
+2025-06-03,Spa & Wellness,Rs 754.62,debit,Personal Care
+2025-06-04,Myntra Fashion,"Rs 3,697.64",debit,Shopping
+2025-06-04,Bonus Credit,"Rs 17,161.92",credit,Bonus
+2025-06-04,Travel Booking,"Rs 16,954.45",debit,Travel
+2025-06-04,Airtel Mobile Bill,Rs 526.88,debit,Utilities
+2025-06-04,Flipkart Order,Rs 352.77,debit,Shopping
+2025-06-05,Zomato Food Delivery,Rs 858.45,debit,Food & Dining
+2025-06-06,ATM Withdrawal,Rs 523.98,debit,Others
+2025-06-06,Hair Salon,Rs 975.29,debit,Personal Care
+2025-06-06,Restaurant Dinner,Rs 844.16,debit,Food & Dining
+2025-06-06,DMart Purchase,"Rs 2,992.72",debit,Groceries
+2025-06-07,Freelance Payment,"Rs 11,176.48",credit,Freelance
+2025-06-08,Petrol/Diesel,"Rs 2,272.19",debit,Transport
+2025-06-08,PVR Cinemas,Rs 270.73,debit,Entertainment
+2025-06-09,Jio Recharge,Rs 206.46,debit,Utilities
+2025-06-09,Transfer Received,"Rs 29,803.54",credit,Transfer
+2025-06-10,Travel Booking,"Rs 5,497.75",debit,Travel
+2025-06-11,Coffee Shop,Rs 198.18,debit,Food & Dining
+2025-06-11,Ola Cab,Rs 196.74,debit,Transport
+2025-06-11,Ola Cab,Rs 480.16,debit,Transport
+2025-06-13,Petrol/Diesel,"Rs 3,844.84",debit,Transport
+2025-06-13,Petrol/Diesel,"Rs 3,847.76",debit,Transport
+2025-06-13,ATM Withdrawal,"Rs 4,161.92",debit,Others
+2025-06-14,PVR Cinemas,Rs 726.82,debit,Entertainment
+2025-06-15,House Rent,"Rs 19,662.40",debit,Housing
+2025-06-15,Maintenance Charges,Rs 808.01,debit,Housing
+2025-06-17,Petrol/Diesel,"Rs 3,280.96",debit,Transport
+2025-06-18,MedPlus Medical Store,Rs 963.17,debit,Healthcare
+2025-06-19,Electricity Bill,"Rs 3,654.61",debit,Utilities
+2025-06-20,Zomato Food Delivery,Rs 757.59,debit,Food & Dining
+2025-06-20,Petrol/Diesel,Rs 951.32,debit,Transport
+2025-06-20,Hair Salon,Rs 571.41,debit,Personal Care
+2025-06-20,DMart Purchase,Rs 286.85,debit,Groceries
+2025-06-21,Electricity Bill,"Rs 4,086.58",debit,Utilities
+2025-06-22,School Fees,"Rs 4,076.66",debit,Education
+2025-06-23,Book Purchase,"Rs 1,029.02",debit,Education
+2025-06-23,Electricity Bill,"Rs 4,679.98",debit,Utilities
+2025-06-23,Cashback Credit,Rs 650.98,credit,Cashback
+2025-06-24,Restaurant Dinner,"Rs 2,615.98",debit,Food & Dining
+2025-06-24,Electricity Bill,"Rs 4,118.45",debit,Utilities
+2025-06-24,Salary Credit,"Rs 115,864.37",credit,Salary
+2025-06-25,Maintenance Charges,Rs 665.73,debit,Housing
+2025-06-25,Book Purchase,Rs 765.69,debit,Education
+2025-06-26,Netflix Subscription,Rs 532.07,debit,Entertainment
+2025-06-27,Swiggy Order,Rs 430.17,debit,Food & Dining
+2025-06-27,Metro Card Recharge,Rs 354.24,debit,Transport
+2025-06-27,Swiggy Order,Rs 368.76,debit,Food & Dining
+2025-06-27,DMart Purchase,"Rs 1,000.06",debit,Groceries
+2025-06-27,Interest Credit,"Rs 2,933.99",credit,Interest
+2025-06-28,Freelance Payment,"Rs 20,373.47",credit,Freelance
+2025-06-28,Freelance Payment,"Rs 6,379.35",credit,Freelance
+2025-06-28,Airtel Mobile Bill,Rs 978.44,debit,Utilities
+2025-06-29,MedPlus Medical Store,"Rs 1,247.27",debit,Healthcare
+2025-07-02,Hair Salon,"Rs 1,348.29",debit,Personal Care
+2025-07-03,Ola Cab,Rs 95.28,debit,Transport
+2025-07-04,Reliance Fresh,"Rs 1,551.17",debit,Groceries
+2025-07-04,Spa & Wellness,"Rs 1,373.95",debit,Personal Care
+2025-07-04,DMart Purchase,"Rs 2,687.10",debit,Groceries
+2025-07-06,Transfer Received,"Rs 14,747.83",credit,Transfer
+2025-07-06,Refund Credit,"Rs 2,506.09",credit,Refund
+2025-07-06,Electricity Bill,"Rs 2,487.53",debit,Utilities
+2025-07-07,Swiggy Order,Rs 645.81,debit,Food & Dining
+2025-07-07,Restaurant Dinner,Rs 668.72,debit,Food & Dining
+2025-07-08,Amazon Purchase,"Rs 3,912.44",debit,Shopping
+2025-07-08,Ola Cab,Rs 198.92,debit,Transport
+2025-07-09,Gym Membership,"Rs 2,053.02",debit,Healthcare
+2025-07-09,Myntra Fashion,"Rs 1,294.17",debit,Shopping
+2025-07-09,Maintenance Charges,"Rs 1,545.82",debit,Housing
+2025-07-10,Flipkart Order,"Rs 3,671.50",debit,Shopping
+2025-07-10,Electricity Bill,"Rs 3,216.47",debit,Utilities
+2025-07-11,Netflix Subscription,Rs 217.74,debit,Entertainment
+2025-07-11,Insurance Premium,"Rs 1,480.93",debit,Insurance
+2025-07-12,Petrol/Diesel,"Rs 3,707.28",debit,Transport
+2025-07-12,Uber Ride,Rs 127.43,debit,Transport
+2025-07-13,School Fees,"Rs 14,599.55",debit,Education
+2025-07-13,Metro Card Recharge,Rs 218.35,debit,Transport
+2025-07-13,Spa & Wellness,"Rs 2,740.34",debit,Personal Care
+2025-07-14,MedPlus Medical Store,Rs 815.23,debit,Healthcare
+2025-07-14,Netflix Subscription,Rs 403.62,debit,Entertainment
+2025-07-15,Metro Card Recharge,Rs 991.96,debit,Transport
+2025-07-15,Jio Recharge,Rs 258.89,debit,Utilities
+2025-07-19,Bonus Credit,"Rs 8,923.55",credit,Bonus
+2025-07-19,MedPlus Medical Store,"Rs 1,093.66",debit,Healthcare
+2025-07-19,Flipkart Order,"Rs 3,438.44",debit,Shopping
+2025-07-20,Apollo Pharmacy,"Rs 1,701.24",debit,Healthcare
+2025-07-22,Hair Salon,Rs 225.90,debit,Personal Care
+2025-07-22,PVR Cinemas,Rs 371.36,debit,Entertainment
+2025-07-22,Dividend Credit,"Rs 3,210.61",credit,Investment
+2025-07-23,Apollo Pharmacy,"Rs 1,628.73",debit,Healthcare
+2025-07-23,Petrol/Diesel,"Rs 2,139.36",debit,Transport
+2025-07-24,Dividend Credit,"Rs 4,765.92",credit,Investment
+2025-07-25,Reliance Fresh,"Rs 1,415.77",debit,Groceries
+2025-07-25,DMart Purchase,"Rs 3,390.99",debit,Groceries
+2025-07-26,Zomato Food Delivery,Rs 800.30,debit,Food & Dining
+2025-07-28,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-07-28,MedPlus Medical Store,Rs 406.82,debit,Healthcare
+2025-07-30,Uber Ride,Rs 281.87,debit,Transport
+2025-07-31,Book Purchase,"Rs 1,104.95",debit,Education
+2025-07-31,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-07-31,Apollo Pharmacy,"Rs 1,342.15",debit,Healthcare
+2025-07-31,Bonus Credit,"Rs 5,510.67",credit,Bonus
+2025-07-31,Refund Credit,"Rs 2,367.19",credit,Refund
+2025-08-01,Hotel Stay,"Rs 5,503.50",debit,Travel
+2025-08-01,BookMyShow Tickets,Rs 627.21,debit,Entertainment
+2025-08-02,Book Purchase,Rs 316.32,debit,Education
+2025-08-02,Petrol/Diesel,"Rs 3,414.81",debit,Transport
+2025-08-02,Cashback Credit,Rs 194.12,credit,Cashback
+2025-08-02,Gym Membership,"Rs 1,094.13",debit,Healthcare
+2025-08-03,Metro Card Recharge,Rs 215.09,debit,Transport
+2025-08-03,Restaurant Dinner,"Rs 1,439.73",debit,Food & Dining
+2025-08-03,Refund Credit,Rs 683.71,credit,Refund
+2025-08-04,Metro Card Recharge,Rs 544.00,debit,Transport
+2025-08-04,Apollo Pharmacy,"Rs 1,556.35",debit,Healthcare
+2025-08-05,Netflix Subscription,Rs 450.80,debit,Entertainment
+2025-08-06,House Rent,"Rs 15,573.76",debit,Housing
+2025-08-06,Apollo Pharmacy,"Rs 1,320.86",debit,Healthcare
+2025-08-07,Spa & Wellness,"Rs 2,836.11",debit,Personal Care
+2025-08-07,Swiggy Order,Rs 135.80,debit,Food & Dining
+2025-08-09,Bonus Credit,"Rs 46,159.99",credit,Bonus
+2025-08-11,Airtel Mobile Bill,Rs 803.14,debit,Utilities
+2025-08-12,Jio Recharge,Rs 480.31,debit,Utilities
+2025-08-12,Airtel Mobile Bill,Rs 752.61,debit,Utilities
+2025-08-13,House Rent,"Rs 27,081.39",debit,Housing
+2025-08-13,Jio Recharge,Rs 284.46,debit,Utilities
+2025-08-13,Electricity Bill,"Rs 2,986.50",debit,Utilities
+2025-08-13,Salary Credit,"Rs 93,119.21",credit,Salary
+2025-08-13,Book Purchase,Rs 593.52,debit,Education
+2025-08-14,Water Bill,Rs 776.02,debit,Utilities
+2025-08-14,DMart Purchase,Rs 448.36,debit,Groceries
+2025-08-15,Refund Credit,"Rs 3,824.09",credit,Refund
+2025-08-15,Insurance Premium,"Rs 9,752.20",debit,Insurance
+2025-08-15,Spa & Wellness,"Rs 2,767.46",debit,Personal Care
+2025-08-16,Ola Cab,Rs 374.63,debit,Transport
+2025-08-16,Refund Credit,Rs 707.76,credit,Refund
+2025-08-16,Airtel Mobile Bill,Rs 414.48,debit,Utilities
+2025-08-17,Rental Income,"Rs 6,293.16",credit,Rental
+2025-08-17,Uber Ride,Rs 460.80,debit,Transport
+2025-08-18,Apollo Pharmacy,Rs 735.31,debit,Healthcare
+2025-08-19,Water Bill,Rs 796.49,debit,Utilities
+2025-08-20,Myntra Fashion,Rs 954.22,debit,Shopping
+2025-08-20,BigBasket Groceries,"Rs 1,974.75",debit,Groceries
+2025-08-20,Metro Card Recharge,Rs 550.83,debit,Transport
+2025-08-21,BigBasket Groceries,"Rs 3,176.35",debit,Groceries
+2025-08-21,Hair Salon,Rs 820.63,debit,Personal Care
+2025-08-21,Hotel Stay,"Rs 7,122.56",debit,Travel
+2025-08-21,Uber Ride,Rs 214.48,debit,Transport
+2025-08-22,Amazon Purchase,"Rs 4,474.35",debit,Shopping
+2025-08-22,Restaurant Dinner,Rs 573.93,debit,Food & Dining
+2025-08-22,Gym Membership,"Rs 1,915.08",debit,Healthcare
+2025-08-22,Restaurant Dinner,"Rs 2,898.62",debit,Food & Dining
+2025-08-24,BookMyShow Tickets,Rs 851.95,debit,Entertainment
+2025-08-24,Salary Credit,"Rs 91,112.69",credit,Salary
+2025-08-25,Swiggy Order,Rs 200.60,debit,Food & Dining
+2025-08-25,Refund Credit,"Rs 1,851.76",credit,Refund
+2025-08-25,Uber Ride,Rs 198.38,debit,Transport
+2025-08-26,Bonus Credit,"Rs 5,508.86",credit,Bonus
+2025-08-27,MedPlus Medical Store,Rs 472.95,debit,Healthcare
+2025-08-30,MedPlus Medical Store,Rs 231.85,debit,Healthcare
+2025-08-30,Swiggy Order,Rs 377.35,debit,Food & Dining
+2025-08-30,Dividend Credit,"Rs 6,422.08",credit,Investment
+2025-08-30,DMart Purchase,Rs 962.47,debit,Groceries
+2025-08-31,Electricity Bill,"Rs 4,059.63",debit,Utilities
+2025-08-31,Amazon Purchase,"Rs 1,142.79",debit,Shopping
+2025-08-31,Gym Membership,"Rs 2,244.24",debit,Healthcare
+2025-09-01,Online Course,"Rs 2,454.11",debit,Education
+2025-09-02,Cashback Credit,Rs 888.99,credit,Cashback
+2025-09-05,Water Bill,Rs 727.39,debit,Utilities
+2025-09-06,Cashback Credit,Rs 53.28,credit,Cashback
+2025-09-06,Restaurant Dinner,Rs 530.18,debit,Food & Dining
+2025-09-07,Myntra Fashion,"Rs 1,332.28",debit,Shopping
+2025-09-07,Metro Card Recharge,Rs 680.19,debit,Transport
+2025-09-09,Ola Cab,Rs 370.30,debit,Transport
+2025-09-09,Swiggy Order,Rs 274.12,debit,Food & Dining
+2025-09-10,School Fees,"Rs 6,195.31",debit,Education
+2025-09-10,Online Course,"Rs 2,865.72",debit,Education
+2025-09-11,Metro Card Recharge,Rs 358.74,debit,Transport
+2025-09-11,Freelance Payment,"Rs 20,535.80",credit,Freelance
+2025-09-14,Interest Credit,"Rs 1,406.03",credit,Interest
+2025-09-14,Jio Recharge,Rs 539.17,debit,Utilities
+2025-09-14,BookMyShow Tickets,Rs 393.46,debit,Entertainment
+2025-09-14,Electricity Bill,"Rs 3,594.72",debit,Utilities
+2025-09-14,Swiggy Order,Rs 752.21,debit,Food & Dining
+2025-09-16,School Fees,"Rs 8,405.22",debit,Education
+2025-09-16,Uber Ride,Rs 390.22,debit,Transport
+2025-09-16,Jio Recharge,Rs 543.81,debit,Utilities
+2025-09-16,Reliance Fresh,"Rs 1,542.20",debit,Groceries
+2025-09-18,Salary Credit,"Rs 68,718.79",credit,Salary
+2025-09-18,Hair Salon,Rs 709.87,debit,Personal Care
+2025-09-18,Hotel Stay,"Rs 5,725.04",debit,Travel
+2025-09-19,DMart Purchase,Rs 789.52,debit,Groceries
+2025-09-19,BigBasket Groceries,"Rs 3,158.65",debit,Groceries
+2025-09-21,PVR Cinemas,Rs 307.47,debit,Entertainment
+2025-09-22,Rental Income,"Rs 16,715.47",credit,Rental
+2025-09-23,Apollo Pharmacy,"Rs 1,107.14",debit,Healthcare
+2025-09-23,Apollo Pharmacy,Rs 862.97,debit,Healthcare
+2025-09-23,Petrol/Diesel,"Rs 3,577.17",debit,Transport
+2025-09-24,Bonus Credit,"Rs 20,148.59",credit,Bonus
+2025-09-24,Reliance Fresh,"Rs 1,566.99",debit,Groceries
+2025-09-24,Amazon Purchase,"Rs 3,512.62",debit,Shopping
+2025-09-24,Salary Credit,"Rs 40,164.93",credit,Salary
+2025-09-27,Refund Credit,"Rs 2,062.52",credit,Refund
+2025-09-27,Gym Membership,"Rs 2,067.11",debit,Healthcare
+2025-09-28,MedPlus Medical Store,"Rs 1,463.35",debit,Healthcare
+2025-09-28,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-09-28,Insurance Premium,"Rs 6,108.48",debit,Insurance
+2025-09-28,Petrol/Diesel,"Rs 3,814.90",debit,Transport
+2025-09-29,Hotel Stay,"Rs 4,696.41",debit,Travel
+2025-09-30,Amazon Purchase,"Rs 7,755.95",debit,Shopping
+2025-10-01,Insurance Premium,"Rs 2,781.69",debit,Insurance
+2025-10-01,Interest Credit,"Rs 1,546.70",credit,Interest
+2025-10-03,Transfer Received,"Rs 38,943.21",credit,Transfer
+2025-10-06,Book Purchase,Rs 483.85,debit,Education
+2025-10-06,Petrol/Diesel,"Rs 2,760.79",debit,Transport
+2025-10-06,House Rent,"Rs 12,928.43",debit,Housing
+2025-10-06,Cashback Credit,Rs 714.30,credit,Cashback
+2025-10-07,DMart Purchase,Rs 728.22,debit,Groceries
+2025-10-07,Online Course,"Rs 3,873.82",debit,Education
+2025-10-07,Ola Cab,Rs 198.55,debit,Transport
+2025-10-07,Swiggy Order,Rs 300.81,debit,Food & Dining
+2025-10-07,Dividend Credit,"Rs 10,643.12",credit,Investment
+2025-10-09,Uber Ride,Rs 541.27,debit,Transport
+2025-10-10,ATM Withdrawal,"Rs 2,570.03",debit,Others
+2025-10-10,Restaurant Dinner,"Rs 1,500.53",debit,Food & Dining
+2025-10-10,Insurance Premium,"Rs 6,580.37",debit,Insurance
+2025-10-12,Freelance Payment,"Rs 5,623.79",credit,Freelance
+2025-10-12,Insurance Premium,"Rs 5,230.70",debit,Insurance
+2025-10-12,Zomato Food Delivery,Rs 548.25,debit,Food & Dining
+2025-10-12,Metro Card Recharge,Rs 634.20,debit,Transport
+2025-10-13,Book Purchase,"Rs 1,190.51",debit,Education
+2025-10-13,BigBasket Groceries,"Rs 2,080.15",debit,Groceries
+2025-10-13,Hair Salon,"Rs 1,070.10",debit,Personal Care
+2025-10-14,BigBasket Groceries,Rs 307.46,debit,Groceries
+2025-10-14,BigBasket Groceries,"Rs 3,564.82",debit,Groceries
+2025-10-15,Jio Recharge,Rs 342.18,debit,Utilities
+2025-10-16,House Rent,"Rs 15,970.17",debit,Housing
+2025-10-16,ATM Withdrawal,"Rs 3,391.14",debit,Others
+2025-10-17,Apollo Pharmacy,"Rs 1,188.77",debit,Healthcare
+2025-10-17,Water Bill,Rs 201.57,debit,Utilities
+2025-10-17,Zomato Food Delivery,Rs 853.53,debit,Food & Dining
+2025-10-17,Cashback Credit,Rs 473.84,credit,Cashback
+2025-10-18,PVR Cinemas,Rs 727.73,debit,Entertainment
+2025-10-18,Metro Card Recharge,Rs 211.96,debit,Transport
+2025-10-18,DMart Purchase,"Rs 2,501.13",debit,Groceries
+2025-10-18,Bonus Credit,"Rs 29,552.01",credit,Bonus
+2025-10-21,Petrol/Diesel,"Rs 1,844.96",debit,Transport
+2025-10-21,Refund Credit,"Rs 4,505.30",credit,Refund
+2025-10-22,Interest Credit,"Rs 2,128.33",credit,Interest
+2025-10-23,Jio Recharge,Rs 250.31,debit,Utilities
+2025-10-24,Gym Membership,"Rs 1,756.57",debit,Healthcare
+2025-10-28,Maintenance Charges,"Rs 2,338.10",debit,Housing
+2025-10-28,Myntra Fashion,"Rs 1,048.56",debit,Shopping
+2025-10-28,Myntra Fashion,"Rs 3,672.93",debit,Shopping
+2025-10-28,BookMyShow Tickets,"Rs 1,087.18",debit,Entertainment
+2025-10-29,Ola Cab,Rs 427.43,debit,Transport
+2025-10-31,Ola Cab,Rs 149.16,debit,Transport
+2025-10-31,Hotel Stay,"Rs 3,726.35",debit,Travel
+2025-10-31,Coffee Shop,Rs 484.43,debit,Food & Dining
+2025-11-01,Salary Credit,"Rs 89,957.23",credit,Salary
+2025-11-01,Hair Salon,"Rs 1,130.02",debit,Personal Care
+2025-11-02,Jio Recharge,Rs 524.55,debit,Utilities
+2025-11-02,Electricity Bill,Rs 834.05,debit,Utilities
+2025-11-03,Electricity Bill,"Rs 2,188.28",debit,Utilities
+2025-11-04,PVR Cinemas,Rs 526.31,debit,Entertainment
+2025-11-04,Uber Ride,Rs 336.57,debit,Transport
+2025-11-04,Dividend Credit,"Rs 8,357.78",credit,Investment
+2025-11-06,Water Bill,Rs 346.22,debit,Utilities
+2025-11-07,Coffee Shop,Rs 185.79,debit,Food & Dining
+2025-11-07,PVR Cinemas,Rs 764.01,debit,Entertainment
+2025-11-07,Online Course,"Rs 3,775.75",debit,Education
+2025-11-08,Netflix Subscription,Rs 342.95,debit,Entertainment
+2025-11-09,BigBasket Groceries,"Rs 2,723.82",debit,Groceries
+2025-11-09,Swiggy Order,Rs 501.13,debit,Food & Dining
+2025-11-09,Insurance Premium,"Rs 6,447.27",debit,Insurance
+2025-11-09,ATM Withdrawal,"Rs 4,616.74",debit,Others
+2025-11-10,Online Course,"Rs 4,750.41",debit,Education
+2025-11-10,Amazon Purchase,"Rs 2,947.77",debit,Shopping
+2025-11-10,School Fees,"Rs 8,957.31",debit,Education
+2025-11-11,Reliance Fresh,"Rs 1,870.19",debit,Groceries
+2025-11-12,Salary Credit,"Rs 55,977.05",credit,Salary
+2025-11-12,Refund Credit,"Rs 2,199.15",credit,Refund
+2025-11-13,School Fees,"Rs 10,597.59",debit,Education
+2025-11-14,Hair Salon,"Rs 1,139.75",debit,Personal Care
+2025-11-14,Zomato Food Delivery,Rs 671.07,debit,Food & Dining
+2025-11-18,Flipkart Order,"Rs 1,519.20",debit,Shopping
+2025-11-18,Spa & Wellness,Rs 502.45,debit,Personal Care
+2025-11-20,Dividend Credit,"Rs 7,265.65",credit,Investment
+2025-11-20,Hair Salon,"Rs 1,375.98",debit,Personal Care
+2025-11-21,Book Purchase,Rs 314.90,debit,Education
+2025-11-21,Netflix Subscription,Rs 599.48,debit,Entertainment
+2025-11-22,Electricity Bill,"Rs 1,065.52",debit,Utilities
+2025-11-23,Uber Ride,Rs 313.32,debit,Transport
+2025-11-23,School Fees,"Rs 7,849.66",debit,Education
+2025-11-23,Ola Cab,Rs 348.98,debit,Transport
+2025-11-24,Hotel Stay,"Rs 9,946.01",debit,Travel
+2025-11-24,Amazon Purchase,"Rs 6,413.54",debit,Shopping
+2025-11-24,Travel Booking,"Rs 8,617.42",debit,Travel
+2025-11-25,Uber Ride,Rs 567.96,debit,Transport
+2025-11-25,Amazon Purchase,Rs 864.46,debit,Shopping
+2025-11-26,Myntra Fashion,Rs 602.54,debit,Shopping
+2025-11-27,Uber Ride,Rs 514.16,debit,Transport
+2025-11-29,Interest Credit,"Rs 2,632.20",credit,Interest
+2025-11-29,Refund Credit,"Rs 3,952.58",credit,Refund
+2025-11-30,Travel Booking,"Rs 16,507.66",debit,Travel
+2025-11-30,Insurance Premium,"Rs 4,862.36",debit,Insurance
+2025-12-01,Swiggy Order,Rs 178.98,debit,Food & Dining
+2025-12-02,Hair Salon,"Rs 1,362.71",debit,Personal Care
+2025-12-03,Restaurant Dinner,"Rs 2,501.73",debit,Food & Dining
+2025-12-03,BookMyShow Tickets,Rs 407.78,debit,Entertainment
+2025-12-03,Jio Recharge,Rs 490.94,debit,Utilities
+2025-12-05,MedPlus Medical Store,Rs 539.57,debit,Healthcare
+2025-12-06,Jio Recharge,Rs 330.11,debit,Utilities
+2025-12-06,BigBasket Groceries,"Rs 3,691.69",debit,Groceries
+2025-12-07,Jio Recharge,Rs 235.99,debit,Utilities
+2025-12-07,Petrol/Diesel,"Rs 2,630.73",debit,Transport
+2025-12-07,Reliance Fresh,Rs 313.65,debit,Groceries
+2025-12-07,Transfer Received,"Rs 24,183.48",credit,Transfer
+2025-12-08,Uber Ride,Rs 228.64,debit,Transport
+2025-12-10,Myntra Fashion,"Rs 2,159.93",debit,Shopping
+2025-12-11,Hotel Stay,"Rs 9,553.98",debit,Travel
+2025-12-11,Salary Credit,"Rs 103,975.63",credit,Salary
+2025-12-11,Interest Credit,"Rs 2,898.71",credit,Interest
+2025-12-11,Apollo Pharmacy,"Rs 1,640.44",debit,Healthcare
+2025-12-12,Maintenance Charges,Rs 525.81,debit,Housing
+2025-12-12,Hair Salon,Rs 275.15,debit,Personal Care
+2025-12-12,Cashback Credit,Rs 422.64,credit,Cashback
+2025-12-13,Interest Credit,"Rs 1,012.57",credit,Interest
+2025-12-13,Maintenance Charges,Rs 561.44,debit,Housing
+2025-12-14,Zomato Food Delivery,Rs 635.20,debit,Food & Dining
+2025-12-14,Netflix Subscription,Rs 481.08,debit,Entertainment
+2025-12-15,Spa & Wellness,Rs 760.82,debit,Personal Care
+2025-12-16,Electricity Bill,"Rs 2,613.11",debit,Utilities
+2025-12-16,Ola Cab,Rs 105.30,debit,Transport
+2025-12-18,Travel Booking,"Rs 2,928.77",debit,Travel
+2025-12-18,Restaurant Dinner,"Rs 2,570.25",debit,Food & Dining
+2025-12-19,Travel Booking,"Rs 17,046.12",debit,Travel
+2025-12-19,Cashback Credit,Rs 676.12,credit,Cashback
+2025-12-19,BigBasket Groceries,Rs 778.59,debit,Groceries
+2025-12-20,Bonus Credit,"Rs 25,375.26",credit,Bonus
+2025-12-22,Insurance Premium,"Rs 2,546.17",debit,Insurance
+2025-12-22,Salary Credit,"Rs 59,208.62",credit,Salary
+2025-12-22,Flipkart Order,"Rs 2,193.10",debit,Shopping
+2025-12-22,Swiggy Order,Rs 654.08,debit,Food & Dining
+2025-12-22,Airtel Mobile Bill,Rs 650.46,debit,Utilities
+2025-12-23,BigBasket Groceries,"Rs 2,138.46",debit,Groceries
+2025-12-24,Airtel Mobile Bill,Rs 892.33,debit,Utilities
+2025-12-24,Spotify Premium,Rs 119.00,debit,Entertainment
+2025-12-24,House Rent,"Rs 13,399.00",debit,Housing
+2025-12-25,Salary Credit,"Rs 113,942.21",credit,Salary
+2025-12-25,PVR Cinemas,Rs 737.95,debit,Entertainment
+2025-12-25,Uber Ride,Rs 240.33,debit,Transport
+2025-12-26,House Rent,"Rs 9,877.22",debit,Housing
+2025-12-27,Jio Recharge,Rs 240.68,debit,Utilities
+2025-12-28,Flipkart Order,"Rs 5,219.33",debit,Shopping
+2025-12-28,Airtel Mobile Bill,Rs 520.98,debit,Utilities
+2025-12-29,Water Bill,Rs 275.22,debit,Utilities
+2025-12-30,Flipkart Order,"Rs 4,714.46",debit,Shopping
+2025-12-30,Water Bill,Rs 398.90,debit,Utilities
+2025-12-30,DMart Purchase,"Rs 2,339.35",debit,Groceries
+2025-12-31,Electricity Bill,"Rs 3,936.17",debit,Utilities
+2025-12-31,Myntra Fashion,Rs 734.80,debit,Shopping

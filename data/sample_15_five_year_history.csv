@@ -1,0 +1,3001 @@
+date,description,amount,transaction_type
+2020/01/01,Apollo Pharmacy,547.41,debit
+2020/01/02,Apollo Pharmacy,504.8,debit
+2020/01/02,UPI Received,19653.07,credit
+2020/01/02,Netflix Subscription,486.99,debit
+2020/01/02,Newspaper Subscription,286.96,debit
+2020/01/03,Interest Credit,2896.58,credit
+2020/01/03,Gym Membership,1046.62,debit
+2020/01/03,BookMyShow Tickets,281.8,debit
+2020/01/03,Travel Booking,19824.48,debit
+2020/01/03,Cashback Credit,272.14,credit
+2020/01/05,Electricity Bill,1944.28,debit
+2020/01/06,Gym Membership,1811.33,debit
+2020/01/06,Amazon Prime,603.38,debit
+2020/01/08,Maintenance Charges,1026.3,debit
+2020/01/08,Electricity Bill,2091.18,debit
+2020/01/08,More Supermarket,1758.58,debit
+2020/01/09,Insurance Premium,6767.74,debit
+2020/01/11,Reliance Fresh,1001.08,debit
+2020/01/12,Refund Credit,4689.77,credit
+2020/01/12,Electricity Bill,2066.13,debit
+2020/01/16,Jio Recharge,341.05,debit
+2020/01/17,Spotify Premium,119.0,debit
+2020/01/18,Ajio Clothing,586.35,debit
+2020/01/18,Uber Ride,246.57,debit
+2020/01/19,Flipkart Order,3127.35,debit
+2020/01/20,YouTube Premium,139.0,debit
+2020/01/20,Amazon Prime,720.2,debit
+2020/01/21,Bonus Credit,12239.12,credit
+2020/01/21,Water Bill,789.05,debit
+2020/01/21,Amazon Prime,702.39,debit
+2020/01/22,Apollo Pharmacy,1861.03,debit
+2020/01/22,UPI Received,10030.88,credit
+2020/01/22,Parking Charges,154.59,debit
+2020/01/22,Dividend Credit,8747.86,credit
+2020/01/23,Ajio Clothing,2160.54,debit
+2020/01/24,Metro Card Recharge,636.21,debit
+2020/01/24,Book Purchase,538.63,debit
+2020/01/24,Newspaper Subscription,132.13,debit
+2020/01/24,Flipkart Order,2708.5,debit
+2020/01/26,Online Course,1558.76,debit
+2020/01/27,Amazon Prime,420.58,debit
+2020/01/27,Ajio Clothing,1817.2,debit
+2020/01/28,More Supermarket,973.27,debit
+2020/01/28,YouTube Premium,139.0,debit
+2020/01/29,Newspaper Subscription,190.6,debit
+2020/01/30,PVR Cinemas,614.7,debit
+2020/01/30,Insurance Premium,3424.1,debit
+2020/01/30,Insurance Premium,6275.78,debit
+2020/02/02,Apollo Pharmacy,1602.54,debit
+2020/02/03,Hotel Stay,1637.86,debit
+2020/02/03,1mg Medicine Order,1267.89,debit
+2020/02/04,Electricity Bill,1196.98,debit
+2020/02/06,Dividend Credit,5700.39,credit
+2020/02/06,Interest Credit,1122.35,credit
+2020/02/07,Ajio Clothing,3384.44,debit
+2020/02/09,Freelance Payment,18691.77,credit
+2020/02/09,Netflix Subscription,583.88,debit
+2020/02/09,School Fees,13521.17,debit
+2020/02/10,Water Bill,390.19,debit
+2020/02/10,DMart Purchase,861.09,debit
+2020/02/10,Jio Recharge,527.91,debit
+2020/02/10,Netflix Subscription,434.65,debit
+2020/02/12,Myntra Fashion,1114.55,debit
+2020/02/13,Bonus Credit,35005.52,credit
+2020/02/13,Doctor Consultation,354.48,debit
+2020/02/14,Gym Membership,1028.17,debit
+2020/02/14,Cashback Credit,660.23,credit
+2020/02/16,Refund Credit,1603.54,credit
+2020/02/16,Freelance Payment,11168.99,credit
+2020/02/17,Rental Income,7938.07,credit
+2020/02/18,Gaming Recharge,101.97,debit
+2020/02/18,Hotel Stay,1810.06,debit
+2020/02/19,Flipkart Order,596.64,debit
+2020/02/19,Meesho Order,1887.98,debit
+2020/02/19,Apollo Pharmacy,807.09,debit
+2020/02/20,Airtel Mobile Bill,697.52,debit
+2020/02/20,Hotel Stay,5956.15,debit
+2020/02/21,Travel Booking,18239.65,debit
+2020/02/22,1mg Medicine Order,565.29,debit
+2020/02/23,Spotify Premium,119.0,debit
+2020/02/23,Electricity Bill,4279.18,debit
+2020/02/25,Petrol / Diesel,1906.95,debit
+2020/02/25,Flipkart Order,429.39,debit
+2020/02/26,Gym Membership,2077.58,debit
+2020/02/26,Airtel Mobile Bill,851.93,debit
+2020/02/26,Gaming Recharge,344.54,debit
+2020/02/28,Spa Treatment,2765.36,debit
+2020/02/28,Cashback Credit,884.15,credit
+2020/02/29,Water Bill,610.35,debit
+2020/02/29,Ajio Clothing,1302.04,debit
+2020/03/01,Metro Card Recharge,538.24,debit
+2020/03/01,Rental Income,22593.61,credit
+2020/03/04,Amazon Purchase,7726.95,debit
+2020/03/05,Rapido Bike Taxi,90.33,debit
+2020/03/05,PVR Cinemas,267.86,debit
+2020/03/06,Insurance Premium,3946.25,debit
+2020/03/08,House Rent,17026.17,debit
+2020/03/08,UPI Received,13903.14,credit
+2020/03/10,Online Course,2699.82,debit
+2020/03/10,Book Purchase,622.19,debit
+2020/03/10,Interest Credit,550.99,credit
+2020/03/10,Ajio Clothing,1511.9,debit
+2020/03/11,Jio Recharge,491.62,debit
+2020/03/11,Amazon Purchase,6637.84,debit
+2020/03/13,Ola Cab,278.58,debit
+2020/03/13,Insurance Premium,4640.87,debit
+2020/03/14,Ajio Clothing,902.65,debit
+2020/03/15,Water Bill,279.53,debit
+2020/03/15,Amazon Purchase,6868.32,debit
+2020/03/16,Electricity Bill,3096.64,debit
+2020/03/16,Gaming Recharge,1791.36,debit
+2020/03/18,Transfer Received,46993.97,credit
+2020/03/19,Gaming Recharge,372.31,debit
+2020/03/19,School Fees,14200.58,debit
+2020/03/21,Amazon Prime,382.43,debit
+2020/03/22,Online Course,2577.29,debit
+2020/03/23,BigBasket Groceries,3335.42,debit
+2020/03/23,UPI Received,12313.25,credit
+2020/03/24,Ajio Clothing,1723.43,debit
+2020/03/24,Ola Cab,336.49,debit
+2020/03/25,Flipkart Order,2947.59,debit
+2020/03/26,Parking Charges,287.61,debit
+2020/03/28,Metro Card Recharge,588.6,debit
+2020/03/28,BookMyShow Tickets,1290.06,debit
+2020/03/28,Reliance Fresh,772.49,debit
+2020/03/29,Online Course,3373.88,debit
+2020/03/29,Flipkart Order,1839.3,debit
+2020/03/30,Swiggy Order,144.59,debit
+2020/03/31,Airtel Mobile Bill,994.32,debit
+2020/04/02,Spa Treatment,1435.84,debit
+2020/04/03,DMart Purchase,2160.45,debit
+2020/04/05,Swiggy Order,707.5,debit
+2020/04/05,Maintenance Charges,1780.44,debit
+2020/04/06,Hair Salon,768.44,debit
+2020/04/06,Zomato Food Delivery,571.32,debit
+2020/04/07,Ola Cab,150.27,debit
+2020/04/09,Rental Income,8912.36,credit
+2020/04/10,Ola Cab,361.5,debit
+2020/04/11,Myntra Fashion,3575.44,debit
+2020/04/12,Amazon Prime,984.76,debit
+2020/04/12,Online Course,847.28,debit
+2020/04/12,Water Bill,397.56,debit
+2020/04/13,Jio Recharge,338.29,debit
+2020/04/13,Meesho Order,341.63,debit
+2020/04/15,Flipkart Order,5001.36,debit
+2020/04/17,Airtel Mobile Bill,466.98,debit
+2020/04/17,Ajio Clothing,754.07,debit
+2020/04/18,Gaming Recharge,390.21,debit
+2020/04/18,Ajio Clothing,839.77,debit
+2020/04/20,Book Purchase,1170.08,debit
+2020/04/20,DMart Purchase,728.25,debit
+2020/04/20,YouTube Premium,139.0,debit
+2020/04/20,Meesho Order,263.78,debit
+2020/04/21,Book Purchase,996.91,debit
+2020/04/21,Coffee Shop,221.03,debit
+2020/04/22,Ola Cab,174.78,debit
+2020/04/23,Myntra Fashion,1611.61,debit
+2020/04/24,Restaurant Dinner,1059.37,debit
+2020/04/25,Book Purchase,789.39,debit
+2020/04/26,Petrol / Diesel,1480.57,debit
+2020/04/26,Newspaper Subscription,269.18,debit
+2020/04/29,Reliance Fresh,847.72,debit
+2020/04/30,Maintenance Charges,2300.66,debit
+2020/04/30,Zomato Food Delivery,674.27,debit
+2020/05/01,Maintenance Charges,2041.33,debit
+2020/05/06,Ajio Clothing,1000.67,debit
+2020/05/07,More Supermarket,1524.46,debit
+2020/05/07,Restaurant Dinner,611.73,debit
+2020/05/08,Insurance Premium,4963.14,debit
+2020/05/08,Rapido Bike Taxi,64.99,debit
+2020/05/09,Petrol / Diesel,2880.0,debit
+2020/05/10,Airtel Mobile Bill,425.34,debit
+2020/05/11,Metro Card Recharge,716.84,debit
+2020/05/11,Bonus Credit,49649.64,credit
+2020/05/14,Travel Booking,7333.91,debit
+2020/05/14,Reliance Fresh,230.63,debit
+2020/05/16,Dividend Credit,5212.64,credit
+2020/05/18,Zomato Food Delivery,707.99,debit
+2020/05/18,Amazon Prime,776.26,debit
+2020/05/19,Reliance Fresh,1122.48,debit
+2020/05/19,Uber Ride,88.6,debit
+2020/05/20,More Supermarket,1439.6,debit
+2020/05/21,Hotstar Subscription,350.09,debit
+2020/05/22,1mg Medicine Order,163.15,debit
+2020/05/23,Rental Income,16509.19,credit
+2020/05/24,Petrol / Diesel,2749.51,debit
+2020/05/25,Airtel Mobile Bill,868.23,debit
+2020/05/27,Gym Membership,1366.35,debit
+2020/05/27,Zomato Food Delivery,751.94,debit
+2020/05/27,Airtel Mobile Bill,975.94,debit
+2020/05/28,Electricity Bill,4368.09,debit
+2020/05/28,Amazon Purchase,5359.98,debit
+2020/05/30,Ajio Clothing,824.73,debit
+2020/05/31,Hair Salon,239.85,debit
+2020/05/31,Reliance Fresh,544.43,debit
+2020/06/01,BookMyShow Tickets,958.32,debit
+2020/06/02,Uber Ride,432.71,debit
+2020/06/02,BookMyShow Tickets,648.68,debit
+2020/06/04,Transfer Received,43337.64,credit
+2020/06/04,Rapido Bike Taxi,80.32,debit
+2020/06/05,Doctor Consultation,1297.07,debit
+2020/06/05,UPI Received,15012.29,credit
+2020/06/05,Rental Income,7632.68,credit
+2020/06/07,Spa Treatment,1562.27,debit
+2020/06/09,Meesho Order,1051.01,debit
+2020/06/09,PVR Cinemas,653.49,debit
+2020/06/10,Uber Ride,440.16,debit
+2020/06/11,Spa Treatment,1389.39,debit
+2020/06/12,Flipkart Order,5581.65,debit
+2020/06/13,Metro Card Recharge,498.52,debit
+2020/06/13,BookMyShow Tickets,1200.37,debit
+2020/06/14,Gaming Recharge,850.6,debit
+2020/06/15,Hotstar Subscription,185.39,debit
+2020/06/16,Rapido Bike Taxi,172.93,debit
+2020/06/17,Hotel Stay,2257.32,debit
+2020/06/18,Rapido Bike Taxi,98.55,debit
+2020/06/18,Petrol / Diesel,3649.8,debit
+2020/06/20,Hair Salon,1164.55,debit
+2020/06/20,DMart Purchase,393.6,debit
+2020/06/20,Book Purchase,237.77,debit
+2020/06/20,Online Course,1500.22,debit
+2020/06/20,Dividend Credit,6342.22,credit
+2020/06/21,Salary Credit,94779.61,credit
+2020/06/21,Uber Ride,310.36,debit
+2020/06/21,Ajio Clothing,3286.03,debit
+2020/06/21,Bonus Credit,24862.8,credit
+2020/06/23,Doctor Consultation,1603.04,debit
+2020/06/24,Amazon Prime,637.12,debit
+2020/06/25,Insurance Premium,5193.03,debit
+2020/06/25,Book Purchase,420.51,debit
+2020/06/25,Hotel Stay,9939.34,debit
+2020/06/25,Rental Income,17978.23,credit
+2020/06/27,Petrol / Diesel,2122.77,debit
+2020/06/27,Ola Cab,196.8,debit
+2020/06/27,Apollo Pharmacy,1581.61,debit
+2020/06/28,Ola Cab,164.1,debit
+2020/06/28,Gaming Recharge,152.27,debit
+2020/06/30,Refund Credit,4411.9,credit
+2020/06/30,Amazon Purchase,1032.04,debit
+2020/07/01,Zomato Food Delivery,363.27,debit
+2020/07/01,ATM Withdrawal,3423.41,debit
+2020/07/02,Meesho Order,1337.1,debit
+2020/07/06,Metro Card Recharge,970.07,debit
+2020/07/06,Cashback Credit,517.87,credit
+2020/07/06,School Fees,5936.88,debit
+2020/07/07,Myntra Fashion,617.94,debit
+2020/07/08,ATM Withdrawal,1283.18,debit
+2020/07/08,Online Course,2298.84,debit
+2020/07/08,Spa Treatment,662.37,debit
+2020/07/08,Metro Card Recharge,730.57,debit
+2020/07/08,Salary Credit,108425.54,credit
+2020/07/11,Hair Salon,316.23,debit
+2020/07/11,Hair Salon,809.57,debit
+2020/07/11,1mg Medicine Order,269.06,debit
+2020/07/13,Rental Income,11074.75,credit
+2020/07/13,Spa Treatment,1781.75,debit
+2020/07/14,DMart Purchase,2348.62,debit
+2020/07/14,Transfer Received,15295.47,credit
+2020/07/15,Gym Membership,1440.63,debit
+2020/07/16,PVR Cinemas,776.87,debit
+2020/07/16,BigBasket Groceries,3562.98,debit
+2020/07/16,Rapido Bike Taxi,80.23,debit
+2020/07/17,Spa Treatment,1445.71,debit
+2020/07/18,Hair Salon,463.9,debit
+2020/07/18,DMart Purchase,2797.73,debit
+2020/07/18,Refund Credit,3658.04,credit
+2020/07/18,Maintenance Charges,1704.49,debit
+2020/07/19,Reliance Fresh,759.36,debit
+2020/07/19,Jio Recharge,556.57,debit
+2020/07/19,Freelance Payment,23794.6,credit
+2020/07/20,Doctor Consultation,625.89,debit
+2020/07/21,BookMyShow Tickets,238.57,debit
+2020/07/22,Swiggy Order,890.29,debit
+2020/07/23,YouTube Premium,139.0,debit
+2020/07/24,Flipkart Order,5191.88,debit
+2020/07/26,Metro Card Recharge,773.0,debit
+2020/07/28,Airtel Mobile Bill,410.25,debit
+2020/07/28,Gaming Recharge,1776.76,debit
+2020/07/28,BigBasket Groceries,2599.34,debit
+2020/07/28,Petrol / Diesel,3140.31,debit
+2020/07/28,Transfer Received,22954.38,credit
+2020/07/28,Restaurant Dinner,2862.44,debit
+2020/07/29,Insurance Premium,3945.45,debit
+2020/07/31,Ajio Clothing,3401.92,debit
+2020/07/31,1mg Medicine Order,495.94,debit
+2020/08/01,Gaming Recharge,1367.45,debit
+2020/08/02,UPI Received,11849.74,credit
+2020/08/02,Cashback Credit,509.88,credit
+2020/08/02,Ola Cab,301.95,debit
+2020/08/03,ATM Withdrawal,2536.88,debit
+2020/08/05,Amazon Purchase,5157.33,debit
+2020/08/05,Rental Income,18465.52,credit
+2020/08/09,ATM Withdrawal,4774.0,debit
+2020/08/09,BigBasket Groceries,2808.2,debit
+2020/08/10,Restaurant Dinner,2838.47,debit
+2020/08/10,Dividend Credit,6256.47,credit
+2020/08/10,Petrol / Diesel,1383.4,debit
+2020/08/11,Hotstar Subscription,890.98,debit
+2020/08/11,Swiggy Order,763.89,debit
+2020/08/11,Electricity Bill,4906.31,debit
+2020/08/13,Flipkart Order,5814.91,debit
+2020/08/13,Travel Booking,6819.99,debit
+2020/08/13,Myntra Fashion,1275.46,debit
+2020/08/13,Refund Credit,1048.69,credit
+2020/08/14,Amazon Purchase,509.34,debit
+2020/08/15,Refund Credit,1561.59,credit
+2020/08/15,Spa Treatment,1288.6,debit
+2020/08/15,Flipkart Order,1077.6,debit
+2020/08/15,Hotel Stay,9288.17,debit
+2020/08/16,Newspaper Subscription,185.23,debit
+2020/08/17,Coffee Shop,305.89,debit
+2020/08/17,Apollo Pharmacy,921.0,debit
+2020/08/17,BookMyShow Tickets,1049.37,debit
+2020/08/17,Reliance Fresh,451.34,debit
+2020/08/17,Cashback Credit,402.15,credit
+2020/08/18,Myntra Fashion,1533.72,debit
+2020/08/18,Spotify Premium,119.0,debit
+2020/08/19,Transfer Received,42728.48,credit
+2020/08/20,Online Course,4495.78,debit
+2020/08/20,Hotstar Subscription,553.74,debit
+2020/08/20,Transfer Received,24233.05,credit
+2020/08/20,Dividend Credit,3293.81,credit
+2020/08/22,Swiggy Order,487.58,debit
+2020/08/23,Freelance Payment,8613.36,credit
+2020/08/23,Cashback Credit,740.14,credit
+2020/08/24,Apollo Pharmacy,921.0,debit
+2020/08/24,Water Bill,327.2,debit
+2020/08/26,Netflix Subscription,563.47,debit
+2020/08/26,ATM Withdrawal,4646.92,debit
+2020/08/27,Refund Credit,4948.3,credit
+2020/08/27,Dividend Credit,9475.0,credit
+2020/08/27,Travel Booking,6617.82,debit
+2020/08/28,Hotel Stay,6919.83,debit
+2020/08/29,DMart Purchase,2139.83,debit
+2020/08/29,Gaming Recharge,1640.68,debit
+2020/08/29,Online Course,1060.75,debit
+2020/08/30,Doctor Consultation,1807.35,debit
+2020/08/31,Restaurant Dinner,1992.5,debit
+2020/08/31,School Fees,12426.32,debit
+2020/09/01,Newspaper Subscription,164.75,debit
+2020/09/01,Freelance Payment,16261.13,credit
+2020/09/02,Ajio Clothing,559.2,debit
+2020/09/03,School Fees,9059.63,debit
+2020/09/03,Freelance Payment,10637.41,credit
+2020/09/04,Airtel Mobile Bill,348.75,debit
+2020/09/05,Hair Salon,1312.11,debit
+2020/09/06,Hair Salon,1170.39,debit
+2020/09/07,1mg Medicine Order,808.1,debit
+2020/09/07,Amazon Prime,320.09,debit
+2020/09/07,Water Bill,566.7,debit
+2020/09/09,Hotel Stay,6107.97,debit
+2020/09/09,More Supermarket,1046.07,debit
+2020/09/12,Spotify Premium,119.0,debit
+2020/09/15,Doctor Consultation,391.74,debit
+2020/09/15,Gaming Recharge,1257.71,debit
+2020/09/15,Airtel Mobile Bill,640.89,debit
+2020/09/15,Hotstar Subscription,242.08,debit
+2020/09/15,DMart Purchase,256.96,debit
+2020/09/16,Restaurant Dinner,2625.36,debit
+2020/09/16,Coffee Shop,440.68,debit
+2020/09/17,More Supermarket,134.15,debit
+2020/09/20,Swiggy Order,632.14,debit
+2020/09/21,More Supermarket,387.51,debit
+2020/09/21,Restaurant Dinner,1245.46,debit
+2020/09/22,Spotify Premium,119.0,debit
+2020/09/23,Spotify Premium,119.0,debit
+2020/09/25,Zomato Food Delivery,511.46,debit
+2020/09/26,Amazon Purchase,7799.42,debit
+2020/09/26,Refund Credit,1868.73,credit
+2020/09/27,Restaurant Dinner,968.57,debit
+2020/09/28,Amazon Prime,394.27,debit
+2020/09/30,Amazon Prime,497.29,debit
+2020/10/02,Apollo Pharmacy,377.43,debit
+2020/10/03,Metro Card Recharge,534.29,debit
+2020/10/04,House Rent,17217.67,debit
+2020/10/04,ATM Withdrawal,4474.44,debit
+2020/10/05,ATM Withdrawal,3657.73,debit
+2020/10/06,Gym Membership,2392.08,debit
+2020/10/06,1mg Medicine Order,1028.64,debit
+2020/10/11,Freelance Payment,19564.07,credit
+2020/10/12,Coffee Shop,202.7,debit
+2020/10/12,Swiggy Order,273.77,debit
+2020/10/12,Airtel Mobile Bill,782.72,debit
+2020/10/12,Swiggy Order,465.85,debit
+2020/10/13,House Rent,14757.98,debit
+2020/10/14,UPI Received,3397.23,credit
+2020/10/14,Netflix Subscription,246.24,debit
+2020/10/16,Newspaper Subscription,175.75,debit
+2020/10/17,Rapido Bike Taxi,152.59,debit
+2020/10/17,Interest Credit,1970.74,credit
+2020/10/19,School Fees,4035.5,debit
+2020/10/19,Coffee Shop,471.76,debit
+2020/10/22,ATM Withdrawal,2773.09,debit
+2020/10/22,Spa Treatment,1672.9,debit
+2020/10/22,BookMyShow Tickets,251.28,debit
+2020/10/23,Refund Credit,3573.75,credit
+2020/10/23,Rental Income,24369.02,credit
+2020/10/24,Online Course,2804.8,debit
+2020/10/24,Zomato Food Delivery,615.67,debit
+2020/10/24,Petrol / Diesel,1530.82,debit
+2020/10/26,Metro Card Recharge,642.82,debit
+2020/10/26,Netflix Subscription,285.08,debit
+2020/10/27,Jio Recharge,472.35,debit
+2020/10/27,Metro Card Recharge,763.42,debit
+2020/10/29,1mg Medicine Order,120.88,debit
+2020/10/31,Metro Card Recharge,274.33,debit
+2020/11/01,Newspaper Subscription,252.78,debit
+2020/11/02,1mg Medicine Order,1346.32,debit
+2020/11/03,Ola Cab,299.0,debit
+2020/11/03,Hair Salon,1191.47,debit
+2020/11/03,Gym Membership,863.63,debit
+2020/11/03,Reliance Fresh,1327.95,debit
+2020/11/03,Reliance Fresh,388.43,debit
+2020/11/04,Netflix Subscription,153.9,debit
+2020/11/05,Ajio Clothing,1644.25,debit
+2020/11/06,ATM Withdrawal,2921.02,debit
+2020/11/06,PVR Cinemas,545.42,debit
+2020/11/07,Parking Charges,102.76,debit
+2020/11/08,Hair Salon,520.01,debit
+2020/11/09,Spa Treatment,2404.97,debit
+2020/11/09,Jio Recharge,406.77,debit
+2020/11/09,Salary Credit,119024.65,credit
+2020/11/10,Book Purchase,316.7,debit
+2020/11/10,Newspaper Subscription,154.57,debit
+2020/11/10,Swiggy Order,645.02,debit
+2020/11/12,Electricity Bill,1526.57,debit
+2020/11/14,Newspaper Subscription,115.53,debit
+2020/11/14,Insurance Premium,9803.49,debit
+2020/11/15,Gaming Recharge,380.65,debit
+2020/11/15,Travel Booking,9804.34,debit
+2020/11/15,Metro Card Recharge,749.27,debit
+2020/11/16,Swiggy Order,691.57,debit
+2020/11/17,Doctor Consultation,1964.72,debit
+2020/11/17,BookMyShow Tickets,1357.06,debit
+2020/11/18,DMart Purchase,1209.6,debit
+2020/11/18,Hotstar Subscription,871.7,debit
+2020/11/19,Metro Card Recharge,545.87,debit
+2020/11/19,Cashback Credit,724.12,credit
+2020/11/20,Bonus Credit,10393.82,credit
+2020/11/20,Online Course,4828.25,debit
+2020/11/22,Zomato Food Delivery,443.68,debit
+2020/11/22,Hotstar Subscription,720.0,debit
+2020/11/23,More Supermarket,1540.04,debit
+2020/11/25,UPI Received,5743.41,credit
+2020/11/26,Zomato Food Delivery,498.99,debit
+2020/11/28,Jio Recharge,255.26,debit
+2020/11/28,Swiggy Order,713.75,debit
+2020/11/28,1mg Medicine Order,1320.03,debit
+2020/11/29,Spotify Premium,119.0,debit
+2020/11/29,Meesho Order,1475.02,debit
+2020/11/29,PVR Cinemas,404.59,debit
+2020/11/30,Spotify Premium,119.0,debit
+2020/12/01,Parking Charges,267.12,debit
+2020/12/01,DMart Purchase,2031.49,debit
+2020/12/03,BookMyShow Tickets,313.8,debit
+2020/12/04,Gaming Recharge,1450.62,debit
+2020/12/06,Uber Ride,412.91,debit
+2020/12/07,Petrol / Diesel,1101.94,debit
+2020/12/07,Electricity Bill,4990.47,debit
+2020/12/08,Amazon Prime,444.9,debit
+2020/12/08,Maintenance Charges,1031.82,debit
+2020/12/10,Apollo Pharmacy,1380.32,debit
+2020/12/12,Insurance Premium,7341.66,debit
+2020/12/14,Reliance Fresh,715.28,debit
+2020/12/14,Spotify Premium,119.0,debit
+2020/12/15,School Fees,4437.74,debit
+2020/12/15,Insurance Premium,1507.09,debit
+2020/12/16,BigBasket Groceries,2288.98,debit
+2020/12/16,Water Bill,202.79,debit
+2020/12/16,Maintenance Charges,1778.48,debit
+2020/12/16,Ola Cab,455.62,debit
+2020/12/17,Gym Membership,1595.18,debit
+2020/12/17,Refund Credit,1484.77,credit
+2020/12/18,YouTube Premium,139.0,debit
+2020/12/19,Flipkart Order,2612.3,debit
+2020/12/21,PVR Cinemas,766.59,debit
+2020/12/21,1mg Medicine Order,417.82,debit
+2020/12/21,Restaurant Dinner,1544.48,debit
+2020/12/21,More Supermarket,915.34,debit
+2020/12/22,Myntra Fashion,2924.27,debit
+2020/12/22,Water Bill,660.16,debit
+2020/12/25,Ola Cab,206.06,debit
+2020/12/26,Transfer Received,39506.14,credit
+2020/12/26,Myntra Fashion,3271.1,debit
+2020/12/27,BookMyShow Tickets,1149.87,debit
+2020/12/28,BookMyShow Tickets,1377.59,debit
+2020/12/28,Rental Income,12255.34,credit
+2020/12/28,PVR Cinemas,606.71,debit
+2020/12/29,Myntra Fashion,2726.26,debit
+2020/12/31,DMart Purchase,362.38,debit
+2020/12/31,DMart Purchase,1131.05,debit
+2021/01/01,Interest Credit,1192.68,credit
+2021/01/03,DMart Purchase,2549.7,debit
+2021/01/03,Book Purchase,256.38,debit
+2021/01/03,Electricity Bill,2535.02,debit
+2021/01/03,Myntra Fashion,1003.11,debit
+2021/01/04,Maintenance Charges,987.71,debit
+2021/01/04,ATM Withdrawal,2202.89,debit
+2021/01/05,BigBasket Groceries,3988.47,debit
+2021/01/05,Petrol / Diesel,705.78,debit
+2021/01/05,Book Purchase,499.74,debit
+2021/01/05,Ajio Clothing,3473.55,debit
+2021/01/07,Refund Credit,4231.28,credit
+2021/01/07,Apollo Pharmacy,1563.05,debit
+2021/01/07,Amazon Prime,583.92,debit
+2021/01/07,Interest Credit,1880.97,credit
+2021/01/08,YouTube Premium,139.0,debit
+2021/01/08,Online Course,4076.51,debit
+2021/01/08,Newspaper Subscription,201.42,debit
+2021/01/09,Apollo Pharmacy,823.87,debit
+2021/01/10,Restaurant Dinner,2290.67,debit
+2021/01/11,Online Course,3877.79,debit
+2021/01/11,BigBasket Groceries,899.8,debit
+2021/01/11,DMart Purchase,2187.78,debit
+2021/01/11,Zomato Food Delivery,738.59,debit
+2021/01/11,Cashback Credit,670.44,credit
+2021/01/12,School Fees,10222.85,debit
+2021/01/12,Jio Recharge,304.88,debit
+2021/01/13,Metro Card Recharge,895.05,debit
+2021/01/13,Cashback Credit,868.19,credit
+2021/01/13,DMart Purchase,2200.23,debit
+2021/01/14,Spotify Premium,119.0,debit
+2021/01/15,1mg Medicine Order,730.84,debit
+2021/01/20,Swiggy Order,410.27,debit
+2021/01/21,Swiggy Order,525.82,debit
+2021/01/24,House Rent,18142.75,debit
+2021/01/25,Ajio Clothing,3114.05,debit
+2021/01/26,Netflix Subscription,522.26,debit
+2021/01/26,Myntra Fashion,1712.63,debit
+2021/01/26,School Fees,2010.21,debit
+2021/01/27,Gym Membership,1626.34,debit
+2021/01/27,Myntra Fashion,3904.77,debit
+2021/01/27,Bonus Credit,40691.91,credit
+2021/01/28,Hair Salon,767.53,debit
+2021/01/29,Reliance Fresh,519.29,debit
+2021/01/29,Rapido Bike Taxi,107.7,debit
+2021/01/29,Book Purchase,836.21,debit
+2021/01/30,Newspaper Subscription,254.66,debit
+2021/01/31,Hair Salon,1291.7,debit
+2021/01/31,Maintenance Charges,1674.31,debit
+2021/02/01,Gym Membership,1316.08,debit
+2021/02/02,House Rent,26243.22,debit
+2021/02/02,Gym Membership,983.78,debit
+2021/02/03,Transfer Received,19253.66,credit
+2021/02/04,Reliance Fresh,713.44,debit
+2021/02/05,Dividend Credit,3916.41,credit
+2021/02/05,1mg Medicine Order,497.81,debit
+2021/02/06,Maintenance Charges,2830.53,debit
+2021/02/06,DMart Purchase,1730.56,debit
+2021/02/07,Spotify Premium,119.0,debit
+2021/02/07,Interest Credit,1333.23,credit
+2021/02/07,Interest Credit,2334.58,credit
+2021/02/08,Doctor Consultation,1618.67,debit
+2021/02/09,Hair Salon,668.29,debit
+2021/02/09,Electricity Bill,1956.1,debit
+2021/02/09,Airtel Mobile Bill,915.5,debit
+2021/02/10,Petrol / Diesel,3808.52,debit
+2021/02/11,Book Purchase,483.49,debit
+2021/02/11,Hair Salon,973.85,debit
+2021/02/11,Hotstar Subscription,715.64,debit
+2021/02/11,Hair Salon,276.75,debit
+2021/02/14,House Rent,22274.62,debit
+2021/02/15,Petrol / Diesel,563.68,debit
+2021/02/15,Restaurant Dinner,2922.47,debit
+2021/02/15,Hotel Stay,8384.3,debit
+2021/02/15,House Rent,10907.66,debit
+2021/02/18,YouTube Premium,139.0,debit
+2021/02/19,Parking Charges,78.9,debit
+2021/02/22,PVR Cinemas,738.59,debit
+2021/02/22,Ajio Clothing,1233.92,debit
+2021/02/24,Airtel Mobile Bill,650.97,debit
+2021/02/25,Spa Treatment,908.54,debit
+2021/02/25,House Rent,22384.67,debit
+2021/02/25,Online Course,850.34,debit
+2021/02/26,Interest Credit,2404.06,credit
+2021/02/26,Zomato Food Delivery,700.91,debit
+2021/02/27,More Supermarket,888.21,debit
+2021/02/28,Cashback Credit,443.87,credit
+2021/03/01,Online Course,1970.63,debit
+2021/03/01,1mg Medicine Order,1345.26,debit
+2021/03/03,Spotify Premium,119.0,debit
+2021/03/03,Swiggy Order,442.5,debit
+2021/03/04,Salary Credit,81528.69,credit
+2021/03/05,Swiggy Order,610.38,debit
+2021/03/05,Flipkart Order,3567.71,debit
+2021/03/05,Airtel Mobile Bill,391.25,debit
+2021/03/06,Airtel Mobile Bill,758.63,debit
+2021/03/07,Ola Cab,289.77,debit
+2021/03/08,More Supermarket,1256.4,debit
+2021/03/09,1mg Medicine Order,733.16,debit
+2021/03/10,Netflix Subscription,371.99,debit
+2021/03/10,Parking Charges,199.54,debit
+2021/03/10,ATM Withdrawal,4484.2,debit
+2021/03/10,More Supermarket,1524.79,debit
+2021/03/12,Online Course,3752.3,debit
+2021/03/13,Airtel Mobile Bill,991.55,debit
+2021/03/13,1mg Medicine Order,850.24,debit
+2021/03/13,Book Purchase,618.96,debit
+2021/03/14,Meesho Order,1158.38,debit
+2021/03/14,Hotstar Subscription,506.81,debit
+2021/03/15,Spotify Premium,119.0,debit
+2021/03/15,Ola Cab,420.77,debit
+2021/03/16,Freelance Payment,19046.02,credit
+2021/03/16,1mg Medicine Order,970.21,debit
+2021/03/16,Petrol / Diesel,1784.71,debit
+2021/03/17,BookMyShow Tickets,1049.66,debit
+2021/03/17,Reliance Fresh,752.81,debit
+2021/03/18,Salary Credit,51906.42,credit
+2021/03/18,School Fees,9998.35,debit
+2021/03/18,Restaurant Dinner,1052.04,debit
+2021/03/19,Jio Recharge,538.53,debit
+2021/03/21,Restaurant Dinner,707.73,debit
+2021/03/22,Gym Membership,885.52,debit
+2021/03/22,Flipkart Order,883.93,debit
+2021/03/22,1mg Medicine Order,519.2,debit
+2021/03/22,UPI Received,5098.17,credit
+2021/03/22,DMart Purchase,606.39,debit
+2021/03/23,1mg Medicine Order,415.21,debit
+2021/03/24,Gym Membership,1991.93,debit
+2021/03/24,Amazon Purchase,6289.9,debit
+2021/03/24,Maintenance Charges,1338.56,debit
+2021/03/24,Hotstar Subscription,487.01,debit
+2021/03/25,More Supermarket,1636.78,debit
+2021/03/25,Interest Credit,1021.13,credit
+2021/03/26,Spotify Premium,119.0,debit
+2021/03/26,Amazon Prime,229.33,debit
+2021/03/26,1mg Medicine Order,1308.48,debit
+2021/03/27,DMart Purchase,591.34,debit
+2021/03/27,Jio Recharge,296.04,debit
+2021/03/27,Transfer Received,27622.95,credit
+2021/03/27,Coffee Shop,285.31,debit
+2021/03/27,Electricity Bill,2276.0,debit
+2021/03/27,Freelance Payment,10925.98,credit
+2021/03/28,Ajio Clothing,1293.53,debit
+2021/03/28,Coffee Shop,96.49,debit
+2021/03/29,DMart Purchase,1829.6,debit
+2021/03/29,Restaurant Dinner,2097.55,debit
+2021/03/29,DMart Purchase,1347.19,debit
+2021/03/29,Spa Treatment,2216.82,debit
+2021/03/31,Maintenance Charges,1661.38,debit
+2021/03/31,Amazon Purchase,824.59,debit
+2021/04/01,PVR Cinemas,672.09,debit
+2021/04/02,BigBasket Groceries,2178.7,debit
+2021/04/04,Maintenance Charges,2989.73,debit
+2021/04/05,ATM Withdrawal,2550.66,debit
+2021/04/07,Metro Card Recharge,611.85,debit
+2021/04/07,Newspaper Subscription,182.33,debit
+2021/04/07,Spa Treatment,1763.19,debit
+2021/04/07,Jio Recharge,392.41,debit
+2021/04/08,Online Course,575.01,debit
+2021/04/08,Newspaper Subscription,175.62,debit
+2021/04/09,ATM Withdrawal,1036.46,debit
+2021/04/11,Netflix Subscription,331.02,debit
+2021/04/13,Doctor Consultation,1588.41,debit
+2021/04/14,Meesho Order,1125.07,debit
+2021/04/14,Bonus Credit,33401.52,credit
+2021/04/14,Water Bill,318.84,debit
+2021/04/15,Petrol / Diesel,3432.17,debit
+2021/04/15,Parking Charges,265.51,debit
+2021/04/16,Airtel Mobile Bill,478.02,debit
+2021/04/17,Transfer Received,5641.35,credit
+2021/04/19,Cashback Credit,495.08,credit
+2021/04/19,Transfer Received,27100.7,credit
+2021/04/21,Myntra Fashion,2192.55,debit
+2021/04/22,Swiggy Order,733.69,debit
+2021/04/22,Parking Charges,249.26,debit
+2021/04/22,Spa Treatment,2166.09,debit
+2021/04/22,DMart Purchase,1698.18,debit
+2021/04/22,Gym Membership,2309.46,debit
+2021/04/23,Maintenance Charges,2819.77,debit
+2021/04/26,Apollo Pharmacy,528.53,debit
+2021/04/28,Zomato Food Delivery,488.38,debit
+2021/04/28,Rental Income,16414.14,credit
+2021/04/29,1mg Medicine Order,561.4,debit
+2021/04/30,Bonus Credit,29614.84,credit
+2021/05/01,ATM Withdrawal,2666.78,debit
+2021/05/03,Gym Membership,711.78,debit
+2021/05/04,Apollo Pharmacy,1241.95,debit
+2021/05/04,YouTube Premium,139.0,debit
+2021/05/05,Ajio Clothing,663.68,debit
+2021/05/05,Apollo Pharmacy,792.43,debit
+2021/05/05,Dividend Credit,4856.48,credit
+2021/05/05,Gaming Recharge,1650.03,debit
+2021/05/07,Ola Cab,477.77,debit
+2021/05/07,DMart Purchase,1013.26,debit
+2021/05/08,Ajio Clothing,1756.61,debit
+2021/05/08,Doctor Consultation,1134.84,debit
+2021/05/08,1mg Medicine Order,1437.63,debit
+2021/05/09,Spa Treatment,2002.18,debit
+2021/05/09,Maintenance Charges,2467.87,debit
+2021/05/11,Doctor Consultation,1543.47,debit
+2021/05/12,Uber Ride,162.6,debit
+2021/05/12,Ajio Clothing,3375.81,debit
+2021/05/13,YouTube Premium,139.0,debit
+2021/05/15,Interest Credit,2003.71,credit
+2021/05/17,Interest Credit,548.28,credit
+2021/05/17,Refund Credit,1093.92,credit
+2021/05/19,Petrol / Diesel,3631.69,debit
+2021/05/19,Doctor Consultation,604.81,debit
+2021/05/22,Doctor Consultation,1097.79,debit
+2021/05/23,Airtel Mobile Bill,869.75,debit
+2021/05/25,School Fees,4316.5,debit
+2021/05/26,Myntra Fashion,1944.93,debit
+2021/05/26,Spa Treatment,825.47,debit
+2021/05/27,Airtel Mobile Bill,709.11,debit
+2021/05/27,Spa Treatment,2076.0,debit
+2021/05/28,Parking Charges,214.53,debit
+2021/05/29,Parking Charges,256.82,debit
+2021/05/29,Book Purchase,724.19,debit
+2021/05/29,UPI Received,8613.91,credit
+2021/05/29,Reliance Fresh,997.5,debit
+2021/05/29,Book Purchase,528.74,debit
+2021/05/31,Gym Membership,2009.09,debit
+2021/06/01,Meesho Order,1394.63,debit
+2021/06/02,Insurance Premium,2686.07,debit
+2021/06/02,Uber Ride,227.09,debit
+2021/06/04,Metro Card Recharge,711.33,debit
+2021/06/04,Insurance Premium,4968.21,debit
+2021/06/04,Zomato Food Delivery,216.38,debit
+2021/06/04,More Supermarket,748.16,debit
+2021/06/05,Book Purchase,573.59,debit
+2021/06/05,Restaurant Dinner,2841.69,debit
+2021/06/05,Online Course,3913.26,debit
+2021/06/07,Gaming Recharge,357.33,debit
+2021/06/07,Uber Ride,444.2,debit
+2021/06/08,BigBasket Groceries,1128.85,debit
+2021/06/11,BigBasket Groceries,2951.99,debit
+2021/06/11,More Supermarket,1695.84,debit
+2021/06/11,Metro Card Recharge,993.88,debit
+2021/06/12,Jio Recharge,267.97,debit
+2021/06/13,Zomato Food Delivery,784.76,debit
+2021/06/13,Salary Credit,44252.82,credit
+2021/06/13,Myntra Fashion,2760.58,debit
+2021/06/14,More Supermarket,917.21,debit
+2021/06/15,Restaurant Dinner,2263.38,debit
+2021/06/15,Zomato Food Delivery,624.08,debit
+2021/06/17,Spa Treatment,835.98,debit
+2021/06/18,Apollo Pharmacy,1658.77,debit
+2021/06/18,Newspaper Subscription,144.96,debit
+2021/06/19,Netflix Subscription,324.79,debit
+2021/06/19,Airtel Mobile Bill,505.26,debit
+2021/06/19,Restaurant Dinner,2114.65,debit
+2021/06/20,Amazon Purchase,4434.3,debit
+2021/06/21,Hotstar Subscription,292.35,debit
+2021/06/22,BookMyShow Tickets,813.72,debit
+2021/06/22,Spotify Premium,119.0,debit
+2021/06/22,Spotify Premium,119.0,debit
+2021/06/23,PVR Cinemas,336.04,debit
+2021/06/23,Netflix Subscription,356.08,debit
+2021/06/25,School Fees,5244.45,debit
+2021/06/26,Meesho Order,643.85,debit
+2021/06/28,Hair Salon,1365.23,debit
+2021/06/28,Gym Membership,607.03,debit
+2021/06/30,Bonus Credit,18397.96,credit
+2021/06/30,Water Bill,652.08,debit
+2021/06/30,Transfer Received,45955.21,credit
+2021/06/30,Doctor Consultation,632.85,debit
+2021/07/01,Jio Recharge,377.99,debit
+2021/07/03,Flipkart Order,5529.93,debit
+2021/07/03,Spotify Premium,119.0,debit
+2021/07/04,Bonus Credit,45864.68,credit
+2021/07/05,Apollo Pharmacy,1353.35,debit
+2021/07/05,UPI Received,7359.1,credit
+2021/07/05,Online Course,1212.48,debit
+2021/07/06,Coffee Shop,154.18,debit
+2021/07/08,Doctor Consultation,1580.55,debit
+2021/07/09,Salary Credit,118765.83,credit
+2021/07/10,Restaurant Dinner,2231.25,debit
+2021/07/10,Interest Credit,1681.82,credit
+2021/07/11,Swiggy Order,379.62,debit
+2021/07/11,Hotstar Subscription,300.48,debit
+2021/07/11,Gaming Recharge,755.24,debit
+2021/07/12,Gaming Recharge,1219.17,debit
+2021/07/12,Gaming Recharge,1223.09,debit
+2021/07/13,Airtel Mobile Bill,449.74,debit
+2021/07/13,School Fees,10634.75,debit
+2021/07/13,Parking Charges,108.98,debit
+2021/07/14,Insurance Premium,7663.79,debit
+2021/07/14,Insurance Premium,6989.93,debit
+2021/07/14,Cashback Credit,347.05,credit
+2021/07/15,Netflix Subscription,160.55,debit
+2021/07/16,Restaurant Dinner,1793.63,debit
+2021/07/20,Airtel Mobile Bill,416.72,debit
+2021/07/20,Reliance Fresh,892.64,debit
+2021/07/20,Electricity Bill,2244.49,debit
+2021/07/21,Reliance Fresh,1083.16,debit
+2021/07/22,Rapido Bike Taxi,78.14,debit
+2021/07/22,Ola Cab,131.29,debit
+2021/07/23,Spa Treatment,1461.17,debit
+2021/07/25,Netflix Subscription,269.51,debit
+2021/07/25,PVR Cinemas,505.54,debit
+2021/07/25,Maintenance Charges,1042.97,debit
+2021/07/25,Amazon Purchase,1285.0,debit
+2021/07/26,Hair Salon,850.24,debit
+2021/07/27,YouTube Premium,139.0,debit
+2021/07/28,Myntra Fashion,788.1,debit
+2021/07/28,BigBasket Groceries,500.02,debit
+2021/07/29,DMart Purchase,1630.34,debit
+2021/07/30,Meesho Order,150.04,debit
+2021/07/30,UPI Received,15593.29,credit
+2021/07/30,Zomato Food Delivery,695.58,debit
+2021/07/31,Rapido Bike Taxi,112.15,debit
+2021/07/31,DMart Purchase,2469.7,debit
+2021/08/01,Spa Treatment,1379.48,debit
+2021/08/01,Parking Charges,114.28,debit
+2021/08/02,Rental Income,19634.39,credit
+2021/08/02,More Supermarket,346.73,debit
+2021/08/03,ATM Withdrawal,3635.18,debit
+2021/08/03,Flipkart Order,4369.98,debit
+2021/08/04,Insurance Premium,2458.36,debit
+2021/08/05,Gym Membership,2380.62,debit
+2021/08/06,Hair Salon,483.26,debit
+2021/08/07,Reliance Fresh,406.55,debit
+2021/08/08,Zomato Food Delivery,123.47,debit
+2021/08/10,Amazon Prime,454.19,debit
+2021/08/12,Rapido Bike Taxi,99.22,debit
+2021/08/14,Transfer Received,38798.01,credit
+2021/08/14,ATM Withdrawal,4228.8,debit
+2021/08/14,Airtel Mobile Bill,670.81,debit
+2021/08/15,1mg Medicine Order,716.38,debit
+2021/08/16,Water Bill,209.69,debit
+2021/08/18,Rapido Bike Taxi,55.2,debit
+2021/08/18,Salary Credit,41559.31,credit
+2021/08/19,Hotel Stay,2117.17,debit
+2021/08/21,Electricity Bill,3285.79,debit
+2021/08/21,Insurance Premium,7411.96,debit
+2021/08/21,Maintenance Charges,2969.54,debit
+2021/08/22,Hotel Stay,6616.69,debit
+2021/08/22,Metro Card Recharge,652.19,debit
+2021/08/22,ATM Withdrawal,4105.01,debit
+2021/08/22,Meesho Order,327.33,debit
+2021/08/22,Bonus Credit,40081.96,credit
+2021/08/23,Maintenance Charges,2533.95,debit
+2021/08/23,Bonus Credit,29553.12,credit
+2021/08/23,Cashback Credit,798.44,credit
+2021/08/24,Interest Credit,1463.1,credit
+2021/08/25,Salary Credit,72872.19,credit
+2021/08/25,Amazon Prime,854.78,debit
+2021/08/26,Rental Income,8353.16,credit
+2021/08/27,Salary Credit,105255.68,credit
+2021/08/29,Ajio Clothing,567.46,debit
+2021/08/29,1mg Medicine Order,648.89,debit
+2021/08/29,Gym Membership,1797.32,debit
+2021/08/31,Netflix Subscription,274.91,debit
+2021/08/31,Refund Credit,3037.97,credit
+2021/09/02,Flipkart Order,709.21,debit
+2021/09/03,Ola Cab,195.07,debit
+2021/09/03,Apollo Pharmacy,455.98,debit
+2021/09/03,Hotstar Subscription,176.29,debit
+2021/09/04,Transfer Received,43022.55,credit
+2021/09/05,BookMyShow Tickets,830.71,debit
+2021/09/05,Coffee Shop,468.7,debit
+2021/09/05,Travel Booking,2358.56,debit
+2021/09/06,Flipkart Order,3056.59,debit
+2021/09/07,Swiggy Order,338.9,debit
+2021/09/08,Meesho Order,651.69,debit
+2021/09/08,ATM Withdrawal,3556.38,debit
+2021/09/09,Newspaper Subscription,161.03,debit
+2021/09/09,Flipkart Order,1975.22,debit
+2021/09/10,Rapido Bike Taxi,40.96,debit
+2021/09/10,Water Bill,478.82,debit
+2021/09/10,Swiggy Order,507.93,debit
+2021/09/11,Ajio Clothing,1719.82,debit
+2021/09/12,Freelance Payment,19665.96,credit
+2021/09/13,Meesho Order,340.7,debit
+2021/09/13,ATM Withdrawal,4277.55,debit
+2021/09/14,1mg Medicine Order,557.32,debit
+2021/09/14,School Fees,8863.92,debit
+2021/09/14,Metro Card Recharge,732.48,debit
+2021/09/15,Travel Booking,11441.14,debit
+2021/09/15,Swiggy Order,888.47,debit
+2021/09/17,Airtel Mobile Bill,992.59,debit
+2021/09/17,School Fees,7340.04,debit
+2021/09/18,Insurance Premium,4987.31,debit
+2021/09/19,BigBasket Groceries,3998.71,debit
+2021/09/20,Coffee Shop,488.58,debit
+2021/09/20,Freelance Payment,24096.58,credit
+2021/09/20,Metro Card Recharge,431.1,debit
+2021/09/21,Hair Salon,647.6,debit
+2021/09/22,Amazon Prime,737.32,debit
+2021/09/23,Hair Salon,300.8,debit
+2021/09/23,Reliance Fresh,1066.51,debit
+2021/09/24,Interest Credit,1078.35,credit
+2021/09/25,Spa Treatment,2638.25,debit
+2021/09/27,Reliance Fresh,887.23,debit
+2021/09/28,Insurance Premium,6858.02,debit
+2021/09/29,Rapido Bike Taxi,195.21,debit
+2021/09/29,BigBasket Groceries,882.11,debit
+2021/09/30,Water Bill,763.47,debit
+2021/10/01,Newspaper Subscription,157.84,debit
+2021/10/01,DMart Purchase,1080.6,debit
+2021/10/02,Water Bill,781.22,debit
+2021/10/04,Ajio Clothing,2770.72,debit
+2021/10/04,Hotel Stay,6019.87,debit
+2021/10/07,Meesho Order,785.26,debit
+2021/10/08,Rental Income,18841.47,credit
+2021/10/09,BigBasket Groceries,3086.92,debit
+2021/10/09,Gaming Recharge,168.18,debit
+2021/10/09,Amazon Prime,567.82,debit
+2021/10/10,DMart Purchase,641.88,debit
+2021/10/10,Amazon Prime,355.45,debit
+2021/10/11,School Fees,8333.09,debit
+2021/10/11,House Rent,24051.26,debit
+2021/10/11,Petrol / Diesel,2137.31,debit
+2021/10/11,Apollo Pharmacy,211.41,debit
+2021/10/12,Salary Credit,78262.08,credit
+2021/10/12,Spa Treatment,2490.71,debit
+2021/10/13,Reliance Fresh,1528.21,debit
+2021/10/13,YouTube Premium,139.0,debit
+2021/10/13,Gaming Recharge,773.89,debit
+2021/10/13,Hair Salon,1423.08,debit
+2021/10/14,Online Course,2050.78,debit
+2021/10/14,Apollo Pharmacy,1947.45,debit
+2021/10/15,Ajio Clothing,3344.66,debit
+2021/10/16,Coffee Shop,80.66,debit
+2021/10/17,Cashback Credit,472.31,credit
+2021/10/18,Apollo Pharmacy,1982.28,debit
+2021/10/19,PVR Cinemas,759.56,debit
+2021/10/19,Zomato Food Delivery,633.12,debit
+2021/10/20,Ola Cab,220.6,debit
+2021/10/20,Uber Ride,342.4,debit
+2021/10/21,Salary Credit,77666.0,credit
+2021/10/22,DMart Purchase,218.39,debit
+2021/10/23,Freelance Payment,24456.68,credit
+2021/10/24,Restaurant Dinner,1641.41,debit
+2021/10/25,Rental Income,7505.49,credit
+2021/10/25,Gym Membership,1514.26,debit
+2021/10/26,Maintenance Charges,2174.73,debit
+2021/10/26,More Supermarket,544.99,debit
+2021/10/26,Spotify Premium,119.0,debit
+2021/10/26,YouTube Premium,139.0,debit
+2021/10/27,Dividend Credit,12063.53,credit
+2021/10/27,YouTube Premium,139.0,debit
+2021/10/28,Apollo Pharmacy,1981.6,debit
+2021/10/29,Hotel Stay,1896.03,debit
+2021/10/31,BigBasket Groceries,1772.12,debit
+2021/10/31,Airtel Mobile Bill,422.35,debit
+2021/11/01,Newspaper Subscription,278.49,debit
+2021/11/01,House Rent,16021.51,debit
+2021/11/02,Uber Ride,487.23,debit
+2021/11/03,Gaming Recharge,602.4,debit
+2021/11/04,Transfer Received,32194.97,credit
+2021/11/05,Swiggy Order,893.46,debit
+2021/11/05,Airtel Mobile Bill,970.99,debit
+2021/11/06,Airtel Mobile Bill,540.43,debit
+2021/11/06,Dividend Credit,5855.62,credit
+2021/11/06,Electricity Bill,966.23,debit
+2021/11/06,More Supermarket,105.65,debit
+2021/11/07,Apollo Pharmacy,1975.23,debit
+2021/11/07,DMart Purchase,1513.8,debit
+2021/11/07,Hotel Stay,7247.81,debit
+2021/11/09,DMart Purchase,3386.12,debit
+2021/11/11,Bonus Credit,36671.57,credit
+2021/11/13,Spa Treatment,883.66,debit
+2021/11/14,Hotstar Subscription,849.68,debit
+2021/11/15,Transfer Received,31655.92,credit
+2021/11/16,More Supermarket,1295.51,debit
+2021/11/16,Apollo Pharmacy,1454.95,debit
+2021/11/17,Zomato Food Delivery,461.26,debit
+2021/11/18,Travel Booking,5450.6,debit
+2021/11/19,PVR Cinemas,706.29,debit
+2021/11/19,More Supermarket,212.51,debit
+2021/11/19,Maintenance Charges,1657.43,debit
+2021/11/21,Bonus Credit,49750.37,credit
+2021/11/22,BigBasket Groceries,685.78,debit
+2021/11/23,House Rent,21747.13,debit
+2021/11/25,Hotstar Subscription,500.5,debit
+2021/11/25,Hotstar Subscription,751.52,debit
+2021/11/25,Amazon Purchase,3028.95,debit
+2021/11/26,Metro Card Recharge,657.96,debit
+2021/11/26,Transfer Received,36997.68,credit
+2021/11/26,Reliance Fresh,1043.48,debit
+2021/11/28,YouTube Premium,139.0,debit
+2021/11/29,More Supermarket,1083.38,debit
+2021/11/30,BookMyShow Tickets,571.56,debit
+2021/12/01,Book Purchase,762.84,debit
+2021/12/02,BookMyShow Tickets,574.94,debit
+2021/12/03,Electricity Bill,4695.29,debit
+2021/12/03,Spotify Premium,119.0,debit
+2021/12/03,Meesho Order,166.56,debit
+2021/12/03,Salary Credit,49171.47,credit
+2021/12/03,Zomato Food Delivery,160.35,debit
+2021/12/04,Spa Treatment,1136.24,debit
+2021/12/04,BigBasket Groceries,3214.04,debit
+2021/12/05,Freelance Payment,21681.05,credit
+2021/12/06,Gaming Recharge,329.12,debit
+2021/12/07,Swiggy Order,237.43,debit
+2021/12/07,Swiggy Order,191.51,debit
+2021/12/09,Netflix Subscription,619.48,debit
+2021/12/10,YouTube Premium,139.0,debit
+2021/12/10,Jio Recharge,272.12,debit
+2021/12/12,Insurance Premium,1176.33,debit
+2021/12/14,1mg Medicine Order,1310.21,debit
+2021/12/14,Hotel Stay,8116.87,debit
+2021/12/15,Reliance Fresh,228.32,debit
+2021/12/15,Apollo Pharmacy,1321.91,debit
+2021/12/15,YouTube Premium,139.0,debit
+2021/12/16,Flipkart Order,362.57,debit
+2021/12/16,Rapido Bike Taxi,112.95,debit
+2021/12/17,DMart Purchase,1453.47,debit
+2021/12/17,Rental Income,16340.87,credit
+2021/12/18,Meesho Order,1807.61,debit
+2021/12/19,Coffee Shop,346.84,debit
+2021/12/20,Parking Charges,151.73,debit
+2021/12/22,ATM Withdrawal,3589.25,debit
+2021/12/22,1mg Medicine Order,890.33,debit
+2021/12/22,Spa Treatment,2496.2,debit
+2021/12/23,Coffee Shop,479.72,debit
+2021/12/23,Maintenance Charges,1057.3,debit
+2021/12/24,Cashback Credit,381.77,credit
+2021/12/24,Spa Treatment,2576.26,debit
+2021/12/24,Zomato Food Delivery,797.05,debit
+2021/12/25,DMart Purchase,604.01,debit
+2021/12/25,Parking Charges,158.93,debit
+2021/12/26,Interest Credit,1935.72,credit
+2021/12/28,Restaurant Dinner,2673.44,debit
+2021/12/28,Jio Recharge,537.33,debit
+2021/12/29,Amazon Purchase,5028.43,debit
+2021/12/29,More Supermarket,773.47,debit
+2021/12/29,Insurance Premium,9185.01,debit
+2022/01/01,Gym Membership,578.86,debit
+2022/01/01,Jio Recharge,347.48,debit
+2022/01/02,Uber Ride,345.75,debit
+2022/01/02,Spotify Premium,119.0,debit
+2022/01/02,Hair Salon,414.29,debit
+2022/01/03,1mg Medicine Order,1327.22,debit
+2022/01/04,House Rent,18591.43,debit
+2022/01/04,ATM Withdrawal,2249.38,debit
+2022/01/05,PVR Cinemas,437.4,debit
+2022/01/06,Refund Credit,3255.71,credit
+2022/01/06,Transfer Received,44023.1,credit
+2022/01/06,PVR Cinemas,751.23,debit
+2022/01/07,Restaurant Dinner,2413.68,debit
+2022/01/07,DMart Purchase,3117.24,debit
+2022/01/07,Hotel Stay,7504.7,debit
+2022/01/08,Zomato Food Delivery,289.08,debit
+2022/01/09,Petrol / Diesel,1285.12,debit
+2022/01/11,Salary Credit,73987.44,credit
+2022/01/11,Swiggy Order,332.68,debit
+2022/01/12,Bonus Credit,12561.45,credit
+2022/01/12,Water Bill,764.74,debit
+2022/01/12,School Fees,11357.08,debit
+2022/01/12,Travel Booking,3760.31,debit
+2022/01/13,Gym Membership,1200.97,debit
+2022/01/14,BookMyShow Tickets,1462.65,debit
+2022/01/14,Coffee Shop,239.01,debit
+2022/01/15,1mg Medicine Order,397.75,debit
+2022/01/16,Newspaper Subscription,282.71,debit
+2022/01/16,Dividend Credit,12587.19,credit
+2022/01/17,Ajio Clothing,1571.29,debit
+2022/01/17,Parking Charges,232.37,debit
+2022/01/18,Hair Salon,1000.95,debit
+2022/01/20,Meesho Order,1995.81,debit
+2022/01/21,PVR Cinemas,673.1,debit
+2022/01/21,Book Purchase,810.24,debit
+2022/01/22,Zomato Food Delivery,271.56,debit
+2022/01/22,Book Purchase,293.21,debit
+2022/01/22,Netflix Subscription,353.35,debit
+2022/01/24,Amazon Purchase,931.82,debit
+2022/01/25,Cashback Credit,206.41,credit
+2022/01/26,Ola Cab,252.55,debit
+2022/01/27,ATM Withdrawal,917.19,debit
+2022/01/27,BigBasket Groceries,2209.74,debit
+2022/01/30,School Fees,10084.5,debit
+2022/01/31,Petrol / Diesel,1530.72,debit
+2022/02/01,BookMyShow Tickets,1189.7,debit
+2022/02/01,Gym Membership,2234.22,debit
+2022/02/01,Zomato Food Delivery,615.12,debit
+2022/02/02,PVR Cinemas,275.08,debit
+2022/02/02,School Fees,3344.38,debit
+2022/02/03,Rapido Bike Taxi,53.54,debit
+2022/02/04,ATM Withdrawal,3998.66,debit
+2022/02/06,1mg Medicine Order,656.46,debit
+2022/02/06,BookMyShow Tickets,867.2,debit
+2022/02/09,Netflix Subscription,367.8,debit
+2022/02/11,Coffee Shop,453.7,debit
+2022/02/12,Gym Membership,1540.61,debit
+2022/02/12,BigBasket Groceries,619.26,debit
+2022/02/12,Electricity Bill,4910.91,debit
+2022/02/12,UPI Received,1957.65,credit
+2022/02/13,Newspaper Subscription,157.36,debit
+2022/02/14,Online Course,2994.8,debit
+2022/02/15,Doctor Consultation,1873.28,debit
+2022/02/15,Water Bill,491.02,debit
+2022/02/15,Flipkart Order,2238.19,debit
+2022/02/15,Spotify Premium,119.0,debit
+2022/02/16,Apollo Pharmacy,1210.28,debit
+2022/02/16,Netflix Subscription,186.33,debit
+2022/02/16,BookMyShow Tickets,709.33,debit
+2022/02/16,Swiggy Order,885.41,debit
+2022/02/17,Flipkart Order,762.63,debit
+2022/02/18,Gaming Recharge,780.03,debit
+2022/02/20,UPI Received,11037.58,credit
+2022/02/21,Book Purchase,735.15,debit
+2022/02/21,Ajio Clothing,3142.24,debit
+2022/02/21,Flipkart Order,4544.56,debit
+2022/02/23,Salary Credit,91609.49,credit
+2022/02/23,Hotel Stay,9954.66,debit
+2022/02/23,More Supermarket,1079.43,debit
+2022/02/25,Uber Ride,483.78,debit
+2022/02/25,Coffee Shop,353.68,debit
+2022/02/25,Travel Booking,10191.62,debit
+2022/02/26,Book Purchase,451.37,debit
+2022/02/26,Salary Credit,60509.74,credit
+2022/02/27,Book Purchase,828.37,debit
+2022/02/28,Gym Membership,1846.7,debit
+2022/03/01,Water Bill,566.53,debit
+2022/03/01,Book Purchase,478.84,debit
+2022/03/02,Gaming Recharge,1680.6,debit
+2022/03/02,Flipkart Order,951.74,debit
+2022/03/03,Newspaper Subscription,124.68,debit
+2022/03/03,Metro Card Recharge,470.63,debit
+2022/03/03,Meesho Order,1693.07,debit
+2022/03/05,Apollo Pharmacy,565.61,debit
+2022/03/05,Myntra Fashion,1427.67,debit
+2022/03/06,Travel Booking,15881.53,debit
+2022/03/06,Coffee Shop,213.91,debit
+2022/03/08,Water Bill,409.11,debit
+2022/03/08,Ola Cab,494.44,debit
+2022/03/09,Parking Charges,215.06,debit
+2022/03/12,UPI Received,10561.51,credit
+2022/03/13,Freelance Payment,13045.61,credit
+2022/03/14,Airtel Mobile Bill,852.06,debit
+2022/03/16,Zomato Food Delivery,213.87,debit
+2022/03/16,Spa Treatment,2810.23,debit
+2022/03/17,ATM Withdrawal,745.39,debit
+2022/03/17,Apollo Pharmacy,1823.62,debit
+2022/03/17,Apollo Pharmacy,860.68,debit
+2022/03/18,Salary Credit,113885.14,credit
+2022/03/20,Parking Charges,177.55,debit
+2022/03/21,Myntra Fashion,653.33,debit
+2022/03/21,Uber Ride,99.44,debit
+2022/03/22,More Supermarket,510.65,debit
+2022/03/22,Petrol / Diesel,702.77,debit
+2022/03/25,Transfer Received,43480.56,credit
+2022/03/25,Amazon Purchase,6794.19,debit
+2022/03/29,Interest Credit,2492.08,credit
+2022/03/30,Petrol / Diesel,1157.16,debit
+2022/04/01,Water Bill,469.24,debit
+2022/04/02,Dividend Credit,11738.33,credit
+2022/04/03,Swiggy Order,490.92,debit
+2022/04/03,Hotel Stay,7179.92,debit
+2022/04/03,More Supermarket,235.84,debit
+2022/04/04,Bonus Credit,27018.99,credit
+2022/04/05,BookMyShow Tickets,851.52,debit
+2022/04/06,Salary Credit,100809.75,credit
+2022/04/06,BigBasket Groceries,3860.0,debit
+2022/04/06,Transfer Received,27817.38,credit
+2022/04/08,Petrol / Diesel,3939.49,debit
+2022/04/08,Coffee Shop,88.2,debit
+2022/04/10,Spa Treatment,1748.83,debit
+2022/04/10,Meesho Order,247.35,debit
+2022/04/11,Reliance Fresh,941.46,debit
+2022/04/11,Apollo Pharmacy,732.31,debit
+2022/04/11,Airtel Mobile Bill,501.44,debit
+2022/04/14,Amazon Purchase,1253.02,debit
+2022/04/15,ATM Withdrawal,1524.91,debit
+2022/04/16,BigBasket Groceries,3471.81,debit
+2022/04/17,Rapido Bike Taxi,189.72,debit
+2022/04/17,Book Purchase,432.21,debit
+2022/04/18,Dividend Credit,5572.33,credit
+2022/04/18,1mg Medicine Order,1146.88,debit
+2022/04/18,UPI Received,17169.46,credit
+2022/04/20,Restaurant Dinner,998.27,debit
+2022/04/20,Flipkart Order,4046.07,debit
+2022/04/20,Salary Credit,113964.17,credit
+2022/04/21,1mg Medicine Order,1437.47,debit
+2022/04/21,Doctor Consultation,1475.7,debit
+2022/04/22,Meesho Order,347.64,debit
+2022/04/22,Spa Treatment,1649.94,debit
+2022/04/23,Flipkart Order,800.87,debit
+2022/04/24,Swiggy Order,819.56,debit
+2022/04/24,Coffee Shop,361.32,debit
+2022/04/25,Interest Credit,1519.29,credit
+2022/04/25,Airtel Mobile Bill,586.12,debit
+2022/04/25,House Rent,21223.02,debit
+2022/04/26,Reliance Fresh,703.6,debit
+2022/04/26,Parking Charges,50.11,debit
+2022/04/27,Metro Card Recharge,886.58,debit
+2022/04/28,House Rent,16804.63,debit
+2022/04/29,Apollo Pharmacy,365.83,debit
+2022/04/29,Newspaper Subscription,120.28,debit
+2022/04/30,Book Purchase,1428.13,debit
+2022/04/30,House Rent,29128.58,debit
+2022/04/30,Spa Treatment,2455.78,debit
+2022/05/01,1mg Medicine Order,648.08,debit
+2022/05/01,Salary Credit,50296.59,credit
+2022/05/02,Water Bill,433.88,debit
+2022/05/02,Jio Recharge,323.65,debit
+2022/05/03,Amazon Prime,349.19,debit
+2022/05/03,Parking Charges,184.25,debit
+2022/05/04,Coffee Shop,260.95,debit
+2022/05/05,Spa Treatment,2060.49,debit
+2022/05/05,Airtel Mobile Bill,318.54,debit
+2022/05/05,Reliance Fresh,1825.26,debit
+2022/05/06,Parking Charges,56.98,debit
+2022/05/06,Spa Treatment,998.33,debit
+2022/05/07,Apollo Pharmacy,696.88,debit
+2022/05/08,ATM Withdrawal,2572.59,debit
+2022/05/09,Rental Income,9022.49,credit
+2022/05/09,Amazon Prime,633.69,debit
+2022/05/09,Apollo Pharmacy,558.87,debit
+2022/05/09,Spotify Premium,119.0,debit
+2022/05/10,Reliance Fresh,529.3,debit
+2022/05/10,Restaurant Dinner,710.6,debit
+2022/05/11,Gym Membership,1027.65,debit
+2022/05/11,Swiggy Order,631.69,debit
+2022/05/13,YouTube Premium,139.0,debit
+2022/05/14,House Rent,16706.54,debit
+2022/05/14,Zomato Food Delivery,693.93,debit
+2022/05/15,Petrol / Diesel,3179.15,debit
+2022/05/15,Newspaper Subscription,250.39,debit
+2022/05/15,Spotify Premium,119.0,debit
+2022/05/16,Ajio Clothing,3124.38,debit
+2022/05/16,Gaming Recharge,1871.41,debit
+2022/05/17,BookMyShow Tickets,898.8,debit
+2022/05/17,Amazon Purchase,6756.37,debit
+2022/05/18,Zomato Food Delivery,243.5,debit
+2022/05/19,UPI Received,9972.68,credit
+2022/05/19,Ola Cab,183.25,debit
+2022/05/20,Parking Charges,78.71,debit
+2022/05/22,Amazon Purchase,303.56,debit
+2022/05/23,Hair Salon,773.1,debit
+2022/05/24,Bonus Credit,28528.34,credit
+2022/05/24,DMart Purchase,3298.76,debit
+2022/05/25,Water Bill,701.05,debit
+2022/05/25,PVR Cinemas,563.02,debit
+2022/05/25,Travel Booking,3455.8,debit
+2022/05/26,School Fees,3362.6,debit
+2022/05/26,Parking Charges,72.58,debit
+2022/05/27,Parking Charges,114.8,debit
+2022/05/27,Gaming Recharge,1376.07,debit
+2022/05/28,Insurance Premium,1810.44,debit
+2022/05/28,Spotify Premium,119.0,debit
+2022/05/30,Freelance Payment,25144.8,credit
+2022/05/30,Rental Income,10817.49,credit
+2022/05/31,House Rent,26239.46,debit
+2022/06/01,Gaming Recharge,164.88,debit
+2022/06/02,Ajio Clothing,1244.35,debit
+2022/06/02,Parking Charges,176.82,debit
+2022/06/02,Doctor Consultation,885.34,debit
+2022/06/02,Electricity Bill,1383.74,debit
+2022/06/03,Restaurant Dinner,2733.74,debit
+2022/06/03,Meesho Order,1526.5,debit
+2022/06/04,PVR Cinemas,451.65,debit
+2022/06/04,Meesho Order,1131.32,debit
+2022/06/04,Uber Ride,333.02,debit
+2022/06/05,BigBasket Groceries,871.78,debit
+2022/06/06,Rental Income,21296.98,credit
+2022/06/06,Online Course,1332.39,debit
+2022/06/07,Newspaper Subscription,263.0,debit
+2022/06/07,Meesho Order,1344.21,debit
+2022/06/09,Airtel Mobile Bill,453.33,debit
+2022/06/10,Cashback Credit,936.16,credit
+2022/06/10,Electricity Bill,4087.45,debit
+2022/06/11,Maintenance Charges,590.95,debit
+2022/06/12,Metro Card Recharge,772.79,debit
+2022/06/14,Metro Card Recharge,800.47,debit
+2022/06/15,DMart Purchase,3338.26,debit
+2022/06/15,Coffee Shop,192.36,debit
+2022/06/15,Hair Salon,604.24,debit
+2022/06/16,Water Bill,779.34,debit
+2022/06/17,More Supermarket,1054.86,debit
+2022/06/17,DMart Purchase,1627.79,debit
+2022/06/17,Electricity Bill,1967.07,debit
+2022/06/17,Maintenance Charges,2212.69,debit
+2022/06/17,Hotel Stay,5220.22,debit
+2022/06/18,Restaurant Dinner,1764.13,debit
+2022/06/19,PVR Cinemas,650.81,debit
+2022/06/20,Petrol / Diesel,3419.48,debit
+2022/06/23,Maintenance Charges,1924.39,debit
+2022/06/24,Uber Ride,117.37,debit
+2022/06/24,Zomato Food Delivery,402.36,debit
+2022/06/26,Dividend Credit,6226.24,credit
+2022/06/26,Restaurant Dinner,801.24,debit
+2022/06/26,Electricity Bill,4952.11,debit
+2022/06/27,Amazon Purchase,3891.82,debit
+2022/06/28,Ola Cab,379.34,debit
+2022/06/28,Restaurant Dinner,2345.75,debit
+2022/06/28,Gaming Recharge,618.6,debit
+2022/06/30,Restaurant Dinner,1501.12,debit
+2022/07/01,Transfer Received,38905.13,credit
+2022/07/02,Flipkart Order,4027.49,debit
+2022/07/02,Doctor Consultation,300.45,debit
+2022/07/02,Spotify Premium,119.0,debit
+2022/07/03,DMart Purchase,614.13,debit
+2022/07/04,Ajio Clothing,1424.8,debit
+2022/07/04,Electricity Bill,4356.47,debit
+2022/07/05,Swiggy Order,285.57,debit
+2022/07/05,Freelance Payment,13129.31,credit
+2022/07/06,Ola Cab,416.19,debit
+2022/07/07,Rental Income,22000.27,credit
+2022/07/08,Transfer Received,41674.59,credit
+2022/07/08,Insurance Premium,7436.27,debit
+2022/07/08,Parking Charges,185.33,debit
+2022/07/08,Online Course,2921.23,debit
+2022/07/09,Newspaper Subscription,234.36,debit
+2022/07/10,Metro Card Recharge,507.43,debit
+2022/07/11,Spa Treatment,2269.98,debit
+2022/07/12,Meesho Order,1451.31,debit
+2022/07/12,Parking Charges,270.7,debit
+2022/07/15,Freelance Payment,19194.07,credit
+2022/07/15,Travel Booking,2497.03,debit
+2022/07/15,BigBasket Groceries,1241.78,debit
+2022/07/16,School Fees,7568.27,debit
+2022/07/17,Hair Salon,779.78,debit
+2022/07/17,YouTube Premium,139.0,debit
+2022/07/17,Coffee Shop,297.61,debit
+2022/07/18,Insurance Premium,4882.9,debit
+2022/07/18,Amazon Purchase,5991.71,debit
+2022/07/19,Newspaper Subscription,139.93,debit
+2022/07/19,Myntra Fashion,2616.62,debit
+2022/07/19,Hair Salon,491.72,debit
+2022/07/19,Swiggy Order,106.1,debit
+2022/07/20,Parking Charges,255.24,debit
+2022/07/20,Ajio Clothing,2337.08,debit
+2022/07/20,House Rent,8619.59,debit
+2022/07/20,YouTube Premium,139.0,debit
+2022/07/22,Transfer Received,38951.41,credit
+2022/07/22,BookMyShow Tickets,1169.66,debit
+2022/07/22,Flipkart Order,4588.32,debit
+2022/07/22,Gaming Recharge,647.67,debit
+2022/07/23,UPI Received,9331.18,credit
+2022/07/23,Travel Booking,18040.3,debit
+2022/07/26,Refund Credit,329.03,credit
+2022/07/27,More Supermarket,830.0,debit
+2022/07/28,BigBasket Groceries,2854.29,debit
+2022/07/28,Doctor Consultation,1724.93,debit
+2022/07/29,Doctor Consultation,1164.39,debit
+2022/07/30,1mg Medicine Order,1126.12,debit
+2022/07/31,Refund Credit,1020.23,credit
+2022/08/02,BigBasket Groceries,3428.52,debit
+2022/08/03,Reliance Fresh,905.77,debit
+2022/08/05,More Supermarket,1422.68,debit
+2022/08/06,Travel Booking,4033.47,debit
+2022/08/06,Coffee Shop,335.2,debit
+2022/08/06,Uber Ride,325.51,debit
+2022/08/07,House Rent,11950.56,debit
+2022/08/08,Gaming Recharge,1866.93,debit
+2022/08/08,More Supermarket,1642.09,debit
+2022/08/08,House Rent,21194.3,debit
+2022/08/09,Reliance Fresh,1085.11,debit
+2022/08/10,Zomato Food Delivery,462.94,debit
+2022/08/10,Petrol / Diesel,2236.06,debit
+2022/08/11,Newspaper Subscription,102.79,debit
+2022/08/12,Electricity Bill,3877.51,debit
+2022/08/12,Gaming Recharge,81.19,debit
+2022/08/13,Spotify Premium,119.0,debit
+2022/08/14,Newspaper Subscription,144.5,debit
+2022/08/14,Refund Credit,4546.01,credit
+2022/08/14,Amazon Prime,887.03,debit
+2022/08/14,Zomato Food Delivery,379.83,debit
+2022/08/15,Bonus Credit,44755.68,credit
+2022/08/16,Airtel Mobile Bill,961.59,debit
+2022/08/17,Newspaper Subscription,128.52,debit
+2022/08/17,Spotify Premium,119.0,debit
+2022/08/20,Spotify Premium,119.0,debit
+2022/08/21,Hotstar Subscription,165.51,debit
+2022/08/22,Amazon Prime,506.02,debit
+2022/08/23,Gym Membership,1784.1,debit
+2022/08/23,Travel Booking,5252.07,debit
+2022/08/23,Meesho Order,745.4,debit
+2022/08/24,Maintenance Charges,1659.37,debit
+2022/08/25,Book Purchase,1451.16,debit
+2022/08/26,ATM Withdrawal,3566.65,debit
+2022/08/26,Coffee Shop,208.1,debit
+2022/08/27,Cashback Credit,546.03,credit
+2022/08/30,Interest Credit,1520.97,credit
+2022/08/31,Book Purchase,1227.82,debit
+2022/08/31,Parking Charges,268.88,debit
+2022/09/02,House Rent,19448.66,debit
+2022/09/03,Swiggy Order,280.25,debit
+2022/09/04,Interest Credit,865.94,credit
+2022/09/05,Interest Credit,2155.28,credit
+2022/09/06,Gaming Recharge,185.68,debit
+2022/09/09,ATM Withdrawal,2162.78,debit
+2022/09/09,BookMyShow Tickets,430.99,debit
+2022/09/10,DMart Purchase,3150.78,debit
+2022/09/10,Coffee Shop,351.11,debit
+2022/09/11,Spa Treatment,2816.2,debit
+2022/09/11,More Supermarket,572.45,debit
+2022/09/11,Hotel Stay,9076.8,debit
+2022/09/12,Hotstar Subscription,828.29,debit
+2022/09/12,Amazon Purchase,6047.25,debit
+2022/09/12,Amazon Prime,446.55,debit
+2022/09/12,Amazon Purchase,4663.23,debit
+2022/09/14,Petrol / Diesel,2879.16,debit
+2022/09/14,Flipkart Order,1387.52,debit
+2022/09/14,More Supermarket,1030.01,debit
+2022/09/15,1mg Medicine Order,1182.5,debit
+2022/09/15,ATM Withdrawal,1871.7,debit
+2022/09/16,Apollo Pharmacy,812.93,debit
+2022/09/16,UPI Received,2779.25,credit
+2022/09/16,Electricity Bill,1426.7,debit
+2022/09/16,Hair Salon,530.1,debit
+2022/09/19,Travel Booking,12924.92,debit
+2022/09/19,Rapido Bike Taxi,185.98,debit
+2022/09/20,Gym Membership,1442.19,debit
+2022/09/20,Book Purchase,1409.96,debit
+2022/09/21,Swiggy Order,738.21,debit
+2022/09/21,Amazon Prime,418.94,debit
+2022/09/22,Maintenance Charges,1374.29,debit
+2022/09/22,Electricity Bill,1109.63,debit
+2022/09/23,Meesho Order,1879.42,debit
+2022/09/23,Restaurant Dinner,2669.7,debit
+2022/09/24,Insurance Premium,1288.42,debit
+2022/09/26,Apollo Pharmacy,693.76,debit
+2022/09/26,Myntra Fashion,1391.47,debit
+2022/09/27,Hotstar Subscription,443.47,debit
+2022/09/27,Spotify Premium,119.0,debit
+2022/09/29,Meesho Order,360.44,debit
+2022/09/29,Interest Credit,1818.63,credit
+2022/09/30,More Supermarket,1364.74,debit
+2022/09/30,Restaurant Dinner,1267.29,debit
+2022/09/30,Netflix Subscription,430.77,debit
+2022/10/01,Online Course,4051.04,debit
+2022/10/01,Spotify Premium,119.0,debit
+2022/10/02,Ajio Clothing,798.83,debit
+2022/10/02,Cashback Credit,211.85,credit
+2022/10/03,Ola Cab,130.31,debit
+2022/10/04,Hair Salon,998.94,debit
+2022/10/04,Book Purchase,434.66,debit
+2022/10/05,Bonus Credit,14278.58,credit
+2022/10/06,Salary Credit,106783.09,credit
+2022/10/07,Maintenance Charges,1388.35,debit
+2022/10/07,Dividend Credit,11402.88,credit
+2022/10/08,Airtel Mobile Bill,738.86,debit
+2022/10/10,Spa Treatment,1846.06,debit
+2022/10/10,School Fees,11163.47,debit
+2022/10/14,Hotstar Subscription,543.57,debit
+2022/10/15,Metro Card Recharge,366.79,debit
+2022/10/15,Cashback Credit,659.6,credit
+2022/10/16,Flipkart Order,3140.44,debit
+2022/10/17,Amazon Purchase,1034.9,debit
+2022/10/18,PVR Cinemas,415.48,debit
+2022/10/19,Dividend Credit,13711.29,credit
+2022/10/20,Gaming Recharge,1334.06,debit
+2022/10/20,Ajio Clothing,2959.03,debit
+2022/10/20,More Supermarket,1615.34,debit
+2022/10/21,Petrol / Diesel,2791.35,debit
+2022/10/21,Myntra Fashion,1457.04,debit
+2022/10/21,Restaurant Dinner,1123.43,debit
+2022/10/22,DMart Purchase,3209.45,debit
+2022/10/23,Parking Charges,257.61,debit
+2022/10/24,Spa Treatment,2687.79,debit
+2022/10/24,Travel Booking,17902.86,debit
+2022/10/26,Zomato Food Delivery,560.51,debit
+2022/10/27,Amazon Prime,481.37,debit
+2022/10/29,Myntra Fashion,3039.65,debit
+2022/10/29,BigBasket Groceries,2823.93,debit
+2022/10/30,Coffee Shop,233.49,debit
+2022/11/01,Interest Credit,648.65,credit
+2022/11/02,Hair Salon,282.24,debit
+2022/11/05,Transfer Received,12609.87,credit
+2022/11/06,Water Bill,793.98,debit
+2022/11/06,Spotify Premium,119.0,debit
+2022/11/08,School Fees,2308.08,debit
+2022/11/09,Hotel Stay,9302.59,debit
+2022/11/09,Ajio Clothing,2715.18,debit
+2022/11/10,1mg Medicine Order,1213.26,debit
+2022/11/10,Maintenance Charges,2582.66,debit
+2022/11/15,Flipkart Order,4165.46,debit
+2022/11/17,Restaurant Dinner,2446.63,debit
+2022/11/18,Rapido Bike Taxi,152.0,debit
+2022/11/19,YouTube Premium,139.0,debit
+2022/11/19,Swiggy Order,626.25,debit
+2022/11/19,BigBasket Groceries,1752.62,debit
+2022/11/22,Ajio Clothing,3452.74,debit
+2022/11/22,Amazon Prime,961.86,debit
+2022/11/22,Gaming Recharge,509.36,debit
+2022/11/23,Online Course,3675.6,debit
+2022/11/24,Newspaper Subscription,113.32,debit
+2022/11/24,Cashback Credit,452.96,credit
+2022/11/24,Gym Membership,1351.06,debit
+2022/11/24,PVR Cinemas,257.71,debit
+2022/11/25,Flipkart Order,4957.61,debit
+2022/11/26,Spotify Premium,119.0,debit
+2022/11/26,Netflix Subscription,389.15,debit
+2022/11/26,Swiggy Order,586.95,debit
+2022/11/27,Newspaper Subscription,181.74,debit
+2022/11/28,1mg Medicine Order,884.26,debit
+2022/11/30,Transfer Received,22893.29,credit
+2022/12/02,Rental Income,17667.5,credit
+2022/12/02,Spa Treatment,641.83,debit
+2022/12/02,Transfer Received,39408.68,credit
+2022/12/03,Apollo Pharmacy,529.67,debit
+2022/12/03,Newspaper Subscription,154.42,debit
+2022/12/04,Netflix Subscription,358.93,debit
+2022/12/04,Book Purchase,1067.52,debit
+2022/12/05,Gaming Recharge,1927.83,debit
+2022/12/05,Spa Treatment,1756.73,debit
+2022/12/06,Online Course,1344.55,debit
+2022/12/08,Zomato Food Delivery,642.74,debit
+2022/12/08,ATM Withdrawal,970.4,debit
+2022/12/08,Insurance Premium,1075.78,debit
+2022/12/09,Ajio Clothing,1569.21,debit
+2022/12/12,Hotstar Subscription,242.25,debit
+2022/12/12,Travel Booking,18643.94,debit
+2022/12/14,Refund Credit,4675.29,credit
+2022/12/15,Apollo Pharmacy,1047.09,debit
+2022/12/17,Dividend Credit,10319.34,credit
+2022/12/17,PVR Cinemas,786.73,debit
+2022/12/18,School Fees,7274.25,debit
+2022/12/18,Travel Booking,19559.48,debit
+2022/12/19,Reliance Fresh,1187.12,debit
+2022/12/19,Book Purchase,712.3,debit
+2022/12/22,Gaming Recharge,948.17,debit
+2022/12/23,Parking Charges,237.97,debit
+2022/12/23,Rental Income,12260.94,credit
+2022/12/24,Bonus Credit,49391.14,credit
+2022/12/25,Reliance Fresh,1578.53,debit
+2022/12/26,Gaming Recharge,336.96,debit
+2022/12/27,Interest Credit,2406.51,credit
+2022/12/29,Gaming Recharge,1780.85,debit
+2022/12/29,UPI Received,7833.54,credit
+2022/12/29,UPI Received,17643.99,credit
+2022/12/29,Gym Membership,2334.44,debit
+2022/12/30,Netflix Subscription,391.54,debit
+2023/01/01,BookMyShow Tickets,248.01,debit
+2023/01/01,UPI Received,13193.07,credit
+2023/01/01,Metro Card Recharge,926.46,debit
+2023/01/01,Transfer Received,28397.3,credit
+2023/01/02,Reliance Fresh,1832.86,debit
+2023/01/02,Ajio Clothing,1130.0,debit
+2023/01/03,Zomato Food Delivery,572.38,debit
+2023/01/03,Spa Treatment,2192.96,debit
+2023/01/03,Petrol / Diesel,1481.13,debit
+2023/01/03,UPI Received,11294.13,credit
+2023/01/04,Rental Income,17698.76,credit
+2023/01/04,Flipkart Order,4386.28,debit
+2023/01/05,Swiggy Order,223.68,debit
+2023/01/06,School Fees,2022.72,debit
+2023/01/07,Spa Treatment,751.9,debit
+2023/01/08,Insurance Premium,2860.92,debit
+2023/01/08,Water Bill,678.19,debit
+2023/01/08,Ola Cab,389.85,debit
+2023/01/09,Zomato Food Delivery,272.63,debit
+2023/01/09,DMart Purchase,712.45,debit
+2023/01/10,Online Course,4645.92,debit
+2023/01/10,Gaming Recharge,635.15,debit
+2023/01/11,Gaming Recharge,992.41,debit
+2023/01/11,UPI Received,11895.27,credit
+2023/01/11,Online Course,706.05,debit
+2023/01/11,Travel Booking,17194.04,debit
+2023/01/13,Bonus Credit,31611.38,credit
+2023/01/14,Hair Salon,551.6,debit
+2023/01/14,Parking Charges,138.74,debit
+2023/01/15,Electricity Bill,4467.96,debit
+2023/01/15,Meesho Order,194.91,debit
+2023/01/15,Gym Membership,882.93,debit
+2023/01/16,Amazon Prime,474.51,debit
+2023/01/16,Restaurant Dinner,1405.27,debit
+2023/01/16,Doctor Consultation,564.91,debit
+2023/01/17,Maintenance Charges,2008.9,debit
+2023/01/18,Book Purchase,1363.57,debit
+2023/01/18,Swiggy Order,169.85,debit
+2023/01/20,More Supermarket,1578.34,debit
+2023/01/21,Amazon Purchase,1837.58,debit
+2023/01/22,Ajio Clothing,827.52,debit
+2023/01/22,Spotify Premium,119.0,debit
+2023/01/25,Cashback Credit,761.49,credit
+2023/01/25,Swiggy Order,732.87,debit
+2023/01/25,Metro Card Recharge,543.94,debit
+2023/01/26,Freelance Payment,12714.05,credit
+2023/01/26,Hotstar Subscription,773.38,debit
+2023/01/26,YouTube Premium,139.0,debit
+2023/01/27,Rapido Bike Taxi,121.29,debit
+2023/01/27,Insurance Premium,9345.63,debit
+2023/01/27,DMart Purchase,3217.88,debit
+2023/01/28,Meesho Order,1108.05,debit
+2023/01/31,Transfer Received,33457.48,credit
+2023/02/01,Freelance Payment,8464.19,credit
+2023/02/02,Metro Card Recharge,305.22,debit
+2023/02/03,School Fees,3353.52,debit
+2023/02/04,Electricity Bill,3763.86,debit
+2023/02/06,Jio Recharge,245.13,debit
+2023/02/08,Transfer Received,48703.19,credit
+2023/02/08,Hotel Stay,6359.19,debit
+2023/02/08,School Fees,12181.75,debit
+2023/02/09,Interest Credit,2141.38,credit
+2023/02/09,Hotstar Subscription,324.12,debit
+2023/02/09,Netflix Subscription,605.83,debit
+2023/02/09,Amazon Purchase,3662.45,debit
+2023/02/09,Spotify Premium,119.0,debit
+2023/02/09,House Rent,21661.35,debit
+2023/02/09,Hair Salon,664.45,debit
+2023/02/10,Doctor Consultation,758.66,debit
+2023/02/10,Interest Credit,2622.38,credit
+2023/02/10,1mg Medicine Order,781.56,debit
+2023/02/12,Dividend Credit,2705.22,credit
+2023/02/13,Water Bill,732.79,debit
+2023/02/14,Newspaper Subscription,242.24,debit
+2023/02/14,Gaming Recharge,1618.99,debit
+2023/02/15,YouTube Premium,139.0,debit
+2023/02/16,Gaming Recharge,874.25,debit
+2023/02/17,ATM Withdrawal,784.77,debit
+2023/02/17,Swiggy Order,809.11,debit
+2023/02/18,Hotstar Subscription,151.72,debit
+2023/02/19,ATM Withdrawal,3918.22,debit
+2023/02/19,Spa Treatment,1420.63,debit
+2023/02/19,Interest Credit,1072.48,credit
+2023/02/20,Doctor Consultation,1389.15,debit
+2023/02/21,BigBasket Groceries,2175.16,debit
+2023/02/22,Gym Membership,1237.38,debit
+2023/02/22,Amazon Purchase,5191.45,debit
+2023/02/24,Jio Recharge,304.31,debit
+2023/02/26,Restaurant Dinner,974.7,debit
+2023/02/27,Jio Recharge,458.14,debit
+2023/02/28,Gaming Recharge,155.64,debit
+2023/02/28,Rental Income,16027.71,credit
+2023/03/01,School Fees,10607.55,debit
+2023/03/01,Dividend Credit,1205.42,credit
+2023/03/01,School Fees,8014.24,debit
+2023/03/02,Newspaper Subscription,195.21,debit
+2023/03/02,BigBasket Groceries,2939.23,debit
+2023/03/04,Netflix Subscription,579.57,debit
+2023/03/04,Water Bill,282.24,debit
+2023/03/05,Newspaper Subscription,260.59,debit
+2023/03/06,Flipkart Order,627.45,debit
+2023/03/06,Water Bill,346.65,debit
+2023/03/06,Apollo Pharmacy,886.95,debit
+2023/03/08,Spotify Premium,119.0,debit
+2023/03/08,School Fees,10933.16,debit
+2023/03/08,1mg Medicine Order,408.68,debit
+2023/03/09,Swiggy Order,634.38,debit
+2023/03/09,Reliance Fresh,1183.51,debit
+2023/03/09,Spotify Premium,119.0,debit
+2023/03/10,PVR Cinemas,653.71,debit
+2023/03/11,Maintenance Charges,2217.51,debit
+2023/03/11,YouTube Premium,139.0,debit
+2023/03/12,BigBasket Groceries,553.4,debit
+2023/03/12,Electricity Bill,1808.96,debit
+2023/03/13,Online Course,2413.92,debit
+2023/03/13,DMart Purchase,2466.62,debit
+2023/03/13,Cashback Credit,447.63,credit
+2023/03/14,School Fees,8525.58,debit
+2023/03/16,Uber Ride,432.46,debit
+2023/03/17,Online Course,1474.34,debit
+2023/03/17,ATM Withdrawal,670.45,debit
+2023/03/18,Electricity Bill,1197.69,debit
+2023/03/18,1mg Medicine Order,1117.82,debit
+2023/03/19,Electricity Bill,4514.44,debit
+2023/03/19,Metro Card Recharge,629.64,debit
+2023/03/19,Ajio Clothing,2275.22,debit
+2023/03/20,Interest Credit,773.99,credit
+2023/03/20,Water Bill,370.67,debit
+2023/03/21,Restaurant Dinner,2703.97,debit
+2023/03/22,UPI Received,4666.93,credit
+2023/03/22,Metro Card Recharge,509.69,debit
+2023/03/22,Gym Membership,2244.75,debit
+2023/03/23,Metro Card Recharge,929.68,debit
+2023/03/23,Jio Recharge,309.3,debit
+2023/03/23,Travel Booking,18381.65,debit
+2023/03/25,PVR Cinemas,373.86,debit
+2023/03/25,Amazon Purchase,1600.48,debit
+2023/03/25,1mg Medicine Order,1189.07,debit
+2023/03/27,Uber Ride,107.19,debit
+2023/03/28,Ajio Clothing,3167.89,debit
+2023/03/28,Refund Credit,1499.34,credit
+2023/03/30,Airtel Mobile Bill,498.27,debit
+2023/03/31,Cashback Credit,169.47,credit
+2023/03/31,Hair Salon,424.06,debit
+2023/04/01,Meesho Order,1410.07,debit
+2023/04/02,Interest Credit,2938.45,credit
+2023/04/02,Insurance Premium,6955.7,debit
+2023/04/03,Flipkart Order,5428.71,debit
+2023/04/03,BookMyShow Tickets,1234.84,debit
+2023/04/03,Swiggy Order,132.47,debit
+2023/04/04,UPI Received,17991.19,credit
+2023/04/04,Apollo Pharmacy,1361.5,debit
+2023/04/05,Rapido Bike Taxi,124.21,debit
+2023/04/06,Ola Cab,215.91,debit
+2023/04/07,Spotify Premium,119.0,debit
+2023/04/07,YouTube Premium,139.0,debit
+2023/04/07,Reliance Fresh,1945.81,debit
+2023/04/07,Gym Membership,1797.8,debit
+2023/04/08,Rapido Bike Taxi,151.36,debit
+2023/04/09,Metro Card Recharge,657.56,debit
+2023/04/09,Book Purchase,1057.74,debit
+2023/04/09,UPI Received,13275.57,credit
+2023/04/09,Insurance Premium,6639.37,debit
+2023/04/09,Transfer Received,28827.35,credit
+2023/04/11,Freelance Payment,22036.86,credit
+2023/04/11,Online Course,4777.52,debit
+2023/04/12,Reliance Fresh,909.95,debit
+2023/04/12,Newspaper Subscription,296.0,debit
+2023/04/13,Bonus Credit,45646.53,credit
+2023/04/13,Cashback Credit,901.61,credit
+2023/04/13,Spa Treatment,760.13,debit
+2023/04/13,Flipkart Order,3570.1,debit
+2023/04/13,Water Bill,252.78,debit
+2023/04/13,Online Course,2941.8,debit
+2023/04/15,Rental Income,9054.1,credit
+2023/04/16,Restaurant Dinner,1696.04,debit
+2023/04/17,Rental Income,9740.25,credit
+2023/04/17,Airtel Mobile Bill,379.34,debit
+2023/04/18,House Rent,21281.71,debit
+2023/04/18,Netflix Subscription,380.9,debit
+2023/04/18,Doctor Consultation,990.28,debit
+2023/04/18,Gaming Recharge,963.85,debit
+2023/04/19,Myntra Fashion,2305.87,debit
+2023/04/21,PVR Cinemas,604.52,debit
+2023/04/21,Flipkart Order,780.98,debit
+2023/04/21,Hotel Stay,3176.82,debit
+2023/04/22,Apollo Pharmacy,596.92,debit
+2023/04/23,Reliance Fresh,419.02,debit
+2023/04/23,Myntra Fashion,3236.2,debit
+2023/04/25,Petrol / Diesel,1516.0,debit
+2023/04/26,Spa Treatment,2188.12,debit
+2023/04/27,Doctor Consultation,1722.01,debit
+2023/04/27,Electricity Bill,3592.93,debit
+2023/04/28,Salary Credit,66489.38,credit
+2023/04/28,Electricity Bill,1258.45,debit
+2023/04/28,Uber Ride,161.2,debit
+2023/04/29,Doctor Consultation,1765.91,debit
+2023/04/30,Book Purchase,741.09,debit
+2023/04/30,Gym Membership,2143.6,debit
+2023/04/30,Uber Ride,206.06,debit
+2023/05/01,Travel Booking,4106.58,debit
+2023/05/03,Flipkart Order,5047.35,debit
+2023/05/04,Water Bill,223.79,debit
+2023/05/04,Travel Booking,5959.74,debit
+2023/05/04,Swiggy Order,285.58,debit
+2023/05/06,Swiggy Order,144.53,debit
+2023/05/07,Apollo Pharmacy,1239.17,debit
+2023/05/07,Flipkart Order,5437.02,debit
+2023/05/09,Parking Charges,291.52,debit
+2023/05/11,Reliance Fresh,1051.94,debit
+2023/05/13,Water Bill,753.46,debit
+2023/05/13,Coffee Shop,163.59,debit
+2023/05/13,Gym Membership,1625.65,debit
+2023/05/14,Amazon Purchase,5462.42,debit
+2023/05/16,Gaming Recharge,1171.83,debit
+2023/05/17,School Fees,13803.8,debit
+2023/05/17,Hair Salon,823.93,debit
+2023/05/18,Refund Credit,2374.24,credit
+2023/05/20,Dividend Credit,6587.55,credit
+2023/05/20,Uber Ride,502.34,debit
+2023/05/21,Travel Booking,9847.99,debit
+2023/05/21,Airtel Mobile Bill,367.23,debit
+2023/05/21,Myntra Fashion,3648.11,debit
+2023/05/21,Insurance Premium,5273.39,debit
+2023/05/27,Water Bill,467.77,debit
+2023/05/30,UPI Received,5660.78,credit
+2023/05/30,1mg Medicine Order,700.39,debit
+2023/05/31,BookMyShow Tickets,723.82,debit
+2023/06/02,Gym Membership,1779.97,debit
+2023/06/04,Freelance Payment,28975.07,credit
+2023/06/04,Travel Booking,10980.01,debit
+2023/06/06,Book Purchase,315.27,debit
+2023/06/06,Rapido Bike Taxi,61.89,debit
+2023/06/07,Flipkart Order,347.83,debit
+2023/06/08,More Supermarket,519.98,debit
+2023/06/09,BigBasket Groceries,844.78,debit
+2023/06/10,Ola Cab,220.8,debit
+2023/06/10,1mg Medicine Order,1439.33,debit
+2023/06/11,Spa Treatment,1378.32,debit
+2023/06/12,Meesho Order,655.88,debit
+2023/06/12,Petrol / Diesel,2337.74,debit
+2023/06/12,Zomato Food Delivery,121.99,debit
+2023/06/12,Dividend Credit,2223.02,credit
+2023/06/12,Interest Credit,1611.07,credit
+2023/06/12,Spotify Premium,119.0,debit
+2023/06/12,Meesho Order,503.91,debit
+2023/06/14,Interest Credit,2681.75,credit
+2023/06/15,Metro Card Recharge,894.96,debit
+2023/06/15,Uber Ride,287.53,debit
+2023/06/15,Cashback Credit,863.83,credit
+2023/06/19,Freelance Payment,12618.5,credit
+2023/06/20,School Fees,5965.17,debit
+2023/06/20,1mg Medicine Order,90.76,debit
+2023/06/21,House Rent,28444.41,debit
+2023/06/22,Reliance Fresh,1986.75,debit
+2023/06/23,Rental Income,23597.44,credit
+2023/06/23,Ajio Clothing,3469.56,debit
+2023/06/23,Netflix Subscription,388.51,debit
+2023/06/23,Online Course,2011.98,debit
+2023/06/23,Airtel Mobile Bill,989.77,debit
+2023/06/24,YouTube Premium,139.0,debit
+2023/06/24,ATM Withdrawal,2955.79,debit
+2023/06/25,Electricity Bill,2372.63,debit
+2023/06/26,Hair Salon,279.2,debit
+2023/06/27,Refund Credit,414.42,credit
+2023/06/27,Flipkart Order,4729.64,debit
+2023/06/27,Parking Charges,93.96,debit
+2023/06/28,Travel Booking,9884.36,debit
+2023/06/28,Rapido Bike Taxi,63.03,debit
+2023/06/30,Rapido Bike Taxi,174.73,debit
+2023/07/01,Transfer Received,13652.27,credit
+2023/07/01,Petrol / Diesel,1093.37,debit
+2023/07/01,YouTube Premium,139.0,debit
+2023/07/02,UPI Received,1677.07,credit
+2023/07/03,Spa Treatment,2195.67,debit
+2023/07/06,Water Bill,677.95,debit
+2023/07/06,Freelance Payment,24505.37,credit
+2023/07/06,Zomato Food Delivery,848.88,debit
+2023/07/09,YouTube Premium,139.0,debit
+2023/07/10,Myntra Fashion,2745.26,debit
+2023/07/10,Amazon Purchase,5714.52,debit
+2023/07/10,UPI Received,14775.67,credit
+2023/07/10,Zomato Food Delivery,271.81,debit
+2023/07/10,Transfer Received,28764.73,credit
+2023/07/12,BigBasket Groceries,2993.25,debit
+2023/07/12,Hotel Stay,7743.74,debit
+2023/07/13,Uber Ride,312.85,debit
+2023/07/13,Hotstar Subscription,413.57,debit
+2023/07/14,Metro Card Recharge,871.38,debit
+2023/07/14,Amazon Purchase,608.09,debit
+2023/07/14,BookMyShow Tickets,537.51,debit
+2023/07/15,Dividend Credit,8581.85,credit
+2023/07/15,Hair Salon,1299.96,debit
+2023/07/16,Gym Membership,920.28,debit
+2023/07/16,Ola Cab,421.19,debit
+2023/07/16,Ola Cab,324.46,debit
+2023/07/17,Netflix Subscription,177.84,debit
+2023/07/18,BookMyShow Tickets,1138.19,debit
+2023/07/19,Interest Credit,1469.66,credit
+2023/07/20,Freelance Payment,26220.44,credit
+2023/07/20,Ajio Clothing,700.81,debit
+2023/07/21,BookMyShow Tickets,916.81,debit
+2023/07/22,More Supermarket,187.97,debit
+2023/07/22,Restaurant Dinner,2986.34,debit
+2023/07/22,Zomato Food Delivery,763.8,debit
+2023/07/23,Hotel Stay,8643.33,debit
+2023/07/26,Amazon Prime,469.62,debit
+2023/07/27,House Rent,12814.4,debit
+2023/07/29,Book Purchase,1195.02,debit
+2023/07/29,Petrol / Diesel,2751.64,debit
+2023/08/01,Apollo Pharmacy,515.67,debit
+2023/08/02,Uber Ride,520.3,debit
+2023/08/02,Spa Treatment,995.54,debit
+2023/08/03,Rapido Bike Taxi,199.2,debit
+2023/08/04,BookMyShow Tickets,781.62,debit
+2023/08/07,1mg Medicine Order,634.49,debit
+2023/08/08,Spa Treatment,593.25,debit
+2023/08/09,Jio Recharge,339.1,debit
+2023/08/10,Myntra Fashion,2469.82,debit
+2023/08/10,Interest Credit,787.19,credit
+2023/08/11,Spotify Premium,119.0,debit
+2023/08/12,Hotstar Subscription,722.88,debit
+2023/08/12,Dividend Credit,8568.06,credit
+2023/08/14,Metro Card Recharge,247.71,debit
+2023/08/15,Swiggy Order,566.31,debit
+2023/08/16,Rapido Bike Taxi,56.76,debit
+2023/08/17,Gym Membership,1367.48,debit
+2023/08/18,Ajio Clothing,1312.54,debit
+2023/08/18,Swiggy Order,400.77,debit
+2023/08/18,House Rent,26513.31,debit
+2023/08/18,Gym Membership,1502.62,debit
+2023/08/18,Hair Salon,1268.23,debit
+2023/08/19,YouTube Premium,139.0,debit
+2023/08/19,Gym Membership,1001.64,debit
+2023/08/19,Rapido Bike Taxi,66.4,debit
+2023/08/21,UPI Received,811.63,credit
+2023/08/21,Spotify Premium,119.0,debit
+2023/08/21,Maintenance Charges,1965.14,debit
+2023/08/23,Online Course,4723.32,debit
+2023/08/24,BigBasket Groceries,1330.12,debit
+2023/08/25,Water Bill,541.74,debit
+2023/08/26,Spotify Premium,119.0,debit
+2023/08/26,Spa Treatment,1616.98,debit
+2023/08/27,PVR Cinemas,531.17,debit
+2023/08/28,PVR Cinemas,509.72,debit
+2023/08/29,Gym Membership,1807.14,debit
+2023/08/30,Rental Income,7059.98,credit
+2023/08/30,Water Bill,337.09,debit
+2023/08/30,Swiggy Order,366.85,debit
+2023/09/01,Netflix Subscription,419.39,debit
+2023/09/01,BookMyShow Tickets,871.11,debit
+2023/09/02,Uber Ride,358.09,debit
+2023/09/02,Coffee Shop,498.07,debit
+2023/09/03,ATM Withdrawal,1602.75,debit
+2023/09/03,Newspaper Subscription,274.7,debit
+2023/09/03,School Fees,10152.77,debit
+2023/09/03,Flipkart Order,5393.42,debit
+2023/09/03,Insurance Premium,6360.02,debit
+2023/09/05,Ola Cab,238.54,debit
+2023/09/05,Spa Treatment,1668.1,debit
+2023/09/06,YouTube Premium,139.0,debit
+2023/09/08,Meesho Order,1043.33,debit
+2023/09/08,Flipkart Order,4651.81,debit
+2023/09/08,Restaurant Dinner,2113.88,debit
+2023/09/08,Spotify Premium,119.0,debit
+2023/09/09,Insurance Premium,1769.94,debit
+2023/09/10,Doctor Consultation,1928.16,debit
+2023/09/10,UPI Received,19862.88,credit
+2023/09/10,House Rent,20064.49,debit
+2023/09/11,Gym Membership,1240.44,debit
+2023/09/13,BigBasket Groceries,1370.03,debit
+2023/09/14,PVR Cinemas,713.58,debit
+2023/09/15,Newspaper Subscription,160.84,debit
+2023/09/16,Amazon Prime,984.48,debit
+2023/09/17,Airtel Mobile Bill,342.02,debit
+2023/09/17,Netflix Subscription,290.76,debit
+2023/09/18,Book Purchase,1085.09,debit
+2023/09/18,Spotify Premium,119.0,debit
+2023/09/20,Uber Ride,301.12,debit
+2023/09/20,ATM Withdrawal,2401.12,debit
+2023/09/20,Amazon Purchase,5114.91,debit
+2023/09/21,Doctor Consultation,1495.29,debit
+2023/09/23,Meesho Order,851.51,debit
+2023/09/23,Restaurant Dinner,1007.91,debit
+2023/09/23,Doctor Consultation,527.63,debit
+2023/09/23,Gym Membership,2144.67,debit
+2023/09/24,Hotel Stay,9428.13,debit
+2023/09/26,1mg Medicine Order,1275.65,debit
+2023/09/26,Water Bill,385.29,debit
+2023/09/27,Myntra Fashion,3476.16,debit
+2023/09/28,PVR Cinemas,298.3,debit
+2023/09/28,Electricity Bill,1961.31,debit
+2023/09/29,Netflix Subscription,313.03,debit
+2023/09/29,Maintenance Charges,1446.17,debit
+2023/09/30,Apollo Pharmacy,1453.32,debit
+2023/09/30,Coffee Shop,206.3,debit
+2023/09/30,Ola Cab,239.51,debit
+2023/10/01,PVR Cinemas,735.0,debit
+2023/10/01,Parking Charges,296.62,debit
+2023/10/02,Newspaper Subscription,147.11,debit
+2023/10/04,Salary Credit,74351.74,credit
+2023/10/04,Amazon Prime,821.67,debit
+2023/10/04,Insurance Premium,4295.7,debit
+2023/10/04,UPI Received,12438.21,credit
+2023/10/05,UPI Received,4072.03,credit
+2023/10/05,Travel Booking,5413.78,debit
+2023/10/05,Coffee Shop,125.51,debit
+2023/10/06,Ajio Clothing,2642.94,debit
+2023/10/06,Travel Booking,14235.36,debit
+2023/10/07,Online Course,4977.65,debit
+2023/10/07,Netflix Subscription,299.92,debit
+2023/10/08,UPI Received,15031.16,credit
+2023/10/08,Myntra Fashion,795.92,debit
+2023/10/08,Water Bill,657.44,debit
+2023/10/09,Transfer Received,43718.2,credit
+2023/10/09,1mg Medicine Order,198.0,debit
+2023/10/14,Hotstar Subscription,698.86,debit
+2023/10/15,Ajio Clothing,3175.17,debit
+2023/10/20,Apollo Pharmacy,1056.06,debit
+2023/10/20,Cashback Credit,304.93,credit
+2023/10/22,1mg Medicine Order,270.23,debit
+2023/10/23,Jio Recharge,560.67,debit
+2023/10/23,Gym Membership,2364.6,debit
+2023/10/24,Maintenance Charges,2092.78,debit
+2023/10/25,Electricity Bill,1948.26,debit
+2023/10/26,House Rent,27397.78,debit
+2023/10/27,Gym Membership,2078.85,debit
+2023/10/28,BookMyShow Tickets,422.13,debit
+2023/10/28,Water Bill,487.4,debit
+2023/10/29,Coffee Shop,193.59,debit
+2023/10/29,UPI Received,16736.67,credit
+2023/10/31,YouTube Premium,139.0,debit
+2023/10/31,Ajio Clothing,1283.52,debit
+2023/10/31,DMart Purchase,3167.65,debit
+2023/11/01,Meesho Order,402.34,debit
+2023/11/01,Hair Salon,439.58,debit
+2023/11/04,Bonus Credit,39152.39,credit
+2023/11/05,Water Bill,481.16,debit
+2023/11/07,Meesho Order,1853.92,debit
+2023/11/07,Parking Charges,242.29,debit
+2023/11/08,Myntra Fashion,3976.87,debit
+2023/11/08,Newspaper Subscription,219.15,debit
+2023/11/08,Zomato Food Delivery,601.13,debit
+2023/11/09,Interest Credit,1601.23,credit
+2023/11/09,BookMyShow Tickets,1469.72,debit
+2023/11/09,Newspaper Subscription,172.84,debit
+2023/11/10,Flipkart Order,2833.32,debit
+2023/11/10,DMart Purchase,3311.62,debit
+2023/11/10,Rental Income,20173.54,credit
+2023/11/11,Insurance Premium,4402.62,debit
+2023/11/12,Dividend Credit,10254.32,credit
+2023/11/13,Online Course,1733.82,debit
+2023/11/15,House Rent,28588.51,debit
+2023/11/16,Electricity Bill,4782.76,debit
+2023/11/16,Bonus Credit,49640.81,credit
+2023/11/16,House Rent,10228.05,debit
+2023/11/18,Interest Credit,1235.96,credit
+2023/11/20,Flipkart Order,4541.13,debit
+2023/11/20,Spotify Premium,119.0,debit
+2023/11/21,Hair Salon,860.01,debit
+2023/11/21,House Rent,23412.63,debit
+2023/11/21,School Fees,6008.29,debit
+2023/11/22,BookMyShow Tickets,948.59,debit
+2023/11/22,Amazon Prime,230.73,debit
+2023/11/22,Zomato Food Delivery,290.66,debit
+2023/11/22,Parking Charges,229.04,debit
+2023/11/23,Ola Cab,254.05,debit
+2023/11/24,Rapido Bike Taxi,186.52,debit
+2023/11/24,Water Bill,606.45,debit
+2023/11/24,Meesho Order,1600.68,debit
+2023/11/25,Travel Booking,2809.35,debit
+2023/11/26,Newspaper Subscription,203.67,debit
+2023/11/26,Uber Ride,326.65,debit
+2023/11/26,1mg Medicine Order,1467.08,debit
+2023/11/26,Uber Ride,96.26,debit
+2023/11/27,Spa Treatment,2457.11,debit
+2023/11/27,YouTube Premium,139.0,debit
+2023/11/28,Metro Card Recharge,794.27,debit
+2023/11/29,PVR Cinemas,680.59,debit
+2023/11/29,Electricity Bill,4647.3,debit
+2023/11/30,Transfer Received,5052.14,credit
+2023/11/30,Ajio Clothing,1868.44,debit
+2023/11/30,Maintenance Charges,2218.08,debit
+2023/12/02,UPI Received,18696.67,credit
+2023/12/02,Dividend Credit,8815.38,credit
+2023/12/02,UPI Received,12985.09,credit
+2023/12/03,Zomato Food Delivery,628.74,debit
+2023/12/03,Travel Booking,11744.0,debit
+2023/12/03,Reliance Fresh,1017.11,debit
+2023/12/03,Jio Recharge,300.77,debit
+2023/12/05,Flipkart Order,1497.82,debit
+2023/12/05,Rental Income,5609.37,credit
+2023/12/06,Rental Income,21976.03,credit
+2023/12/06,Amazon Prime,516.95,debit
+2023/12/07,Petrol / Diesel,929.81,debit
+2023/12/07,Electricity Bill,1164.64,debit
+2023/12/08,Netflix Subscription,334.4,debit
+2023/12/09,Myntra Fashion,3148.43,debit
+2023/12/09,Apollo Pharmacy,1399.96,debit
+2023/12/09,Interest Credit,1111.1,credit
+2023/12/09,Transfer Received,16549.67,credit
+2023/12/09,Swiggy Order,369.34,debit
+2023/12/10,Myntra Fashion,3503.51,debit
+2023/12/10,DMart Purchase,2597.06,debit
+2023/12/10,Dividend Credit,9299.08,credit
+2023/12/11,Spotify Premium,119.0,debit
+2023/12/12,Airtel Mobile Bill,474.91,debit
+2023/12/12,Myntra Fashion,2234.58,debit
+2023/12/12,Doctor Consultation,1784.4,debit
+2023/12/12,Petrol / Diesel,1510.37,debit
+2023/12/13,Swiggy Order,217.27,debit
+2023/12/14,Spa Treatment,1967.19,debit
+2023/12/14,Amazon Prime,873.1,debit
+2023/12/16,Parking Charges,274.34,debit
+2023/12/17,Online Course,2483.87,debit
+2023/12/17,Airtel Mobile Bill,402.47,debit
+2023/12/17,Restaurant Dinner,2767.75,debit
+2023/12/19,Swiggy Order,538.2,debit
+2023/12/20,Netflix Subscription,416.61,debit
+2023/12/21,Restaurant Dinner,2599.15,debit
+2023/12/21,House Rent,11880.68,debit
+2023/12/22,Netflix Subscription,502.82,debit
+2023/12/22,Ajio Clothing,1731.5,debit
+2023/12/22,Ola Cab,497.04,debit
+2023/12/23,Myntra Fashion,2544.53,debit
+2023/12/23,Flipkart Order,3984.07,debit
+2023/12/24,Rental Income,11623.6,credit
+2023/12/24,Parking Charges,124.71,debit
+2023/12/26,House Rent,8684.32,debit
+2023/12/28,Ola Cab,443.55,debit
+2023/12/29,Reliance Fresh,463.22,debit
+2023/12/29,Ola Cab,98.24,debit
+2023/12/29,Flipkart Order,3275.83,debit
+2023/12/29,Hotstar Subscription,588.26,debit
+2023/12/29,Swiggy Order,677.62,debit
+2023/12/30,Reliance Fresh,156.1,debit
+2023/12/30,Hotel Stay,2704.72,debit
+2023/12/31,Freelance Payment,8235.68,credit
+2024/01/04,Rapido Bike Taxi,107.07,debit
+2024/01/05,Zomato Food Delivery,824.1,debit
+2024/01/05,Flipkart Order,748.15,debit
+2024/01/05,Apollo Pharmacy,348.41,debit
+2024/01/06,Hotel Stay,5250.37,debit
+2024/01/07,BookMyShow Tickets,600.98,debit
+2024/01/08,Flipkart Order,4714.34,debit
+2024/01/09,Online Course,3100.43,debit
+2024/01/09,Meesho Order,1420.55,debit
+2024/01/11,Salary Credit,83609.74,credit
+2024/01/11,Uber Ride,449.41,debit
+2024/01/12,Newspaper Subscription,197.69,debit
+2024/01/13,Hotstar Subscription,853.73,debit
+2024/01/13,Insurance Premium,9965.31,debit
+2024/01/14,Doctor Consultation,614.15,debit
+2024/01/14,Metro Card Recharge,928.62,debit
+2024/01/15,Freelance Payment,18931.34,credit
+2024/01/15,Petrol / Diesel,3377.11,debit
+2024/01/17,Swiggy Order,304.81,debit
+2024/01/17,Interest Credit,1047.36,credit
+2024/01/18,Maintenance Charges,501.45,debit
+2024/01/18,BookMyShow Tickets,287.18,debit
+2024/01/18,1mg Medicine Order,151.17,debit
+2024/01/19,Flipkart Order,1630.43,debit
+2024/01/19,Zomato Food Delivery,202.72,debit
+2024/01/21,Uber Ride,573.37,debit
+2024/01/21,Netflix Subscription,325.79,debit
+2024/01/21,Jio Recharge,459.91,debit
+2024/01/22,Hotel Stay,2759.54,debit
+2024/01/23,Freelance Payment,11126.56,credit
+2024/01/23,Zomato Food Delivery,488.69,debit
+2024/01/23,BigBasket Groceries,2354.87,debit
+2024/01/23,Zomato Food Delivery,805.36,debit
+2024/01/25,Airtel Mobile Bill,764.86,debit
+2024/01/27,Apollo Pharmacy,290.3,debit
+2024/01/28,ATM Withdrawal,1330.9,debit
+2024/01/29,Freelance Payment,22852.86,credit
+2024/01/29,Electricity Bill,2440.63,debit
+2024/01/29,Uber Ride,450.57,debit
+2024/02/01,ATM Withdrawal,4891.12,debit
+2024/02/01,Ajio Clothing,1165.88,debit
+2024/02/02,Amazon Purchase,3009.79,debit
+2024/02/03,House Rent,18126.94,debit
+2024/02/05,Bonus Credit,48097.62,credit
+2024/02/06,Amazon Prime,600.85,debit
+2024/02/07,Online Course,2322.79,debit
+2024/02/07,Netflix Subscription,352.13,debit
+2024/02/07,Doctor Consultation,1899.9,debit
+2024/02/07,Swiggy Order,878.23,debit
+2024/02/08,Myntra Fashion,1762.31,debit
+2024/02/09,BigBasket Groceries,1751.89,debit
+2024/02/09,BookMyShow Tickets,284.43,debit
+2024/02/11,Metro Card Recharge,579.39,debit
+2024/02/13,Maintenance Charges,1591.57,debit
+2024/02/14,Gym Membership,1667.12,debit
+2024/02/15,Netflix Subscription,565.47,debit
+2024/02/16,Apollo Pharmacy,1983.84,debit
+2024/02/16,PVR Cinemas,516.56,debit
+2024/02/17,Maintenance Charges,1391.66,debit
+2024/02/18,Swiggy Order,308.96,debit
+2024/02/19,Hotstar Subscription,748.09,debit
+2024/02/19,Zomato Food Delivery,560.33,debit
+2024/02/19,Flipkart Order,775.21,debit
+2024/02/20,More Supermarket,510.24,debit
+2024/02/23,BookMyShow Tickets,375.6,debit
+2024/02/23,Rental Income,15714.46,credit
+2024/02/24,Salary Credit,105512.22,credit
+2024/02/24,Dividend Credit,14461.48,credit
+2024/02/25,Myntra Fashion,3722.47,debit
+2024/02/25,PVR Cinemas,775.04,debit
+2024/02/25,Myntra Fashion,2533.82,debit
+2024/02/25,Hotel Stay,2089.14,debit
+2024/02/26,Refund Credit,481.03,credit
+2024/02/27,Uber Ride,503.32,debit
+2024/02/28,Apollo Pharmacy,200.44,debit
+2024/02/29,Jio Recharge,322.69,debit
+2024/02/29,Myntra Fashion,2129.05,debit
+2024/03/01,Gym Membership,1360.88,debit
+2024/03/02,Jio Recharge,248.49,debit
+2024/03/03,Dividend Credit,4683.75,credit
+2024/03/04,Apollo Pharmacy,1815.96,debit
+2024/03/04,House Rent,14513.02,debit
+2024/03/04,Hair Salon,762.02,debit
+2024/03/05,Meesho Order,242.18,debit
+2024/03/06,Flipkart Order,2293.07,debit
+2024/03/06,Hotel Stay,6115.64,debit
+2024/03/07,Petrol / Diesel,1230.39,debit
+2024/03/08,Myntra Fashion,2325.99,debit
+2024/03/09,Airtel Mobile Bill,485.74,debit
+2024/03/13,Zomato Food Delivery,401.67,debit
+2024/03/14,Spa Treatment,837.25,debit
+2024/03/14,Insurance Premium,3515.03,debit
+2024/03/14,BigBasket Groceries,710.4,debit
+2024/03/14,Hotel Stay,1962.1,debit
+2024/03/16,Newspaper Subscription,203.57,debit
+2024/03/17,ATM Withdrawal,3391.74,debit
+2024/03/17,Reliance Fresh,1636.22,debit
+2024/03/19,UPI Received,10829.72,credit
+2024/03/19,Parking Charges,147.12,debit
+2024/03/20,Hotstar Subscription,245.77,debit
+2024/03/20,Netflix Subscription,614.8,debit
+2024/03/21,Hotstar Subscription,355.33,debit
+2024/03/22,More Supermarket,1354.52,debit
+2024/03/23,Insurance Premium,5006.64,debit
+2024/03/24,Hotel Stay,4471.64,debit
+2024/03/25,House Rent,9352.84,debit
+2024/03/25,Maintenance Charges,2907.84,debit
+2024/03/25,Hair Salon,760.68,debit
+2024/03/26,Restaurant Dinner,542.83,debit
+2024/03/26,Amazon Purchase,5318.98,debit
+2024/03/27,Newspaper Subscription,107.99,debit
+2024/03/27,Myntra Fashion,2113.14,debit
+2024/03/30,Cashback Credit,661.66,credit
+2024/03/30,Uber Ride,130.9,debit
+2024/03/31,Dividend Credit,2187.78,credit
+2024/04/01,Myntra Fashion,3955.56,debit
+2024/04/01,YouTube Premium,139.0,debit
+2024/04/02,DMart Purchase,1433.76,debit
+2024/04/04,Hair Salon,601.88,debit
+2024/04/04,Apollo Pharmacy,392.68,debit
+2024/04/04,School Fees,2083.98,debit
+2024/04/05,Metro Card Recharge,514.86,debit
+2024/04/07,Travel Booking,11082.36,debit
+2024/04/08,ATM Withdrawal,1708.45,debit
+2024/04/09,Restaurant Dinner,2274.74,debit
+2024/04/09,Hotstar Subscription,726.73,debit
+2024/04/09,Hair Salon,1064.65,debit
+2024/04/10,Coffee Shop,119.86,debit
+2024/04/11,UPI Received,11171.71,credit
+2024/04/11,School Fees,3726.13,debit
+2024/04/11,Metro Card Recharge,780.06,debit
+2024/04/12,Airtel Mobile Bill,984.69,debit
+2024/04/12,Amazon Purchase,2698.99,debit
+2024/04/12,Restaurant Dinner,1802.68,debit
+2024/04/13,Spotify Premium,119.0,debit
+2024/04/13,Maintenance Charges,1863.5,debit
+2024/04/13,Hair Salon,1227.93,debit
+2024/04/13,Parking Charges,157.03,debit
+2024/04/14,Apollo Pharmacy,251.69,debit
+2024/04/14,Reliance Fresh,1499.01,debit
+2024/04/15,Reliance Fresh,943.35,debit
+2024/04/15,Doctor Consultation,1132.04,debit
+2024/04/15,Insurance Premium,8024.9,debit
+2024/04/18,Reliance Fresh,1841.35,debit
+2024/04/22,Spotify Premium,119.0,debit
+2024/04/22,Netflix Subscription,618.86,debit
+2024/04/22,Bonus Credit,39859.25,credit
+2024/04/23,BookMyShow Tickets,568.48,debit
+2024/04/24,Reliance Fresh,755.79,debit
+2024/04/24,Book Purchase,409.4,debit
+2024/04/25,PVR Cinemas,449.82,debit
+2024/04/27,Gaming Recharge,712.47,debit
+2024/04/29,Parking Charges,97.97,debit
+2024/05/01,Doctor Consultation,372.21,debit
+2024/05/01,Gaming Recharge,1897.9,debit
+2024/05/02,House Rent,26932.76,debit
+2024/05/05,Book Purchase,683.92,debit
+2024/05/06,Rental Income,5342.78,credit
+2024/05/07,Electricity Bill,1355.54,debit
+2024/05/07,Amazon Purchase,349.73,debit
+2024/05/07,Meesho Order,723.93,debit
+2024/05/08,Coffee Shop,133.45,debit
+2024/05/10,Reliance Fresh,899.22,debit
+2024/05/10,Transfer Received,6816.8,credit
+2024/05/11,School Fees,10167.85,debit
+2024/05/12,Zomato Food Delivery,729.61,debit
+2024/05/13,DMart Purchase,672.81,debit
+2024/05/14,Jio Recharge,547.72,debit
+2024/05/14,1mg Medicine Order,480.01,debit
+2024/05/14,UPI Received,7971.09,credit
+2024/05/15,Rental Income,13659.7,credit
+2024/05/16,Spa Treatment,2329.54,debit
+2024/05/16,Doctor Consultation,1299.39,debit
+2024/05/16,Ajio Clothing,2046.35,debit
+2024/05/17,Doctor Consultation,1354.76,debit
+2024/05/18,Doctor Consultation,744.23,debit
+2024/05/19,Apollo Pharmacy,360.52,debit
+2024/05/21,YouTube Premium,139.0,debit
+2024/05/22,School Fees,2954.26,debit
+2024/05/22,Doctor Consultation,739.39,debit
+2024/05/22,Interest Credit,1462.18,credit
+2024/05/23,Hair Salon,1299.87,debit
+2024/05/23,Newspaper Subscription,160.27,debit
+2024/05/24,Doctor Consultation,480.47,debit
+2024/05/24,Uber Ride,260.18,debit
+2024/05/25,Electricity Bill,1161.33,debit
+2024/05/25,Dividend Credit,13866.09,credit
+2024/05/25,Book Purchase,1079.12,debit
+2024/05/26,Doctor Consultation,840.83,debit
+2024/05/26,Petrol / Diesel,817.38,debit
+2024/05/26,Myntra Fashion,3751.47,debit
+2024/05/29,School Fees,6485.53,debit
+2024/05/29,Book Purchase,1061.06,debit
+2024/05/29,1mg Medicine Order,836.75,debit
+2024/05/31,Flipkart Order,5219.14,debit
+2024/05/31,Spotify Premium,119.0,debit
+2024/05/31,Electricity Bill,1301.89,debit
+2024/06/01,Apollo Pharmacy,1692.25,debit
+2024/06/01,Apollo Pharmacy,1431.88,debit
+2024/06/01,Rental Income,19744.29,credit
+2024/06/01,Myntra Fashion,773.05,debit
+2024/06/02,Dividend Credit,9749.26,credit
+2024/06/03,Myntra Fashion,2542.22,debit
+2024/06/03,Newspaper Subscription,243.18,debit
+2024/06/06,Maintenance Charges,1804.92,debit
+2024/06/06,Rapido Bike Taxi,118.24,debit
+2024/06/08,Online Course,3383.44,debit
+2024/06/08,More Supermarket,1298.35,debit
+2024/06/08,Book Purchase,227.5,debit
+2024/06/09,Spotify Premium,119.0,debit
+2024/06/09,Cashback Credit,770.95,credit
+2024/06/09,School Fees,2231.14,debit
+2024/06/11,Apollo Pharmacy,536.64,debit
+2024/06/12,Interest Credit,2582.24,credit
+2024/06/13,Refund Credit,1399.89,credit
+2024/06/13,House Rent,22270.68,debit
+2024/06/13,Bonus Credit,33458.96,credit
+2024/06/13,Rental Income,8683.85,credit
+2024/06/14,Petrol / Diesel,3467.63,debit
+2024/06/15,Gaming Recharge,746.44,debit
+2024/06/15,Online Course,2679.13,debit
+2024/06/15,Myntra Fashion,2607.36,debit
+2024/06/15,Meesho Order,785.28,debit
+2024/06/16,Doctor Consultation,515.84,debit
+2024/06/17,Apollo Pharmacy,613.22,debit
+2024/06/19,PVR Cinemas,728.33,debit
+2024/06/21,House Rent,24712.13,debit
+2024/06/21,Airtel Mobile Bill,359.61,debit
+2024/06/22,Gym Membership,1825.05,debit
+2024/06/22,Amazon Prime,601.89,debit
+2024/06/23,UPI Received,12827.43,credit
+2024/06/24,Petrol / Diesel,2066.82,debit
+2024/06/25,Zomato Food Delivery,246.64,debit
+2024/06/26,UPI Received,19245.11,credit
+2024/06/26,Reliance Fresh,1110.79,debit
+2024/06/26,Flipkart Order,2338.45,debit
+2024/06/27,Refund Credit,3339.33,credit
+2024/06/28,Coffee Shop,403.97,debit
+2024/06/28,Freelance Payment,25812.9,credit
+2024/06/28,Gaming Recharge,1219.82,debit
+2024/06/28,Rapido Bike Taxi,33.84,debit
+2024/06/29,Ajio Clothing,2890.01,debit
+2024/06/30,Swiggy Order,140.22,debit
+2024/07/01,Uber Ride,144.62,debit
+2024/07/01,UPI Received,12272.93,credit
+2024/07/02,Petrol / Diesel,3200.36,debit
+2024/07/03,Amazon Purchase,2242.71,debit
+2024/07/04,Uber Ride,243.59,debit
+2024/07/06,Spotify Premium,119.0,debit
+2024/07/06,Parking Charges,172.13,debit
+2024/07/07,Rapido Bike Taxi,77.84,debit
+2024/07/08,Petrol / Diesel,1995.64,debit
+2024/07/08,Jio Recharge,454.82,debit
+2024/07/08,Zomato Food Delivery,731.93,debit
+2024/07/09,Gaming Recharge,1287.72,debit
+2024/07/09,Refund Credit,3864.23,credit
+2024/07/09,Meesho Order,979.32,debit
+2024/07/10,School Fees,13212.87,debit
+2024/07/10,Zomato Food Delivery,470.05,debit
+2024/07/12,House Rent,10007.99,debit
+2024/07/13,PVR Cinemas,739.64,debit
+2024/07/14,Zomato Food Delivery,762.75,debit
+2024/07/15,1mg Medicine Order,832.21,debit
+2024/07/16,Petrol / Diesel,1211.3,debit
+2024/07/17,Hotel Stay,1770.58,debit
+2024/07/17,Coffee Shop,264.04,debit
+2024/07/17,Travel Booking,8986.99,debit
+2024/07/19,Bonus Credit,32559.15,credit
+2024/07/19,Water Bill,669.73,debit
+2024/07/19,Maintenance Charges,545.11,debit
+2024/07/19,1mg Medicine Order,1205.78,debit
+2024/07/20,Flipkart Order,1005.42,debit
+2024/07/20,Spa Treatment,2365.05,debit
+2024/07/20,DMart Purchase,842.64,debit
+2024/07/21,BigBasket Groceries,828.58,debit
+2024/07/22,DMart Purchase,598.47,debit
+2024/07/23,DMart Purchase,1880.6,debit
+2024/07/24,1mg Medicine Order,628.35,debit
+2024/07/25,YouTube Premium,139.0,debit
+2024/07/26,Newspaper Subscription,205.72,debit
+2024/07/27,Spa Treatment,2579.21,debit
+2024/07/27,Travel Booking,9777.49,debit
+2024/07/27,Flipkart Order,4059.48,debit
+2024/07/27,Ajio Clothing,2292.77,debit
+2024/07/28,Meesho Order,1081.53,debit
+2024/07/28,School Fees,3064.7,debit
+2024/08/01,Petrol / Diesel,3813.61,debit
+2024/08/02,Flipkart Order,3173.64,debit
+2024/08/03,School Fees,13388.62,debit
+2024/08/03,Metro Card Recharge,863.13,debit
+2024/08/04,PVR Cinemas,745.74,debit
+2024/08/05,Maintenance Charges,2763.06,debit
+2024/08/06,Newspaper Subscription,108.26,debit
+2024/08/06,More Supermarket,863.3,debit
+2024/08/09,Dividend Credit,2119.53,credit
+2024/08/11,UPI Received,18990.78,credit
+2024/08/12,Gym Membership,1281.69,debit
+2024/08/12,YouTube Premium,139.0,debit
+2024/08/13,Hotstar Subscription,212.07,debit
+2024/08/14,Spa Treatment,509.12,debit
+2024/08/14,Doctor Consultation,1016.87,debit
+2024/08/14,Online Course,2287.26,debit
+2024/08/15,Transfer Received,8395.47,credit
+2024/08/15,Metro Card Recharge,801.69,debit
+2024/08/15,Netflix Subscription,328.77,debit
+2024/08/17,UPI Received,7605.19,credit
+2024/08/17,Dividend Credit,6503.2,credit
+2024/08/18,Amazon Prime,457.69,debit
+2024/08/19,Transfer Received,15466.15,credit
+2024/08/21,Amazon Purchase,2225.04,debit
+2024/08/22,Apollo Pharmacy,1780.24,debit
+2024/08/22,Spotify Premium,119.0,debit
+2024/08/23,Ajio Clothing,2508.93,debit
+2024/08/25,Hotstar Subscription,288.64,debit
+2024/08/27,Ajio Clothing,2230.57,debit
+2024/08/27,Flipkart Order,4435.53,debit
+2024/08/28,Meesho Order,844.81,debit
+2024/08/28,BookMyShow Tickets,1411.96,debit
+2024/08/30,Swiggy Order,669.8,debit
+2024/08/30,Apollo Pharmacy,1620.0,debit
+2024/08/31,More Supermarket,316.11,debit
+2024/09/04,Hotel Stay,4371.9,debit
+2024/09/04,Travel Booking,9990.57,debit
+2024/09/05,Dividend Credit,5584.75,credit
+2024/09/06,Uber Ride,187.84,debit
+2024/09/06,Book Purchase,1365.09,debit
+2024/09/07,Amazon Prime,324.82,debit
+2024/09/07,Dividend Credit,8730.17,credit
+2024/09/08,Doctor Consultation,306.06,debit
+2024/09/09,Netflix Subscription,582.36,debit
+2024/09/09,Rental Income,18388.46,credit
+2024/09/09,Newspaper Subscription,147.71,debit
+2024/09/10,Refund Credit,1613.7,credit
+2024/09/10,Travel Booking,10161.7,debit
+2024/09/11,Airtel Mobile Bill,787.47,debit
+2024/09/11,School Fees,9504.78,debit
+2024/09/12,Doctor Consultation,1789.75,debit
+2024/09/12,Refund Credit,2761.45,credit
+2024/09/15,School Fees,10995.33,debit
+2024/09/16,Reliance Fresh,239.66,debit
+2024/09/17,Meesho Order,1480.24,debit
+2024/09/17,Ajio Clothing,1195.48,debit
+2024/09/17,Flipkart Order,3066.89,debit
+2024/09/17,Gaming Recharge,342.59,debit
+2024/09/18,Water Bill,700.09,debit
+2024/09/19,DMart Purchase,3372.07,debit
+2024/09/20,Ola Cab,300.21,debit
+2024/09/21,Reliance Fresh,448.57,debit
+2024/09/22,PVR Cinemas,707.57,debit
+2024/09/24,Hair Salon,1109.27,debit
+2024/09/24,Hotel Stay,2265.69,debit
+2024/09/25,Amazon Purchase,4438.19,debit
+2024/09/25,1mg Medicine Order,776.64,debit
+2024/09/25,Travel Booking,5635.04,debit
+2024/09/30,Meesho Order,916.44,debit
+2024/10/01,School Fees,6245.32,debit
+2024/10/02,Amazon Prime,791.5,debit
+2024/10/02,Refund Credit,3544.08,credit
+2024/10/03,More Supermarket,262.52,debit
+2024/10/03,Freelance Payment,15827.76,credit
+2024/10/04,School Fees,4018.98,debit
+2024/10/04,Meesho Order,991.25,debit
+2024/10/04,Reliance Fresh,1762.31,debit
+2024/10/04,Hotstar Subscription,365.23,debit
+2024/10/05,Amazon Prime,680.57,debit
+2024/10/07,Hotel Stay,5307.43,debit
+2024/10/08,Electricity Bill,4959.14,debit
+2024/10/09,YouTube Premium,139.0,debit
+2024/10/09,Transfer Received,38752.7,credit
+2024/10/10,Amazon Purchase,4388.88,debit
+2024/10/12,Cashback Credit,355.9,credit
+2024/10/13,Freelance Payment,7451.12,credit
+2024/10/14,Restaurant Dinner,1081.35,debit
+2024/10/14,Interest Credit,2704.52,credit
+2024/10/15,Petrol / Diesel,1687.28,debit
+2024/10/16,YouTube Premium,139.0,debit
+2024/10/17,Spa Treatment,522.2,debit
+2024/10/18,Interest Credit,636.91,credit
+2024/10/18,Interest Credit,1103.55,credit
+2024/10/19,Swiggy Order,369.79,debit
+2024/10/20,Online Course,528.25,debit
+2024/10/20,DMart Purchase,2315.43,debit
+2024/10/20,Amazon Prime,694.85,debit
+2024/10/20,Cashback Credit,385.82,credit
+2024/10/20,School Fees,13476.92,debit
+2024/10/20,Ajio Clothing,1784.43,debit
+2024/10/21,House Rent,21927.53,debit
+2024/10/21,Amazon Prime,793.66,debit
+2024/10/23,Spotify Premium,119.0,debit
+2024/10/23,YouTube Premium,139.0,debit
+2024/10/27,Spa Treatment,757.63,debit
+2024/10/28,Ola Cab,238.8,debit
+2024/10/29,Reliance Fresh,1810.31,debit
+2024/10/29,Salary Credit,63431.1,credit
+2024/10/29,Gaming Recharge,735.98,debit
+2024/10/30,Travel Booking,15701.77,debit
+2024/10/30,Online Course,4583.06,debit
+2024/10/31,Transfer Received,12483.44,credit
+2024/11/01,Gym Membership,2056.57,debit
+2024/11/02,Online Course,1040.97,debit
+2024/11/02,DMart Purchase,2359.18,debit
+2024/11/04,Spa Treatment,1487.91,debit
+2024/11/04,Spa Treatment,2750.7,debit
+2024/11/05,Myntra Fashion,1349.36,debit
+2024/11/05,Swiggy Order,722.12,debit
+2024/11/06,Insurance Premium,4417.89,debit
+2024/11/06,Book Purchase,283.88,debit
+2024/11/07,Maintenance Charges,548.92,debit
+2024/11/10,Reliance Fresh,1193.24,debit
+2024/11/11,BookMyShow Tickets,875.08,debit
+2024/11/11,PVR Cinemas,659.19,debit
+2024/11/12,Meesho Order,245.59,debit
+2024/11/13,Petrol / Diesel,3618.65,debit
+2024/11/14,Book Purchase,739.04,debit
+2024/11/16,Swiggy Order,193.17,debit
+2024/11/16,Petrol / Diesel,2126.44,debit
+2024/11/17,Freelance Payment,27415.03,credit
+2024/11/18,Transfer Received,49445.67,credit
+2024/11/20,Electricity Bill,3542.61,debit
+2024/11/20,Ola Cab,98.23,debit
+2024/11/22,Newspaper Subscription,162.62,debit
+2024/11/22,More Supermarket,1541.46,debit
+2024/11/22,Hair Salon,439.18,debit
+2024/11/22,Bonus Credit,49331.71,credit
+2024/11/22,BookMyShow Tickets,1498.17,debit
+2024/11/23,Ajio Clothing,1138.88,debit
+2024/11/23,Spotify Premium,119.0,debit
+2024/11/24,Dividend Credit,9566.36,credit
+2024/11/26,DMart Purchase,1065.45,debit
+2024/11/27,Newspaper Subscription,134.5,debit
+2024/11/27,1mg Medicine Order,1379.41,debit
+2024/11/27,Travel Booking,4432.87,debit
+2024/11/28,BigBasket Groceries,2303.5,debit
+2024/11/28,Maintenance Charges,1401.23,debit
+2024/11/28,Parking Charges,290.42,debit
+2024/11/29,Online Course,2904.41,debit
+2024/11/29,Coffee Shop,158.19,debit
+2024/11/30,Amazon Purchase,7296.0,debit
+2024/11/30,Uber Ride,142.15,debit
+2024/11/30,PVR Cinemas,510.35,debit
+2024/12/01,Flipkart Order,2074.81,debit
+2024/12/01,DMart Purchase,3281.34,debit
+2024/12/02,Netflix Subscription,228.99,debit
+2024/12/03,BookMyShow Tickets,1190.82,debit
+2024/12/03,YouTube Premium,139.0,debit
+2024/12/05,Gaming Recharge,1128.39,debit
+2024/12/05,Ajio Clothing,3386.98,debit
+2024/12/06,Salary Credit,100286.89,credit
+2024/12/06,Restaurant Dinner,1475.07,debit
+2024/12/06,Parking Charges,157.68,debit
+2024/12/07,Electricity Bill,1604.42,debit
+2024/12/07,Gym Membership,1598.28,debit
+2024/12/09,Gaming Recharge,221.5,debit
+2024/12/10,Maintenance Charges,1592.97,debit
+2024/12/10,Ola Cab,487.98,debit
+2024/12/11,Gaming Recharge,602.03,debit
+2024/12/11,ATM Withdrawal,4889.61,debit
+2024/12/11,1mg Medicine Order,195.39,debit
+2024/12/14,Ola Cab,148.86,debit
+2024/12/14,BookMyShow Tickets,337.27,debit
+2024/12/15,Interest Credit,515.44,credit
+2024/12/15,PVR Cinemas,573.46,debit
+2024/12/15,Online Course,1580.18,debit
+2024/12/16,Metro Card Recharge,786.8,debit
+2024/12/16,Gym Membership,2297.47,debit
+2024/12/20,1mg Medicine Order,760.3,debit
+2024/12/20,Insurance Premium,5676.48,debit
+2024/12/21,Hair Salon,212.73,debit
+2024/12/23,1mg Medicine Order,1256.02,debit
+2024/12/23,Myntra Fashion,1909.02,debit
+2024/12/24,Coffee Shop,278.75,debit
+2024/12/24,Restaurant Dinner,2023.62,debit
+2024/12/24,Reliance Fresh,1570.68,debit
+2024/12/25,Flipkart Order,3599.47,debit
+2024/12/25,Interest Credit,563.88,credit
+2024/12/25,Gaming Recharge,1317.63,debit
+2024/12/25,DMart Purchase,1574.15,debit
+2024/12/26,Doctor Consultation,1558.14,debit
+2024/12/26,Parking Charges,71.51,debit
+2024/12/26,Ajio Clothing,486.31,debit
+2024/12/27,Restaurant Dinner,2360.09,debit
+2024/12/29,Ajio Clothing,1399.03,debit
+2024/12/30,More Supermarket,1656.09,debit
+2024/12/30,Insurance Premium,3929.17,debit
+2024/12/30,Spotify Premium,119.0,debit
+2025/01/02,PVR Cinemas,396.63,debit
+2025/01/04,Coffee Shop,466.98,debit
+2025/01/04,Hotstar Subscription,336.66,debit
+2025/01/04,Water Bill,290.63,debit
+2025/01/06,Hotstar Subscription,702.89,debit
+2025/01/06,Spa Treatment,2799.37,debit
+2025/01/08,BigBasket Groceries,1964.95,debit
+2025/01/08,Petrol / Diesel,2702.69,debit
+2025/01/09,Swiggy Order,599.28,debit
+2025/01/09,Parking Charges,191.97,debit
+2025/01/09,Amazon Purchase,4535.64,debit
+2025/01/14,Jio Recharge,204.06,debit
+2025/01/15,Hotstar Subscription,567.79,debit
+2025/01/15,Ola Cab,427.85,debit
+2025/01/15,ATM Withdrawal,1928.86,debit
+2025/01/17,Gaming Recharge,1114.79,debit
+2025/01/18,Jio Recharge,240.56,debit
+2025/01/18,Jio Recharge,411.44,debit
+2025/01/19,Amazon Prime,762.47,debit
+2025/01/20,Cashback Credit,531.61,credit
+2025/01/20,Spotify Premium,119.0,debit
+2025/01/21,Rapido Bike Taxi,108.87,debit
+2025/01/23,Parking Charges,212.87,debit
+2025/01/24,1mg Medicine Order,1136.86,debit
+2025/01/24,ATM Withdrawal,686.62,debit
+2025/01/25,Reliance Fresh,1192.87,debit
+2025/01/25,Rapido Bike Taxi,136.21,debit
+2025/01/25,Ajio Clothing,534.7,debit
+2025/01/26,Rapido Bike Taxi,76.24,debit
+2025/01/26,Spotify Premium,119.0,debit
+2025/01/26,Gaming Recharge,1735.94,debit
+2025/01/26,Rental Income,5448.24,credit
+2025/01/27,Amazon Prime,520.65,debit
+2025/01/27,DMart Purchase,1315.03,debit
+2025/01/28,Hotstar Subscription,629.37,debit
+2025/01/29,Cashback Credit,455.33,credit
+2025/01/29,Freelance Payment,11018.52,credit
+2025/01/29,More Supermarket,1595.44,debit
+2025/01/30,Parking Charges,178.04,debit
+2025/02/02,ATM Withdrawal,3027.72,debit
+2025/02/02,Hotel Stay,9100.35,debit
+2025/02/02,Gaming Recharge,1780.12,debit
+2025/02/03,BookMyShow Tickets,513.32,debit
+2025/02/04,UPI Received,6498.42,credit
+2025/02/05,Spotify Premium,119.0,debit
+2025/02/05,Freelance Payment,26681.02,credit
+2025/02/05,PVR Cinemas,353.56,debit
+2025/02/05,Dividend Credit,2937.06,credit
+2025/02/06,Electricity Bill,2229.22,debit
+2025/02/06,House Rent,18574.71,debit
+2025/02/06,Amazon Purchase,1341.21,debit
+2025/02/07,Jio Recharge,240.71,debit
+2025/02/07,Hair Salon,833.64,debit
+2025/02/07,Ola Cab,98.48,debit
+2025/02/07,Gym Membership,2317.19,debit
+2025/02/07,Cashback Credit,292.83,credit
+2025/02/10,House Rent,12712.85,debit
+2025/02/13,Amazon Prime,716.46,debit
+2025/02/15,Meesho Order,1742.0,debit
+2025/02/19,Amazon Prime,880.54,debit
+2025/02/20,Hotel Stay,2431.75,debit
+2025/02/20,Interest Credit,1064.01,credit
+2025/02/21,Newspaper Subscription,176.06,debit
+2025/02/23,Petrol / Diesel,2271.64,debit
+2025/02/25,Spotify Premium,119.0,debit
+2025/02/25,Coffee Shop,456.87,debit
+2025/02/26,Petrol / Diesel,3525.77,debit
+2025/02/27,Hotstar Subscription,859.96,debit
+2025/02/27,Jio Recharge,350.11,debit
+2025/02/27,Netflix Subscription,499.69,debit
+2025/02/27,ATM Withdrawal,1723.82,debit
+2025/03/01,Spa Treatment,1596.79,debit
+2025/03/01,DMart Purchase,2349.98,debit
+2025/03/03,Insurance Premium,4615.04,debit
+2025/03/03,Meesho Order,887.13,debit
+2025/03/04,Meesho Order,827.91,debit
+2025/03/05,Parking Charges,262.45,debit
+2025/03/05,Hotel Stay,1897.15,debit
+2025/03/07,Gym Membership,826.95,debit
+2025/03/07,Interest Credit,2125.73,credit
+2025/03/09,Spotify Premium,119.0,debit
+2025/03/09,More Supermarket,685.84,debit
+2025/03/11,Flipkart Order,3175.04,debit
+2025/03/11,Maintenance Charges,2130.6,debit
+2025/03/11,Metro Card Recharge,317.44,debit
+2025/03/12,Zomato Food Delivery,233.97,debit
+2025/03/12,DMart Purchase,2913.07,debit
+2025/03/12,Spotify Premium,119.0,debit
+2025/03/13,Flipkart Order,5130.86,debit
+2025/03/14,YouTube Premium,139.0,debit
+2025/03/15,Meesho Order,1276.37,debit
+2025/03/15,Netflix Subscription,624.68,debit
+2025/03/15,More Supermarket,1139.15,debit
+2025/03/16,Parking Charges,279.21,debit
+2025/03/17,Book Purchase,1411.92,debit
+2025/03/18,Interest Credit,1351.14,credit
+2025/03/19,Uber Ride,168.41,debit
+2025/03/21,Airtel Mobile Bill,742.13,debit
+2025/03/21,Amazon Prime,873.83,debit
+2025/03/21,Amazon Prime,319.17,debit
+2025/03/23,Restaurant Dinner,1067.61,debit
+2025/03/23,Coffee Shop,302.6,debit
+2025/03/24,Spotify Premium,119.0,debit
+2025/03/24,Parking Charges,145.47,debit
+2025/03/24,Electricity Bill,1699.77,debit
+2025/03/25,Netflix Subscription,544.56,debit
+2025/03/25,1mg Medicine Order,883.42,debit
+2025/03/26,House Rent,26756.79,debit
+2025/03/27,1mg Medicine Order,158.98,debit
+2025/03/27,Insurance Premium,1883.71,debit
+2025/03/28,BigBasket Groceries,390.71,debit
+2025/03/29,Gym Membership,813.28,debit
+2025/03/29,Hair Salon,1069.8,debit
+2025/03/30,Jio Recharge,323.13,debit
+2025/03/31,Petrol / Diesel,586.67,debit
+2025/03/31,Petrol / Diesel,1682.71,debit
+2025/04/01,Spotify Premium,119.0,debit
+2025/04/02,Gym Membership,1940.46,debit
+2025/04/02,Reliance Fresh,1789.77,debit
+2025/04/03,House Rent,25286.29,debit
+2025/04/04,Zomato Food Delivery,355.92,debit
+2025/04/04,Book Purchase,343.56,debit
+2025/04/04,Doctor Consultation,484.58,debit
+2025/04/05,Jio Recharge,283.87,debit
+2025/04/06,Swiggy Order,628.36,debit
+2025/04/07,Zomato Food Delivery,501.48,debit
+2025/04/07,Flipkart Order,1684.51,debit
+2025/04/07,Ola Cab,424.31,debit
+2025/04/08,Maintenance Charges,822.01,debit
+2025/04/08,School Fees,11844.34,debit
+2025/04/08,Spa Treatment,1773.4,debit
+2025/04/08,Newspaper Subscription,188.96,debit
+2025/04/09,Interest Credit,1956.17,credit
+2025/04/10,Spa Treatment,2081.74,debit
+2025/04/10,Hair Salon,1117.57,debit
+2025/04/10,Dividend Credit,10284.32,credit
+2025/04/12,Amazon Purchase,3359.37,debit
+2025/04/13,BookMyShow Tickets,517.63,debit
+2025/04/13,UPI Received,11853.44,credit
+2025/04/13,Parking Charges,147.2,debit
+2025/04/14,Book Purchase,1096.27,debit
+2025/04/14,DMart Purchase,3473.42,debit
+2025/04/14,PVR Cinemas,439.62,debit
+2025/04/15,Transfer Received,8940.32,credit
+2025/04/15,Travel Booking,9888.08,debit
+2025/04/16,Travel Booking,17857.63,debit
+2025/04/16,Parking Charges,257.23,debit
+2025/04/16,Spa Treatment,1361.25,debit
+2025/04/17,Refund Credit,4072.71,credit
+2025/04/19,Salary Credit,81717.75,credit
+2025/04/20,Jio Recharge,552.71,debit
+2025/04/20,Meesho Order,1560.72,debit
+2025/04/21,Gaming Recharge,1445.78,debit
+2025/04/22,Hair Salon,484.43,debit
+2025/04/22,Parking Charges,121.26,debit
+2025/04/24,Jio Recharge,285.2,debit
+2025/04/25,Meesho Order,818.28,debit
+2025/04/27,YouTube Premium,139.0,debit
+2025/04/28,Metro Card Recharge,872.42,debit
+2025/04/29,Uber Ride,454.21,debit
+2025/04/29,Amazon Prime,291.47,debit
+2025/04/29,Freelance Payment,25562.98,credit
+2025/04/30,UPI Received,4053.84,credit
+2025/05/01,Meesho Order,383.46,debit
+2025/05/01,Newspaper Subscription,175.05,debit
+2025/05/02,Hotstar Subscription,584.33,debit
+2025/05/02,Amazon Purchase,5136.4,debit
+2025/05/04,UPI Received,12990.41,credit
+2025/05/04,Maintenance Charges,2214.15,debit
+2025/05/05,Insurance Premium,5880.97,debit
+2025/05/05,Ajio Clothing,3058.47,debit
+2025/05/06,Maintenance Charges,1745.22,debit
+2025/05/07,Doctor Consultation,1553.74,debit
+2025/05/08,Water Bill,381.96,debit
+2025/05/11,Meesho Order,1419.93,debit
+2025/05/11,House Rent,12813.58,debit
+2025/05/12,Amazon Purchase,3405.46,debit
+2025/05/13,Newspaper Subscription,102.3,debit
+2025/05/15,Maintenance Charges,2789.72,debit
+2025/05/15,Maintenance Charges,2196.27,debit
+2025/05/15,Newspaper Subscription,230.97,debit
+2025/05/16,Apollo Pharmacy,379.69,debit
+2025/05/17,Dividend Credit,8675.77,credit
+2025/05/18,Online Course,4012.58,debit
+2025/05/18,Hair Salon,1041.9,debit
+2025/05/18,Coffee Shop,362.59,debit
+2025/05/19,Myntra Fashion,1761.7,debit
+2025/05/19,Netflix Subscription,469.84,debit
+2025/05/19,Travel Booking,2894.76,debit
+2025/05/20,Newspaper Subscription,298.99,debit
+2025/05/20,Parking Charges,99.29,debit
+2025/05/21,Electricity Bill,4811.64,debit
+2025/05/23,Zomato Food Delivery,805.35,debit
+2025/05/23,Online Course,2583.94,debit
+2025/05/23,Bonus Credit,5620.93,credit
+2025/05/24,Interest Credit,888.19,credit
+2025/05/24,Parking Charges,248.87,debit
+2025/05/29,Zomato Food Delivery,258.98,debit
+2025/05/30,Apollo Pharmacy,548.55,debit
+2025/05/30,Bonus Credit,16867.84,credit
+2025/05/30,Uber Ride,303.23,debit
+2025/06/01,Hotel Stay,3421.72,debit
+2025/06/01,Apollo Pharmacy,658.93,debit
+2025/06/03,PVR Cinemas,528.76,debit
+2025/06/03,Metro Card Recharge,326.86,debit
+2025/06/04,Uber Ride,517.01,debit
+2025/06/04,Swiggy Order,609.99,debit
+2025/06/06,Amazon Purchase,1294.26,debit
+2025/06/07,BigBasket Groceries,1814.07,debit
+2025/06/07,Book Purchase,408.42,debit
+2025/06/07,Water Bill,675.27,debit
+2025/06/08,Newspaper Subscription,120.51,debit
+2025/06/10,Cashback Credit,544.62,credit
+2025/06/10,Uber Ride,174.78,debit
+2025/06/12,UPI Received,10149.4,credit
+2025/06/13,Spa Treatment,1241.16,debit
+2025/06/16,Insurance Premium,7767.29,debit
+2025/06/16,Hair Salon,868.2,debit
+2025/06/16,1mg Medicine Order,526.85,debit
+2025/06/17,PVR Cinemas,647.17,debit
+2025/06/17,Amazon Prime,750.5,debit
+2025/06/19,House Rent,29378.85,debit
+2025/06/20,Cashback Credit,979.23,credit
+2025/06/20,Salary Credit,68818.41,credit
+2025/06/21,Cashback Credit,876.57,credit
+2025/06/22,Hotstar Subscription,440.92,debit
+2025/06/22,Swiggy Order,387.13,debit
+2025/06/23,Book Purchase,351.84,debit
+2025/06/24,Online Course,3878.27,debit
+2025/06/24,Restaurant Dinner,2541.09,debit
+2025/06/24,PVR Cinemas,484.56,debit
+2025/06/26,Apollo Pharmacy,710.4,debit
+2025/06/27,PVR Cinemas,382.15,debit
+2025/06/27,Transfer Received,10870.39,credit
+2025/06/28,Rental Income,9448.38,credit
+2025/06/28,Spa Treatment,1690.78,debit
+2025/06/28,Salary Credit,83367.31,credit
+2025/06/28,Amazon Purchase,3267.76,debit
+2025/06/29,Myntra Fashion,3015.47,debit
+2025/06/29,Airtel Mobile Bill,304.86,debit
+2025/06/29,Myntra Fashion,1880.71,debit
+2025/06/30,Metro Card Recharge,932.4,debit
+2025/07/01,Transfer Received,30361.78,credit
+2025/07/01,Restaurant Dinner,2802.35,debit
+2025/07/01,Apollo Pharmacy,857.38,debit
+2025/07/02,Spa Treatment,731.25,debit
+2025/07/02,Ajio Clothing,1946.84,debit
+2025/07/03,Uber Ride,390.18,debit
+2025/07/04,DMart Purchase,2416.33,debit
+2025/07/04,Spotify Premium,119.0,debit
+2025/07/05,Spotify Premium,119.0,debit
+2025/07/05,PVR Cinemas,284.95,debit
+2025/07/06,Ola Cab,322.19,debit
+2025/07/07,Restaurant Dinner,1574.45,debit
+2025/07/07,Amazon Purchase,2266.59,debit
+2025/07/08,BookMyShow Tickets,1094.44,debit
+2025/07/08,Parking Charges,250.69,debit
+2025/07/08,Maintenance Charges,1135.15,debit
+2025/07/09,Myntra Fashion,1756.94,debit
+2025/07/10,Reliance Fresh,1626.58,debit
+2025/07/10,Jio Recharge,360.38,debit
+2025/07/10,Ajio Clothing,1520.54,debit
+2025/07/10,YouTube Premium,139.0,debit
+2025/07/11,YouTube Premium,139.0,debit
+2025/07/12,Maintenance Charges,2108.91,debit
+2025/07/12,Book Purchase,799.98,debit
+2025/07/15,Netflix Subscription,303.57,debit
+2025/07/17,Doctor Consultation,1969.31,debit
+2025/07/17,Book Purchase,588.71,debit
+2025/07/17,Ola Cab,207.35,debit
+2025/07/18,Cashback Credit,154.71,credit
+2025/07/18,Apollo Pharmacy,1450.71,debit
+2025/07/20,Metro Card Recharge,786.37,debit
+2025/07/21,Maintenance Charges,827.14,debit
+2025/07/21,Newspaper Subscription,286.76,debit
+2025/07/22,ATM Withdrawal,770.9,debit
+2025/07/23,Newspaper Subscription,247.82,debit
+2025/07/23,Water Bill,267.98,debit
+2025/07/25,Ola Cab,112.81,debit
+2025/07/26,Coffee Shop,427.66,debit
+2025/07/28,Metro Card Recharge,783.18,debit
+2025/07/29,Spotify Premium,119.0,debit
+2025/07/29,BigBasket Groceries,379.42,debit
+2025/07/30,BookMyShow Tickets,529.56,debit
+2025/08/01,UPI Received,10893.52,credit
+2025/08/02,House Rent,20510.21,debit
+2025/08/02,Hair Salon,771.39,debit
+2025/08/02,Spa Treatment,2347.91,debit
+2025/08/03,Meesho Order,1693.88,debit
+2025/08/05,Spa Treatment,1515.08,debit
+2025/08/05,Spa Treatment,2249.14,debit
+2025/08/05,Ajio Clothing,3376.02,debit
+2025/08/08,Ola Cab,201.23,debit
+2025/08/08,Petrol / Diesel,1445.99,debit
+2025/08/09,Netflix Subscription,219.4,debit
+2025/08/09,Insurance Premium,2316.56,debit
+2025/08/09,Amazon Purchase,4921.19,debit
+2025/08/10,Ola Cab,170.0,debit
+2025/08/11,Ola Cab,434.08,debit
+2025/08/12,Amazon Prime,609.26,debit
+2025/08/13,1mg Medicine Order,1323.95,debit
+2025/08/13,Freelance Payment,23326.93,credit
+2025/08/13,Gaming Recharge,1724.12,debit
+2025/08/14,ATM Withdrawal,4623.88,debit
+2025/08/15,Zomato Food Delivery,836.63,debit
+2025/08/15,1mg Medicine Order,800.87,debit
+2025/08/15,Electricity Bill,3962.68,debit
+2025/08/18,Interest Credit,2588.04,credit
+2025/08/18,1mg Medicine Order,1328.77,debit
+2025/08/18,More Supermarket,125.11,debit
+2025/08/19,Amazon Purchase,866.23,debit
+2025/08/19,Amazon Prime,752.54,debit
+2025/08/20,Doctor Consultation,922.14,debit
+2025/08/21,Dividend Credit,8381.59,credit
+2025/08/21,Uber Ride,159.64,debit
+2025/08/22,Metro Card Recharge,429.18,debit
+2025/08/23,Salary Credit,63017.49,credit
+2025/08/23,Transfer Received,44187.07,credit
+2025/08/24,Zomato Food Delivery,764.32,debit
+2025/08/25,Rapido Bike Taxi,81.02,debit
+2025/08/27,Insurance Premium,2244.02,debit
+2025/08/27,Ola Cab,489.75,debit
+2025/08/28,Doctor Consultation,1204.61,debit
+2025/08/28,Insurance Premium,2695.75,debit
+2025/08/29,School Fees,6651.92,debit
+2025/08/30,DMart Purchase,2950.35,debit
+2025/08/31,Spotify Premium,119.0,debit
+2025/08/31,Zomato Food Delivery,682.37,debit
+2025/08/31,Ajio Clothing,2230.33,debit
+2025/09/01,Ola Cab,454.05,debit
+2025/09/02,School Fees,11457.2,debit
+2025/09/03,ATM Withdrawal,4229.57,debit
+2025/09/05,Water Bill,399.07,debit
+2025/09/05,Amazon Purchase,6137.03,debit
+2025/09/06,Ajio Clothing,2364.89,debit
+2025/09/07,Electricity Bill,2614.6,debit
+2025/09/08,Spa Treatment,2337.81,debit
+2025/09/11,Swiggy Order,603.35,debit
+2025/09/11,More Supermarket,1751.31,debit
+2025/09/12,Coffee Shop,187.48,debit
+2025/09/12,School Fees,13711.99,debit
+2025/09/13,Water Bill,606.14,debit
+2025/09/13,Jio Recharge,230.77,debit
+2025/09/13,Jio Recharge,330.42,debit
+2025/09/15,Travel Booking,16083.36,debit
+2025/09/16,Swiggy Order,613.7,debit
+2025/09/16,Ola Cab,402.77,debit
+2025/09/17,Salary Credit,115412.63,credit
+2025/09/18,YouTube Premium,139.0,debit
+2025/09/20,Freelance Payment,25056.6,credit
+2025/09/21,More Supermarket,442.98,debit
+2025/09/21,PVR Cinemas,531.33,debit
+2025/09/22,BookMyShow Tickets,304.01,debit
+2025/09/23,Salary Credit,79238.22,credit
+2025/09/26,PVR Cinemas,654.89,debit
+2025/09/26,Maintenance Charges,899.61,debit
+2025/09/26,UPI Received,5948.63,credit
+2025/09/28,BigBasket Groceries,3390.58,debit
+2025/09/28,Book Purchase,436.17,debit
+2025/09/28,PVR Cinemas,628.45,debit
+2025/10/01,Water Bill,551.15,debit
+2025/10/02,UPI Received,6150.26,credit
+2025/10/03,Spotify Premium,119.0,debit
+2025/10/04,Doctor Consultation,1239.62,debit
+2025/10/05,Parking Charges,286.0,debit
+2025/10/05,Airtel Mobile Bill,507.13,debit
+2025/10/06,House Rent,27957.0,debit
+2025/10/06,Gym Membership,752.09,debit
+2025/10/07,DMart Purchase,2872.65,debit
+2025/10/08,Gym Membership,1945.19,debit
+2025/10/08,School Fees,7534.9,debit
+2025/10/09,Spa Treatment,807.08,debit
+2025/10/09,Zomato Food Delivery,336.82,debit
+2025/10/12,Hotstar Subscription,312.33,debit
+2025/10/14,Petrol / Diesel,1332.6,debit
+2025/10/14,Hotel Stay,6267.98,debit
+2025/10/14,Restaurant Dinner,471.03,debit
+2025/10/14,Freelance Payment,29512.48,credit
+2025/10/15,Swiggy Order,201.36,debit
+2025/10/15,Maintenance Charges,862.12,debit
+2025/10/16,Swiggy Order,448.41,debit
+2025/10/17,ATM Withdrawal,3700.64,debit
+2025/10/17,Hair Salon,923.04,debit
+2025/10/18,Rapido Bike Taxi,192.63,debit
+2025/10/19,Travel Booking,18920.34,debit
+2025/10/19,Metro Card Recharge,348.7,debit
+2025/10/19,Airtel Mobile Bill,526.84,debit
+2025/10/20,Airtel Mobile Bill,707.87,debit
+2025/10/21,BookMyShow Tickets,935.55,debit
+2025/10/22,PVR Cinemas,404.39,debit
+2025/10/24,Amazon Prime,776.11,debit
+2025/10/25,Newspaper Subscription,249.62,debit
+2025/10/26,Electricity Bill,866.29,debit
+2025/10/29,Coffee Shop,302.38,debit
+2025/10/30,Gym Membership,1234.0,debit
+2025/10/30,Gym Membership,747.46,debit
+2025/10/31,Myntra Fashion,3600.02,debit
+2025/11/01,1mg Medicine Order,135.48,debit
+2025/11/02,More Supermarket,269.07,debit
+2025/11/03,School Fees,4901.02,debit
+2025/11/04,Myntra Fashion,3894.39,debit
+2025/11/05,Electricity Bill,3330.48,debit
+2025/11/06,Hotstar Subscription,563.67,debit
+2025/11/07,1mg Medicine Order,427.6,debit
+2025/11/08,Petrol / Diesel,3399.96,debit
+2025/11/09,Reliance Fresh,440.56,debit
+2025/11/09,Netflix Subscription,566.69,debit
+2025/11/10,Book Purchase,565.52,debit
+2025/11/12,Hotel Stay,2828.5,debit
+2025/11/13,Metro Card Recharge,934.78,debit
+2025/11/15,Water Bill,463.9,debit
+2025/11/15,BookMyShow Tickets,480.52,debit
+2025/11/15,DMart Purchase,700.81,debit
+2025/11/18,Uber Ride,180.8,debit
+2025/11/20,Doctor Consultation,740.43,debit
+2025/11/20,Online Course,1903.62,debit
+2025/11/22,Freelance Payment,25121.17,credit
+2025/11/23,Freelance Payment,21081.5,credit
+2025/11/23,Metro Card Recharge,748.18,debit
+2025/11/23,Ajio Clothing,3482.66,debit
+2025/11/25,1mg Medicine Order,314.53,debit
+2025/11/26,Gym Membership,1799.32,debit
+2025/11/26,House Rent,22780.8,debit
+2025/11/26,BookMyShow Tickets,871.05,debit
+2025/11/28,More Supermarket,675.67,debit
+2025/11/29,Hotstar Subscription,379.48,debit
+2025/11/29,Dividend Credit,2790.38,credit
+2025/11/29,Apollo Pharmacy,1489.77,debit
+2025/12/07,Myntra Fashion,1212.75,debit
+2025/12/08,Spa Treatment,846.01,debit
+2025/12/08,Interest Credit,680.49,credit
+2025/12/08,Hair Salon,803.85,debit
+2025/12/10,Zomato Food Delivery,461.26,debit
+2025/12/10,Amazon Purchase,4376.81,debit
+2025/12/14,Amazon Prime,515.01,debit
+2025/12/14,Newspaper Subscription,290.92,debit
+2025/12/15,BookMyShow Tickets,909.4,debit
+2025/12/15,Bonus Credit,10899.51,credit
+2025/12/18,Dividend Credit,10239.64,credit
+2025/12/19,Amazon Purchase,5677.93,debit
+2025/12/20,Coffee Shop,131.89,debit
+2025/12/20,School Fees,13040.82,debit
+2025/12/22,Water Bill,516.74,debit
+2025/12/22,Meesho Order,1833.48,debit
+2025/12/22,Refund Credit,3354.91,credit
+2025/12/22,Airtel Mobile Bill,613.6,debit
+2025/12/25,Ola Cab,187.87,debit
+2025/12/25,Gaming Recharge,1835.71,debit
+2025/12/25,UPI Received,7091.48,credit
+2025/12/25,Insurance Premium,2960.62,debit
+2025/12/27,Spa Treatment,922.5,debit
+2025/12/27,Hotel Stay,9797.55,debit
+2025/12/29,Gaming Recharge,1288.23,debit
+2025/12/29,Electricity Bill,3519.15,debit
+2025/12/31,Zomato Food Delivery,481.72,debit
+2025/12/31,1mg Medicine Order,374.91,debit
+2025/12/31,PVR Cinemas,430.01,debit
+2025/12/31,Amazon Purchase,2351.94,debit
+2025/12/31,Petrol / Diesel,3994.52,debit

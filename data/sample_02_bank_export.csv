@@ -1,0 +1,1201 @@
+Date,Narration,Amount,Dr/Cr
+01/01/2023,Uber Ride,572.03,Dr
+01/01/2023,Amazon Purchase,4254.62,Dr
+04/01/2023,Insurance Premium,2708.72,Dr
+05/01/2023,Swiggy Order,731.01,Dr
+05/01/2023,Ola Cab,435.7,Dr
+07/01/2023,Coffee Shop,384.59,Dr
+08/01/2023,PVR Cinemas,575.66,Dr
+10/01/2023,Water Bill,278.63,Dr
+11/01/2023,Gym Membership,2353.17,Dr
+12/01/2023,Uber Ride,421.21,Dr
+13/01/2023,House Rent,14563.71,Dr
+13/01/2023,Hotel Stay,5411.88,Dr
+14/01/2023,Spa & Wellness,503.95,Dr
+14/01/2023,BookMyShow Tickets,349.12,Dr
+15/01/2023,Uber Ride,130.36,Dr
+17/01/2023,Hotel Stay,6688.41,Dr
+17/01/2023,Water Bill,369.33,Dr
+18/01/2023,Rental Income,23724.96,Cr
+18/01/2023,Myntra Fashion,2132.11,Dr
+19/01/2023,Book Purchase,610.7,Dr
+19/01/2023,Reliance Fresh,1404.89,Dr
+19/01/2023,Cashback Credit,237.67,Cr
+19/01/2023,Travel Booking,10197.94,Dr
+20/01/2023,Maintenance Charges,1349.56,Dr
+20/01/2023,Reliance Fresh,1153.38,Dr
+20/01/2023,Hair Salon,958.11,Dr
+21/01/2023,Hotel Stay,9520.96,Dr
+22/01/2023,Book Purchase,1233.71,Dr
+22/01/2023,School Fees,10801.43,Dr
+23/01/2023,Restaurant Dinner,1416.87,Dr
+23/01/2023,Myntra Fashion,2042.3,Dr
+23/01/2023,School Fees,10838.75,Dr
+23/01/2023,Airtel Mobile Bill,430.42,Dr
+25/01/2023,Travel Booking,19806.94,Dr
+25/01/2023,Book Purchase,486.13,Dr
+25/01/2023,Metro Card Recharge,507.19,Dr
+26/01/2023,Rental Income,21720.0,Cr
+27/01/2023,Bonus Credit,21785.64,Cr
+28/01/2023,Amazon Purchase,2609.02,Dr
+28/01/2023,Flipkart Order,2187.91,Dr
+28/01/2023,Myntra Fashion,710.0,Dr
+29/01/2023,BookMyShow Tickets,1453.54,Dr
+30/01/2023,BookMyShow Tickets,1083.95,Dr
+30/01/2023,Petrol/Diesel,556.67,Dr
+31/01/2023,MedPlus Medical Store,1233.92,Dr
+02/02/2023,BookMyShow Tickets,1316.72,Dr
+02/02/2023,Reliance Fresh,1486.81,Dr
+05/02/2023,Water Bill,701.22,Dr
+07/02/2023,Gym Membership,1214.09,Dr
+07/02/2023,Ola Cab,230.33,Dr
+08/02/2023,Hotel Stay,8833.03,Dr
+10/02/2023,Uber Ride,319.67,Dr
+10/02/2023,Insurance Premium,8051.27,Dr
+12/02/2023,Refund Credit,4310.07,Cr
+13/02/2023,BigBasket Groceries,381.54,Dr
+13/02/2023,Uber Ride,220.56,Dr
+14/02/2023,Interest Credit,2346.95,Cr
+16/02/2023,Insurance Premium,9385.49,Dr
+19/02/2023,Reliance Fresh,526.55,Dr
+20/02/2023,Apollo Pharmacy,947.35,Dr
+20/02/2023,Airtel Mobile Bill,691.73,Dr
+20/02/2023,Apollo Pharmacy,604.69,Dr
+22/02/2023,Myntra Fashion,597.36,Dr
+22/02/2023,Dividend Credit,12312.48,Cr
+23/02/2023,School Fees,6831.9,Dr
+24/02/2023,Restaurant Dinner,629.92,Dr
+27/02/2023,Flipkart Order,5070.52,Dr
+27/02/2023,Myntra Fashion,1414.66,Dr
+28/02/2023,Gym Membership,970.97,Dr
+28/02/2023,Hotel Stay,5347.45,Dr
+01/03/2023,Jio Recharge,560.06,Dr
+02/03/2023,Water Bill,304.49,Dr
+02/03/2023,Hair Salon,830.75,Dr
+02/03/2023,Netflix Subscription,264.85,Dr
+03/03/2023,Flipkart Order,2041.76,Dr
+06/03/2023,Amazon Purchase,3192.31,Dr
+07/03/2023,Myntra Fashion,3920.35,Dr
+07/03/2023,Spotify Premium,119.0,Dr
+07/03/2023,Maintenance Charges,1121.82,Dr
+08/03/2023,Myntra Fashion,1833.81,Dr
+09/03/2023,Airtel Mobile Bill,918.29,Dr
+12/03/2023,Petrol/Diesel,2708.33,Dr
+12/03/2023,Airtel Mobile Bill,650.66,Dr
+13/03/2023,Ola Cab,363.9,Dr
+13/03/2023,Freelance Payment,17653.71,Cr
+14/03/2023,Spa & Wellness,643.74,Dr
+16/03/2023,BookMyShow Tickets,787.7,Dr
+17/03/2023,PVR Cinemas,253.92,Dr
+20/03/2023,Travel Booking,17490.26,Dr
+22/03/2023,Water Bill,587.78,Dr
+22/03/2023,Zomato Food Delivery,174.17,Dr
+24/03/2023,Transfer Received,6726.93,Cr
+24/03/2023,Amazon Purchase,3097.45,Dr
+25/03/2023,Cashback Credit,159.94,Cr
+27/03/2023,Netflix Subscription,463.96,Dr
+28/03/2023,Spa & Wellness,2455.58,Dr
+28/03/2023,Swiggy Order,547.14,Dr
+29/03/2023,Uber Ride,492.39,Dr
+29/03/2023,Ola Cab,386.06,Dr
+31/03/2023,Apollo Pharmacy,189.23,Dr
+31/03/2023,MedPlus Medical Store,1497.29,Dr
+01/04/2023,Spa & Wellness,2679.2,Dr
+01/04/2023,Metro Card Recharge,347.54,Dr
+02/04/2023,Airtel Mobile Bill,695.03,Dr
+02/04/2023,BookMyShow Tickets,384.17,Dr
+02/04/2023,Bonus Credit,9615.47,Cr
+03/04/2023,Travel Booking,9648.44,Dr
+03/04/2023,Bonus Credit,19127.59,Cr
+03/04/2023,Rental Income,23998.38,Cr
+07/04/2023,Bonus Credit,25516.69,Cr
+08/04/2023,Swiggy Order,136.49,Dr
+10/04/2023,Water Bill,393.9,Dr
+15/04/2023,Metro Card Recharge,336.39,Dr
+16/04/2023,Electricity Bill,2327.02,Dr
+16/04/2023,MedPlus Medical Store,1485.14,Dr
+18/04/2023,Uber Ride,137.62,Dr
+19/04/2023,Spa & Wellness,2195.27,Dr
+19/04/2023,Hotel Stay,3109.86,Dr
+21/04/2023,Refund Credit,1841.69,Cr
+22/04/2023,BookMyShow Tickets,1469.46,Dr
+22/04/2023,Bonus Credit,42345.24,Cr
+24/04/2023,DMart Purchase,1235.89,Dr
+24/04/2023,ATM Withdrawal,4783.55,Dr
+25/04/2023,Petrol/Diesel,2948.66,Dr
+25/04/2023,Water Bill,709.96,Dr
+27/04/2023,Amazon Purchase,4745.63,Dr
+27/04/2023,ATM Withdrawal,2246.5,Dr
+28/04/2023,House Rent,25737.94,Dr
+28/04/2023,Swiggy Order,676.75,Dr
+29/04/2023,DMart Purchase,2142.44,Dr
+30/04/2023,Reliance Fresh,742.08,Dr
+01/05/2023,Dividend Credit,7593.05,Cr
+01/05/2023,Jio Recharge,271.58,Dr
+03/05/2023,Petrol/Diesel,2118.7,Dr
+05/05/2023,BookMyShow Tickets,1162.93,Dr
+09/05/2023,Myntra Fashion,1731.53,Dr
+10/05/2023,Online Course,2687.51,Dr
+10/05/2023,Reliance Fresh,1624.31,Dr
+11/05/2023,Amazon Purchase,5016.99,Dr
+11/05/2023,Insurance Premium,2664.01,Dr
+12/05/2023,Uber Ride,578.21,Dr
+13/05/2023,Metro Card Recharge,801.05,Dr
+13/05/2023,Metro Card Recharge,928.13,Dr
+13/05/2023,Spa & Wellness,1031.59,Dr
+14/05/2023,Ola Cab,464.41,Dr
+15/05/2023,Book Purchase,313.5,Dr
+15/05/2023,Amazon Purchase,2833.24,Dr
+16/05/2023,Metro Card Recharge,270.76,Dr
+16/05/2023,PVR Cinemas,539.99,Dr
+17/05/2023,Petrol/Diesel,2533.73,Dr
+17/05/2023,PVR Cinemas,749.81,Dr
+18/05/2023,Metro Card Recharge,899.18,Dr
+19/05/2023,BookMyShow Tickets,1375.68,Dr
+20/05/2023,Dividend Credit,10990.14,Cr
+21/05/2023,PVR Cinemas,321.46,Dr
+24/05/2023,Coffee Shop,373.34,Dr
+24/05/2023,Restaurant Dinner,1764.9,Dr
+25/05/2023,DMart Purchase,3128.81,Dr
+26/05/2023,Uber Ride,596.09,Dr
+28/05/2023,Book Purchase,1381.87,Dr
+28/05/2023,Hotel Stay,5717.49,Dr
+29/05/2023,Petrol/Diesel,1801.87,Dr
+30/05/2023,Book Purchase,1069.9,Dr
+30/05/2023,Uber Ride,259.84,Dr
+01/06/2023,ATM Withdrawal,1018.35,Dr
+03/06/2023,Travel Booking,8914.71,Dr
+03/06/2023,Ola Cab,153.49,Dr
+04/06/2023,Insurance Premium,2926.72,Dr
+05/06/2023,DMart Purchase,1171.91,Dr
+06/06/2023,Myntra Fashion,3222.24,Dr
+06/06/2023,Cashback Credit,221.56,Cr
+06/06/2023,Hair Salon,986.78,Dr
+07/06/2023,Bonus Credit,10041.11,Cr
+07/06/2023,Transfer Received,11087.19,Cr
+08/06/2023,Book Purchase,820.64,Dr
+10/06/2023,Gym Membership,2243.23,Dr
+10/06/2023,Transfer Received,15613.12,Cr
+10/06/2023,Apollo Pharmacy,1174.26,Dr
+11/06/2023,Zomato Food Delivery,699.02,Dr
+16/06/2023,BigBasket Groceries,2293.0,Dr
+17/06/2023,Zomato Food Delivery,208.87,Dr
+17/06/2023,Online Course,4420.67,Dr
+19/06/2023,MedPlus Medical Store,957.01,Dr
+20/06/2023,School Fees,14222.59,Dr
+21/06/2023,Online Course,3546.46,Dr
+21/06/2023,Swiggy Order,654.68,Dr
+23/06/2023,Coffee Shop,492.42,Dr
+23/06/2023,Freelance Payment,12376.2,Cr
+23/06/2023,Myntra Fashion,1123.24,Dr
+24/06/2023,Refund Credit,2123.0,Cr
+24/06/2023,Uber Ride,373.14,Dr
+25/06/2023,Uber Ride,276.25,Dr
+25/06/2023,BookMyShow Tickets,757.43,Dr
+25/06/2023,Electricity Bill,1069.9,Dr
+26/06/2023,Flipkart Order,1287.76,Dr
+26/06/2023,Myntra Fashion,3985.7,Dr
+28/06/2023,Coffee Shop,161.67,Dr
+28/06/2023,Restaurant Dinner,2403.5,Dr
+28/06/2023,Flipkart Order,3888.48,Dr
+29/06/2023,Salary Credit,55264.17,Cr
+02/07/2023,Rental Income,21284.56,Cr
+04/07/2023,Flipkart Order,1645.43,Dr
+04/07/2023,BigBasket Groceries,3000.83,Dr
+08/07/2023,Reliance Fresh,1244.95,Dr
+09/07/2023,BookMyShow Tickets,958.46,Dr
+10/07/2023,Airtel Mobile Bill,663.94,Dr
+11/07/2023,Water Bill,308.39,Dr
+11/07/2023,Ola Cab,97.22,Dr
+11/07/2023,Apollo Pharmacy,1780.36,Dr
+13/07/2023,Gym Membership,1210.92,Dr
+13/07/2023,Spotify Premium,119.0,Dr
+13/07/2023,Hair Salon,1160.82,Dr
+14/07/2023,Metro Card Recharge,742.32,Dr
+14/07/2023,Restaurant Dinner,2280.46,Dr
+15/07/2023,Uber Ride,204.64,Dr
+17/07/2023,PVR Cinemas,573.18,Dr
+17/07/2023,Hotel Stay,8024.36,Dr
+18/07/2023,Refund Credit,4078.68,Cr
+18/07/2023,Spa & Wellness,1352.79,Dr
+20/07/2023,Refund Credit,3713.61,Cr
+22/07/2023,Travel Booking,17323.34,Dr
+23/07/2023,Petrol/Diesel,1671.13,Dr
+24/07/2023,PVR Cinemas,434.78,Dr
+24/07/2023,House Rent,17957.56,Dr
+25/07/2023,Gym Membership,1512.67,Dr
+26/07/2023,Bonus Credit,38830.94,Cr
+26/07/2023,Gym Membership,2396.66,Dr
+27/07/2023,ATM Withdrawal,3431.98,Dr
+27/07/2023,Zomato Food Delivery,474.18,Dr
+28/07/2023,Netflix Subscription,181.36,Dr
+28/07/2023,Netflix Subscription,274.97,Dr
+29/07/2023,Freelance Payment,23625.65,Cr
+30/07/2023,BigBasket Groceries,2423.61,Dr
+30/07/2023,Salary Credit,106036.52,Cr
+01/08/2023,Salary Credit,89300.83,Cr
+02/08/2023,Online Course,4095.24,Dr
+02/08/2023,Spotify Premium,119.0,Dr
+02/08/2023,Rental Income,5560.98,Cr
+02/08/2023,Transfer Received,12037.01,Cr
+03/08/2023,Hotel Stay,5868.38,Dr
+04/08/2023,BookMyShow Tickets,1269.7,Dr
+04/08/2023,Netflix Subscription,434.07,Dr
+06/08/2023,Zomato Food Delivery,124.56,Dr
+06/08/2023,BigBasket Groceries,2064.26,Dr
+06/08/2023,Hair Salon,620.76,Dr
+08/08/2023,Maintenance Charges,2953.25,Dr
+08/08/2023,Interest Credit,1505.17,Cr
+08/08/2023,Reliance Fresh,1670.59,Dr
+08/08/2023,School Fees,3926.16,Dr
+09/08/2023,Jio Recharge,423.82,Dr
+12/08/2023,Netflix Subscription,188.9,Dr
+12/08/2023,MedPlus Medical Store,1441.74,Dr
+14/08/2023,Uber Ride,148.73,Dr
+15/08/2023,Hotel Stay,7565.29,Dr
+15/08/2023,Refund Credit,2495.61,Cr
+16/08/2023,Reliance Fresh,1673.68,Dr
+17/08/2023,Cashback Credit,769.47,Cr
+19/08/2023,Amazon Purchase,1951.28,Dr
+20/08/2023,School Fees,8173.1,Dr
+20/08/2023,MedPlus Medical Store,1261.05,Dr
+21/08/2023,Salary Credit,59646.93,Cr
+22/08/2023,BigBasket Groceries,731.29,Dr
+23/08/2023,Hair Salon,1435.72,Dr
+23/08/2023,Freelance Payment,16038.21,Cr
+24/08/2023,Jio Recharge,384.93,Dr
+24/08/2023,Zomato Food Delivery,375.48,Dr
+25/08/2023,Online Course,3797.33,Dr
+27/08/2023,Cashback Credit,487.15,Cr
+29/08/2023,Transfer Received,22322.78,Cr
+29/08/2023,Spotify Premium,119.0,Dr
+29/08/2023,BigBasket Groceries,2086.44,Dr
+30/08/2023,Hair Salon,581.61,Dr
+30/08/2023,Ola Cab,324.66,Dr
+02/09/2023,Zomato Food Delivery,779.32,Dr
+03/09/2023,Freelance Payment,17230.46,Cr
+04/09/2023,Dividend Credit,3700.99,Cr
+05/09/2023,Spa & Wellness,1144.56,Dr
+05/09/2023,Dividend Credit,11529.87,Cr
+05/09/2023,ATM Withdrawal,3701.22,Dr
+07/09/2023,Reliance Fresh,1698.41,Dr
+08/09/2023,Jio Recharge,330.71,Dr
+09/09/2023,Bonus Credit,16789.76,Cr
+10/09/2023,Insurance Premium,6701.93,Dr
+10/09/2023,Hair Salon,1020.4,Dr
+10/09/2023,Airtel Mobile Bill,711.18,Dr
+10/09/2023,Bonus Credit,5229.06,Cr
+10/09/2023,Zomato Food Delivery,264.15,Dr
+11/09/2023,DMart Purchase,835.01,Dr
+12/09/2023,Coffee Shop,150.75,Dr
+12/09/2023,Netflix Subscription,246.11,Dr
+12/09/2023,PVR Cinemas,781.12,Dr
+12/09/2023,Jio Recharge,435.47,Dr
+13/09/2023,Swiggy Order,417.2,Dr
+14/09/2023,Coffee Shop,340.0,Dr
+14/09/2023,MedPlus Medical Store,1182.56,Dr
+15/09/2023,Restaurant Dinner,1559.55,Dr
+15/09/2023,Reliance Fresh,217.5,Dr
+16/09/2023,Insurance Premium,3555.35,Dr
+16/09/2023,Gym Membership,1210.78,Dr
+16/09/2023,Apollo Pharmacy,302.51,Dr
+16/09/2023,Bonus Credit,7378.91,Cr
+16/09/2023,Travel Booking,2245.68,Dr
+18/09/2023,Apollo Pharmacy,1773.91,Dr
+18/09/2023,Metro Card Recharge,661.53,Dr
+18/09/2023,Coffee Shop,290.78,Dr
+19/09/2023,Airtel Mobile Bill,888.08,Dr
+19/09/2023,Travel Booking,14838.01,Dr
+23/09/2023,Hair Salon,1054.86,Dr
+24/09/2023,School Fees,10980.64,Dr
+24/09/2023,Restaurant Dinner,2460.87,Dr
+24/09/2023,Online Course,850.41,Dr
+25/09/2023,BookMyShow Tickets,892.32,Dr
+25/09/2023,Maintenance Charges,966.39,Dr
+26/09/2023,Hair Salon,652.67,Dr
+26/09/2023,Reliance Fresh,1689.3,Dr
+26/09/2023,Ola Cab,433.92,Dr
+28/09/2023,Airtel Mobile Bill,419.22,Dr
+29/09/2023,Travel Booking,13456.28,Dr
+29/09/2023,Hotel Stay,9308.3,Dr
+30/09/2023,Jio Recharge,590.21,Dr
+01/10/2023,Water Bill,394.78,Dr
+05/10/2023,Ola Cab,179.97,Dr
+07/10/2023,Book Purchase,830.19,Dr
+07/10/2023,BookMyShow Tickets,401.14,Dr
+07/10/2023,Travel Booking,14332.19,Dr
+09/10/2023,Ola Cab,116.18,Dr
+09/10/2023,Amazon Purchase,2839.39,Dr
+10/10/2023,Dividend Credit,7147.52,Cr
+10/10/2023,Interest Credit,1443.65,Cr
+10/10/2023,Water Bill,671.16,Dr
+10/10/2023,Freelance Payment,27428.67,Cr
+12/10/2023,Freelance Payment,26725.13,Cr
+12/10/2023,Rental Income,22227.78,Cr
+14/10/2023,Hotel Stay,7768.85,Dr
+14/10/2023,Electricity Bill,4488.77,Dr
+15/10/2023,Spa & Wellness,598.98,Dr
+15/10/2023,Airtel Mobile Bill,849.64,Dr
+15/10/2023,Petrol/Diesel,3210.35,Dr
+16/10/2023,Netflix Subscription,645.71,Dr
+17/10/2023,Flipkart Order,823.03,Dr
+18/10/2023,Zomato Food Delivery,310.61,Dr
+19/10/2023,Airtel Mobile Bill,386.74,Dr
+20/10/2023,Refund Credit,433.53,Cr
+21/10/2023,BigBasket Groceries,2629.4,Dr
+22/10/2023,Reliance Fresh,355.22,Dr
+23/10/2023,ATM Withdrawal,4873.19,Dr
+24/10/2023,Transfer Received,41140.01,Cr
+26/10/2023,Electricity Bill,4784.92,Dr
+26/10/2023,Bonus Credit,32149.83,Cr
+28/10/2023,Online Course,3397.1,Dr
+28/10/2023,Metro Card Recharge,557.36,Dr
+29/10/2023,Myntra Fashion,3114.71,Dr
+30/10/2023,School Fees,10832.79,Dr
+31/10/2023,PVR Cinemas,536.38,Dr
+01/11/2023,Flipkart Order,2587.31,Dr
+02/11/2023,Rental Income,8402.46,Cr
+02/11/2023,Apollo Pharmacy,531.16,Dr
+04/11/2023,Airtel Mobile Bill,736.33,Dr
+04/11/2023,Water Bill,574.28,Dr
+06/11/2023,Ola Cab,490.2,Dr
+07/11/2023,DMart Purchase,3121.17,Dr
+11/11/2023,Amazon Purchase,520.98,Dr
+11/11/2023,Cashback Credit,839.16,Cr
+12/11/2023,Restaurant Dinner,2164.38,Dr
+12/11/2023,Reliance Fresh,1841.13,Dr
+13/11/2023,BookMyShow Tickets,1233.64,Dr
+13/11/2023,Airtel Mobile Bill,802.4,Dr
+15/11/2023,Myntra Fashion,2740.76,Dr
+17/11/2023,Reliance Fresh,1617.94,Dr
+18/11/2023,DMart Purchase,1920.95,Dr
+20/11/2023,Insurance Premium,3627.01,Dr
+20/11/2023,Rental Income,7825.55,Cr
+20/11/2023,BigBasket Groceries,2277.37,Dr
+21/11/2023,Travel Booking,2575.46,Dr
+22/11/2023,PVR Cinemas,301.29,Dr
+23/11/2023,ATM Withdrawal,2265.29,Dr
+24/11/2023,Transfer Received,30032.68,Cr
+25/11/2023,Hair Salon,1447.61,Dr
+25/11/2023,Water Bill,758.19,Dr
+27/11/2023,Freelance Payment,21109.93,Cr
+28/11/2023,Water Bill,614.42,Dr
+29/11/2023,Amazon Purchase,7379.39,Dr
+30/11/2023,Myntra Fashion,1618.88,Dr
+30/11/2023,Metro Card Recharge,428.02,Dr
+30/11/2023,Water Bill,238.77,Dr
+03/12/2023,Flipkart Order,2081.02,Dr
+03/12/2023,Coffee Shop,398.86,Dr
+07/12/2023,Netflix Subscription,504.91,Dr
+08/12/2023,Flipkart Order,1951.04,Dr
+10/12/2023,Uber Ride,296.15,Dr
+10/12/2023,School Fees,8568.8,Dr
+11/12/2023,Electricity Bill,3165.64,Dr
+11/12/2023,Insurance Premium,9573.51,Dr
+11/12/2023,Reliance Fresh,807.83,Dr
+12/12/2023,Refund Credit,3081.89,Cr
+12/12/2023,Hotel Stay,9182.29,Dr
+16/12/2023,Reliance Fresh,477.89,Dr
+16/12/2023,DMart Purchase,548.05,Dr
+16/12/2023,Metro Card Recharge,344.54,Dr
+18/12/2023,Insurance Premium,1038.96,Dr
+22/12/2023,Spa & Wellness,2406.16,Dr
+22/12/2023,Jio Recharge,405.91,Dr
+23/12/2023,Metro Card Recharge,804.65,Dr
+24/12/2023,Salary Credit,58613.8,Cr
+25/12/2023,Spotify Premium,119.0,Dr
+25/12/2023,Interest Credit,1784.21,Cr
+26/12/2023,Interest Credit,2364.93,Cr
+26/12/2023,Book Purchase,597.6,Dr
+27/12/2023,Spa & Wellness,2858.39,Dr
+27/12/2023,Freelance Payment,11847.63,Cr
+27/12/2023,Petrol/Diesel,1119.13,Dr
+28/12/2023,Airtel Mobile Bill,498.75,Dr
+30/12/2023,BookMyShow Tickets,290.29,Dr
+31/12/2023,Uber Ride,544.2,Dr
+01/01/2024,Uber Ride,140.95,Dr
+01/01/2024,Uber Ride,503.27,Dr
+02/01/2024,Jio Recharge,260.09,Dr
+02/01/2024,Coffee Shop,205.62,Dr
+02/01/2024,Book Purchase,535.33,Dr
+02/01/2024,Zomato Food Delivery,463.13,Dr
+03/01/2024,Travel Booking,10871.12,Dr
+05/01/2024,BigBasket Groceries,1210.78,Dr
+05/01/2024,Hotel Stay,4197.75,Dr
+05/01/2024,Zomato Food Delivery,361.92,Dr
+05/01/2024,Cashback Credit,852.39,Cr
+05/01/2024,Travel Booking,15957.16,Dr
+08/01/2024,Maintenance Charges,1298.29,Dr
+09/01/2024,Electricity Bill,1256.52,Dr
+09/01/2024,Flipkart Order,4564.21,Dr
+11/01/2024,Netflix Subscription,420.86,Dr
+11/01/2024,Bonus Credit,12359.97,Cr
+11/01/2024,Swiggy Order,145.23,Dr
+12/01/2024,Flipkart Order,317.53,Dr
+13/01/2024,Uber Ride,426.09,Dr
+13/01/2024,Swiggy Order,353.97,Dr
+17/01/2024,BookMyShow Tickets,832.41,Dr
+20/01/2024,Insurance Premium,7969.46,Dr
+21/01/2024,House Rent,20529.33,Dr
+21/01/2024,Amazon Purchase,4668.14,Dr
+22/01/2024,Netflix Subscription,563.87,Dr
+23/01/2024,Restaurant Dinner,2460.41,Dr
+24/01/2024,Insurance Premium,4555.58,Dr
+24/01/2024,Transfer Received,36788.06,Cr
+25/01/2024,Swiggy Order,599.91,Dr
+28/01/2024,Restaurant Dinner,1545.9,Dr
+28/01/2024,Gym Membership,2283.17,Dr
+30/01/2024,Insurance Premium,1207.34,Dr
+03/02/2024,Zomato Food Delivery,892.41,Dr
+04/02/2024,ATM Withdrawal,2271.98,Dr
+06/02/2024,Metro Card Recharge,745.55,Dr
+07/02/2024,DMart Purchase,1159.65,Dr
+10/02/2024,Book Purchase,220.17,Dr
+11/02/2024,Bonus Credit,6811.53,Cr
+11/02/2024,Interest Credit,1309.33,Cr
+12/02/2024,Coffee Shop,131.56,Dr
+13/02/2024,Salary Credit,70428.21,Cr
+13/02/2024,Restaurant Dinner,1841.14,Dr
+14/02/2024,Maintenance Charges,573.15,Dr
+14/02/2024,Jio Recharge,429.32,Dr
+14/02/2024,Spa & Wellness,1593.79,Dr
+15/02/2024,House Rent,13500.52,Dr
+17/02/2024,House Rent,12165.82,Dr
+18/02/2024,Myntra Fashion,653.34,Dr
+18/02/2024,Uber Ride,204.97,Dr
+21/02/2024,Electricity Bill,2009.44,Dr
+21/02/2024,Zomato Food Delivery,402.67,Dr
+22/02/2024,Coffee Shop,145.37,Dr
+23/02/2024,BigBasket Groceries,2277.62,Dr
+23/02/2024,MedPlus Medical Store,1391.24,Dr
+23/02/2024,DMart Purchase,1606.59,Dr
+25/02/2024,Netflix Subscription,513.17,Dr
+26/02/2024,Online Course,880.0,Dr
+26/02/2024,Hair Salon,406.42,Dr
+26/02/2024,MedPlus Medical Store,1218.06,Dr
+27/02/2024,DMart Purchase,2056.24,Dr
+27/02/2024,Apollo Pharmacy,716.1,Dr
+29/02/2024,Hair Salon,851.11,Dr
+01/03/2024,Spa & Wellness,2488.6,Dr
+04/03/2024,Myntra Fashion,2774.09,Dr
+05/03/2024,Apollo Pharmacy,708.88,Dr
+05/03/2024,BigBasket Groceries,2710.69,Dr
+05/03/2024,Hotel Stay,6489.53,Dr
+05/03/2024,BookMyShow Tickets,1155.91,Dr
+06/03/2024,MedPlus Medical Store,604.89,Dr
+06/03/2024,Swiggy Order,554.05,Dr
+07/03/2024,Jio Recharge,552.57,Dr
+07/03/2024,Electricity Bill,3215.58,Dr
+09/03/2024,School Fees,5508.03,Dr
+10/03/2024,Swiggy Order,468.21,Dr
+11/03/2024,Ola Cab,389.96,Dr
+12/03/2024,Refund Credit,1243.82,Cr
+16/03/2024,ATM Withdrawal,1472.18,Dr
+17/03/2024,Water Bill,636.02,Dr
+17/03/2024,Metro Card Recharge,247.05,Dr
+18/03/2024,Metro Card Recharge,350.33,Dr
+22/03/2024,Interest Credit,1035.27,Cr
+22/03/2024,DMart Purchase,1112.27,Dr
+23/03/2024,Spa & Wellness,2957.76,Dr
+24/03/2024,ATM Withdrawal,3222.88,Dr
+24/03/2024,Metro Card Recharge,980.05,Dr
+25/03/2024,Electricity Bill,1542.29,Dr
+25/03/2024,MedPlus Medical Store,593.63,Dr
+25/03/2024,Salary Credit,86018.44,Cr
+26/03/2024,Interest Credit,1168.98,Cr
+28/03/2024,Spa & Wellness,2918.24,Dr
+30/03/2024,Electricity Bill,1622.01,Dr
+30/03/2024,Insurance Premium,8564.11,Dr
+31/03/2024,Metro Card Recharge,617.18,Dr
+31/03/2024,Reliance Fresh,1598.06,Dr
+04/04/2024,Salary Credit,113848.99,Cr
+05/04/2024,Ola Cab,466.19,Dr
+07/04/2024,School Fees,14451.08,Dr
+07/04/2024,Reliance Fresh,847.74,Dr
+07/04/2024,Metro Card Recharge,749.41,Dr
+10/04/2024,Insurance Premium,6112.44,Dr
+11/04/2024,Freelance Payment,14005.92,Cr
+11/04/2024,Salary Credit,42108.31,Cr
+12/04/2024,Refund Credit,2184.37,Cr
+13/04/2024,Book Purchase,457.75,Dr
+14/04/2024,House Rent,15540.03,Dr
+16/04/2024,PVR Cinemas,381.46,Dr
+16/04/2024,Restaurant Dinner,1770.06,Dr
+17/04/2024,Flipkart Order,469.42,Dr
+19/04/2024,School Fees,6792.32,Dr
+19/04/2024,MedPlus Medical Store,229.71,Dr
+20/04/2024,Hotel Stay,6979.71,Dr
+20/04/2024,House Rent,28278.18,Dr
+23/04/2024,Water Bill,600.15,Dr
+23/04/2024,Zomato Food Delivery,329.94,Dr
+25/04/2024,Airtel Mobile Bill,596.52,Dr
+26/04/2024,Book Purchase,1438.96,Dr
+27/04/2024,Netflix Subscription,606.95,Dr
+28/04/2024,Insurance Premium,8600.46,Dr
+29/04/2024,Metro Card Recharge,206.29,Dr
+29/04/2024,Travel Booking,8930.88,Dr
+29/04/2024,Rental Income,13593.3,Cr
+29/04/2024,Water Bill,210.7,Dr
+02/05/2024,PVR Cinemas,571.38,Dr
+02/05/2024,Salary Credit,62456.01,Cr
+03/05/2024,Ola Cab,421.52,Dr
+03/05/2024,Zomato Food Delivery,448.91,Dr
+03/05/2024,Freelance Payment,11886.49,Cr
+03/05/2024,BigBasket Groceries,916.59,Dr
+05/05/2024,Metro Card Recharge,447.41,Dr
+05/05/2024,Coffee Shop,238.94,Dr
+07/05/2024,Airtel Mobile Bill,889.89,Dr
+07/05/2024,Spa & Wellness,2940.87,Dr
+07/05/2024,Cashback Credit,227.68,Cr
+07/05/2024,Insurance Premium,2803.16,Dr
+09/05/2024,Airtel Mobile Bill,807.56,Dr
+09/05/2024,Travel Booking,7620.31,Dr
+09/05/2024,Amazon Purchase,2827.1,Dr
+10/05/2024,BigBasket Groceries,666.69,Dr
+11/05/2024,PVR Cinemas,632.23,Dr
+15/05/2024,BookMyShow Tickets,1310.77,Dr
+15/05/2024,Electricity Bill,2139.21,Dr
+16/05/2024,Bonus Credit,27187.26,Cr
+16/05/2024,Refund Credit,918.64,Cr
+16/05/2024,ATM Withdrawal,535.74,Dr
+17/05/2024,Hotel Stay,5084.64,Dr
+18/05/2024,Zomato Food Delivery,257.34,Dr
+19/05/2024,Myntra Fashion,1770.49,Dr
+20/05/2024,Spa & Wellness,1650.51,Dr
+21/05/2024,Freelance Payment,18286.75,Cr
+21/05/2024,Hair Salon,232.05,Dr
+22/05/2024,Airtel Mobile Bill,713.77,Dr
+26/05/2024,House Rent,14837.73,Dr
+29/05/2024,Maintenance Charges,669.88,Dr
+01/06/2024,Travel Booking,19418.3,Dr
+02/06/2024,Bonus Credit,35041.39,Cr
+02/06/2024,Water Bill,562.33,Dr
+03/06/2024,Swiggy Order,679.42,Dr
+06/06/2024,Netflix Subscription,349.03,Dr
+09/06/2024,MedPlus Medical Store,656.33,Dr
+10/06/2024,Freelance Payment,18544.48,Cr
+14/06/2024,Zomato Food Delivery,649.14,Dr
+15/06/2024,Maintenance Charges,809.53,Dr
+16/06/2024,Petrol/Diesel,3897.53,Dr
+17/06/2024,Online Course,4366.77,Dr
+18/06/2024,Bonus Credit,17683.04,Cr
+18/06/2024,Ola Cab,121.29,Dr
+19/06/2024,Insurance Premium,5919.58,Dr
+20/06/2024,House Rent,26645.75,Dr
+20/06/2024,Zomato Food Delivery,768.53,Dr
+21/06/2024,PVR Cinemas,666.49,Dr
+22/06/2024,Uber Ride,255.78,Dr
+23/06/2024,Gym Membership,1533.95,Dr
+23/06/2024,MedPlus Medical Store,1026.19,Dr
+24/06/2024,DMart Purchase,1364.93,Dr
+24/06/2024,Netflix Subscription,488.6,Dr
+26/06/2024,Spotify Premium,119.0,Dr
+27/06/2024,Refund Credit,4062.09,Cr
+27/06/2024,Transfer Received,5119.27,Cr
+28/06/2024,Restaurant Dinner,1337.67,Dr
+28/06/2024,Hair Salon,1183.99,Dr
+28/06/2024,Cashback Credit,572.62,Cr
+01/07/2024,School Fees,5602.89,Dr
+01/07/2024,Travel Booking,12877.21,Dr
+01/07/2024,Amazon Purchase,365.42,Dr
+03/07/2024,Netflix Subscription,260.96,Dr
+03/07/2024,Netflix Subscription,541.86,Dr
+04/07/2024,Coffee Shop,373.58,Dr
+05/07/2024,BookMyShow Tickets,1128.78,Dr
+10/07/2024,Reliance Fresh,1273.5,Dr
+12/07/2024,Bonus Credit,40535.14,Cr
+13/07/2024,Coffee Shop,229.56,Dr
+13/07/2024,Transfer Received,24288.15,Cr
+14/07/2024,Myntra Fashion,1992.06,Dr
+15/07/2024,Spa & Wellness,1677.73,Dr
+15/07/2024,Zomato Food Delivery,893.72,Dr
+15/07/2024,Dividend Credit,11798.75,Cr
+15/07/2024,Gym Membership,2064.85,Dr
+16/07/2024,Gym Membership,2225.8,Dr
+16/07/2024,Flipkart Order,5990.91,Dr
+16/07/2024,Maintenance Charges,1500.86,Dr
+19/07/2024,Spa & Wellness,1796.55,Dr
+19/07/2024,Uber Ride,381.35,Dr
+19/07/2024,Spa & Wellness,818.06,Dr
+22/07/2024,Spotify Premium,119.0,Dr
+22/07/2024,Electricity Bill,4468.21,Dr
+23/07/2024,Airtel Mobile Bill,965.05,Dr
+24/07/2024,Petrol/Diesel,653.79,Dr
+24/07/2024,Rental Income,24895.43,Cr
+26/07/2024,MedPlus Medical Store,603.17,Dr
+27/07/2024,Travel Booking,19430.92,Dr
+27/07/2024,Maintenance Charges,723.07,Dr
+28/07/2024,Gym Membership,1831.87,Dr
+29/07/2024,School Fees,5678.03,Dr
+29/07/2024,Reliance Fresh,1229.75,Dr
+31/07/2024,Reliance Fresh,1808.65,Dr
+31/07/2024,House Rent,10603.72,Dr
+31/07/2024,Reliance Fresh,270.84,Dr
+03/08/2024,Airtel Mobile Bill,779.93,Dr
+03/08/2024,Hair Salon,293.52,Dr
+03/08/2024,Metro Card Recharge,208.82,Dr
+07/08/2024,Spotify Premium,119.0,Dr
+07/08/2024,Bonus Credit,39573.71,Cr
+08/08/2024,Spa & Wellness,2520.87,Dr
+08/08/2024,Netflix Subscription,366.03,Dr
+10/08/2024,Reliance Fresh,651.52,Dr
+10/08/2024,Flipkart Order,2812.72,Dr
+10/08/2024,Amazon Purchase,835.75,Dr
+11/08/2024,Insurance Premium,5171.52,Dr
+12/08/2024,Spa & Wellness,2766.98,Dr
+12/08/2024,Hair Salon,647.0,Dr
+13/08/2024,Netflix Subscription,237.2,Dr
+14/08/2024,School Fees,11471.87,Dr
+15/08/2024,Netflix Subscription,149.27,Dr
+16/08/2024,Myntra Fashion,3298.52,Dr
+18/08/2024,Refund Credit,2533.28,Cr
+18/08/2024,Petrol/Diesel,653.67,Dr
+18/08/2024,Freelance Payment,13505.95,Cr
+19/08/2024,Swiggy Order,462.38,Dr
+20/08/2024,BigBasket Groceries,2201.31,Dr
+23/08/2024,Refund Credit,804.49,Cr
+23/08/2024,House Rent,13347.61,Dr
+24/08/2024,Myntra Fashion,3544.51,Dr
+25/08/2024,Jio Recharge,297.87,Dr
+25/08/2024,Spa & Wellness,1590.15,Dr
+26/08/2024,Salary Credit,57386.02,Cr
+28/08/2024,Coffee Shop,96.21,Dr
+30/08/2024,Spa & Wellness,2199.95,Dr
+31/08/2024,Maintenance Charges,2854.85,Dr
+02/09/2024,Restaurant Dinner,2731.61,Dr
+05/09/2024,School Fees,4622.86,Dr
+05/09/2024,Zomato Food Delivery,562.71,Dr
+05/09/2024,House Rent,17767.42,Dr
+06/09/2024,Hair Salon,361.43,Dr
+06/09/2024,Myntra Fashion,2434.98,Dr
+06/09/2024,Spotify Premium,119.0,Dr
+08/09/2024,Myntra Fashion,2158.96,Dr
+08/09/2024,Hotel Stay,8083.47,Dr
+08/09/2024,Airtel Mobile Bill,695.67,Dr
+09/09/2024,Transfer Received,17390.15,Cr
+09/09/2024,ATM Withdrawal,4942.49,Dr
+10/09/2024,Airtel Mobile Bill,644.87,Dr
+10/09/2024,Airtel Mobile Bill,602.04,Dr
+10/09/2024,Spotify Premium,119.0,Dr
+11/09/2024,ATM Withdrawal,1817.08,Dr
+12/09/2024,Cashback Credit,90.5,Cr
+12/09/2024,BigBasket Groceries,3689.79,Dr
+13/09/2024,Hotel Stay,9886.43,Dr
+14/09/2024,Netflix Subscription,437.58,Dr
+15/09/2024,Freelance Payment,10558.95,Cr
+15/09/2024,Jio Recharge,562.69,Dr
+15/09/2024,Rental Income,18758.43,Cr
+16/09/2024,PVR Cinemas,350.69,Dr
+16/09/2024,Travel Booking,16863.09,Dr
+20/09/2024,Amazon Purchase,5654.67,Dr
+21/09/2024,Myntra Fashion,1353.33,Dr
+23/09/2024,Swiggy Order,134.07,Dr
+24/09/2024,Rental Income,20033.59,Cr
+25/09/2024,DMart Purchase,1846.41,Dr
+27/09/2024,ATM Withdrawal,4960.82,Dr
+27/09/2024,Travel Booking,14901.9,Dr
+30/09/2024,PVR Cinemas,774.57,Dr
+03/10/2024,Coffee Shop,185.53,Dr
+03/10/2024,Ola Cab,233.06,Dr
+03/10/2024,Airtel Mobile Bill,794.96,Dr
+03/10/2024,Maintenance Charges,1670.95,Dr
+05/10/2024,Freelance Payment,17993.19,Cr
+05/10/2024,Rental Income,18765.85,Cr
+05/10/2024,Online Course,1308.3,Dr
+06/10/2024,Online Course,2567.91,Dr
+09/10/2024,Airtel Mobile Bill,489.02,Dr
+09/10/2024,School Fees,6926.24,Dr
+10/10/2024,Online Course,1671.09,Dr
+10/10/2024,Cashback Credit,937.13,Cr
+11/10/2024,Restaurant Dinner,2452.23,Dr
+11/10/2024,Dividend Credit,1851.38,Cr
+12/10/2024,Travel Booking,18981.24,Dr
+12/10/2024,Uber Ride,350.85,Dr
+12/10/2024,School Fees,5143.8,Dr
+16/10/2024,Flipkart Order,1785.88,Dr
+17/10/2024,Insurance Premium,9780.41,Dr
+17/10/2024,Metro Card Recharge,249.92,Dr
+17/10/2024,Ola Cab,413.2,Dr
+19/10/2024,Cashback Credit,408.75,Cr
+20/10/2024,Book Purchase,1446.69,Dr
+20/10/2024,Hair Salon,564.21,Dr
+21/10/2024,Hotel Stay,7403.33,Dr
+21/10/2024,Rental Income,22468.69,Cr
+21/10/2024,Hair Salon,493.58,Dr
+22/10/2024,Spotify Premium,119.0,Dr
+22/10/2024,Flipkart Order,4194.93,Dr
+23/10/2024,Restaurant Dinner,1112.49,Dr
+24/10/2024,Coffee Shop,368.48,Dr
+24/10/2024,Coffee Shop,354.68,Dr
+28/10/2024,Refund Credit,2058.73,Cr
+28/10/2024,Apollo Pharmacy,1252.85,Dr
+29/10/2024,Netflix Subscription,275.38,Dr
+01/11/2024,BookMyShow Tickets,309.72,Dr
+03/11/2024,Interest Credit,2116.11,Cr
+03/11/2024,Reliance Fresh,339.98,Dr
+04/11/2024,Jio Recharge,558.5,Dr
+06/11/2024,Ola Cab,163.67,Dr
+07/11/2024,Coffee Shop,491.67,Dr
+08/11/2024,Bonus Credit,46502.3,Cr
+09/11/2024,Water Bill,484.35,Dr
+09/11/2024,House Rent,21554.27,Dr
+09/11/2024,Metro Card Recharge,364.25,Dr
+11/11/2024,Myntra Fashion,3867.85,Dr
+13/11/2024,PVR Cinemas,716.44,Dr
+13/11/2024,Dividend Credit,6364.59,Cr
+14/11/2024,Myntra Fashion,3540.99,Dr
+15/11/2024,MedPlus Medical Store,233.13,Dr
+16/11/2024,Amazon Purchase,5262.5,Dr
+19/11/2024,Book Purchase,762.26,Dr
+20/11/2024,Reliance Fresh,1989.15,Dr
+22/11/2024,Hair Salon,1284.8,Dr
+24/11/2024,DMart Purchase,867.66,Dr
+25/11/2024,Flipkart Order,810.99,Dr
+25/11/2024,Flipkart Order,1886.54,Dr
+27/11/2024,Uber Ride,480.45,Dr
+29/11/2024,School Fees,6486.86,Dr
+29/11/2024,School Fees,13254.65,Dr
+30/11/2024,Flipkart Order,2232.42,Dr
+02/12/2024,Online Course,1727.83,Dr
+03/12/2024,Hair Salon,1486.54,Dr
+03/12/2024,Hair Salon,1493.39,Dr
+04/12/2024,Amazon Purchase,3580.99,Dr
+05/12/2024,Cashback Credit,562.87,Cr
+05/12/2024,Metro Card Recharge,864.58,Dr
+10/12/2024,Coffee Shop,477.24,Dr
+11/12/2024,School Fees,2270.49,Dr
+12/12/2024,Online Course,3334.02,Dr
+12/12/2024,Water Bill,640.33,Dr
+13/12/2024,Travel Booking,16054.44,Dr
+13/12/2024,Coffee Shop,108.38,Dr
+13/12/2024,House Rent,28299.37,Dr
+15/12/2024,Zomato Food Delivery,716.85,Dr
+15/12/2024,Insurance Premium,9101.14,Dr
+15/12/2024,Coffee Shop,327.44,Dr
+16/12/2024,Flipkart Order,1979.77,Dr
+17/12/2024,Transfer Received,22746.82,Cr
+18/12/2024,Airtel Mobile Bill,846.08,Dr
+19/12/2024,MedPlus Medical Store,534.17,Dr
+19/12/2024,Book Purchase,736.82,Dr
+19/12/2024,Gym Membership,1826.82,Dr
+21/12/2024,ATM Withdrawal,3820.03,Dr
+22/12/2024,Swiggy Order,134.93,Dr
+23/12/2024,Water Bill,392.29,Dr
+24/12/2024,Uber Ride,392.3,Dr
+25/12/2024,Travel Booking,7162.75,Dr
+25/12/2024,Swiggy Order,351.47,Dr
+26/12/2024,Uber Ride,82.79,Dr
+27/12/2024,Book Purchase,1347.15,Dr
+29/12/2024,Reliance Fresh,762.94,Dr
+31/12/2024,ATM Withdrawal,2683.4,Dr
+31/12/2024,ATM Withdrawal,4340.4,Dr
+01/01/2025,Ola Cab,350.95,Dr
+01/01/2025,Apollo Pharmacy,942.73,Dr
+02/01/2025,Airtel Mobile Bill,864.89,Dr
+05/01/2025,School Fees,2966.68,Dr
+07/01/2025,School Fees,2520.17,Dr
+07/01/2025,Restaurant Dinner,2733.22,Dr
+08/01/2025,Coffee Shop,417.95,Dr
+09/01/2025,School Fees,6805.19,Dr
+09/01/2025,Myntra Fashion,2990.74,Dr
+10/01/2025,Online Course,1154.27,Dr
+10/01/2025,Hotel Stay,6640.07,Dr
+10/01/2025,Hair Salon,477.45,Dr
+11/01/2025,Jio Recharge,498.28,Dr
+12/01/2025,Rental Income,21466.3,Cr
+12/01/2025,Cashback Credit,895.24,Cr
+13/01/2025,Amazon Purchase,4372.3,Dr
+14/01/2025,Netflix Subscription,360.53,Dr
+14/01/2025,Amazon Purchase,955.72,Dr
+22/01/2025,Metro Card Recharge,955.81,Dr
+22/01/2025,Jio Recharge,308.21,Dr
+23/01/2025,Zomato Food Delivery,623.41,Dr
+23/01/2025,House Rent,17603.55,Dr
+25/01/2025,Freelance Payment,17609.87,Cr
+25/01/2025,ATM Withdrawal,1688.17,Dr
+25/01/2025,Insurance Premium,9906.09,Dr
+26/01/2025,Amazon Purchase,4892.48,Dr
+27/01/2025,Book Purchase,693.19,Dr
+28/01/2025,MedPlus Medical Store,1043.07,Dr
+29/01/2025,Transfer Received,3015.12,Cr
+30/01/2025,BookMyShow Tickets,550.9,Dr
+30/01/2025,Restaurant Dinner,585.62,Dr
+01/02/2025,Hotel Stay,9805.37,Dr
+01/02/2025,Myntra Fashion,625.54,Dr
+02/02/2025,Rental Income,12027.1,Cr
+03/02/2025,Airtel Mobile Bill,747.73,Dr
+05/02/2025,Spa & Wellness,569.94,Dr
+05/02/2025,School Fees,14700.76,Dr
+05/02/2025,Restaurant Dinner,2844.74,Dr
+05/02/2025,Hotel Stay,8470.29,Dr
+05/02/2025,Zomato Food Delivery,840.37,Dr
+06/02/2025,BookMyShow Tickets,397.17,Dr
+06/02/2025,Water Bill,573.15,Dr
+07/02/2025,DMart Purchase,2766.51,Dr
+09/02/2025,Maintenance Charges,1466.88,Dr
+11/02/2025,Petrol/Diesel,1390.85,Dr
+11/02/2025,MedPlus Medical Store,612.0,Dr
+11/02/2025,School Fees,11117.39,Dr
+12/02/2025,PVR Cinemas,773.81,Dr
+12/02/2025,Electricity Bill,4484.0,Dr
+13/02/2025,Ola Cab,180.98,Dr
+16/02/2025,Netflix Subscription,611.43,Dr
+17/02/2025,PVR Cinemas,571.84,Dr
+20/02/2025,Spa & Wellness,605.58,Dr
+20/02/2025,Bonus Credit,13010.49,Cr
+20/02/2025,DMart Purchase,2704.23,Dr
+20/02/2025,ATM Withdrawal,4848.12,Dr
+21/02/2025,Online Course,2152.32,Dr
+21/02/2025,Gym Membership,2240.05,Dr
+21/02/2025,Uber Ride,230.86,Dr
+22/02/2025,Restaurant Dinner,2356.4,Dr
+24/02/2025,Gym Membership,646.11,Dr
+25/02/2025,DMart Purchase,397.08,Dr
+25/02/2025,Metro Card Recharge,507.73,Dr
+26/02/2025,DMart Purchase,1911.17,Dr
+28/02/2025,MedPlus Medical Store,424.14,Dr
+01/03/2025,Apollo Pharmacy,653.1,Dr
+02/03/2025,Reliance Fresh,1802.11,Dr
+04/03/2025,BigBasket Groceries,3844.66,Dr
+05/03/2025,Jio Recharge,507.51,Dr
+07/03/2025,Amazon Purchase,4637.07,Dr
+07/03/2025,Freelance Payment,24817.82,Cr
+09/03/2025,MedPlus Medical Store,1408.41,Dr
+10/03/2025,Reliance Fresh,1645.4,Dr
+10/03/2025,Petrol/Diesel,3285.9,Dr
+10/03/2025,Electricity Bill,1669.08,Dr
+11/03/2025,Water Bill,774.95,Dr
+11/03/2025,Bonus Credit,17706.38,Cr
+12/03/2025,Metro Card Recharge,693.55,Dr
+12/03/2025,Coffee Shop,427.99,Dr
+13/03/2025,Salary Credit,48213.08,Cr
+13/03/2025,Gym Membership,2174.68,Dr
+15/03/2025,Gym Membership,1101.78,Dr
+19/03/2025,Spa & Wellness,2091.15,Dr
+19/03/2025,House Rent,27821.95,Dr
+20/03/2025,Uber Ride,578.2,Dr
+20/03/2025,Petrol/Diesel,1999.2,Dr
+21/03/2025,Rental Income,20643.92,Cr
+22/03/2025,Bonus Credit,30609.6,Cr
+23/03/2025,Bonus Credit,10160.72,Cr
+23/03/2025,BookMyShow Tickets,721.98,Dr
+25/03/2025,Insurance Premium,8832.3,Dr
+26/03/2025,Jio Recharge,499.74,Dr
+27/03/2025,Dividend Credit,3281.17,Cr
+30/03/2025,DMart Purchase,1349.5,Dr
+30/03/2025,Gym Membership,845.92,Dr
+02/04/2025,Refund Credit,1318.94,Cr
+04/04/2025,Myntra Fashion,922.11,Dr
+04/04/2025,Transfer Received,7727.27,Cr
+04/04/2025,Transfer Received,45983.69,Cr
+07/04/2025,Amazon Purchase,2078.67,Dr
+08/04/2025,Myntra Fashion,3817.26,Dr
+08/04/2025,Travel Booking,7020.03,Dr
+08/04/2025,Reliance Fresh,556.79,Dr
+09/04/2025,Spa & Wellness,1257.0,Dr
+09/04/2025,Netflix Subscription,176.34,Dr
+12/04/2025,Swiggy Order,791.77,Dr
+13/04/2025,Salary Credit,72599.5,Cr
+13/04/2025,Freelance Payment,14070.49,Cr
+14/04/2025,Flipkart Order,3751.61,Dr
+16/04/2025,Rental Income,16435.3,Cr
+17/04/2025,School Fees,5760.78,Dr
+18/04/2025,Electricity Bill,2540.96,Dr
+18/04/2025,Hotel Stay,8254.16,Dr
+19/04/2025,Maintenance Charges,1901.14,Dr
+20/04/2025,BigBasket Groceries,2645.53,Dr
+22/04/2025,ATM Withdrawal,1045.54,Dr
+22/04/2025,Transfer Received,5885.4,Cr
+23/04/2025,Jio Recharge,393.46,Dr
+23/04/2025,Salary Credit,73990.94,Cr
+24/04/2025,Water Bill,587.63,Dr
+25/04/2025,House Rent,23782.49,Dr
+25/04/2025,Gym Membership,1251.03,Dr
+26/04/2025,Gym Membership,2254.82,Dr
+26/04/2025,Amazon Purchase,4269.76,Dr
+27/04/2025,Freelance Payment,10257.4,Cr
+28/04/2025,Freelance Payment,8590.98,Cr
+29/04/2025,Water Bill,650.33,Dr
+29/04/2025,Swiggy Order,730.13,Dr
+29/04/2025,Salary Credit,52270.03,Cr
+30/04/2025,Dividend Credit,1336.01,Cr
+01/05/2025,Swiggy Order,271.72,Dr
+03/05/2025,Myntra Fashion,2270.25,Dr
+04/05/2025,Amazon Purchase,4059.35,Dr
+05/05/2025,Online Course,4338.1,Dr
+06/05/2025,Spotify Premium,119.0,Dr
+06/05/2025,Amazon Purchase,6811.24,Dr
+07/05/2025,Reliance Fresh,990.46,Dr
+08/05/2025,Coffee Shop,400.39,Dr
+09/05/2025,Maintenance Charges,621.79,Dr
+09/05/2025,Jio Recharge,452.42,Dr
+10/05/2025,Jio Recharge,201.06,Dr
+10/05/2025,Ola Cab,329.24,Dr
+11/05/2025,Book Purchase,917.06,Dr
+12/05/2025,Apollo Pharmacy,206.14,Dr
+12/05/2025,Myntra Fashion,2516.04,Dr
+13/05/2025,School Fees,6131.18,Dr
+14/05/2025,Uber Ride,185.04,Dr
+14/05/2025,ATM Withdrawal,785.8,Dr
+14/05/2025,Coffee Shop,372.71,Dr
+15/05/2025,Restaurant Dinner,1093.21,Dr
+15/05/2025,Spotify Premium,119.0,Dr
+15/05/2025,Maintenance Charges,2394.29,Dr
+15/05/2025,BookMyShow Tickets,723.5,Dr
+18/05/2025,Apollo Pharmacy,874.4,Dr
+18/05/2025,Restaurant Dinner,1964.53,Dr
+19/05/2025,Electricity Bill,4012.23,Dr
+22/05/2025,Transfer Received,17745.5,Cr
+22/05/2025,Travel Booking,9687.31,Dr
+22/05/2025,House Rent,10494.36,Dr
+23/05/2025,Myntra Fashion,586.43,Dr
+23/05/2025,Metro Card Recharge,454.86,Dr
+24/05/2025,Maintenance Charges,2138.41,Dr
+25/05/2025,Restaurant Dinner,1599.34,Dr
+26/05/2025,BigBasket Groceries,3610.59,Dr
+26/05/2025,Dividend Credit,2482.39,Cr
+26/05/2025,Apollo Pharmacy,679.86,Dr
+27/05/2025,DMart Purchase,397.75,Dr
+28/05/2025,Reliance Fresh,1447.12,Dr
+28/05/2025,Refund Credit,4891.31,Cr
+29/05/2025,House Rent,29987.79,Dr
+29/05/2025,Maintenance Charges,1434.9,Dr
+01/06/2025,DMart Purchase,839.68,Dr
+01/06/2025,Airtel Mobile Bill,320.91,Dr
+02/06/2025,Coffee Shop,290.92,Dr
+02/06/2025,Interest Credit,2974.83,Cr
+03/06/2025,Spa & Wellness,2342.7,Dr
+03/06/2025,Spotify Premium,119.0,Dr
+06/06/2025,Hair Salon,225.75,Dr
+07/06/2025,BigBasket Groceries,738.43,Dr
+07/06/2025,Flipkart Order,866.82,Dr
+11/06/2025,Jio Recharge,493.75,Dr
+11/06/2025,Insurance Premium,2718.23,Dr
+11/06/2025,Maintenance Charges,1277.97,Dr
+11/06/2025,DMart Purchase,830.83,Dr
+12/06/2025,Hair Salon,1466.54,Dr
+12/06/2025,Maintenance Charges,1774.02,Dr
+13/06/2025,Apollo Pharmacy,592.28,Dr
+13/06/2025,Metro Card Recharge,858.41,Dr
+13/06/2025,Transfer Received,22653.17,Cr
+14/06/2025,Reliance Fresh,1991.42,Dr
+14/06/2025,Flipkart Order,3174.27,Dr
+15/06/2025,Bonus Credit,42870.31,Cr
+17/06/2025,Online Course,3104.78,Dr
+17/06/2025,Online Course,1227.42,Dr
+17/06/2025,Electricity Bill,4768.03,Dr
+20/06/2025,Interest Credit,636.42,Cr
+20/06/2025,Spa & Wellness,2329.29,Dr
+23/06/2025,Spa & Wellness,2331.38,Dr
+23/06/2025,Water Bill,738.33,Dr
+24/06/2025,Amazon Purchase,5906.8,Dr
+24/06/2025,Coffee Shop,405.67,Dr
+24/06/2025,Refund Credit,515.79,Cr
+26/06/2025,DMart Purchase,3057.65,Dr
+27/06/2025,House Rent,10953.87,Dr
+28/06/2025,Restaurant Dinner,2489.58,Dr
+28/06/2025,Restaurant Dinner,1155.53,Dr
+28/06/2025,Uber Ride,427.21,Dr
+29/06/2025,Salary Credit,100673.68,Cr
+30/06/2025,Hair Salon,225.52,Dr
+30/06/2025,Maintenance Charges,2930.1,Dr
+30/06/2025,Cashback Credit,710.35,Cr
+01/07/2025,DMart Purchase,911.79,Dr
+01/07/2025,Refund Credit,3103.27,Cr
+01/07/2025,BigBasket Groceries,3784.73,Dr
+04/07/2025,Amazon Purchase,505.32,Dr
+07/07/2025,BookMyShow Tickets,553.42,Dr
+08/07/2025,Apollo Pharmacy,1056.5,Dr
+08/07/2025,Apollo Pharmacy,1181.75,Dr
+09/07/2025,BookMyShow Tickets,583.28,Dr
+09/07/2025,Hotel Stay,2987.09,Dr
+10/07/2025,Myntra Fashion,3532.21,Dr
+12/07/2025,Petrol/Diesel,2540.16,Dr
+12/07/2025,Spotify Premium,119.0,Dr
+13/07/2025,Airtel Mobile Bill,364.27,Dr
+14/07/2025,Cashback Credit,963.06,Cr
+16/07/2025,Flipkart Order,1504.79,Dr
+17/07/2025,Ola Cab,342.2,Dr
+18/07/2025,Spa & Wellness,796.28,Dr
+19/07/2025,Gym Membership,2338.3,Dr
+19/07/2025,Amazon Purchase,6775.99,Dr
+20/07/2025,Bonus Credit,27020.36,Cr
+20/07/2025,Online Course,3306.77,Dr
+20/07/2025,Water Bill,296.88,Dr
+20/07/2025,Maintenance Charges,1221.02,Dr
+21/07/2025,Netflix Subscription,621.03,Dr
+21/07/2025,Myntra Fashion,1390.01,Dr
+22/07/2025,Maintenance Charges,1380.53,Dr
+23/07/2025,Airtel Mobile Bill,572.76,Dr
+27/07/2025,Cashback Credit,176.54,Cr
+27/07/2025,Netflix Subscription,327.87,Dr
+28/07/2025,Swiggy Order,793.76,Dr
+01/08/2025,Rental Income,22237.9,Cr
+02/08/2025,Metro Card Recharge,825.92,Dr
+03/08/2025,Coffee Shop,439.42,Dr
+04/08/2025,Flipkart Order,1435.77,Dr
+05/08/2025,Spotify Premium,119.0,Dr
+07/08/2025,Swiggy Order,207.82,Dr
+07/08/2025,Myntra Fashion,3757.34,Dr
+10/08/2025,Interest Credit,2329.45,Cr
+12/08/2025,Spa & Wellness,1725.63,Dr
+13/08/2025,Rental Income,14604.16,Cr
+14/08/2025,Spa & Wellness,601.98,Dr
+14/08/2025,BookMyShow Tickets,518.4,Dr
+14/08/2025,Online Course,4797.69,Dr
+16/08/2025,Hair Salon,590.51,Dr
+17/08/2025,Bonus Credit,37534.78,Cr
+17/08/2025,Book Purchase,642.86,Dr
+19/08/2025,Jio Recharge,350.1,Dr
+20/08/2025,Flipkart Order,5255.92,Dr
+27/08/2025,Online Course,3425.96,Dr
+28/08/2025,Online Course,3819.43,Dr
+28/08/2025,Travel Booking,5082.71,Dr
+28/08/2025,Ola Cab,111.63,Dr
+28/08/2025,Amazon Purchase,664.7,Dr
+29/08/2025,Zomato Food Delivery,258.46,Dr
+30/08/2025,Spotify Premium,119.0,Dr
+31/08/2025,BookMyShow Tickets,204.07,Dr
+01/09/2025,Petrol/Diesel,1127.54,Dr
+01/09/2025,Netflix Subscription,402.34,Dr
+01/09/2025,Zomato Food Delivery,213.82,Dr
+01/09/2025,Book Purchase,979.69,Dr
+02/09/2025,School Fees,3172.89,Dr
+02/09/2025,Reliance Fresh,1508.41,Dr
+02/09/2025,Cashback Credit,86.37,Cr
+04/09/2025,Spotify Premium,119.0,Dr
+06/09/2025,Amazon Purchase,4707.17,Dr
+07/09/2025,Electricity Bill,3837.99,Dr
+08/09/2025,Interest Credit,1648.48,Cr
+09/09/2025,Electricity Bill,3295.66,Dr
+10/09/2025,Online Course,4169.41,Dr
+10/09/2025,Reliance Fresh,1924.32,Dr
+12/09/2025,Online Course,1335.84,Dr
+12/09/2025,Rental Income,12964.89,Cr
+13/09/2025,Netflix Subscription,631.79,Dr
+13/09/2025,DMart Purchase,1350.23,Dr
+13/09/2025,Ola Cab,113.43,Dr
+14/09/2025,Gym Membership,2178.98,Dr
+14/09/2025,Salary Credit,88682.67,Cr
+14/09/2025,MedPlus Medical Store,425.57,Dr
+17/09/2025,Rental Income,6864.22,Cr
+17/09/2025,Hair Salon,987.59,Dr
+18/09/2025,Transfer Received,36682.56,Cr
+19/09/2025,Flipkart Order,5817.78,Dr
+20/09/2025,Netflix Subscription,200.21,Dr
+22/09/2025,PVR Cinemas,751.63,Dr
+25/09/2025,Bonus Credit,15174.29,Cr
+26/09/2025,Ola Cab,292.46,Dr
+26/09/2025,Online Course,2406.24,Dr
+27/09/2025,Dividend Credit,1972.87,Cr
+27/09/2025,Petrol/Diesel,2937.59,Dr
+27/09/2025,Spotify Premium,119.0,Dr
+27/09/2025,Hair Salon,342.2,Dr
+28/09/2025,Transfer Received,18083.8,Cr
+28/09/2025,DMart Purchase,2789.4,Dr
+29/09/2025,Rental Income,19009.11,Cr
+01/10/2025,Insurance Premium,6149.89,Dr
+02/10/2025,Airtel Mobile Bill,931.61,Dr
+03/10/2025,Coffee Shop,263.98,Dr
+03/10/2025,Myntra Fashion,2444.86,Dr
+03/10/2025,Zomato Food Delivery,385.17,Dr
+03/10/2025,Dividend Credit,1729.5,Cr
+04/10/2025,Rental Income,22438.81,Cr
+06/10/2025,Interest Credit,809.14,Cr
+06/10/2025,Electricity Bill,2442.99,Dr
+08/10/2025,PVR Cinemas,556.26,Dr
+08/10/2025,BookMyShow Tickets,1057.79,Dr
+09/10/2025,School Fees,13132.39,Dr
+10/10/2025,Coffee Shop,348.0,Dr
+12/10/2025,Water Bill,534.28,Dr
+15/10/2025,Spa & Wellness,1831.19,Dr
+15/10/2025,Salary Credit,51409.8,Cr
+17/10/2025,House Rent,8571.17,Dr
+18/10/2025,Bonus Credit,23955.68,Cr
+19/10/2025,Book Purchase,548.32,Dr
+19/10/2025,Gym Membership,2121.44,Dr
+19/10/2025,Amazon Purchase,6377.73,Dr
+21/10/2025,Hotel Stay,7145.85,Dr
+21/10/2025,Myntra Fashion,1806.57,Dr
+24/10/2025,DMart Purchase,2793.38,Dr
+24/10/2025,Apollo Pharmacy,904.97,Dr
+24/10/2025,Hotel Stay,9406.93,Dr
+25/10/2025,BookMyShow Tickets,1490.32,Dr
+25/10/2025,ATM Withdrawal,1197.67,Dr
+26/10/2025,House Rent,11665.8,Dr
+26/10/2025,Online Course,3051.48,Dr
+27/10/2025,Hotel Stay,4820.31,Dr
+28/10/2025,Interest Credit,559.21,Cr
+28/10/2025,Rental Income,23008.51,Cr
+30/10/2025,Airtel Mobile Bill,983.27,Dr
+30/10/2025,Cashback Credit,806.98,Cr
+31/10/2025,Salary Credit,107326.68,Cr
+01/11/2025,Ola Cab,467.46,Dr
+02/11/2025,Salary Credit,45855.64,Cr
+05/11/2025,Gym Membership,1114.79,Dr
+06/11/2025,Online Course,1725.92,Dr
+08/11/2025,Hotel Stay,5446.27,Dr
+09/11/2025,Hair Salon,555.84,Dr
+09/11/2025,Salary Credit,87484.26,Cr
+11/11/2025,Netflix Subscription,518.59,Dr
+11/11/2025,Reliance Fresh,1375.84,Dr
+12/11/2025,Ola Cab,368.69,Dr
+12/11/2025,Dividend Credit,5561.05,Cr
+12/11/2025,Travel Booking,16102.41,Dr
+13/11/2025,Restaurant Dinner,2536.08,Dr
+13/11/2025,Electricity Bill,4020.26,Dr
+14/11/2025,PVR Cinemas,726.78,Dr
+14/11/2025,Insurance Premium,9099.21,Dr
+15/11/2025,Online Course,4484.24,Dr
+15/11/2025,Jio Recharge,348.47,Dr
+17/11/2025,Hair Salon,354.6,Dr
+17/11/2025,Amazon Purchase,5616.87,Dr
+17/11/2025,Coffee Shop,158.94,Dr
+21/11/2025,ATM Withdrawal,1312.7,Dr
+21/11/2025,School Fees,14606.45,Dr
+23/11/2025,Cashback Credit,179.58,Cr
+26/11/2025,Travel Booking,17193.18,Dr
+27/11/2025,Petrol/Diesel,2310.4,Dr
+28/11/2025,Uber Ride,321.93,Dr
+28/11/2025,Metro Card Recharge,573.87,Dr
+29/11/2025,Water Bill,595.49,Dr
+30/11/2025,Restaurant Dinner,1445.21,Dr
+30/11/2025,BigBasket Groceries,3170.27,Dr
+01/12/2025,Electricity Bill,1619.1,Dr
+02/12/2025,ATM Withdrawal,1448.46,Dr
+05/12/2025,Metro Card Recharge,682.39,Dr
+06/12/2025,Reliance Fresh,872.64,Dr
+06/12/2025,Maintenance Charges,2015.43,Dr
+07/12/2025,House Rent,11788.56,Dr
+07/12/2025,Ola Cab,302.44,Dr
+08/12/2025,Travel Booking,16235.93,Dr
+09/12/2025,Salary Credit,69492.18,Cr
+10/12/2025,Gym Membership,868.16,Dr
+11/12/2025,DMart Purchase,985.65,Dr
+11/12/2025,Apollo Pharmacy,521.37,Dr
+11/12/2025,Apollo Pharmacy,663.09,Dr
+11/12/2025,Myntra Fashion,3213.4,Dr
+12/12/2025,ATM Withdrawal,3660.19,Dr
+12/12/2025,Jio Recharge,434.54,Dr
+13/12/2025,ATM Withdrawal,2835.25,Dr
+14/12/2025,Hair Salon,1122.77,Dr
+15/12/2025,Hotel Stay,2213.75,Dr
+16/12/2025,Hair Salon,1056.96,Dr
+17/12/2025,Uber Ride,395.83,Dr
+18/12/2025,BookMyShow Tickets,311.82,Dr
+19/12/2025,Myntra Fashion,1937.52,Dr
+21/12/2025,Online Course,2560.49,Dr
+21/12/2025,Hotel Stay,8615.72,Dr
+22/12/2025,Gym Membership,733.68,Dr
+22/12/2025,Spotify Premium,119.0,Dr
+22/12/2025,Zomato Food Delivery,209.43,Dr
+24/12/2025,Coffee Shop,280.28,Dr
+25/12/2025,Zomato Food Delivery,334.47,Dr
+26/12/2025,Ola Cab,428.06,Dr
+26/12/2025,Coffee Shop,85.84,Dr
+27/12/2025,Online Course,3293.9,Dr
+27/12/2025,School Fees,14150.27,Dr
+27/12/2025,ATM Withdrawal,4473.96,Dr
+28/12/2025,Coffee Shop,327.34,Dr
+28/12/2025,Uber Ride,412.6,Dr
+30/12/2025,MedPlus Medical Store,1491.8,Dr
