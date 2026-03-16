@@ -22,6 +22,7 @@ import io
 import base64
 import asyncio
 import datetime
+import pandas as pd
 
 # ── Windows UTF-8 stdout ──────────────────────────────────────────────────────
 if hasattr(sys.stdout, "reconfigure"):
@@ -56,6 +57,7 @@ from data_processing import (
     day_of_week_spending,
     CATEGORIES,
 )
+from data_loader import _COL_ALIASES, _SPLIT_AMOUNT_PAIRS
 
 # ── Serve static assets ───────────────────────────────────────────────────────
 _STATIC_DIR = os.path.join(ROOT_DIR, "static")
@@ -100,20 +102,39 @@ def _chart(fig) -> None:
 
 def _build_upload_dialog() -> ui.dialog:
     with ui.dialog() as dlg, ui.card().classes("mm-dialog-card").style(
-        "min-width:420px; max-width:520px;"
+        "min-width:460px; max-width:620px;"
     ):
         ui.label("Upload CSV").style(
-            "font-size:1.05rem; font-weight:700; color:var(--mm-text);"
+            "font-size:1.15rem; font-weight:700; color:var(--mm-text);"
         )
-        ui.label(
-            "Only date + amount are required. "
-            "All other columns are auto-detected."
-        ).style("font-size:0.80rem; color:var(--mm-text-mut); margin-top:4px;")
+        ui.label("Upload your file, verify required fields, then generate charts.").style(
+            "font-size:0.82rem; color:var(--mm-text-mut); margin-top:4px;"
+        )
 
         ui.separator().style("margin:12px 0; background:var(--mm-border);")
 
-        # Status row: animated spinner + message text
-        with ui.row().classes("items-center").style("gap:8px; min-height:26px;"):
+        with ui.element("div").classes("w-full").style(
+            "background:var(--mm-surface2); border:1px solid var(--mm-border);"
+            "border-radius:8px; padding:12px;"
+        ):
+            ui.label("Required to generate charts").style(
+                "font-size:0.74rem; font-weight:700; letter-spacing:0.06em;"
+                "text-transform:uppercase; color:var(--mm-text-dim);"
+            )
+            ui.label("1. date (or Transaction Date / Value Date / Txn Date)").style(
+                "font-size:0.80rem; color:var(--mm-text-mut); margin-top:4px;"
+            )
+            ui.label("2. amount (or Transaction Amount / Net Amount)").style(
+                "font-size:0.80rem; color:var(--mm-text-mut);"
+            )
+            ui.label("Tip: Debit + Credit split columns are also supported.").style(
+                "font-size:0.76rem; color:var(--mm-text-dim); margin-top:2px;"
+            )
+
+        ui.separator().style("margin:12px 0; background:var(--mm-border);")
+
+        # Validation status row: spinner + message
+        with ui.row().classes("items-center w-full").style("gap:8px; min-height:26px;"):
             spinner_el = (
                 ui.spinner("dots", size="20px", color="primary")
                 .style("display:none;")
@@ -122,26 +143,72 @@ def _build_upload_dialog() -> ui.dialog:
                 "font-size:0.80rem; color:var(--mm-text-mut);"
             )
 
-        async def _handle_upload(e: events.UploadEventArguments):
-            # Show spinner while parsing CSV
+        # Required fields checklist
+        with ui.element("div").classes("w-full").style(
+            "border:1px solid var(--mm-border); border-radius:8px; padding:12px;"
+            "background:var(--mm-surface);"
+        ):
+            with ui.row().classes("items-center w-full").style("gap:8px; margin-bottom:6px;"):
+                date_icon = ui.icon("radio_button_unchecked").style("color:var(--mm-text-dim);")
+                date_label = ui.label("date column").style("font-size:0.82rem; color:var(--mm-text-mut);")
+
+            with ui.row().classes("items-center w-full").style("gap:8px;"):
+                amount_icon = ui.icon("radio_button_unchecked").style("color:var(--mm-text-dim);")
+                amount_label = ui.label("amount column").style("font-size:0.82rem; color:var(--mm-text-mut);")
+
+        parsed_cols_label = ui.label("").style(
+            "font-size:0.76rem; color:var(--mm-text-dim); margin-top:6px;"
+        )
+
+        state = {
+            "raw": None,
+            "name": "",
+            "valid": False,
+        }
+
+        def _set_check(icon_el, label_el, ok: bool, label_text: str) -> None:
+            if ok:
+                icon_el.props("name=check_circle")
+                icon_el.style(f"color:{C_POSITIVE};")
+                label_el.set_text(f"{label_text} ✓")
+                label_el.style(f"font-size:0.82rem; color:{C_POSITIVE};")
+            else:
+                icon_el.props("name=cancel")
+                icon_el.style(f"color:{C_NEGATIVE};")
+                label_el.set_text(f"{label_text} missing")
+                label_el.style(f"font-size:0.82rem; color:{C_NEGATIVE};")
+
+        def _normalize_columns(cols: list[str]) -> set[str]:
+            return {str(c).strip().lower() for c in cols if str(c).strip()}
+
+        def _has_date_column(cols: set[str]) -> bool:
+            return ("date" in cols) or any(a in cols for a in _COL_ALIASES["date"])
+
+        def _has_amount_column(cols: set[str]) -> bool:
+            if ("amount" in cols) or any(a in cols for a in _COL_ALIASES["amount"]):
+                return True
+            for debit_col, credit_col in _SPLIT_AMOUNT_PAIRS:
+                if debit_col in cols and credit_col in cols:
+                    return True
+            return False
+
+        async def _generate_charts():
+            if not state["raw"]:
+                ui.notify("Please upload a CSV file first.", type="warning", position="top-right")
+                return
+            if not state["valid"]:
+                ui.notify("Required fields are missing. Please fix your CSV.", type="negative", position="top-right")
+                return
+
             spinner_el.style("display:inline-block;")
-            status_label.set_text("Processing file…")
+            status_label.set_text("Generating charts…")
             status_label.style("color:var(--mm-text-mut);")
+            generate_btn.disable()
 
             loop = asyncio.get_event_loop()
-            raw  = await e.file.read()
-            ok, msg = await loop.run_in_executor(None, replace_data, raw)
+            ok, msg = await loop.run_in_executor(None, replace_data, state["raw"])
 
             if ok:
-                spinner_el.style("display:none;")
-                status_label.set_text(f"✓  {msg}")
-                status_label.style(f"color:{C_POSITIVE};")
-
-                # Close dialog right away — no more waiting
-                await asyncio.sleep(0.4)
-                dlg.close()
-
-                # Show persistent spinner toast while charts build
                 notify = ui.notification(
                     "Building charts — please wait…",
                     type="ongoing",
@@ -152,8 +219,8 @@ def _build_upload_dialog() -> ui.dialog:
                 )
 
                 def _build_and_save():
-                    df_new   = load_df()
-                    ins_new  = generate_savings_insights(df_new)
+                    df_new = load_df()
+                    ins_new = generate_savings_insights(df_new)
                     _charts.set_theme(dark=_dark)
                     figs_new = _charts.build_all(df_new, ins_new)
                     try:
@@ -163,16 +230,62 @@ def _build_upload_dialog() -> ui.dialog:
                         print(f"[Charts] Save error: {exc}")
 
                 await loop.run_in_executor(None, _build_and_save)
-
-                # Now refresh the dashboard with freshly-cached data
                 render_dashboard.refresh()
                 notify.dismiss()
-                ui.notify("Charts updated", type="positive",
-                          position="top-right", timeout=2000)
+                spinner_el.style("display:none;")
+                status_label.set_text(f"✓  {msg}")
+                status_label.style(f"color:{C_POSITIVE};")
+                ui.notify("Charts generated", type="positive", position="top-right", timeout=2200)
+                await asyncio.sleep(0.35)
+                dlg.close()
             else:
                 spinner_el.style("display:none;")
                 status_label.set_text(f"✗  {msg}")
                 status_label.style(f"color:{C_NEGATIVE};")
+                generate_btn.enable()
+
+        async def _handle_upload(e: events.UploadEventArguments):
+            spinner_el.style("display:inline-block;")
+            status_label.set_text("Reading file and validating columns…")
+            status_label.style("color:var(--mm-text-mut);")
+
+            try:
+                raw = await e.file.read()
+                state["raw"] = raw
+                state["name"] = getattr(e, "name", "uploaded.csv")
+
+                preview_df = pd.read_csv(io.BytesIO(raw), nrows=5)
+                cols = _normalize_columns(list(preview_df.columns))
+                has_date = _has_date_column(cols)
+                has_amount = _has_amount_column(cols)
+
+                _set_check(date_icon, date_label, has_date, "date column")
+                _set_check(amount_icon, amount_label, has_amount, "amount column")
+
+                shown_cols = ", ".join(sorted(cols)[:8])
+                extra = " ..." if len(cols) > 8 else ""
+                parsed_cols_label.set_text(f"Detected columns: {shown_cols}{extra}")
+
+                state["valid"] = bool(has_date and has_amount)
+                if state["valid"]:
+                    status_label.set_text("✓  All required fields detected. Click Generate Charts.")
+                    status_label.style(f"color:{C_POSITIVE};")
+                    generate_btn.enable()
+                else:
+                    status_label.set_text("✗  Missing required fields. Please upload a valid CSV.")
+                    status_label.style(f"color:{C_NEGATIVE};")
+                    generate_btn.disable()
+            except Exception as exc:
+                state["raw"] = None
+                state["valid"] = False
+                _set_check(date_icon, date_label, False, "date column")
+                _set_check(amount_icon, amount_label, False, "amount column")
+                parsed_cols_label.set_text("")
+                status_label.set_text(f"✗  Could not read CSV: {exc}")
+                status_label.style(f"color:{C_NEGATIVE};")
+                generate_btn.disable()
+            finally:
+                spinner_el.style("display:none;")
 
         (ui.upload(label="Choose CSV file", on_upload=_handle_upload, auto_upload=True)
            .props("accept=.csv flat bordered")
@@ -180,9 +293,16 @@ def _build_upload_dialog() -> ui.dialog:
            .style("font-size:0.82rem;"))
 
         ui.separator().style("margin:12px 0; background:var(--mm-border);")
-        (ui.button("Cancel", on_click=dlg.close)
-           .props("flat no-caps dense")
-           .style("color:var(--mm-text-mut); font-size:0.80rem;"))
+        with ui.row().classes("w-full justify-between items-center"):
+            (ui.button("Cancel", on_click=dlg.close)
+               .props("flat no-caps dense")
+               .style("color:var(--mm-text-mut); font-size:0.80rem;"))
+            generate_btn = (
+                ui.button("Generate Charts", on_click=_generate_charts)
+                .props("unelevated no-caps dense color=primary")
+                .style("font-size:0.80rem; padding:0 16px; height:34px;")
+            )
+            generate_btn.disable()
     return dlg
 
 
@@ -391,6 +511,12 @@ def render_dashboard() -> None:
                     _chart(figs["spending_pie"])
                 with chart_card("Top Expense Categories"):
                     _chart(figs["top_categories"])
+            ui.element("div").style("height:16px;")
+            with ui.row().classes("w-full gap-4"):
+                with chart_card("Monthly Income vs Expenses"):
+                    _chart(figs["monthly_trend"])
+                with chart_card("Cumulative Account Balance"):
+                    _chart(figs["cumulative_balance"])
 
         # ── Trends ────────────────────────────────────────────────────────────
         with ui.tab_panel(t_trends).style("padding:0;"):
@@ -545,7 +671,7 @@ def index() -> None:
             with ui.row().classes("items-center gap-4 no-wrap"):
                 ui.html(f'''
                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26"
-                     fill="{C_ACCENT}" viewBox="0 0 16 16">
+                                         fill="currentColor" style="color:var(--q-primary);" viewBox="0 0 16 16">
                   <path d="M7.964 1.527c-2.977 0-5.571 1.704-6.32 4.125h-.55A1 1 0 0 0
                     .11 6.824l.254 1.46a1.5 1.5 0 0 0 1.478 1.243h.263c.3.513.688.978
                     1.145 1.382l-.729 2.477a.5.5 0 0 0 .48.641h2a.5.5 0 0 0
